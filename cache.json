@@ -1,458 +1,647 @@
 {
   "sources": [
     {
-      "href": "https://css-tricks.com/feed/",
+      "href": "https://hnrss.org/frontpage",
       "articles": [
         {
-          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
-          "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 590,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "16px or Larger Text Prevents iOS Form Zoom"
+          "description": "Article URL: https://www.exim.org/static/doc/security/CVE-2020-qualys/21nails.txt\nComments URL: https://news.ycombinator.com/item?id=27043584\nPoints: 14\n# Comments: 4",
+          "link": "https://www.exim.org/static/doc/security/CVE-2020-qualys/21nails.txt",
+          "publishedOn": "2021-05-04T22:20:22.000Z",
+          "wordCount": 9635,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "21Nails: Multiple Critical Vulnerabilities in Exim Mail Server"
         },
         {
-          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
-          "publishedOn": "2021-05-04T21:15:57.000Z",
-          "wordCount": 450,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
+          "description": "Article URL: https://blog.drewolson.org/declarative-validation\nComments URL: https://news.ycombinator.com/item?id=27043574\nPoints: 15\n# Comments: 2",
+          "link": "https://blog.drewolson.org/declarative-validation",
+          "publishedOn": "2021-05-04T22:19:17.000Z",
+          "wordCount": 1459,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Declarative Validation in Python"
         },
         {
-          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
-          "publishedOn": "2021-05-04T14:19:55.000Z",
-          "wordCount": 861,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Let’s use (X, X, X, X) for talking about specificity"
+          "description": "Article URL: https://jcs.org/2021/04/23/wifistation\nComments URL: https://news.ycombinator.com/item?id=27043352\nPoints: 12\n# Comments: 0",
+          "link": "https://jcs.org/2021/04/23/wifistation",
+          "publishedOn": "2021-05-04T21:53:18.000Z",
+          "wordCount": 1526,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "WiFiStation: A WiFi Interface for the Cidco MailStation"
         },
         {
-          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
-          "publishedOn": "2021-05-04T14:19:48.000Z",
-          "wordCount": 1279,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Creating Colorful, Smart Shadows"
+          "description": "Article URL: https://github.com/facebookincubator/cinder\nComments URL: https://news.ycombinator.com/item?id=27043217\nPoints: 150\n# Comments: 53",
+          "link": "https://github.com/facebookincubator/cinder",
+          "publishedOn": "2021-05-04T21:38:14.000Z",
+          "wordCount": 2663,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Cinder: Instagram's performance-oriented fork of CPython"
         },
         {
-          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-8-css/",
-          "publishedOn": "2021-05-03T21:52:08.000Z",
-          "wordCount": 6465,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Chapter 8: CSS"
+          "description": "Article URL: https://blog.neotree.uber.space/posts/kolmogorov-complexity\nComments URL: https://news.ycombinator.com/item?id=27043153\nPoints: 22\n# Comments: 0",
+          "link": "https://blog.neotree.uber.space/posts/kolmogorov-complexity",
+          "publishedOn": "2021-05-04T21:32:37.000Z",
+          "wordCount": 978,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Kolmogorov Complexity: Extensions and Applications"
         },
         {
-          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
-          "publishedOn": "2021-05-03T14:35:07.000Z",
-          "wordCount": 908,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Swipey Image Grids"
+          "description": "Article URL: https://compose-web.ui.pages.jetbrains.team/\nComments URL: https://news.ycombinator.com/item?id=27043067\nPoints: 15\n# Comments: 1",
+          "link": "https://compose-web.ui.pages.jetbrains.team/",
+          "publishedOn": "2021-05-04T21:23:30.000Z",
+          "wordCount": 15,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Compose for Web"
         },
         {
-          "description": "I&#8217;m willing to bet you know WebPageTest. It is the premier tool in the toolbox of web performance people. Maybe you didn&#8217;t know that WebPageTest was a side project of one fella, Patrick Meenan, for most of its lifetime, &#8230;\nThe post WebPageTest API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/webpagetest-api/",
-          "publishedOn": "2021-05-03T14:34:53.000Z",
-          "wordCount": 8905,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "WebPageTest API"
+          "description": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead\nComments URL: https://news.ycombinator.com/item?id=27042841\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead",
+          "publishedOn": "2021-05-04T21:00:47.000Z",
+          "wordCount": 668,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "TrueVault (YC W14) is hiring an engineering lead to lead new privacy product"
         },
         {
-          "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
-          "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 785,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Safari 14.1 Adds Support for Flexbox Gaps"
+          "description": "Article URL: https://neal.fun/logos-from-memory/\nComments URL: https://news.ycombinator.com/item?id=27042786\nPoints: 6\n# Comments: 1",
+          "link": "https://neal.fun/logos-from-memory/",
+          "publishedOn": "2021-05-04T20:56:20.000Z",
+          "wordCount": 9,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Draw Logos from Memory"
         },
         {
-          "description": "Jim Nielsen quoting Eric Bailey:\nHe references an example on Twitter where someone noted you can use the &#60;details&#62; element to “create a native HTML accordion,” to which someone responded: “this works without Bootstrap? &#x1f92f;”\nWhat’s the problem here? From \n&#8230;\nThe post Web Languages as Compile Targets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/web-languages-as-compile-targets/",
-          "publishedOn": "2021-04-30T18:05:37.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Web Languages as Compile Targets"
+          "description": "Article URL: https://github.com/rastapasta/mapscii\nComments URL: https://news.ycombinator.com/item?id=27042629\nPoints: 60\n# Comments: 11",
+          "link": "https://github.com/rastapasta/mapscii",
+          "publishedOn": "2021-05-04T20:40:58.000Z",
+          "wordCount": 1291,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "MapSCII – The Whole World in Your Console"
         },
         {
-          "description": "Jenny B Kowalski has been posting a-letter-a-day on Instagram exploring multi-axis variable/responsive letterforms. They are very clever in that one of the axes controls an uppercase-to-lowercase conversion, literally morphing the shape of the letters from an uppercase version to a &#8230;\nThe post Jenny B Kowalski&#8217;s A-Z (and a-z) as Variable Letterforms appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jenny-b-kowalskis-a-z-and-a-z-as-variable-letterforms/",
-          "publishedOn": "2021-04-30T16:02:53.000Z",
-          "wordCount": 422,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jenny B Kowalski’s A-Z (and a-z) as Variable Letterforms"
+          "description": "Article URL: https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li\nComments URL: https://news.ycombinator.com/item?id=27042568\nPoints: 44\n# Comments: 10",
+          "link": "https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li",
+          "publishedOn": "2021-05-04T20:35:48.000Z",
+          "wordCount": 468,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)"
         },
         {
-          "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
-          "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 2196,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "You Can Label a JavaScript `if` Statement"
+          "description": "Article URL: https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/\nComments URL: https://news.ycombinator.com/item?id=27042151\nPoints: 187\n# Comments: 135",
+          "link": "https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/",
+          "publishedOn": "2021-05-04T19:56:44.000Z",
+          "wordCount": 935,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Multitasking hurts performance and may even damage the brain (2018)"
         },
         {
-          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sending-large-files/",
-          "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1669,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Sending Large Files"
+          "description": "Article URL: https://github.com/rururu/sail-pro\nComments URL: https://news.ycombinator.com/item?id=27041679\nPoints: 57\n# Comments: 5",
+          "link": "https://github.com/rururu/sail-pro",
+          "publishedOn": "2021-05-04T19:15:59.000Z",
+          "wordCount": 881,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Sail-pro – Simulation and modelling environment for virtual sailing"
         },
         {
-          "description": "Raygun is an error and performance monitoring software for websites and mobile apps. In the case of websites, you install their JavaScript snippet onto your site, which takes 2 seconds, and now you&#8217;ve got monitoring in place. Why? Well now &#8230;\nThe post How to Monitor Core Web Vitals and Take Action with Raygun appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-monitor-core-web-vitals-and-take-action-with-raygun/",
-          "publishedOn": "2021-04-29T17:50:39.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Monitor Core Web Vitals and Take Action with Raygun"
+          "description": "Article URL: https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/\nComments URL: https://news.ycombinator.com/item?id=27041508\nPoints: 136\n# Comments: 69",
+          "link": "https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/",
+          "publishedOn": "2021-05-04T19:03:17.000Z",
+          "wordCount": 1147,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Flipped an element in an old lens and got 'magic' bokeh (2018)"
         },
         {
-          "description": "Lists—we’ve all worked with them in one form or another. I’m talking about HTML’s &#60;ol&#62; and &#60;ul&#62;. Much of the time, because we desire styling control, we turn off the list’s markers completely with list-style-type: none, and start &#8230;\nThe post List Markers and String Styles appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/list-markers-and-string-styles/",
-          "publishedOn": "2021-04-29T14:32:41.000Z",
-          "wordCount": 1091,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "List Markers and String Styles"
+          "description": "Article URL: https://blog.nuzzel.com/nuzzel-is-going-away-for-now/\nComments URL: https://news.ycombinator.com/item?id=27041281\nPoints: 11\n# Comments: 3",
+          "link": "https://blog.nuzzel.com/nuzzel-is-going-away-for-now/",
+          "publishedOn": "2021-05-04T18:47:46.000Z",
+          "wordCount": 880,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Nuzzel is going away for now"
         },
         {
-          "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/your-team-is-not-them/",
-          "publishedOn": "2021-04-28T19:35:32.000Z",
-          "wordCount": 1922,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Your Team is Not “Them”"
+          "description": "Article URL: https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw\nComments URL: https://news.ycombinator.com/item?id=27041011\nPoints: 45\n# Comments: 52",
+          "link": "https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw",
+          "publishedOn": "2021-05-04T18:31:26.000Z",
+          "wordCount": 1635,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "D(?)A(?)O – Decentralization and Autonomy in “DAOs”"
+        },
+        {
+          "description": "Article URL: https://jmw.name/projects/linear-clock/\nComments URL: https://news.ycombinator.com/item?id=27040791\nPoints: 48\n# Comments: 16",
+          "link": "https://jmw.name/projects/linear-clock/",
+          "publishedOn": "2021-05-04T18:17:11.000Z",
+          "wordCount": 2033,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Linear Clock: Solar"
+        },
+        {
+          "description": "Article URL: https://theintercept.com/2021/05/03/car-surveillance-berla-msab-cbp/\nComments URL: https://news.ycombinator.com/item?id=27039540\nPoints: 204\n# Comments: 181",
+          "link": "https://theintercept.com/2021/05/03/car-surveillance-berla-msab-cbp/",
+          "publishedOn": "2021-05-04T16:39:31.000Z",
+          "wordCount": 1936,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "A CBP contract shows the risks in connecting your vehicle and your smartphone"
+        },
+        {
+          "description": "Article URL: https://mattnakama.com/blog/go-branchless-coding/\nComments URL: https://news.ycombinator.com/item?id=27038606\nPoints: 54\n# Comments: 8",
+          "link": "https://mattnakama.com/blog/go-branchless-coding/",
+          "publishedOn": "2021-05-04T15:26:53.000Z",
+          "wordCount": 2705,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Branchless Coding in Go"
+        },
+        {
+          "description": "Article URL: https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/\nComments URL: https://news.ycombinator.com/item?id=27038441\nPoints: 115\n# Comments: 18",
+          "link": "https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/",
+          "publishedOn": "2021-05-04T15:10:51.000Z",
+          "wordCount": 2198,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Dell patches 12-year-old driver vulnerability impacting millions of PCs"
+        },
+        {
+          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-56978344\nComments URL: https://news.ycombinator.com/item?id=27037667\nPoints: 241\n# Comments: 203",
+          "link": "https://www.bbc.co.uk/news/world-europe-56978344",
+          "publishedOn": "2021-05-04T14:01:06.000Z",
+          "wordCount": 858,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Belgian farmer accidentally moves French border"
         }
       ]
     },
     {
-      "href": "https://www.smashingmagazine.com/feed/",
+      "href": "http://www.elotrolado.net/feed/",
       "articles": [
         {
-          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Guide To Undoing Mistakes With Git"
+          "description": "Antes de ponerse a trabajar en Resident Evil Village, Capcom analizó el feedback de Resident Evil 7: Biohazard y una de sus conclusiones fue que los jugadores lo encontraron demasiado aterrador. Ese era el objetivo de la compañía, así que recibió este tipo de opiniones como un halago, pero en base a la retroalimentación el equipo de desarrollo de Resident Evil Village decidió rebajar las dosis de terror, según explica el productor del juego Tsuyoshi Kanda en una entrevista concedida a Axios Gaming. “Cuando …",
+          "link": "https://www.elotrolado.net/noticias/juegos/resident-evil-village-terror-miedo",
+          "publishedOn": "2021-05-04T22:56:06.000Z",
+          "wordCount": 787,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Capcom reconoce que Resident Evil Village es menos aterrador que Resident Evil 7"
         },
         {
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
+          "description": "Konrad Tomaszkiewicz, director de The Witcher 3, ha dejado CD Projekt Red después de haber sido investigado por un presunto caso de acoso laboral (bullying), según informa Bloomberg (muro de pago). La marcha de Tomaszkiewicz se produce a pesar de que las pesquisas han determinado que no era culpable, pero en su correo de despedida ha reconocido que la gente se sentía incómoda trabajando con él, motivo por el cual ha pedido disculpas. Tomaszkiewicz fue el director de The Witcher 3 así como de las expansiones…",
+          "link": "https://www.elotrolado.net/hilo_el-director-de-the-witcher-3-deja-cd-projekt-red_2421969",
+          "publishedOn": "2021-05-04T19:45:41.000Z",
+          "wordCount": 812,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: El director de The Witcher 3 deja CD Projekt Red"
         },
         {
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "The Evolution Of Jamstack"
+          "description": "Finalmente el clásico Flashback tendrá una secuela numerada que estará disponible durante el 2022, según ha anunciado Microids. La compañía francesa ha revelado muy pocos detalles del juego, pero como mínimo ya sabemos que el proyecto ha entrado en producción y que su desarrollo corre a cargo de un equipo liderado por Paul Cuisset, programador, diseñador, guionista y máximo responsable tanto del primer Flashback (1992) como de la segunda entrega de la saga Fade to Black (1995). El regreso de Conrad B. Hart,…",
+          "link": "https://www.elotrolado.net/noticias/juegos/flashback-2-anunciado",
+          "publishedOn": "2021-05-04T16:21:35.000Z",
+          "wordCount": 673,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Microids anuncia Flashback 2, con Paul Cuisset liderando el proyecto"
         },
         {
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
+          "description": "El editor ININ Games y el desarrollador japonés Studio Artdink han anunciado la fecha de lanzamiento de la versión de Wonder Boy: Asha in Monster World para PlayStation 4 y Nintendo Switch, que se pondrá a la venta en Europa, América del Norte y Australia en formato físico y digital el 28 de mayo. Los jugadores de PC deberán esperar hasta el 29 de junio para adquirir el título en Steam. En Japón, el juego debutó el 22 de abril en consolas. Las ediciones físicas de Wonder Boy: Asha in Monster World para Play…",
+          "link": "https://www.elotrolado.net/noticias/juegos/wonder-boy-asha-in-monster-world-fecha",
+          "publishedOn": "2021-05-04T15:14:54.000Z",
+          "wordCount": 592,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Wonder Boy: Asha in Monster World para PS4 y Switch estará disponible el 28 de mayo y el 29 de junio llegará a Steam"
         },
         {
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5289,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "The Humble `<img>` Element And Core Web Vitals"
+          "description": "El desarrollador Piranha Games y el editor Sold Out han anunciado que MechWarrior 5: Mercenaries recibirá una actualización el 27 de mayo que añadirá soporte para el juego cruzado. Ese mismo día el título estará disponible en Xbox Series, Xbox One, Steam y GOG, así que su jugadores podrán jugar junto a los de la Epic Games Store, donde MechWarrior 5: Mercenaries se puso a la venta en diciembre de 2019. La actualización del 27 de mayo también añadirá numerosas mejoras de calidad de vida, cambios en la campañ…",
+          "link": "https://www.elotrolado.net/hilo_mechwarrior-5-mercenaries-tendra-soporte-para-juego-cruzado-a-partir-del-27-de-mayo_2421936",
+          "publishedOn": "2021-05-04T14:12:35.000Z",
+          "wordCount": 307,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: MechWarrior 5: Mercenaries tendrá soporte para juego cruzado a partir del 27 de mayo"
         },
         {
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2136,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
+          "description": "¿Cuánto pagó Epic Games Store por la exclusiva de un juego como Borderlands 3? Ni más ni menos que 115 millones de dólares a cambio de que el título no pisara Steam hasta pasados seis meses desde su lanzamiento. Son muy pocas las ocasiones en las que trasciende al público información de este calibre y sensibilidad, menos aún apoyada por documentos oficiales, pero el juicio que enfrenta Epic Games y Apple se ha convertido en una mina en la que muchos se animan a picar. El llamado Fully loaded Borderlands 3 D…",
+          "link": "https://www.elotrolado.net/noticias/juegos/epic-games-store-borderlands-3-acuerdo",
+          "publishedOn": "2021-05-04T12:15:12.000Z",
+          "wordCount": 849,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Epic Games pagó 115 millones de dólares por la exclusividad de Borderlands 3"
         },
         {
-          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
-          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Understanding Easing Functions For CSS Animations And Transitions"
+          "description": "El juicio que enfrenta Epic Games y Apple por las supuestas prácticas anticompetitivas de la App Store de iOS solo ha consumido una jornada, pero las declaraciones y los documentos que se han podido escuchar y ver en el tribunal son más que suculentos. Cierto es que hay algo de salseo, pero también mucho material que nos permite arrojar luz a los ingresos anuales de Fortnite, cómo negocian compañías como Sony y Epic Games por el juego cruzado o cuánto cuestan los juegos gratuitos de la Epic Games Store (EGS…",
+          "link": "https://www.elotrolado.net/noticias/juegos/juicio-epic-apple-resumen-fortnite",
+          "publishedOn": "2021-05-04T10:26:07.000Z",
+          "wordCount": 1248,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Epic vs. Apple: ingresos de Fortnite, compensaciones a Sony por el juego cruzado y coste de los juegos gratis de la EGS"
         },
         {
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
+          "description": "Microsoft ha anunciado que más de 70 juegos de Xbox disponibles en Xbox Series mediante el sistema de retrocompatibilidad han recibido soporte para FPS Boost. Gracias a esta expansión, la mencionada función que debutó con solo cinco títulos a los que posteriormente se añadieron algunos trabajos de Bethesda Softworks y Electronic Arts, ya se encuentra presente en 97 juegos. Entre los títulos que han ganado soporte para FPS Boost tenemos a obras como Alien Isolation, varias entregas de Assassin’s Creed, Deus …",
+          "link": "https://www.elotrolado.net/noticias/juegos/xbox-series-fps-boost-mas",
+          "publishedOn": "2021-05-03T22:47:33.000Z",
+          "wordCount": 1085,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Más de 70 juegos añaden soporte para la función FPS Boost de Xbox Series"
         },
         {
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2431,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
+          "description": "Ubisoft ha anunciado que a lo largo del día de hoy pondrá a disposición de los jugadores de Watch Dogs: Legion la “mayor actualización de contenido poslanzamiento”, que pasa por ser una combinación de elementos de pago incluidos en el Pase de Temporada y gratuitos para el modo online. La principal novedad se llama Mina Sidhu, un nuevo personaje con el que se podrá completar la campaña principal y los diferentes desafíos que propone el multijugador en línea. Mina Sidhu es el primer personaje jugable adiciona…",
+          "link": "https://www.elotrolado.net/noticias/juegos/watch-dogs-legion-mina-sidhu",
+          "publishedOn": "2021-05-03T22:12:14.000Z",
+          "wordCount": 827,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Watch Dogs: Legion recibe al personaje adicional Mina Sidhu y añade nuevas misiones cooperativas"
         },
         {
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
+          "description": "Sony Interactive Entertainment y Discord han anunciado una asociación para que el popular servicio de comunicación se integre a principios del próximo años en PlayStation Network. Como parte de este acuerdo, la compañía japonesa también ha realizado una inversión minoritaria en Discord. Esta alianza entre ambas empresas se hace pública pocas semanas después de que Microsoft y Discord pusieran fin a las negociaciones sobre una posible compra por valor de 10.000 millones de dólares. “Juntos, nuestros equipos …",
+          "link": "https://www.elotrolado.net/noticias/consolas/discord-playstation-integracion",
+          "publishedOn": "2021-05-03T17:41:09.000Z",
+          "wordCount": 675,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Sony invierte en Discord e integrará su servicio de comunicación en PlayStation Network"
         },
         {
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
+          "description": "Sony Interactive Entertainment ha revelado los tres juegos que a partir de mañana 4 de mayo se unirán al catálogo de PlayStation Now. Se trata de Streets of Rage 4, Nioh y Jump Force. Además, la compañía ha recordado que recientemente el servicio ha implantado soporte para transmitir el contenido a 1080p en PS4, PS5 y PC, una resolución que se irá desplegando a lo largo de las próximas semanas en Europa, Estados Unidos, Canadá y Japón. Para jugar en streaming a 1080p en PS Now se requiere de una conexión de…",
+          "link": "https://www.elotrolado.net/noticias/juegos/playstation-now-mayo",
+          "publishedOn": "2021-05-03T16:21:47.000Z",
+          "wordCount": 814,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Streets of Rage 4, Nioh y Jump Force se unen a PlayStation Now"
         },
         {
-          "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
-          "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "publishedOn": "2021-04-21T08:30:00.000Z",
-          "wordCount": 2998,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
+          "description": "Riot Games ha anunciado que Arcane, la primera serie animada que se adentra en el universo de la franquicia League of Legends, estará disponible durante este otoño mediante Netflix. No es la primera vez que la plataforma de streaming se convierte en la casa de una serie de animación basada en una saga de videojuegos. Primero fue Castlevania, que llegará a su fin el 13 de mayo con la cuarta temporada, y el 25 de marzo debutó Dota: Sangre de dragón, el único MOBA que por ahora ha plantado cara a League of Leg…",
+          "link": "https://www.elotrolado.net/noticias/internet/league-of-legends-arcane-serie-netflix-trailer",
+          "publishedOn": "2021-05-03T15:16:42.000Z",
+          "wordCount": 795,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Arcane, la primera serie de animación de League of Legends, llegará en otoño a Netflix"
         },
         {
-          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
-          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "publishedOn": "2021-04-20T09:00:00.000Z",
-          "wordCount": 3482,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Making GraphQL Work In WordPress"
+          "description": "Microsoft ha anunciado la lista de juegos que durante la primera quincena de mayo pasarán a formar parte o abandonarán el catálogo de Xbox Game Pass. Al final de la noticia tenéis la lista completa. Además, la compañía ha revelado que los suscriptores de Xbox Game Pass Ultimate tienen disponible una nueva ventaja (Perk) que permite acceder durante cuatro meses a Spotify Premium (para nuevos miembros), pero no queda claro si esta oferta está disponible para los usuarios de España. FIFA 21 será, con casi toda…",
+          "link": "https://www.elotrolado.net/noticias/juegos/xbox-game-pass-mayo-2021",
+          "publishedOn": "2021-05-03T14:37:48.000Z",
+          "wordCount": 929,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Red Dead Online, Final Fantasy X/X-2, FIFA 21, Outlast 2 y más se unirán a Xbox Game Pass"
         },
         {
-          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7206,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "An In-Depth Guide To Measuring Core Web Vitals"
+          "description": "“Los foros de MeriStation cerrarán su actividad el próximo 5 de mayo”. Así empieza el comunicado oficial de MeriStation para notificar a sus lectores que la página pondrá fin a sus servicios de comunidad este mismo miércoles. No solo se cerrarán los foros, sino que también “se borrará todo”, ya que según el administrador “no se puede dejar el foro a modo lectura”. En números esto significa que se perderán más de 2 millones de temas con más de 45 millones de mensajes escritos por una comunidad de 628.594 mie…",
+          "link": "https://www.elotrolado.net/noticias/internet/meristation-cierra-foro",
+          "publishedOn": "2021-05-03T12:01:45.000Z",
+          "wordCount": 740,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "MeriStation cierra sus foros tras 21 años de actividad y borrará todo su contenido"
         },
         {
-          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
-          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "publishedOn": "2021-04-16T09:00:00.000Z",
-          "wordCount": 2912,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
+          "description": "Los documentos que Microsoft ha aportado en el caso de Epic Games vs. Apple han revelado algunas de las exclusivas que la compañía ha firmado con estudios third-party. Uno de los juegos afectados es S.T.A.L.K.E.R. 2, que en consola tiene una exclusividad de tres meses en favor de Xbox Series. Una vez superado este periodo, el título de GSC Game World puede aparecer en otros sistemas. En el documento también se menciona la exclusividad de seis meses para Tetris Effect: Connected, una actualización multijugad…",
+          "link": "https://www.elotrolado.net/hilo_s-t-a-l-k-e-r-2-para-xbox-series-tiene-una-exclusiva-en-consola-de-tres-meses_2421789",
+          "publishedOn": "2021-05-02T20:48:32.000Z",
+          "wordCount": 4818,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: S.T.A.L.K.E.R. 2 para Xbox Series tiene una exclusiva en consola de tres meses"
         },
         {
-          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3522,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Get Web Design Clients Fast (Part 2)"
+          "description": "Actualización: En una nueva declaración, un portavoz de Microsoft ha sido mucho más claro al afirmar que la compañía no tiene ninguna intención de cambiar el reparto de los ingresos en los juegos de consola. En otras palabras, en la tienda de Xbox se mantiene el tradicional 70/30. Noticia original: Los planes de futuro de Microsoft incluyen un cambio en el reparto de los ingresos de la tienda de Xbox para rebajar al 12 % la comisión que la compañía se lleva por cada juego vendido, según revelan una serie de…",
+          "link": "https://www.elotrolado.net/noticias/juegos/xbox-cambio-reparto-ingresos",
+          "publishedOn": "2021-05-02T13:42:22.000Z",
+          "wordCount": 1002,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Microsoft no cambiará el reparto de ingresos en la tienda de Xbox (Actualizada)"
         },
         {
-          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
-          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 967,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "From Cats With Love: New Navigation, Guides And Workshops"
+          "description": "Mayo se presenta como un mes con abundantes estrenos y regresos esperados. Quien más se juega en las próximas semanas posiblemente sea Netflix con Jupiter's Legacy, la primera serie de superhéroes sacada de Millarworld, una compañía que le pertenece y para la que tiene ambiciosos planes. Además, el servicio dirá adiós a Castlevania, la serie de animación de cuatro temporadas que ha adaptado la saga de videojuegos propiedad de Konami. Por su parte, en Prime Video tenemos la miniserie The Underground Railroad…",
+          "link": "https://www.elotrolado.net/noticias/internet/series-netflix-apple-hbo-amazon-movistar-mayo-2021",
+          "publishedOn": "2021-05-01T15:07:59.000Z",
+          "wordCount": 2700,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Netflix estrena Jupiter's Legacy, The Underground Railroad debuta en Amazon y Mythic Quest vuelve a Apple TV+"
         },
         {
-          "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
-          "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
-          "publishedOn": "2021-04-14T11:00:00.000Z",
-          "wordCount": 1917,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Overflow Issues In CSS"
+          "description": "Konami, una histórica compañía de la industria del videojuego que en el pasado solía desarrollar juegos e incluso editar los de otros, lo sigue haciendo. Como mínimo esto es lo que se desprende del mensaje que la compañía japonesa ha enviado mediante Twitter para anunciar que no asistirá al E3 2021, donde su presencia ya había sido confirmada por la Entertainment Software Association (ESA), a pesar de que tiene “varios proyectos” en camino que serán descubiertos a su debido momento. “Debido al calendario, n…",
+          "link": "https://www.elotrolado.net/noticias/juegos/konami-e3-2021-no",
+          "publishedOn": "2021-05-01T14:38:21.000Z",
+          "wordCount": 760,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Konami se retira del E3 2021, pero asegura que tiene varios proyectos en marcha"
         },
         {
-          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
-          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "publishedOn": "2021-04-13T14:00:00.000Z",
-          "wordCount": 3154,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
+          "description": "Riot Games ha anunciado una actualización de su política de privacidad y los términos de servicio que le permitirá grabar y analizar las comunicaciones por voz cuando se envíe un informe sobre un comportamiento inadecuado. La filial de Tencent tiene la intención de aplicar esta medida solo al shooter táctico free-to-play Valorant, pero legalmente la documentación le permite hacerlo en sus otros juegos (como League of Legends). El objetivo es expulsar a los jugadores tóxicos “Sabemos que los comportamientos …",
+          "link": "https://www.elotrolado.net/noticias/juegos/riot-valorant-chat-voz-grabar",
+          "publishedOn": "2021-05-01T13:59:37.000Z",
+          "wordCount": 779,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Riot Games grabará el chat de voz de Valorant para acabar con los jugadores tóxicos"
         },
         {
-          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
-          "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 2965,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To HTML Email"
+          "description": "La escasez de chips está causando estragos en todo el mundo. Que cueste encontrar una consola de nueva generación como PlayStation 5 o Xbox Series es una molestia, pero que las fábricas de coches instaladas a lo largo y ancho de Europa cierren líneas o supriman turnos por la falta de chips es más preocupante. Por ese motivo la Unión Europea quiere doblar la producción de semiconductores en el continente e Intel está dispuesta a poner de su parte para cumplir con este objetivo, siempre y cuando reciba ayuda …",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/intel-ayudas-fabricar-chips-europa",
+          "publishedOn": "2021-05-01T13:04:01.000Z",
+          "wordCount": 817,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Intel quiere 8.000 millones de euros en subvenciones para construir una planta de chips en Europa"
         },
         {
-          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
-          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
-          "publishedOn": "2021-04-09T19:30:00.000Z",
-          "wordCount": 5988,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
+          "description": "La presentación de resultados económicos ha marcado gran parte de la actualidad de la semana. Microsoft ha visto aumentar los ingresos de Xbox un 50 %, mientras que Sony se ha comprometido a invertir más dinero en PlayStation Studios para contratar a desarrolladores y revelado que PlayStation 5 ha vendido 7,8 millones de unidades. Por otro lado, Apple ha registrado unos ingresos trimestrales récord de 89.600 millones de dólares. PlayStation Studios también ha sido protagonista por la demostración de Ratchet…",
+          "link": "https://www.elotrolado.net/noticias/juegos/semana-24-abril-1-mayo-2021",
+          "publishedOn": "2021-05-01T12:19:46.000Z",
+          "wordCount": 1107,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Las noticias de la semana (24 de abril - 1 de mayo)"
         },
         {
-          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
-          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
-          "publishedOn": "2021-04-08T11:00:00.000Z",
-          "wordCount": 1858,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Better Documentation And Team Communication With Product Design Docs"
+          "description": "Una vez más, Facebook amplía la familia de equipos de desarrollo que forman parte de su filial Oculus Studios. En esta ocasión el elegido ha sido Downpour Interactive, un estudio estadounidense afincado en Raleigh (Carolina del Norte) que lleva casi cinco años trabajando en Onward, un simulador militar en forma de shooter en primera persona desarrollado para la realidad virtual que aún se encuentra en fase de acceso anticipado. El montante de la operación no ha trascendido. “Onward es el primer juego de Dow…",
+          "link": "https://www.elotrolado.net/noticias/juegos/facebook-oculus-compra-downpour-onward",
+          "publishedOn": "2021-04-30T23:57:03.000Z",
+          "wordCount": 576,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Facebook compra Downpour Interactive, responsable del shooter militar de realidad virtual Onward"
         },
         {
-          "description": "Unreliable tests are a living nightmare for anyone who writes automated tests or pays attention to the results. Flaky tests have even given folks nightmares and sleepless nights. In this article, Ramona Schwering shares her experiences to help you get out of this hell or avoid getting into it.",
-          "link": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
-          "publishedOn": "2021-04-07T11:00:00.000Z",
-          "wordCount": 4049,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
+          "description": "El editor Koch Media y el desarrollador Black Eye Games han anunciado que Siege Survival: Gloria Victis estará disponible el martes 18 de mayo mediante Steam, Epic Games Store y GOG a cambio de 24,99 euros. Los interesados en el juego lo pueden probar mediante una demo que se puede descargar desde Steam. Siege Survival: Gloria Victis es un título de estrategia y gestión de supervivencia medieval, que tiene como protagonista a un grupo de civiles que se encuentra atrapado en una pequeña fortaleza asediada po…",
+          "link": "https://www.elotrolado.net/hilo_siege-survival-gloria-victis-se-pondra-a-la-venta-el-18-de-mayo_2421587",
+          "publishedOn": "2021-04-30T17:06:47.000Z",
+          "wordCount": 336,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: Siege Survival: Gloria Victis se pondrá a la venta el 18 de mayo"
         },
         {
-          "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
-          "publishedOn": "2021-04-06T16:10:00.000Z",
-          "wordCount": 4083,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Don’t Lose Your Head: Evaluating Headless"
+          "description": "Epic Game sigue con hambre y su última adquisición es ArtStation, una conocida plataforma donde artistas de la industria del entretenimiento (juegos, películas…) pueden mostrar, compartir y vender sus trabajos. ArtStation también actúa como un punto de encuentro y no son pocos los artistas que han encontrado trabajo gracias a sus herramientas. A pesar de la adquisición, ArtStation seguirá siendo una plataforma independiente y su objetivo de ayudar a promocionar a los artistas se mantendrá, pero habrá cambio…",
+          "link": "https://www.elotrolado.net/hilo_epic-games-compra-artstation_2421586",
+          "publishedOn": "2021-04-30T17:01:02.000Z",
+          "wordCount": 439,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: Epic Games compra ArtStation"
+        },
+        {
+          "description": "Electronic Arts ha anunciado que FIFA 21, la última entrega de la saga deportiva, pasará a formar parte del catálogo de EA Play a partir del 6 de mayo. El mencionado servicio se encuentra disponible en PlayStation 5, PlayStation 4, Xbox Series, Xbox One y PC. Además, forma parte de Xbox Game Pass para PC y Xbox Game Pass Ultimate. Los suscriptores de EA Play podrán acceder a todas las características de FIFA 21, incluyendo el siempre polémico Ultimate Team, el modo Carrera o al fútbol callejero de Volta Foo…",
+          "link": "https://www.elotrolado.net/hilo_fifa-21-estara-disponible-mediante-ea-play-el-6-de-mayo_2421569",
+          "publishedOn": "2021-04-30T13:33:04.000Z",
+          "wordCount": 479,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: FIFA 21 estará disponible mediante EA Play el 6 de mayo"
         }
       ]
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "href": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
       "articles": [
         {
-          "description": "A complete guide to Node.js async await",
-          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
-          "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2235,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
+          "description": "Apsulov: End of Gods – future Viking horror coming to current and new-gen consoles, including PlayStation physical editions by Perp Games\n Indie publisher Digerati is delighted to announce it's bringing Apsulov: End of Gods to consoles, with the game launching digitally for Nintendo Switch, Xbox One, Xbox Series X|S, PS4, and PS5. Apsulov: End of Gods is currently scheduled to launch summer 2021.\n Created by Sweden-based developer Angry Demon Studio, Apsulov: End of Gods brings together technology and Norse…",
+          "link": "https://www.allgamesdelta.net/2021/05/future-viking-horror-game-apsulov-end.html",
+          "publishedOn": "2021-05-04T22:42:00.000Z",
+          "wordCount": 401,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "'Future Viking Horror' Game Apsulov: End of Gods Coming to PS5, Xbox Series, PS4, Xbox One and Switch this Summer"
         },
         {
-          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
-          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
-          "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1012,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
+          "description": "Wonder Boy: Asha in Monster World Launches May 28 in the West for PS4 and Switch, June 29 for PC \n ININ Games and Studio Artdink are delighted to announce the official release for Wonder Boy: Asha in Monster World for the Western retail release for both physical and digital Nintendo Switch and PS4 versions will be on May 28th 2021 for North America, Europe and Australia.\n  The retail editions for Nintendo Switch and PlayStation 4 will be available for €39.99 / $39.99 / £34.99 and include the original Monste…",
+          "link": "https://www.allgamesdelta.net/2021/05/wonder-boy-asha-in-monster-world.html",
+          "publishedOn": "2021-05-04T19:05:00.000Z",
+          "wordCount": 277,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Wonder Boy: Asha in Monster World Launches May 28 in the West for PS4 and Switch, June 29 for PC"
         },
         {
-          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
-          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
-          "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2495,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Fetch Data in React from a GraphQL API"
+          "description": "tmdn.org",
+          "link": "https://www.allgamesdelta.net/2021/05/sony-interactive-entertainment.html",
+          "publishedOn": "2021-05-04T18:51:00.000Z",
+          "wordCount": 30,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Sony Interactive Entertainment trademarks Sunset Overdrive in the U.S."
         },
         {
-          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
-          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
-          "publishedOn": "2021-05-03T16:40:08.000Z",
-          "wordCount": 1158,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Common Mistakes React Developers Make – And How to Fix Them"
+          "description": "",
+          "link": "https://www.allgamesdelta.net/2021/05/nier-reincarnation-english-localization.html",
+          "publishedOn": "2021-05-03T12:02:00.000Z",
+          "wordCount": 21,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "NieR Re[in]carnation english localization finished"
         },
         {
-          "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
-          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
-          "publishedOn": "2021-05-03T16:13:55.000Z",
-          "wordCount": 1398,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
+          "description": "Imagining Bloodborne 2 by Thomas Chamberlain-Keen",
+          "link": "https://www.allgamesdelta.net/2021/05/imagining-bloodborne-2.html",
+          "publishedOn": "2021-05-03T10:15:00.000Z",
+          "wordCount": 23,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Imagining Bloodborne 2"
         },
         {
-          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
-          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
-          "publishedOn": "2021-05-03T15:31:42.000Z",
-          "wordCount": 890,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
+          "description": "",
+          "link": "https://www.allgamesdelta.net/2021/04/streets-of-rage-4-dlc-mr-x-nightmare_30.html",
+          "publishedOn": "2021-04-30T14:11:00.000Z",
+          "wordCount": 33,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Streets of Rage 4 DLC 'Mr. X Nightmare' Adds Max Thunder"
         },
         {
-          "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
-          "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
-          "publishedOn": "2021-04-30T18:37:37.000Z",
-          "wordCount": 1334,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Keyboard Shortcuts to Improve Your Coding Productivity"
+          "description": "Hood: Outlaws &amp; Legends unveils 8 minutes of Commented Gameplay offering an in-depth look at the teamplay-oriented medieval heists!\n Hood: Outlaws &amp; Legends, the multiplayer PvPvE heist game from Sumo Digital and Focus Home Interactive today releases an in-depth Commented Gameplay video of its unique medieval heists. Matchmaking in opposing teams of four, choose your character based on your preferred playstyle, or what best fits your team’s strategy. Whether your gang prioritizes a stealthy long-ran…",
+          "link": "https://www.allgamesdelta.net/2021/05/hood-outlaws-legends-official-commented.html",
+          "publishedOn": "2021-04-30T13:55:00.000Z",
+          "wordCount": 431,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Hood: Outlaws & Legends 'Official Commented Gameplay' Video"
         },
         {
-          "description": "In this article, you'll practice your JavaScript skills while streamlining your household chores by creating your very own home inventory system.  I've often found that it's hard to keep track common household items that I buy frequently such as food, spices, medicine, and the like. It's annoying at best and",
-          "link": "https://www.freecodecamp.org/news/nodejs-and-cloud-firestore-tutorial-build-a-home-inventory-system/",
-          "publishedOn": "2021-04-30T16:26:24.000Z",
-          "wordCount": 1429,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Node.js and Cloud Firestore Tutorial – How to Build a Home Inventory System"
+          "description": "",
+          "link": "https://www.allgamesdelta.net/2021/04/hot-wheels-unleashed-skyscraper-trailer.html",
+          "publishedOn": "2021-04-30T13:28:00.000Z",
+          "wordCount": 25,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Hot Wheels Unleashed 'Skyscraper' Trailer and Screenshots"
         },
         {
-          "description": "Docker is an open source project that makes it easy to create containers and container-based apps. Docker's lightweight and portable software containers simplify application development, testing, and deployment. We just released a course on the freeCodeCamp.org YouTube channel that will help you learn the core fundamentals of Docker by",
-          "link": "https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/",
-          "publishedOn": "2021-04-29T20:05:04.000Z",
-          "wordCount": 496,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Docker by Building a Node / Express App"
+          "description": "",
+          "link": "https://www.allgamesdelta.net/2021/04/ratchet-clank-rift-apart-state-of-play.html",
+          "publishedOn": "2021-04-30T13:12:00.000Z",
+          "wordCount": 33,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Ratchet & Clank: Rift Apart State of Play Presentation and Screenshots"
         },
         {
-          "description": "In this article, I'll teach you CSS Flexbox basics so you can make your own responsive sites. I'll explain how each of Flexbox's properties work, and I'll give you a cheatsheet that covers everything you can do with Flexbox. Let's Go 🎖️ Table of ContentsFlexbox Architectureflex-directionjustify-contentalign-contentalign-itemsalign-selfflex - grow | shrink | wrap | basisShort",
-          "link": "https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-04-28T19:33:57.000Z",
-          "wordCount": 1289,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️"
+          "description": "",
+          "link": "https://www.allgamesdelta.net/2021/04/among-us-coming-to-ps5-and-ps4-in-2021.html",
+          "publishedOn": "2021-04-30T12:57:00.000Z",
+          "wordCount": 29,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Among Us Coming to PS5 and PS4 in 2021"
+        },
+        {
+          "description": "The Persistence Enhanced comes to new generation consoles and PC on June 4th\n  Firesprite’s critically acclaimed survival horror title, The Persistence be available for PlayStation®5, XBOX Series X|S and PC platforms in the form of an enhanced edition launching worldwide on June 4th.\n The Persistence offers a brutal take on survival-horror that integrates an innovative rogue-lite design into the genre, as players are tasked with surviving aboard a doomed deep space colony starship in the year 2521, repeated…",
+          "link": "https://www.allgamesdelta.net/2021/04/the-persistence-enhanced-launches-june-4.html",
+          "publishedOn": "2021-04-30T12:44:00.000Z",
+          "wordCount": 257,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "The Persistence Enhanced Launches June 4"
+        },
+        {
+          "description": "Modus Games to Publish Ambitious New IP in Partnership with Milan Developer Reply Game Studios\n Independent games publisher Modus Games today announced a new partnership with Italian developer Reply Game Studios. This collaboration will see Modus Games publishing a brand-new IP in 2022.\n  “The team at Reply Game Studios is an incredibly talented group with a striking vision for their new IP,” said Shane Bierwith, EVP of global marketing at Modus Games. “This partnership represents an exciting next-gen exper…",
+          "link": "https://www.allgamesdelta.net/2021/04/modus-games-to-publish-new-title-from.html",
+          "publishedOn": "2021-04-30T03:10:00.000Z",
+          "wordCount": 255,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Modus Games to Publish New Title from Reply Game Studios in 2022"
+        },
+        {
+          "description": "Melody Maker: Playtonic Friends Will Bring Awe Interactive’s PC Hit BPM: Bullets Per Minute to PS4 and Xbox One\n Following the announcement of its first foray into the world of games publishing, Playtonic Friends​ is excited to officially reveal the next title to join its stable will be the console version of fast and frenetic rhythm-based shooter BPM: Bullets Per Minute.\n Developed by Awe Interactive, BPM: Bullets Per Minute brings dungeon-based shooter action to the table, but encases it in a world where …",
+          "link": "https://www.allgamesdelta.net/2021/04/bpm-bullets-per-minute-for-ps4-and-xbox.html",
+          "publishedOn": "2021-04-30T02:26:00.000Z",
+          "wordCount": 684,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "BPM: Bullets Per Minute for PS4 and Xbox One Launches This Summer"
+        },
+        {
+          "description": "Returnal gameplay: Dev details and more in nearly 30 minutes of new footage\n In less than 24 hours, PlayStation 5 players will be able to step into the hostile and mysterious world of Returnal. From unsettling alien creatures to haunting musical themes, Selene’s journey through Atropos is one you won’t soon forget.\n But what exactly is the flow to this cyclical adventure? You may have seen trailers and other gameplay clips that show a hectic run and gun, arcade-style adventure, while other footage looks a b…",
+          "link": "https://www.allgamesdelta.net/2021/04/returnal-28-minutes-gameplay-deep-dive.html",
+          "publishedOn": "2021-04-30T02:16:00.000Z",
+          "wordCount": 326,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Returnal 28 Minutes Gameplay Deep Dive Video"
+        },
+        {
+          "description": "Warhammer Age of Sigmar: Storm Ground Gameplay Overview trailer offers first in-depth look at strategic action\n Get a first look at action-packed, turn-based combat in today’s Age of Sigmar: Storm Ground Gameplay Overview trailer. Developed by Gasket Games and published by Focus Home Interactive, Storm Ground is based on Games Workshop’s iconic fantasy IP “Age of Sigmar” - a dark-fantasy universe where immortal knights ride heavenly stardrakes to eradicate Death across a multitude of realms. Coming to PlayS…",
+          "link": "https://www.allgamesdelta.net/2021/04/warhammer-age-of-sigmar-storm-ground_29.html",
+          "publishedOn": "2021-04-29T13:28:00.000Z",
+          "wordCount": 384,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Warhammer Age of Sigmar: Storm Ground Gameplay Overview Trailer"
+        },
+        {
+          "description": "Shermie - Mai Shiranui - King - Yashiro Nanakase - Yuri Sakazaki\n   Team Fatal Fury: Terry Bogard - Andy Bogard - Joe Higashi\n Team Sacred Treasures: Kyo Kusanagi - Chizuru Kagura - Iori Yagami\n Team Hero: Shun’ei - Meitenkun - Benimaru Nikaido",
+          "link": "https://www.allgamesdelta.net/2021/04/the-king-of-fighters-xv-chris-trailer.html",
+          "publishedOn": "2021-04-29T04:22:00.000Z",
+          "wordCount": 71,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "The King of Fighters XV Chris Trailer and Screenshots"
+        },
+        {
+          "description": "Brandish your combat prowess and carve a warrior's legacy in the Blood of Heroes multiplayer Closed Beta\n Developer Vizor Games invites warriors from near and far to rise to the challenge and sign up for the first large scale beta of its forthcoming combat title Blood of Heroes. Thrust into a realm of darkness, players will compete in vicious PvP, picking from a diverse group of fearless fighters. PC players can sign up now for the Blood of Heroes closed-beta which will begin on May 4th, then they will get …",
+          "link": "https://www.allgamesdelta.net/2021/04/nordic-pvp-combat-arena-game-blood-of.html",
+          "publishedOn": "2021-04-29T03:18:00.000Z",
+          "wordCount": 446,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Nordic PvP Combat Arena Game Blood of Heroes Announced for PS5, Xbox Series, PS4, Xbox One and PC"
+        },
+        {
+          "description": "Final Fantasy VII Remake Intergrade devs talk Yuffie Kisaragi\n On the face of it, it may sound remarkable that Yuffie Kisaragi has become such a beloved character among Final Fantasy  VII fans. After all, she was an entirely optional character in the original game - many players likely missed her on their first playthrough. I know I did.\n But as anyone who’s had Yuffie join their team knows, the opportunistic ninja from Wutai is an absolute delight. Upbeat, incredibly skilled and very different to any other…",
+          "link": "https://www.allgamesdelta.net/2021/04/final-fantasy-vii-remake-intergrade-co.html",
+          "publishedOn": "2021-04-29T02:50:00.000Z",
+          "wordCount": 768,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Final Fantasy VII Remake Intergrade co-directors discuss Yuffie Kisaragi in 'EPISODE INTERmission'"
+        },
+        {
+          "description": "PlayStation Plus games for May: Battlefield V, Stranded Deep, Wreckfest: Drive Hard. Die Last.\n Join forces with players worldwide as you plunge yourself into the dark heart of battle, crunch metal and burn rubber on a carnage-filled racetrack against friends or strip back to the bare essentials and attempt to survive a treacherous paradise solo. Enticing, challenging prospects all, but which will you try first when next month’s PlayStation Plus games launch on May 4?\n Let’s take a closer look at those game…",
+          "link": "https://www.allgamesdelta.net/2021/04/playstation-plus-free-games-for-may.html",
+          "publishedOn": "2021-04-29T02:10:00.000Z",
+          "wordCount": 389,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "PlayStation Plus Free Games for May 2021 Announced"
+        },
+        {
+          "description": "Returnal survival guide: Housemarque’s gameplay tips for Atropos - PlayStation Blog\n Housemarque's Next Awesome Arcade Action Game Releases Tomorrow! - Housemarque.com",
+          "link": "https://www.allgamesdelta.net/2021/04/returnal-tide-launch-trailer.html",
+          "publishedOn": "2021-04-28T14:10:00.000Z",
+          "wordCount": 42,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Returnal 'The Tide' Launch Trailer"
+        },
+        {
+          "description": "Rome Is Where the Heart Is: New Installment of the Expeditions Franchise Announced\n Vindobona, Noricum / Hafnia, Daniae, Aprilis XXVIII., MMXXI: Friends, Romans, Countrymen, lend me your ears! We've come to praise a new game, called Expeditions: Rome! A classic RPG (Rome Playing Game) it is, full of story and memorable characters. A game where your choices will matter, where your choices will shape the fate of Rome itself.\n You are about to become a young Legatus, leading a Roman legion against the forces o…",
+          "link": "https://www.allgamesdelta.net/2021/04/expeditions-rome-announced-for-pc.html",
+          "publishedOn": "2021-04-28T13:34:00.000Z",
+          "wordCount": 600,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Expeditions: Rome Announced for PC, Coming Late This Year"
+        },
+        {
+          "description": "Monster Hunter Stories 2: Wings of Ruin New Details Revealed, Monster Hunter Rise First Free Update Arriving Tonight \n Today’s Monster Hunter Digital Event revealed new trailers, gameplay, and information for Monster Hunter Stories 2: Wings of Ruin and Monster Hunter Rise. The latest trailer for Monster Hunter Stories 2: Wings of Ruin offered tantalizing plot details ahead of the game’s July 9, 2021 release on Nintendo Switch and PC: a first look at two returning characters from Monster Hunter Stories, a br…",
+          "link": "https://www.allgamesdelta.net/2021/04/monster-hunter-stories-2-wings-of-ruin.html",
+          "publishedOn": "2021-04-27T20:53:00.000Z",
+          "wordCount": 791,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Monster Hunter Stories 2: Wings of Ruin Third Trailer and Screenshots,  Monster Hunter Rise Version 2.0 Update Launches April 28"
+        },
+        {
+          "description": "",
+          "link": "https://www.allgamesdelta.net/2021/04/scarlet-nexus-environment-highlight.html",
+          "publishedOn": "2021-04-27T16:27:00.000Z",
+          "wordCount": 21,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Scarlet Nexus 'Environment Highlight' Video"
+        },
+        {
+          "description": "Meridiem Games and Raiser Games Announce Deluxe Boxed Edition of Song of Horror Coming This Summer for PlayStation 4\n Song of Horror, the acclaimed horror game developed by Protocol Games and published by Raiser Games, will be available as a special physical boxed edition, published and distributed by Meridiem Games. This Deluxe Edition will be available this summer for PlayStation 4.\n A must have for any horror fan, this boxed Deluxe Edition will include a special artwork sleeve, a map where players can no…",
+          "link": "https://www.allgamesdelta.net/2021/04/meridiem-games-and-raiser-games.html",
+          "publishedOn": "2021-04-27T12:18:00.000Z",
+          "wordCount": 512,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Meridiem Games and Raiser Games Announce Deluxe Boxed Edition of Song of Horror Coming This Summer for PS4"
+        },
+        {
+          "description": "Hood: Outlaws & Legends reveals post-launch plans and Year 1 Edition content in new trailer\n Hood: Outlaws and Legends, the multiplayer PvPvE heist game from Sumo Digital and Focus Home interactive today unveils its first post-launch plans in a new trailer. Gather your team of Outlaws and attempt to steal treasure from an oppressive government in a dark and violent medieval world. All players can look forward to a wealth of free gameplay content across the first year of post-launch support, while those who …",
+          "link": "https://www.allgamesdelta.net/2021/04/hood-outlaws-legends-reveals-post.html",
+          "publishedOn": "2021-04-27T11:07:00.000Z",
+          "wordCount": 431,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Hood: Outlaws & Legends Reveals Post-Launch Plans and Year 1 Edition Content"
         }
       ]
     }
