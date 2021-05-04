@@ -10,4 +10,5 @@ This is repository hosts the UI and content of an RSS feed reader.
 - [Lastest documentation](https://github.com/osmoscraft/osmosfeed)
 
 ### Feed
+
 https://wormx00.github.io/myosmosfeed/
