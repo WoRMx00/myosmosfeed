@@ -61,7 +61,7 @@
           "description": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead\nComments URL: https://news.ycombinator.com/item?id=27042841\nPoints: 1\n# Comments: 0",
           "link": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead",
           "publishedOn": "2021-05-04T21:00:47.000Z",
-          "wordCount": 678,
+          "wordCount": 664,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
           "title": "TrueVault (YC W14) is hiring an engineering lead to lead new privacy product"
@@ -169,7 +169,7 @@
           "description": "Article URL: https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/\nComments URL: https://news.ycombinator.com/item?id=27038441\nPoints: 116\n# Comments: 18",
           "link": "https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/",
           "publishedOn": "2021-05-04T15:10:51.000Z",
-          "wordCount": 2193,
+          "wordCount": 2198,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
           "title": "Dell patches 12-year-old driver vulnerability impacting millions of PCs"
