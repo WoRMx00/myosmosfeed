@@ -1,5 +1,5 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://WoRMx00.github.io/WoRMx00/cache.json
 sources:
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://hnrss.org/frontpage
+  - href: http://www.elotrolado.net/feed/
+  - href: http://www.allgamesdelta.net/feeds/posts/default?alt=rss
