@@ -4,112 +4,184 @@
       "href": "https://hnrss.org/frontpage",
       "articles": [
         {
-          "description": "Article URL: https://blog.drewolson.org/declarative-validation\nComments URL: https://news.ycombinator.com/item?id=27043574\nPoints: 23\n# Comments: 9",
-          "link": "https://blog.drewolson.org/declarative-validation",
-          "publishedOn": "2021-05-04T22:19:17.000Z",
-          "wordCount": 1459,
+          "description": "Article URL: https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies\nComments URL: https://news.ycombinator.com/item?id=27056817\nPoints: 6\n# Comments: 1",
+          "link": "https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies",
+          "publishedOn": "2021-05-05T22:49:45.000Z",
+          "wordCount": 2569,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Declarative Validation in Python"
+          "title": "Dependency Managers Don’t Manage Your Dependencies"
         },
         {
-          "description": "Article URL: https://jcs.org/2021/04/23/wifistation\nComments URL: https://news.ycombinator.com/item?id=27043352\nPoints: 22\n# Comments: 0",
-          "link": "https://jcs.org/2021/04/23/wifistation",
-          "publishedOn": "2021-05-04T21:53:18.000Z",
-          "wordCount": 1526,
+          "description": "Article URL: https://www.spacex.com/vehicles/starship/index.html\nComments URL: https://news.ycombinator.com/item?id=27056591\nPoints: 232\n# Comments: 130",
+          "link": "https://www.spacex.com/vehicles/starship/index.html",
+          "publishedOn": "2021-05-05T22:24:47.000Z",
+          "wordCount": 1072,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "WiFiStation: A WiFi Interface for the Cidco MailStation"
+          "title": "Live feed of Starship SN15 flight test [video]"
         },
         {
-          "description": "Article URL: https://github.com/facebookincubator/cinder\nComments URL: https://news.ycombinator.com/item?id=27043217\nPoints: 262\n# Comments: 90",
-          "link": "https://github.com/facebookincubator/cinder",
-          "publishedOn": "2021-05-04T21:38:14.000Z",
-          "wordCount": 2681,
+          "description": "Article URL: https://pxlnv.com/linklog/california-exception/\nComments URL: https://news.ycombinator.com/item?id=27056300\nPoints: 89\n# Comments: 50",
+          "link": "https://pxlnv.com/linklog/california-exception/",
+          "publishedOn": "2021-05-05T21:52:35.000Z",
+          "wordCount": 405,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Cinder: Instagram's performance-oriented fork of CPython"
+          "title": "The California Exception"
         },
         {
-          "description": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead\nComments URL: https://news.ycombinator.com/item?id=27042841\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead",
-          "publishedOn": "2021-05-04T21:00:47.000Z",
-          "wordCount": 672,
+          "description": "Article URL: https://www.workatastartup.com/jobs/43771\nComments URL: https://news.ycombinator.com/item?id=27055759\nPoints: 1\n# Comments: 0",
+          "link": "https://www.workatastartup.com/jobs/43771",
+          "publishedOn": "2021-05-05T21:00:24.000Z",
+          "wordCount": 395,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "TrueVault (YC W14) is hiring an engineering lead to lead new privacy product"
+          "title": "Zumo Labs (YC W20) Is Hiring a Product Manager"
         },
         {
-          "description": "Article URL: https://github.com/rururu/sail-pro\nComments URL: https://news.ycombinator.com/item?id=27041679\nPoints: 66\n# Comments: 9",
-          "link": "https://github.com/rururu/sail-pro",
-          "publishedOn": "2021-05-04T19:15:59.000Z",
-          "wordCount": 881,
+          "description": "Article URL: https://blog.google/inside-google/life-at-google/hybrid-approach-work/\nComments URL: https://news.ycombinator.com/item?id=27055671\nPoints: 66\n# Comments: 37",
+          "link": "https://blog.google/inside-google/life-at-google/hybrid-approach-work/",
+          "publishedOn": "2021-05-05T20:53:18.000Z",
+          "wordCount": 1756,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Sail-pro – Simulation and modelling environment for virtual sailing"
+          "title": "A Hybrid Approach to Work"
         },
         {
-          "description": "Article URL: https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/\nComments URL: https://news.ycombinator.com/item?id=27041508\nPoints: 149\n# Comments: 77",
-          "link": "https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/",
-          "publishedOn": "2021-05-04T19:03:17.000Z",
-          "wordCount": 1147,
+          "description": "Article URL: https://www.forbes.com/sites/johannaread/2021/05/05/the-sheba-hope-reef-brings-hope-to-coral-reefs-everywhere-you-can-help-too/\nComments URL: https://news.ycombinator.com/item?id=27055663\nPoints: 69\n# Comments: 13",
+          "link": "https://www.forbes.com/sites/johannaread/2021/05/05/the-sheba-hope-reef-brings-hope-to-coral-reefs-everywhere-you-can-help-too/",
+          "publishedOn": "2021-05-05T20:52:41.000Z",
+          "wordCount": 2110,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Flipped an element in an old lens and got 'magic' bokeh (2018)"
+          "title": "Indonesia coral reef partially restored in extensive project"
         },
         {
-          "description": "Article URL: https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw\nComments URL: https://news.ycombinator.com/item?id=27041011\nPoints: 50\n# Comments: 67",
-          "link": "https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw",
-          "publishedOn": "2021-05-04T18:31:26.000Z",
-          "wordCount": 1635,
+          "description": "Article URL: https://voxeu.org/article/why-rich-parents-have-rich-children\nComments URL: https://news.ycombinator.com/item?id=27055635\nPoints: 24\n# Comments: 19",
+          "link": "https://voxeu.org/article/why-rich-parents-have-rich-children",
+          "publishedOn": "2021-05-05T20:50:37.000Z",
+          "wordCount": 2153,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "D(?)A(?)O – Decentralization and Autonomy in “DAOs”"
+          "title": "Why rich parents have rich children"
         },
         {
-          "description": "Article URL: https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/\nComments URL: https://news.ycombinator.com/item?id=27038441\nPoints: 131\n# Comments: 24",
-          "link": "https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/",
-          "publishedOn": "2021-05-04T15:10:51.000Z",
-          "wordCount": 2179,
+          "description": "Article URL: https://blog.px.dev/open-source-release/\nComments URL: https://news.ycombinator.com/item?id=27055364\nPoints: 63\n# Comments: 5",
+          "link": "https://blog.px.dev/open-source-release/",
+          "publishedOn": "2021-05-05T20:32:46.000Z",
+          "wordCount": 1257,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Dell patches 12-year-old driver vulnerability impacting millions of PCs"
+          "title": "Open sourcing Pixie under Apache 2.0 license"
         },
         {
-          "description": "Article URL: https://gir.st/chiptunes.html\nComments URL: https://news.ycombinator.com/item?id=27036794\nPoints: 180\n# Comments: 30",
-          "link": "https://gir.st/chiptunes.html",
-          "publishedOn": "2021-05-04T12:24:20.000Z",
-          "wordCount": 2127,
+          "description": "Article URL: https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/\nComments URL: https://news.ycombinator.com/item?id=27054753\nPoints: 240\n# Comments: 342",
+          "link": "https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/",
+          "publishedOn": "2021-05-05T19:47:02.000Z",
+          "wordCount": 3145,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Chiptunes on an ATtiny4 and the 3 Cent Micro"
+          "title": "Blizzard has lost almost 29% of its overall active playerbase in three years"
         },
         {
-          "description": "Article URL: http://www.ulisp.com/\nComments URL: https://news.ycombinator.com/item?id=27036317\nPoints: 339\n# Comments: 71",
-          "link": "http://www.ulisp.com/",
-          "publishedOn": "2021-05-04T11:17:24.000Z",
-          "wordCount": 1971,
+          "description": "Article URL: https://www.csweapons.com\nComments URL: https://news.ycombinator.com/item?id=27054357\nPoints: 126\n# Comments: 64",
+          "link": "https://www.csweapons.com",
+          "publishedOn": "2021-05-05T19:15:41.000Z",
+          "wordCount": 7,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "uLisp"
+          "title": "Show HN: CS Weapons – Counter-Strike weapon data comparison app"
         },
         {
-          "description": "Article URL: https://www.smithsonianmag.com/smart-news/sorceresss-kit-was-discovered-ashes-pompeii-180972907/\nComments URL: https://news.ycombinator.com/item?id=27034144\nPoints: 10\n# Comments: 1",
-          "link": "https://www.smithsonianmag.com/smart-news/sorceresss-kit-was-discovered-ashes-pompeii-180972907/",
-          "publishedOn": "2021-05-04T04:42:58.000Z",
-          "wordCount": 1293,
+          "description": "Article URL: https://markodenic.com/posts/html-tips/\nComments URL: https://news.ycombinator.com/item?id=27054348\nPoints: 315\n# Comments: 59",
+          "link": "https://markodenic.com/posts/html-tips/",
+          "publishedOn": "2021-05-05T19:14:40.000Z",
+          "wordCount": 605,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "A Sorceress’ Kit Was Discovered in the Ashes of Pompeii"
+          "title": "HTML Tips (2020)"
         },
         {
-          "description": "Article URL: https://recyclednumbers.cs.princeton.edu/assets/recycled-numbers-latest.pdf\nComments URL: https://news.ycombinator.com/item?id=27030527\nPoints: 20\n# Comments: 1",
-          "link": "https://recyclednumbers.cs.princeton.edu/assets/recycled-numbers-latest.pdf",
-          "publishedOn": "2021-05-03T20:56:18.000Z",
-          "wordCount": 8847,
+          "description": "Article URL: http://www.macflim.com\nComments URL: https://news.ycombinator.com/item?id=27053655\nPoints: 115\n# Comments: 40",
+          "link": "http://www.macflim.com",
+          "publishedOn": "2021-05-05T18:20:35.000Z",
+          "wordCount": 1106,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Security and Privacy Risks of Number Recycling at Mobile Carriers in the U.S. [pdf]"
+          "title": "MacFlim: Full-motion video on B&W Macs"
+        },
+        {
+          "description": "Article URL: https://man7.org/tlpi/api_changes/index.html\nComments URL: https://news.ycombinator.com/item?id=27052992\nPoints: 62\n# Comments: 24",
+          "link": "https://man7.org/tlpi/api_changes/index.html",
+          "publishedOn": "2021-05-05T17:34:55.000Z",
+          "wordCount": 13375,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Linux and Glibc API Changes"
+        },
+        {
+          "description": "Article URL: https://github.com/timvisee/send\nComments URL: https://news.ycombinator.com/item?id=27052840\nPoints: 418\n# Comments: 96",
+          "link": "https://github.com/timvisee/send",
+          "publishedOn": "2021-05-05T17:25:43.000Z",
+          "wordCount": 1219,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Send: A Fork of Mozilla's Firefox Send"
+        },
+        {
+          "description": "Article URL: https://ptsjs.org/\nComments URL: https://news.ycombinator.com/item?id=27052313\nPoints: 136\n# Comments: 11",
+          "link": "https://ptsjs.org/",
+          "publishedOn": "2021-05-05T16:47:37.000Z",
+          "wordCount": 222,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Pts.js: a modular librairy for visualization and creative coding"
+        },
+        {
+          "description": "Article URL: https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3\nComments URL: https://news.ycombinator.com/item?id=27052243\nPoints: 78\n# Comments: 15",
+          "link": "https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3",
+          "publishedOn": "2021-05-05T16:42:32.000Z",
+          "wordCount": 2433,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Learning About the GeoTIFF File Format with a Hex Editor (2018)"
+        },
+        {
+          "description": "Article URL: https://felleisen.org/matthias/7480-s21/index.html\nComments URL: https://news.ycombinator.com/item?id=27051498\nPoints: 101\n# Comments: 16",
+          "link": "https://felleisen.org/matthias/7480-s21/index.html",
+          "publishedOn": "2021-05-05T15:52:32.000Z",
+          "wordCount": 311,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "History of Programming Languages"
+        },
+        {
+          "description": "Article URL: https://github.com/andymatuschak/orbit\nComments URL: https://news.ycombinator.com/item?id=27051468\nPoints: 293\n# Comments: 48",
+          "link": "https://github.com/andymatuschak/orbit",
+          "publishedOn": "2021-05-05T15:50:53.000Z",
+          "wordCount": 1503,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Orbit: an experimental platform for small tasks repeated over time"
+        },
+        {
+          "description": "Article URL: http://mobileatscale.com/\nComments URL: https://news.ycombinator.com/item?id=27050801\nPoints: 237\n# Comments: 33",
+          "link": "http://mobileatscale.com/",
+          "publishedOn": "2021-05-05T15:05:40.000Z",
+          "wordCount": 2611,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Show HN: I wrote the book Building Mobile Apps at Scale"
+        },
+        {
+          "description": "Article URL: https://blog.playcanvas.com/introducing-the-anim-state-graph/\nComments URL: https://news.ycombinator.com/item?id=27050731\nPoints: 113\n# Comments: 15",
+          "link": "https://blog.playcanvas.com/introducing-the-anim-state-graph/",
+          "publishedOn": "2021-05-05T15:00:34.000Z",
+          "wordCount": 870,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "PlayCanvas Launches Node-Based Animation Editor for WebGL"
         }
       ]
     },
@@ -117,10 +189,109 @@
       "href": "http://www.elotrolado.net/feed/",
       "articles": [
         {
+          "description": "Electronic Arts sigue con hambre. Después de pagar 1.000 millones de euros por Codemasters y 2.100 millones de dólares por Glu Mobile, el editor estadounidense ha sacado de nuevo la cartera para adquirir Metalhead Software, desarrollador de Super Mega Baseball. El montante de la operación no ha trascendido. Metalhead Software es un estudio de desarrollo con base en la ciudad canadiense de Victoria y es conocido por Super Mega Baseball, una franquicia que a partir de ahora forma parte de la división EA Sport…",
+          "link": "https://www.elotrolado.net/hilo_electronic-arts-adquiere-metalhead-software-desarrollador-de-super-mega-baseball_2422094",
+          "publishedOn": "2021-05-05T21:17:01.000Z",
+          "wordCount": 403,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: Electronic Arts adquiere Metalhead Software, desarrollador de Super Mega Baseball"
+        },
+        {
+          "description": "Después de detallar los ajustes en la mecánica de juego y el equilibrio y mostrar las mejoras visuales, es el turno de que Electronic Arts hable sobre qué rendimiento tendrá Mass Effect Legendary Edition en todas las plataformas en las que estará disponible la colección con la trilogía desarrollada BioWare. A primera vista llama la atención que en Xbox Series X se pueden alcanzar los 120 FPS, mientras que PlayStation 5 se debe conformar con 60 FPS. En PC el máximo serán 240 FPS. Mass Effect Legendary Editio…",
+          "link": "https://www.elotrolado.net/noticias/juegos/mass-effect-legendary-edition-rendimiento",
+          "publishedOn": "2021-05-05T20:51:49.000Z",
+          "wordCount": 755,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Mass Effect Legendary Edition detalla su resolución y fotogramas por segundo en función de la consola"
+        },
+        {
+          "description": "Stonefly, el nuevo título de aventuras del estudio independiente Flight School Studio (Creature in the Well), se pondrá a la venta el 1 de junio para PlayStation 5, PlayStation 4, Xbox Series, Xbox One, Nintendo Switch y para PC (Steam, Epic Games Store), según ha anunciado el editor MWM Interactive. El comunicado con la fecha de lanzamiento llega acompañado de un nuevo y breve tráiler del título. Stonefly lleva a los jugadores a vivir una aventura con Mechs a través de un bosque, mientras acompañan en su l…",
+          "link": "https://www.elotrolado.net/hilo_el-juego-de-exploracion-y-aventura-stonefly-estara-disponible-el-1-de-junio_2422071",
+          "publishedOn": "2021-05-05T18:00:03.000Z",
+          "wordCount": 305,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: El juego de exploración y aventura Stonefly estará disponible el 1 de junio"
+        },
+        {
+          "description": "El editor Devolver Digital llevaba algunos días prometiendo vía Twitter novedades sobre Shadow Warrior 3 y finalmente ya están aquí. Por un lado tenemos un nuevo tráiler con un par de minutos de gameplay, y por otro la confirmación de que el juego desarrollado por el estudio placo Flying Wild Hog tendrá una versión para PS4 y Xbox One. Tanto en consolas como en PC (Steam), Shadow Warrior 3 estará disponible a lo largo de 2021. El nuevo tráiler de Shadow Warrior 3 nos permite echar un nuevo vistazo al sangri…",
+          "link": "https://www.elotrolado.net/noticias/juegos/shadow-warrior-3-trailer-consolas",
+          "publishedOn": "2021-05-05T17:37:38.000Z",
+          "wordCount": 709,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Nuevo tráiler de Shadow Warrior 3, que añade versión para PS4 y Xbox One"
+        },
+        {
+          "description": "Cambio de planes. La organización de la Gamescom ha comunicado que la edición de 2021 será totalmente digital y no híbrida como se había anunciado anteriormente. La decisión se toma después de constatar que varias compañías no iban a participar con una presencia física debido a la situación de la pandemia. Para los que no pretendían viajar hasta Colonia (Alemania) no hay cambios. El 25 de agosto se celebrará la ceremonia de apertura, la Gamescom: Opening Night Live presentada por Geoff Keighley, mientras qu…",
+          "link": "https://www.elotrolado.net/hilo_gamescom-cambia-de-idea-y-finalmente-sera-un-evento-totalmente-digital_2422061",
+          "publishedOn": "2021-05-05T16:38:38.000Z",
+          "wordCount": 474,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: Gamescom cambia de idea y finalmente será un evento totalmente digital"
+        },
+        {
+          "description": "Un usuario de ResetEra se ha dado cuenta mirando en LinkedIn que hasta seis empleados de Google que trabajaban en Stadia ahora forman parte de Haven Studios, el nuevo equipo de desarrollo capitaneado por Jade Raymond. Todos ellos, incluyendo la propia Raymond, formaban parte de Stadia Games and Entertainment, división que Google cerró en febrero. La mayoría de desarrolladores que han dejado Stadia por Haven Studios también han pasado por Ubisoft, una compañía con una amplia presencia en Canadá, país donde t…",
+          "link": "https://www.elotrolado.net/hilo_media-docena-de-empleados-de-stadia-se-incorporan-a-haven-studios_2422057",
+          "publishedOn": "2021-05-05T16:26:45.000Z",
+          "wordCount": 284,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: Media docena de empleados de Stadia se incorporan a Haven Studios"
+        },
+        {
+          "description": "Activision ha anunciado que Tony Hawk’s Pro Skater 1 + 2 en su versión para Nintendo Switch se pondrá a la venta el 25 de junio. El título, que debutó en PS4, Xbox One y PC en septiembre de 2020, incluye las dos primeras entregas de la saga remasterizadas y ha sido desarrollado por Vicarious Visions (que ahora forma parte de Blizzard). Tony Hawk’s Pro Skater 1 + 2 ofrece la misma experiencia que ambos juegos entregaron en 1999 y 2000, respectivamente, pero con gráficos totalmente remasterizados. Como noveda…",
+          "link": "https://www.elotrolado.net/hilo_tony-hawk-s-pro-skater-1-2-para-nintendo-switch-estara-disponible-el-25-de-junio_2422054",
+          "publishedOn": "2021-05-05T16:03:35.000Z",
+          "wordCount": 366,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: Tony Hawk’s Pro Skater 1 + 2 para Nintendo Switch estará disponible el 25 de junio"
+        },
+        {
+          "description": "Warner Bros. Games y el desarrollador Turtle Rock Studios (Left 4 Dead) han publicado un nuevo tráiler del shooter cooperativo Back 4 Blood en el que se muestra cómo funciona el sistema de cartas, una función aleatoria que dinamiza las partidas y promete ofrecer una “amplia rejugabilidad”. Las cartas no se podrán comprar de forma individual con dinero real, pero “es probable” que se incluyan naipes como parte del contenido de pago poslanzamiento, que aún no ha sido confirmado. La entrega de cartas gratis sí…",
+          "link": "https://www.elotrolado.net/noticias/juegos/back-4-blood-sistema-cartas-trailer",
+          "publishedOn": "2021-05-05T15:59:43.000Z",
+          "wordCount": 767,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Back 4 Blood muestra un sistema de cartas que promete ofrecer una “amplia rejugabilidad”"
+        },
+        {
+          "description": "Focus Home Interactive ha publicado un gameplay overview trailer de Necromunda: Hired Gun, que como su nombre indica ofrece un resumen con todos los detalles sobre la jugabilidad del título desarrollado por el equipo francés StreumOn Studio. Para que el juego basado en la licencia de Warhammer llegue a las tiendas digitales de PS4, PS5, Xbox One, Xbox Series y PC (Steam) tocará esperar hasta el 1 de junio, mientras que aquellos que quieran la edición física en consola la tendrán disponible el 30 de junio de…",
+          "link": "https://www.elotrolado.net/noticias/juegos/necromunda-hired-gun-gameplay-overview",
+          "publishedOn": "2021-05-05T14:25:47.000Z",
+          "wordCount": 555,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Necromunda: Hired Gun detalla su jugabilidad (armas, historia, zonas, mecánicas…) con un nuevo tráiler"
+        },
+        {
+          "description": "El caudal de documentación que ha visto la luz a raíz del juicio que enfrenta Epic Games y Apple va a la baja, pero sigue proporcionando información interesante que explica algunas situaciones vividas en el pasado. Una de ellas está relacionada con la falta de seguridad de la Epic Games Store y cómo esto provocó un fraude masivo que involucró a The Division 2. Según relata una cadena de correos electrónicos, en abril de 2019 la Epic Games Store tenía un doble problema: las cuentas falsas eran fáciles de cre…",
+          "link": "https://www.elotrolado.net/noticias/juegos/epic-games-store-fraude-division-2",
+          "publishedOn": "2021-05-05T12:41:28.000Z",
+          "wordCount": 865,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "La falta de seguridad en la Epic Games Store provocó un fraude masivo con The Division 2"
+        },
+        {
+          "description": "Las redes sociales tienen un acceso tan profundo a la información personal de sus usuarios, incluso cuando están fuera de las mismas, que pueden confeccionar retratos robot sumamente precisos únicamente a través de su huella digital. Compañías como Facebook tratan de aplacar a sus críticos con controles de privacidad granulares (que no necesariamente accesibles o comprensibles) y aseverando que no tienen nada que ocultar, pero eso no quiere decir que se sientan cómodas comunicando qué es exactamente lo que …",
+          "link": "https://www.elotrolado.net/noticias/internet/facebook-censura-publicidad-signal-datos-personales",
+          "publishedOn": "2021-05-05T09:28:54.000Z",
+          "wordCount": 781,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Facebook bloquea una campaña de publicidad de Signal que mostraba la información personal recogida en Instagram"
+        },
+        {
           "description": "Activision Blizzard ha aprovechado la presentación de sus últimos resultados financieros para hablar sobre la próxima entrega de Call of Duty, que como es habitual se pondrá a la venta a finales de año. Además, la compañía ha sacado pecho por el rendimiento de Call of Duty Mobile, que desde su lanzamiento en 2019 ha conseguido 500 millones de descargas y registrar 1.000 millones de dólares en gasto por parte de los jugadores. Respecto a Call of Duty 2021, su desarrollo está liderado por Sledgehammer Games, …",
           "link": "https://www.elotrolado.net/noticias/juegos/call-of-duty-2021-sledgehammer",
           "publishedOn": "2021-05-04T23:52:45.000Z",
-          "wordCount": 703,
+          "wordCount": 859,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "El nuevo Call of Duty está en manos de Sledgehammer Games y Call of Duty Mobile ha ingresado 1.000 millones de dólares"
@@ -129,7 +300,7 @@
           "description": "Antes de ponerse a trabajar en Resident Evil Village, Capcom analizó el feedback de Resident Evil 7: Biohazard y una de sus conclusiones fue que los jugadores lo encontraron demasiado aterrador. Ese era el objetivo de la compañía, así que recibió este tipo de opiniones como un halago, pero en base a la retroalimentación el equipo de desarrollo de Resident Evil Village decidió rebajar las dosis de terror, según explica el productor del juego Tsuyoshi Kanda en una entrevista concedida a Axios Gaming. “Cuando …",
           "link": "https://www.elotrolado.net/noticias/juegos/resident-evil-village-terror-miedo",
           "publishedOn": "2021-05-04T22:56:06.000Z",
-          "wordCount": 787,
+          "wordCount": 781,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Capcom reconoce que Resident Evil Village es menos aterrador que Resident Evil 7"
@@ -138,7 +309,7 @@
           "description": "Konrad Tomaszkiewicz, director de The Witcher 3, ha dejado CD Projekt Red después de haber sido investigado por un presunto caso de acoso laboral (bullying), según informa Bloomberg (muro de pago). La marcha de Tomaszkiewicz se produce a pesar de que las pesquisas han determinado que no era culpable, pero en su correo de despedida ha reconocido que la gente se sentía incómoda trabajando con él, motivo por el cual ha pedido disculpas. Tomaszkiewicz fue el director de The Witcher 3 así como de las expansiones…",
           "link": "https://www.elotrolado.net/hilo_el-director-de-the-witcher-3-deja-cd-projekt-red_2421969",
           "publishedOn": "2021-05-04T19:45:41.000Z",
-          "wordCount": 813,
+          "wordCount": 2067,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: El director de The Witcher 3 deja CD Projekt Red"
@@ -147,7 +318,7 @@
           "description": "Finalmente el clásico Flashback tendrá una secuela numerada que estará disponible durante el 2022, según ha anunciado Microids. La compañía francesa ha revelado muy pocos detalles del juego, pero como mínimo ya sabemos que el proyecto ha entrado en producción y que su desarrollo corre a cargo de un equipo liderado por Paul Cuisset, programador, diseñador, guionista y máximo responsable tanto del primer Flashback (1992) como de la segunda entrega de la saga Fade to Black (1995). El regreso de Conrad B. Hart,…",
           "link": "https://www.elotrolado.net/noticias/juegos/flashback-2-anunciado",
           "publishedOn": "2021-05-04T16:21:35.000Z",
-          "wordCount": 673,
+          "wordCount": 669,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Microids anuncia Flashback 2, con Paul Cuisset liderando el proyecto"
@@ -165,7 +336,7 @@
           "description": "El desarrollador Piranha Games y el editor Sold Out han anunciado que MechWarrior 5: Mercenaries recibirá una actualización el 27 de mayo que añadirá soporte para el juego cruzado. Ese mismo día el título estará disponible en Xbox Series, Xbox One, Steam y GOG, así que su jugadores podrán jugar junto a los de la Epic Games Store, donde MechWarrior 5: Mercenaries se puso a la venta en diciembre de 2019. La actualización del 27 de mayo también añadirá numerosas mejoras de calidad de vida, cambios en la campañ…",
           "link": "https://www.elotrolado.net/hilo_mechwarrior-5-mercenaries-tendra-soporte-para-juego-cruzado-a-partir-del-27-de-mayo_2421936",
           "publishedOn": "2021-05-04T14:12:35.000Z",
-          "wordCount": 307,
+          "wordCount": 350,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: MechWarrior 5: Mercenaries tendrá soporte para juego cruzado a partir del 27 de mayo"
@@ -174,7 +345,7 @@
           "description": "¿Cuánto pagó Epic Games Store por la exclusiva de un juego como Borderlands 3? Ni más ni menos que 115 millones de dólares a cambio de que el título no pisara Steam hasta pasados seis meses desde su lanzamiento. Son muy pocas las ocasiones en las que trasciende al público información de este calibre y sensibilidad, menos aún apoyada por documentos oficiales, pero el juicio que enfrenta Epic Games y Apple se ha convertido en una mina en la que muchos se animan a picar. El llamado Fully loaded Borderlands 3 D…",
           "link": "https://www.elotrolado.net/noticias/juegos/epic-games-store-borderlands-3-acuerdo",
           "publishedOn": "2021-05-04T12:15:12.000Z",
-          "wordCount": 849,
+          "wordCount": 866,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Epic Games pagó 115 millones de dólares por la exclusividad de Borderlands 3"
@@ -183,7 +354,7 @@
           "description": "El juicio que enfrenta Epic Games y Apple por las supuestas prácticas anticompetitivas de la App Store de iOS solo ha consumido una jornada, pero las declaraciones y los documentos que se han podido escuchar y ver en el tribunal son más que suculentos. Cierto es que hay algo de salseo, pero también mucho material que nos permite arrojar luz a los ingresos anuales de Fortnite, cómo negocian compañías como Sony y Epic Games por el juego cruzado o cuánto cuestan los juegos gratuitos de la Epic Games Store (EGS…",
           "link": "https://www.elotrolado.net/noticias/juegos/juicio-epic-apple-resumen-fortnite",
           "publishedOn": "2021-05-04T10:26:07.000Z",
-          "wordCount": 1248,
+          "wordCount": 1265,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Epic vs. Apple: ingresos de Fortnite, compensaciones a Sony por el juego cruzado y coste de los juegos gratis de la EGS"
@@ -192,7 +363,7 @@
           "description": "Microsoft ha anunciado que más de 70 juegos de Xbox disponibles en Xbox Series mediante el sistema de retrocompatibilidad han recibido soporte para FPS Boost. Gracias a esta expansión, la mencionada función que debutó con solo cinco títulos a los que posteriormente se añadieron algunos trabajos de Bethesda Softworks y Electronic Arts, ya se encuentra presente en 97 juegos. Entre los títulos que han ganado soporte para FPS Boost tenemos a obras como Alien Isolation, varias entregas de Assassin’s Creed, Deus …",
           "link": "https://www.elotrolado.net/noticias/juegos/xbox-series-fps-boost-mas",
           "publishedOn": "2021-05-03T22:47:33.000Z",
-          "wordCount": 1085,
+          "wordCount": 1081,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Más de 70 juegos añaden soporte para la función FPS Boost de Xbox Series"
@@ -201,7 +372,7 @@
           "description": "Ubisoft ha anunciado que a lo largo del día de hoy pondrá a disposición de los jugadores de Watch Dogs: Legion la “mayor actualización de contenido poslanzamiento”, que pasa por ser una combinación de elementos de pago incluidos en el Pase de Temporada y gratuitos para el modo online. La principal novedad se llama Mina Sidhu, un nuevo personaje con el que se podrá completar la campaña principal y los diferentes desafíos que propone el multijugador en línea. Mina Sidhu es el primer personaje jugable adiciona…",
           "link": "https://www.elotrolado.net/noticias/juegos/watch-dogs-legion-mina-sidhu",
           "publishedOn": "2021-05-03T22:12:14.000Z",
-          "wordCount": 827,
+          "wordCount": 823,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Watch Dogs: Legion recibe al personaje adicional Mina Sidhu y añade nuevas misiones cooperativas"
@@ -210,7 +381,7 @@
           "description": "Sony Interactive Entertainment y Discord han anunciado una asociación para que el popular servicio de comunicación se integre a principios del próximo años en PlayStation Network. Como parte de este acuerdo, la compañía japonesa también ha realizado una inversión minoritaria en Discord. Esta alianza entre ambas empresas se hace pública pocas semanas después de que Microsoft y Discord pusieran fin a las negociaciones sobre una posible compra por valor de 10.000 millones de dólares. “Juntos, nuestros equipos …",
           "link": "https://www.elotrolado.net/noticias/consolas/discord-playstation-integracion",
           "publishedOn": "2021-05-03T17:41:09.000Z",
-          "wordCount": 675,
+          "wordCount": 671,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Sony invierte en Discord e integrará su servicio de comunicación en PlayStation Network"
@@ -219,7 +390,7 @@
           "description": "Sony Interactive Entertainment ha revelado los tres juegos que a partir de mañana 4 de mayo se unirán al catálogo de PlayStation Now. Se trata de Streets of Rage 4, Nioh y Jump Force. Además, la compañía ha recordado que recientemente el servicio ha implantado soporte para transmitir el contenido a 1080p en PS4, PS5 y PC, una resolución que se irá desplegando a lo largo de las próximas semanas en Europa, Estados Unidos, Canadá y Japón. Para jugar en streaming a 1080p en PS Now se requiere de una conexión de…",
           "link": "https://www.elotrolado.net/noticias/juegos/playstation-now-mayo",
           "publishedOn": "2021-05-03T16:21:47.000Z",
-          "wordCount": 814,
+          "wordCount": 810,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Streets of Rage 4, Nioh y Jump Force se unen a PlayStation Now"
@@ -228,7 +399,7 @@
           "description": "Riot Games ha anunciado que Arcane, la primera serie animada que se adentra en el universo de la franquicia League of Legends, estará disponible durante este otoño mediante Netflix. No es la primera vez que la plataforma de streaming se convierte en la casa de una serie de animación basada en una saga de videojuegos. Primero fue Castlevania, que llegará a su fin el 13 de mayo con la cuarta temporada, y el 25 de marzo debutó Dota: Sangre de dragón, el único MOBA que por ahora ha plantado cara a League of Leg…",
           "link": "https://www.elotrolado.net/noticias/internet/league-of-legends-arcane-serie-netflix-trailer",
           "publishedOn": "2021-05-03T15:16:42.000Z",
-          "wordCount": 795,
+          "wordCount": 791,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Arcane, la primera serie de animación de League of Legends, llegará en otoño a Netflix"
@@ -237,115 +408,70 @@
           "description": "Microsoft ha anunciado la lista de juegos que durante la primera quincena de mayo pasarán a formar parte o abandonarán el catálogo de Xbox Game Pass. Al final de la noticia tenéis la lista completa. Además, la compañía ha revelado que los suscriptores de Xbox Game Pass Ultimate tienen disponible una nueva ventaja (Perk) que permite acceder durante cuatro meses a Spotify Premium (para nuevos miembros), pero no queda claro si esta oferta está disponible para los usuarios de España. FIFA 21 será, con casi toda…",
           "link": "https://www.elotrolado.net/noticias/juegos/xbox-game-pass-mayo-2021",
           "publishedOn": "2021-05-03T14:37:48.000Z",
-          "wordCount": 929,
+          "wordCount": 925,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Red Dead Online, Final Fantasy X/X-2, FIFA 21, Outlast 2 y más se unirán a Xbox Game Pass"
-        },
-        {
-          "description": "“Los foros de MeriStation cerrarán su actividad el próximo 5 de mayo”. Así empieza el comunicado oficial de MeriStation para notificar a sus lectores que la página pondrá fin a sus servicios de comunidad este mismo miércoles. No solo se cerrarán los foros, sino que también “se borrará todo”, ya que según el administrador “no se puede dejar el foro a modo lectura”. En números esto significa que se perderán más de 2 millones de temas con más de 45 millones de mensajes escritos por una comunidad de 628.594 mie…",
-          "link": "https://www.elotrolado.net/noticias/internet/meristation-cierra-foro",
-          "publishedOn": "2021-05-03T12:01:45.000Z",
-          "wordCount": 740,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "MeriStation cierra sus foros tras 21 años de actividad y borrará todo su contenido"
-        },
-        {
-          "description": "Los documentos que Microsoft ha aportado en el caso de Epic Games vs. Apple han revelado algunas de las exclusivas que la compañía ha firmado con estudios third-party. Uno de los juegos afectados es S.T.A.L.K.E.R. 2, que en consola tiene una exclusividad de tres meses en favor de Xbox Series. Una vez superado este periodo, el título de GSC Game World puede aparecer en otros sistemas. En el documento también se menciona la exclusividad de seis meses para Tetris Effect: Connected, una actualización multijugad…",
-          "link": "https://www.elotrolado.net/hilo_s-t-a-l-k-e-r-2-para-xbox-series-tiene-una-exclusiva-en-consola-de-tres-meses_2421789",
-          "publishedOn": "2021-05-02T20:48:32.000Z",
-          "wordCount": 4818,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Breve: S.T.A.L.K.E.R. 2 para Xbox Series tiene una exclusiva en consola de tres meses"
-        },
-        {
-          "description": "Actualización: En una nueva declaración, un portavoz de Microsoft ha sido mucho más claro al afirmar que la compañía no tiene ninguna intención de cambiar el reparto de los ingresos en los juegos de consola. En otras palabras, en la tienda de Xbox se mantiene el tradicional 70/30. Noticia original: Los planes de futuro de Microsoft incluyen un cambio en el reparto de los ingresos de la tienda de Xbox para rebajar al 12 % la comisión que la compañía se lleva por cada juego vendido, según revelan una serie de…",
-          "link": "https://www.elotrolado.net/noticias/juegos/xbox-cambio-reparto-ingresos",
-          "publishedOn": "2021-05-02T13:42:22.000Z",
-          "wordCount": 1002,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Microsoft no cambiará el reparto de ingresos en la tienda de Xbox (Actualizada)"
-        },
-        {
-          "description": "Mayo se presenta como un mes con abundantes estrenos y regresos esperados. Quien más se juega en las próximas semanas posiblemente sea Netflix con Jupiter's Legacy, la primera serie de superhéroes sacada de Millarworld, una compañía que le pertenece y para la que tiene ambiciosos planes. Además, el servicio dirá adiós a Castlevania, la serie de animación de cuatro temporadas que ha adaptado la saga de videojuegos propiedad de Konami. Por su parte, en Prime Video tenemos la miniserie The Underground Railroad…",
-          "link": "https://www.elotrolado.net/noticias/internet/series-netflix-apple-hbo-amazon-movistar-mayo-2021",
-          "publishedOn": "2021-05-01T15:07:59.000Z",
-          "wordCount": 2700,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Netflix estrena Jupiter's Legacy, The Underground Railroad debuta en Amazon y Mythic Quest vuelve a Apple TV+"
-        },
-        {
-          "description": "Konami, una histórica compañía de la industria del videojuego que en el pasado solía desarrollar juegos e incluso editar los de otros, lo sigue haciendo. Como mínimo esto es lo que se desprende del mensaje que la compañía japonesa ha enviado mediante Twitter para anunciar que no asistirá al E3 2021, donde su presencia ya había sido confirmada por la Entertainment Software Association (ESA), a pesar de que tiene “varios proyectos” en camino que serán descubiertos a su debido momento. “Debido al calendario, n…",
-          "link": "https://www.elotrolado.net/noticias/juegos/konami-e3-2021-no",
-          "publishedOn": "2021-05-01T14:38:21.000Z",
-          "wordCount": 760,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Konami se retira del E3 2021, pero asegura que tiene varios proyectos en marcha"
-        },
-        {
-          "description": "Riot Games ha anunciado una actualización de su política de privacidad y los términos de servicio que le permitirá grabar y analizar las comunicaciones por voz cuando se envíe un informe sobre un comportamiento inadecuado. La filial de Tencent tiene la intención de aplicar esta medida solo al shooter táctico free-to-play Valorant, pero legalmente la documentación le permite hacerlo en sus otros juegos (como League of Legends). El objetivo es expulsar a los jugadores tóxicos “Sabemos que los comportamientos …",
-          "link": "https://www.elotrolado.net/noticias/juegos/riot-valorant-chat-voz-grabar",
-          "publishedOn": "2021-05-01T13:59:37.000Z",
-          "wordCount": 779,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Riot Games grabará el chat de voz de Valorant para acabar con los jugadores tóxicos"
-        },
-        {
-          "description": "La escasez de chips está causando estragos en todo el mundo. Que cueste encontrar una consola de nueva generación como PlayStation 5 o Xbox Series es una molestia, pero que las fábricas de coches instaladas a lo largo y ancho de Europa cierren líneas o supriman turnos por la falta de chips es más preocupante. Por ese motivo la Unión Europea quiere doblar la producción de semiconductores en el continente e Intel está dispuesta a poner de su parte para cumplir con este objetivo, siempre y cuando reciba ayuda …",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/intel-ayudas-fabricar-chips-europa",
-          "publishedOn": "2021-05-01T13:04:01.000Z",
-          "wordCount": 817,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Intel quiere 8.000 millones de euros en subvenciones para construir una planta de chips en Europa"
-        },
-        {
-          "description": "La presentación de resultados económicos ha marcado gran parte de la actualidad de la semana. Microsoft ha visto aumentar los ingresos de Xbox un 50 %, mientras que Sony se ha comprometido a invertir más dinero en PlayStation Studios para contratar a desarrolladores y revelado que PlayStation 5 ha vendido 7,8 millones de unidades. Por otro lado, Apple ha registrado unos ingresos trimestrales récord de 89.600 millones de dólares. PlayStation Studios también ha sido protagonista por la demostración de Ratchet…",
-          "link": "https://www.elotrolado.net/noticias/juegos/semana-24-abril-1-mayo-2021",
-          "publishedOn": "2021-05-01T12:19:46.000Z",
-          "wordCount": 1107,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Las noticias de la semana (24 de abril - 1 de mayo)"
-        },
-        {
-          "description": "Una vez más, Facebook amplía la familia de equipos de desarrollo que forman parte de su filial Oculus Studios. En esta ocasión el elegido ha sido Downpour Interactive, un estudio estadounidense afincado en Raleigh (Carolina del Norte) que lleva casi cinco años trabajando en Onward, un simulador militar en forma de shooter en primera persona desarrollado para la realidad virtual que aún se encuentra en fase de acceso anticipado. El montante de la operación no ha trascendido. “Onward es el primer juego de Dow…",
-          "link": "https://www.elotrolado.net/noticias/juegos/facebook-oculus-compra-downpour-onward",
-          "publishedOn": "2021-04-30T23:57:03.000Z",
-          "wordCount": 576,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Facebook compra Downpour Interactive, responsable del shooter militar de realidad virtual Onward"
-        },
-        {
-          "description": "El editor Koch Media y el desarrollador Black Eye Games han anunciado que Siege Survival: Gloria Victis estará disponible el martes 18 de mayo mediante Steam, Epic Games Store y GOG a cambio de 24,99 euros. Los interesados en el juego lo pueden probar mediante una demo que se puede descargar desde Steam. Siege Survival: Gloria Victis es un título de estrategia y gestión de supervivencia medieval, que tiene como protagonista a un grupo de civiles que se encuentra atrapado en una pequeña fortaleza asediada po…",
-          "link": "https://www.elotrolado.net/hilo_siege-survival-gloria-victis-se-pondra-a-la-venta-el-18-de-mayo_2421587",
-          "publishedOn": "2021-04-30T17:06:47.000Z",
-          "wordCount": 336,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Breve: Siege Survival: Gloria Victis se pondrá a la venta el 18 de mayo"
-        },
-        {
-          "description": "Epic Game sigue con hambre y su última adquisición es ArtStation, una conocida plataforma donde artistas de la industria del entretenimiento (juegos, películas…) pueden mostrar, compartir y vender sus trabajos. ArtStation también actúa como un punto de encuentro y no son pocos los artistas que han encontrado trabajo gracias a sus herramientas. A pesar de la adquisición, ArtStation seguirá siendo una plataforma independiente y su objetivo de ayudar a promocionar a los artistas se mantendrá, pero habrá cambio…",
-          "link": "https://www.elotrolado.net/hilo_epic-games-compra-artstation_2421586",
-          "publishedOn": "2021-04-30T17:01:02.000Z",
-          "wordCount": 439,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Breve: Epic Games compra ArtStation"
         }
       ]
     },
     {
       "href": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
       "articles": [
+        {
+          "description": "About Shadow Warrior 3\nFallen corporate shogun Lo Wang and his former employer turned nemesis turned sidekick Orochi Zilla embark on an improbable mission to recapture an ancient dragon they unwillingly unleashed from its eternal prison. Armed with a punishing mix of blades and bullets, Lo Wang must traverse uncharted parts of the world to track down the dark beast and push the apocalypse back yet again. All it will take is the mask of a dead god, a dragon’s egg, a touch of magic, and enough firepower to ho…",
+          "link": "https://www.allgamesdelta.net/2021/05/shadow-warrior-3-adds-ps4-and-xbox-one.html",
+          "publishedOn": "2021-05-06T00:28:00.000Z",
+          "wordCount": 327,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Shadow Warrior 3 Adds PS4 and Xbox One Versions, 'Doomsday Device' Stage Reveal Trailer"
+        },
+        {
+          "description": "Chill and Tranquil Adventure Game Stonefly Launches June 1\n   Stonefly, a chill and tranquil action adventure game from Flight School Studio, the award-winning independent game studio behind the 2019 hit Creature in the Well, launches June 1, 2021 on PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, Nintendo Switch and PC via Steam and the Epic Games Store. Stonefly takes players on a mech adventure through an enchanting forest, as they follow the coming-of-age story of Annika Stonefly, a brilliant b…",
+          "link": "https://www.allgamesdelta.net/2021/05/stonefly-launches-june-1.html",
+          "publishedOn": "2021-05-05T19:06:00.000Z",
+          "wordCount": 434,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Stonefly Launches June 1"
+        },
+        {
+          "description": "New Back 4 Blood Trailer Shows Off Innovative Card System Providing Extensive Replayability\n Warner Bros. Games and Turtle Rock Studios today released a new Back 4 Blood trailer providing an in-depth look at the game’s innovative Card System, a new rogue-lite feature that enhances your experience with each playthrough, ensuring every gameplay session is dynamic, intense and feels unique. Players can easily jump right into the action by choosing a pre-made default deck or dive into the Card System’s vast cus…",
+          "link": "https://www.allgamesdelta.net/2021/05/back-4-blood-card-system-trailer.html",
+          "publishedOn": "2021-05-05T18:31:00.000Z",
+          "wordCount": 342,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Back 4 Blood 'Card System' Trailer"
+        },
+        {
+          "description": "Necromunda: Hired Gun takes you on a deep dive in new Gameplay Overview Trailer\n Necromunda: Hired Gun, the fast-paced FPS by the small, passionate team at Streum On Studio, hits PC and consoles on June 1st. Welcome to the gritty, violent hive city of Necromunda, a place where anything goes - for the right price. As a bounty hunter in this utopia of violence, get ready to use the many tools in your deadly arsenal to see through each contract. Watch today’s new Gameplay Overview Trailer for a deep dive into …",
+          "link": "https://www.allgamesdelta.net/2021/05/necromunda-hired-gun-gameplay-overview.html",
+          "publishedOn": "2021-05-05T17:36:00.000Z",
+          "wordCount": 354,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Necromunda: Hired Gun Gameplay Overview Trailer"
+        },
+        {
+          "description": "A Lomg-Awaited Video Game Adptation for the Popular Manga Series Made in Abyss Has Finally Been Announced!\n We will be releasing a 3D Action RPG based on the popular manga series, Made in Abyss, titled Made in Abyss: Binary Star Falling into Darkness for PlayStation 4, Nintendo Switch, and Steam for North America! The physical version of the title will also be published in Europe by Numskull Games.\n Made in Abyss is a fantasy manga by Akihito Tsukushi, published on WEB Comic Gamma (Takeshobo) since 2012. Th…",
+          "link": "https://www.allgamesdelta.net/2021/05/3d-action-rpg-made-in-abyss-binary-star.html",
+          "publishedOn": "2021-05-05T05:24:00.000Z",
+          "wordCount": 378,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "3D Action RPG Made in Abyss: Binary Star Falling into Darkness Announced for PS4, Switch and PC"
+        },
+        {
+          "description": "About Biomutant\n Biomutant is an open-world, post-apocalyptic Wung-Fu fable RPG, with unique martial art styled combat system allowing you to mix melee, shooting, and mutant ability action.\n \nKey Features\n   •    A New Take on Third-Person Combat – The martial arts style combat system allows you maximum freedom of movement and agility while mixing shooting, melee, and powers from your mutations. Learning new Wung-Fu combat forms through progression and learning from masters you’ll meet, will constantly add …",
+          "link": "https://www.allgamesdelta.net/2021/05/biomutant-may-furrth-trailer.html",
+          "publishedOn": "2021-05-05T05:05:00.000Z",
+          "wordCount": 493,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Biomutant 'May The Furrth' Trailer"
+        },
         {
           "description": "Microids announces Flashback 2 is in production!\n Paul Cuisset and Microids are delighted to announce the development of Flashback 2 has started on PC and consoles! Developed by a team under the supervision of Paul Cuisset, Flashback 2 will be an action platformer starring once again Conrad B. Hart.\n Released almost 3 decades ago, Flashback was ahead of its time offering an innovative gameplay with breathtaking character animations. Unrivaled pioneer in 1992, the game also reached a legendary status thanks …",
           "link": "https://www.allgamesdelta.net/2021/05/flashback-2-announced-for-consoles-and.html",
@@ -446,10 +572,10 @@
           "title": "Among Us Coming to PS5 and PS4 in 2021"
         },
         {
-          "description": "The Persistence Enhanced comes to new generation consoles and PC on June 4th\n  Firesprite’s critically acclaimed survival horror title, The Persistence be available for PlayStation®5, XBOX Series X|S and PC platforms in the form of an enhanced edition launching worldwide on June 4th.\n The Persistence offers a brutal take on survival-horror that integrates an innovative rogue-lite design into the genre, as players are tasked with surviving aboard a doomed deep space colony starship in the year 2521, repeated…",
+          "description": "The Persistence Enhanced comes to new generation consoles and PC on June 4th\n  Firesprite’s critically acclaimed survival horror title, The Persistence be available for PlayStation 5, Xboz Series X|S and PC platforms in the form of an enhanced edition launching worldwide on June 4th.\n The Persistence offers a brutal take on survival-horror that integrates an innovative rogue-lite design into the genre, as players are tasked with surviving aboard a doomed deep space colony starship in the year 2521, repeated…",
           "link": "https://www.allgamesdelta.net/2021/04/the-persistence-enhanced-launches-june-4.html",
           "publishedOn": "2021-04-30T12:44:00.000Z",
-          "wordCount": 257,
+          "wordCount": 258,
           "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
           "sourceTitle": "All Games Delta",
           "title": "The Persistence Enhanced Launches June 4"
@@ -516,63 +642,9 @@
           "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
           "sourceTitle": "All Games Delta",
           "title": "Final Fantasy VII Remake Intergrade co-directors discuss Yuffie Kisaragi in 'EPISODE INTERmission'"
-        },
-        {
-          "description": "PlayStation Plus games for May: Battlefield V, Stranded Deep, Wreckfest: Drive Hard. Die Last.\n Join forces with players worldwide as you plunge yourself into the dark heart of battle, crunch metal and burn rubber on a carnage-filled racetrack against friends or strip back to the bare essentials and attempt to survive a treacherous paradise solo. Enticing, challenging prospects all, but which will you try first when next month’s PlayStation Plus games launch on May 4?\n Let’s take a closer look at those game…",
-          "link": "https://www.allgamesdelta.net/2021/04/playstation-plus-free-games-for-may.html",
-          "publishedOn": "2021-04-29T02:10:00.000Z",
-          "wordCount": 389,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "PlayStation Plus Free Games for May 2021 Announced"
-        },
-        {
-          "description": "Returnal survival guide: Housemarque’s gameplay tips for Atropos - PlayStation Blog\n Housemarque's Next Awesome Arcade Action Game Releases Tomorrow! - Housemarque.com",
-          "link": "https://www.allgamesdelta.net/2021/04/returnal-tide-launch-trailer.html",
-          "publishedOn": "2021-04-28T14:10:00.000Z",
-          "wordCount": 42,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Returnal 'The Tide' Launch Trailer"
-        },
-        {
-          "description": "Rome Is Where the Heart Is: New Installment of the Expeditions Franchise Announced\n Vindobona, Noricum / Hafnia, Daniae, Aprilis XXVIII., MMXXI: Friends, Romans, Countrymen, lend me your ears! We've come to praise a new game, called Expeditions: Rome! A classic RPG (Rome Playing Game) it is, full of story and memorable characters. A game where your choices will matter, where your choices will shape the fate of Rome itself.\n You are about to become a young Legatus, leading a Roman legion against the forces o…",
-          "link": "https://www.allgamesdelta.net/2021/04/expeditions-rome-announced-for-pc.html",
-          "publishedOn": "2021-04-28T13:34:00.000Z",
-          "wordCount": 600,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Expeditions: Rome Announced for PC, Coming Late This Year"
-        },
-        {
-          "description": "Monster Hunter Stories 2: Wings of Ruin New Details Revealed, Monster Hunter Rise First Free Update Arriving Tonight \n Today’s Monster Hunter Digital Event revealed new trailers, gameplay, and information for Monster Hunter Stories 2: Wings of Ruin and Monster Hunter Rise. The latest trailer for Monster Hunter Stories 2: Wings of Ruin offered tantalizing plot details ahead of the game’s July 9, 2021 release on Nintendo Switch and PC: a first look at two returning characters from Monster Hunter Stories, a br…",
-          "link": "https://www.allgamesdelta.net/2021/04/monster-hunter-stories-2-wings-of-ruin.html",
-          "publishedOn": "2021-04-27T20:53:00.000Z",
-          "wordCount": 791,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Monster Hunter Stories 2: Wings of Ruin Third Trailer and Screenshots,  Monster Hunter Rise Version 2.0 Update Launches April 28"
-        },
-        {
-          "description": "",
-          "link": "https://www.allgamesdelta.net/2021/04/scarlet-nexus-environment-highlight.html",
-          "publishedOn": "2021-04-27T16:27:00.000Z",
-          "wordCount": 21,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Scarlet Nexus 'Environment Highlight' Video"
-        },
-        {
-          "description": "Meridiem Games and Raiser Games Announce Deluxe Boxed Edition of Song of Horror Coming This Summer for PlayStation 4\n Song of Horror, the acclaimed horror game developed by Protocol Games and published by Raiser Games, will be available as a special physical boxed edition, published and distributed by Meridiem Games. This Deluxe Edition will be available this summer for PlayStation 4.\n A must have for any horror fan, this boxed Deluxe Edition will include a special artwork sleeve, a map where players can no…",
-          "link": "https://www.allgamesdelta.net/2021/04/meridiem-games-and-raiser-games.html",
-          "publishedOn": "2021-04-27T12:18:00.000Z",
-          "wordCount": 512,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Meridiem Games and Raiser Games Announce Deluxe Boxed Edition of Song of Horror Coming This Summer for PS4"
         }
       ]
     }
   ],
-  "cliVersion": "1.3.1"
+  "cliVersion": "1.4.0"
 }
