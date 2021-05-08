@@ -4,184 +4,184 @@
       "href": "https://hnrss.org/frontpage",
       "articles": [
         {
-          "description": "Article URL: https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-growth-marketing-lead\nComments URL: https://news.ycombinator.com/item?id=27070751\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-growth-marketing-lead",
-          "publishedOn": "2021-05-07T01:00:02.000Z",
-          "wordCount": 687,
+          "description": "Article URL: https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887\nComments URL: https://news.ycombinator.com/item?id=27081754\nPoints: 78\n# Comments: 76",
+          "link": "https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887",
+          "publishedOn": "2021-05-07T22:56:45.000Z",
+          "wordCount": 1145,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Laylo (YC S20) Is Hiring"
+          "title": "California population declines for first time in more than a century"
         },
         {
-          "description": "Article URL: https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/\nComments URL: https://news.ycombinator.com/item?id=27070290\nPoints: 27\n# Comments: 0",
-          "link": "https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/",
-          "publishedOn": "2021-05-06T23:50:43.000Z",
-          "wordCount": 3671,
+          "description": "Article URL: https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming\nComments URL: https://news.ycombinator.com/item?id=27081461\nPoints: 7\n# Comments: 0",
+          "link": "https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming",
+          "publishedOn": "2021-05-07T22:16:04.000Z",
+          "wordCount": 1715,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "College Became a Ruthless Competition Divorced from Learning"
+          "title": "Back-ups for GPS: Satellite-navigation systems at risk of jamming"
         },
         {
-          "description": "Article URL: https://kylebarron.dev/usgs-topo-mosaic\nComments URL: https://news.ycombinator.com/item?id=27069656\nPoints: 54\n# Comments: 7",
-          "link": "https://kylebarron.dev/usgs-topo-mosaic",
-          "publishedOn": "2021-05-06T22:12:42.000Z",
-          "wordCount": 15,
+          "description": "Article URL: https://tedium.co/2021/05/07/linux-live-cd-history/\nComments URL: https://news.ycombinator.com/item?id=27081369\nPoints: 16\n# Comments: 13",
+          "link": "https://tedium.co/2021/05/07/linux-live-cd-history/",
+          "publishedOn": "2021-05-07T22:03:57.000Z",
+          "wordCount": null,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Show HN: Serverless USGS Historical Topographic map tiles"
+          "title": "The Distribution Vector That Changed Linux Forever"
         },
         {
-          "description": "Article URL: https://dl.acm.org/doi/pdf/10.1145/3309074.3309076\nComments URL: https://news.ycombinator.com/item?id=27069036\nPoints: 69\n# Comments: 20",
-          "link": "https://dl.acm.org/doi/pdf/10.1145/3309074.3309076",
-          "publishedOn": "2021-05-06T21:05:43.000Z",
-          "wordCount": 148,
+          "description": "Article URL: https://awslabs.github.io/smithy/\nComments URL: https://news.ycombinator.com/item?id=27081084\nPoints: 75\n# Comments: 20",
+          "link": "https://awslabs.github.io/smithy/",
+          "publishedOn": "2021-05-07T21:31:58.000Z",
+          "wordCount": 704,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Privacy Implications of Accelerometer Data [pdf]"
+          "title": "Smithy: A language for defining services and SDKs"
         },
         {
-          "description": "Article URL: https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought\nComments URL: https://news.ycombinator.com/item?id=27068716\nPoints: 57\n# Comments: 45",
-          "link": "https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought",
-          "publishedOn": "2021-05-06T20:30:58.000Z",
-          "wordCount": 2370,
+          "description": "Article URL: https://www.ycombinator.com/companies/kraftful/\nComments URL: https://news.ycombinator.com/item?id=27080810\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/kraftful/",
+          "publishedOn": "2021-05-07T21:00:32.000Z",
+          "wordCount": 81,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "California is not in drought"
+          "title": "Kraftful (YC S19) hiring founding engineers to build the standard IoT platform"
         },
         {
-          "description": "Article URL: https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf\nComments URL: https://news.ycombinator.com/item?id=27068574\nPoints: 53\n# Comments: 7",
-          "link": "https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf",
-          "publishedOn": "2021-05-06T20:17:14.000Z",
-          "wordCount": 22239,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]"
-        },
-        {
-          "description": "Article URL: https://datasetsearch.research.google.com/\nComments URL: https://news.ycombinator.com/item?id=27068551\nPoints: 203\n# Comments: 25",
-          "link": "https://datasetsearch.research.google.com/",
-          "publishedOn": "2021-05-06T20:15:29.000Z",
-          "wordCount": 27,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Google Dataset Search"
-        },
-        {
-          "description": "Article URL: https://distill.pub/selforg/2021/adversarial\nComments URL: https://news.ycombinator.com/item?id=27068236\nPoints: 47\n# Comments: 4",
-          "link": "https://distill.pub/selforg/2021/adversarial",
-          "publishedOn": "2021-05-06T19:46:36.000Z",
-          "wordCount": 5921,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Adversarial Reprogramming of Neural Cellular Automata"
-        },
-        {
-          "description": "Article URL: https://nautil.us/issue/99/universality/the-vast-viral-world-what-we-know-and-dont-know\nComments URL: https://news.ycombinator.com/item?id=27068116\nPoints: 39\n# Comments: 1",
-          "link": "https://nautil.us/issue/99/universality/the-vast-viral-world-what-we-know-and-dont-know",
-          "publishedOn": "2021-05-06T19:37:09.000Z",
-          "wordCount": 4157,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "The vast viral world: what we know and don’t know"
-        },
-        {
-          "description": "Article URL: https://brave.com/playlist/\nComments URL: https://news.ycombinator.com/item?id=27068071\nPoints: 81\n# Comments: 41",
-          "link": "https://brave.com/playlist/",
-          "publishedOn": "2021-05-06T19:32:38.000Z",
-          "wordCount": 545,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Playlist for iOS"
-        },
-        {
-          "description": "Article URL: https://nautil.us/issue/99/universality/why-people-feel-like-victims\nComments URL: https://news.ycombinator.com/item?id=27067543\nPoints: 72\n# Comments: 106",
-          "link": "https://nautil.us/issue/99/universality/why-people-feel-like-victims",
-          "publishedOn": "2021-05-06T18:47:49.000Z",
-          "wordCount": 2653,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Why People Feel Like Victims"
-        },
-        {
-          "description": "Article URL: https://www.ipachart.com/\nComments URL: https://news.ycombinator.com/item?id=27066579\nPoints: 166\n# Comments: 120",
-          "link": "https://www.ipachart.com/",
-          "publishedOn": "2021-05-06T17:33:00.000Z",
+          "description": "Article URL: https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit\nComments URL: https://news.ycombinator.com/item?id=27080695\nPoints: 120\n# Comments: 114",
+          "link": "https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit",
+          "publishedOn": "2021-05-07T20:47:12.000Z",
           "wordCount": 487,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Interactive IPA Chart"
+          "title": "Be in a field where tech is the limit"
         },
         {
-          "description": "Article URL: https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/\nComments URL: https://news.ycombinator.com/item?id=27066295\nPoints: 169\n# Comments: 51",
-          "link": "https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/",
-          "publishedOn": "2021-05-06T17:13:08.000Z",
-          "wordCount": 1556,
+          "description": "Article URL: http://littlefreelibrary.org/\nComments URL: https://news.ycombinator.com/item?id=27080639\nPoints: 48\n# Comments: 52",
+          "link": "http://littlefreelibrary.org/",
+          "publishedOn": "2021-05-07T20:41:44.000Z",
+          "wordCount": 789,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "A centrifugal spin on a 500-year-old air compressor design"
+          "title": "Little Free Library"
         },
         {
-          "description": "Article URL: http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA\nComments URL: https://news.ycombinator.com/item?id=27065938\nPoints: 121\n# Comments: 187",
-          "link": "http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA",
-          "publishedOn": "2021-05-06T16:46:01.000Z",
-          "wordCount": 1475,
+          "description": "Article URL: https://findstarlink.com\nComments URL: https://news.ycombinator.com/item?id=27080471\nPoints: 126\n# Comments: 89",
+          "link": "https://findstarlink.com",
+          "publishedOn": "2021-05-07T20:26:00.000Z",
+          "wordCount": 727,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Researchers chart path to drastically lower administrative costs of health care"
+          "title": "Starlink Satellites Tracker"
         },
         {
-          "description": "Article URL: https://www.nytimes.com/2021/05/06/technology/internet-providers-fake-comments-net-neutrality-new-york.html\nComments URL: https://news.ycombinator.com/item?id=27065738\nPoints: 390\n# Comments: 216",
-          "link": "https://www.nytimes.com/2021/05/06/technology/internet-providers-fake-comments-net-neutrality-new-york.html",
-          "publishedOn": "2021-05-06T16:33:08.000Z",
-          "wordCount": 810,
+          "description": "Article URL: https://www.npr.org/2021/05/06/993821945/goodwill-doesnt-want-your-broken-toaster\nComments URL: https://news.ycombinator.com/item?id=27080314\nPoints: 46\n# Comments: 66",
+          "link": "https://www.npr.org/2021/05/06/993821945/goodwill-doesnt-want-your-broken-toaster",
+          "publishedOn": "2021-05-07T20:06:55.000Z",
+          "wordCount": 942,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Opposition to net neutrality was faked, New York says"
+          "title": "Goodwill doesn't want broken toasters"
         },
         {
-          "description": "Article URL: https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html\nComments URL: https://news.ycombinator.com/item?id=27064800\nPoints: 191\n# Comments: 23",
-          "link": "https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html",
-          "publishedOn": "2021-05-06T15:34:07.000Z",
-          "wordCount": 15920,
+          "description": "Article URL: https://github.com/NixOS/patchelf\nComments URL: https://news.ycombinator.com/item?id=27079565\nPoints: 93\n# Comments: 22",
+          "link": "https://github.com/NixOS/patchelf",
+          "publishedOn": "2021-05-07T18:59:07.000Z",
+          "wordCount": 1301,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit"
+          "title": "PatchELF: Simple utility for modifying existing ELF executables and libraries"
         },
         {
-          "description": "Article URL: https://if50.substack.com/p/1988-prestavba\nComments URL: https://news.ycombinator.com/item?id=27064246\nPoints: 182\n# Comments: 59",
-          "link": "https://if50.substack.com/p/1988-prestavba",
-          "publishedOn": "2021-05-06T15:01:22.000Z",
-          "wordCount": 3743,
+          "description": "Article URL: https://archive.org/details/The_Complete_HyperCard_Handbook/\nComments URL: https://news.ycombinator.com/item?id=27079239\nPoints: 119\n# Comments: 39",
+          "link": "https://archive.org/details/The_Complete_HyperCard_Handbook/",
+          "publishedOn": "2021-05-07T18:35:12.000Z",
+          "wordCount": 4673,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "1988: P.R.E.S.T.A.V.B.A."
+          "title": "The Complete Hypercard Handbook"
         },
         {
-          "description": "Article URL: https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/\nComments URL: https://news.ycombinator.com/item?id=27064116\nPoints: 39\n# Comments: 68",
-          "link": "https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/",
-          "publishedOn": "2021-05-06T14:52:38.000Z",
-          "wordCount": 1429,
+          "description": "Article URL: https://crossbar.io/\nComments URL: https://news.ycombinator.com/item?id=27078792\nPoints: 76\n# Comments: 27",
+          "link": "https://crossbar.io/",
+          "publishedOn": "2021-05-07T17:57:39.000Z",
+          "wordCount": 1314,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "A future without passwords"
+          "title": "Crossbar.io – an open source platform for distributed and microservice apps"
         },
         {
-          "description": "Article URL: https://qntm.org/hatetris\nComments URL: https://news.ycombinator.com/item?id=27063894\nPoints: 463\n# Comments: 200",
-          "link": "https://qntm.org/hatetris",
-          "publishedOn": "2021-05-06T14:35:43.000Z",
-          "wordCount": 13616,
+          "description": "Article URL: https://blog.svenpeter.dev/posts/m1_sprr_gxf/\nComments URL: https://news.ycombinator.com/item?id=27078614\nPoints: 219\n# Comments: 58",
+          "link": "https://blog.svenpeter.dev/posts/m1_sprr_gxf/",
+          "publishedOn": "2021-05-07T17:41:14.000Z",
+          "wordCount": 6511,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Hatetris – Tetris which always gives you the worst piece"
+          "title": "Apple Silicon Hardware: SPRR and Guarded Exception Levels (GXF)"
         },
         {
-          "description": "Article URL: https://www.businessinsider.com/clubhouse-downloads-900000-in-april-2021-5\nComments URL: https://news.ycombinator.com/item?id=27062747\nPoints: 64\n# Comments: 73",
-          "link": "https://www.businessinsider.com/clubhouse-downloads-900000-in-april-2021-5",
-          "publishedOn": "2021-05-06T13:17:51.000Z",
-          "wordCount": 1279,
+          "description": "Article URL: https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/\nComments URL: https://news.ycombinator.com/item?id=27078524\nPoints: 258\n# Comments: 146",
+          "link": "https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/",
+          "publishedOn": "2021-05-07T17:34:01.000Z",
+          "wordCount": 1446,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "Clubhouse downloads are falling"
+          "title": "Honeywell gets hit with $13M fine for defense export violations"
+        },
+        {
+          "description": "Article URL: https://download.vusec.net/papers/constantine_ccs21.pdf\nComments URL: https://news.ycombinator.com/item?id=27078207\nPoints: 4\n# Comments: 0",
+          "link": "https://download.vusec.net/papers/constantine_ccs21.pdf",
+          "publishedOn": "2021-05-07T17:08:04.000Z",
+          "wordCount": 17504,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Constantine: Automatic side-channel resistance using data flow linearization [pdf]"
+        },
+        {
+          "description": "Article URL: https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network\nComments URL: https://news.ycombinator.com/item?id=27077660\nPoints: 200\n# Comments: 30",
+          "link": "https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network",
+          "publishedOn": "2021-05-07T16:27:01.000Z",
+          "wordCount": 841,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "The Pinecone Overlay Network"
+        },
+        {
+          "description": "Article URL: https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/\nComments URL: https://news.ycombinator.com/item?id=27077173\nPoints: 84\n# Comments: 52",
+          "link": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
+          "publishedOn": "2021-05-07T15:51:14.000Z",
+          "wordCount": 1215,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Where the top of the stack is on x86 (2011)"
+        },
+        {
+          "description": "Article URL: https://nipafx.dev/java-record-semantics/\nComments URL: https://news.ycombinator.com/item?id=27076976\nPoints: 162\n# Comments: 225",
+          "link": "https://nipafx.dev/java-record-semantics/",
+          "publishedOn": "2021-05-07T15:30:14.000Z",
+          "wordCount": 2576,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Java's records, Lombok's data, and Kotlin's data classes"
+        },
+        {
+          "description": "Article URL: https://github.com/MisterHW/44780HD\nComments URL: https://news.ycombinator.com/item?id=27076741\nPoints: 112\n# Comments: 19",
+          "link": "https://github.com/MisterHW/44780HD",
+          "publishedOn": "2021-05-07T15:06:50.000Z",
+          "wordCount": 2532,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Towards an HD44780-Based Video Mode"
+        },
+        {
+          "description": "Article URL: https://github.com/thestinger/termite\nComments URL: https://news.ycombinator.com/item?id=27075304\nPoints: 210\n# Comments: 249",
+          "link": "https://github.com/thestinger/termite",
+          "publishedOn": "2021-05-07T12:52:03.000Z",
+          "wordCount": 1598,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Use Alacritty instead of Termite"
         }
       ]
     },
@@ -189,10 +189,64 @@
       "href": "http://www.elotrolado.net/feed/",
       "articles": [
         {
+          "description": "Yakuza: Like a Dragon, la última entrega de la franquicia desarrollada por Ryu Ga Gotoku Studio, apostó por un sistema de combates por turnos que ha tenido el suficiente éxito como para que el equipo de desarrollo haya decidido adoptarlo para los próximos juegos. La acción directa de la que definitivamente ha sido despojada la serie Yakuza será para su spin-off Judgment, que mantendrá su estilo de lucha en la secuela Lost Judgment y futuras entregas (si existen). “Así es”, dicen Toshihiro Nagoshi y Kazuki H…",
+          "link": "https://www.elotrolado.net/noticias/juegos/yakuza-rpg-turnos-judgment-accion",
+          "publishedOn": "2021-05-07T17:26:19.000Z",
+          "wordCount": 776,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "La saga Yakuza seguirá siendo un RPG por turnos y Judgment se quedará con la acción"
+        },
+        {
+          "description": "Sega y Ryu Ga Gotoku Studio (Yakuza) han hecho buenos los rumores y los deseos de no pocos jugadores al anunciar Lost Judgment, la secuela del thriller de acción Judgment que ya tiene fecha de lanzamiento: 24 de septiembre. La compañía japonesa ha amenizado la presentación de Lost Judgment con un primer y generoso tráiler donde se indica que el juego tendrá versión para las plataformas PS4, PS5, Xbox One y Xbox Series. En todas ellas el título lucirá audio en inglés y japonés así como subtítulos en español,…",
+          "link": "https://www.elotrolado.net/noticias/juegos/lost-judgment-anunciado",
+          "publishedOn": "2021-05-07T15:15:54.000Z",
+          "wordCount": 842,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Sega anuncia Lost Judgment: Takayuki Yagami volverá a la acción el 24 de septiembre en PlayStation y Xbox"
+        },
+        {
+          "description": "Square Enix ha mostrado el “tráiler final” de Final Fantasy VII Remake Intergrade donde podemos ver en acción a Yuffie Kisaragi junto a su compañero Sonon Kusakabe luchando contra varios integrantes de Compañía de Electricidad y Energía Shinra. Para los jugadores de PS5 la noticia pasa por el gameplay inédito, mientras que para el resto la gran novedad llega al final del tráiler, donde se indica que Final Fantasy VII Remake Intergrade tiene una exclusividad de seis meses en la consola de Sony. A lo largo de…",
+          "link": "https://www.elotrolado.net/noticias/juegos/final-fantasy-vii-remake-intergrade-trailer-exclusiva",
+          "publishedOn": "2021-05-07T14:49:15.000Z",
+          "wordCount": 819,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Nuevo tráiler de Final Fantasy VII Remake Intergrade, cuya exclusiva en PS5 será de seis meses"
+        },
+        {
+          "description": "Randy Pitchford, cofundador y director ejecutivo de Gearbox Software, ha usado Twitter para asegurar que su equipo de desarrollo será el encargado de liderar la creación de cualquier juego futuro de la saga Borderlands, ya sea una entrega principal o un spin-off. Estas declaraciones se producen a raíz de dos rumores. El primero de Gamereactor asegura que tenemos en camino un nuevo Borderlands no numerado, y el segundo de Jeff Grubb (VentureBeat) dice que el juego podría no estar desarrollado por Gearbox Sof…",
+          "link": "https://www.elotrolado.net/noticias/juegos/borderlands-spin-off-gearbox",
+          "publishedOn": "2021-05-07T11:33:14.000Z",
+          "wordCount": 654,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Gearbox Software asegura que liderará el desarrollo de cualquier futuro Borderlands"
+        },
+        {
+          "description": "Android tiene un problema con la privacidad de sus aplicaciones. Más allá de sucesos como la aparición de apps que capturan más información de la declarada oficialmente, Google Play no es del todo claro a la hora de explicar a los usuarios la clase de datos a los que acceden las aplicaciones instaladas en un teléfono. Esto contrasta con la política de Apple, que incluso ha llegado a irritar a Facebook al obligarles a declarar todos los datos que recoge; una práctica instaurada a finales de 2020 y que ahora …",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/aplicaciones-android-mostraran-datos-accedidos",
+          "publishedOn": "2021-05-07T10:39:18.000Z",
+          "wordCount": 806,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Google Play mostrará a qué datos de tu teléfono acceden las aplicaciones para Android"
+        },
+        {
+          "description": "El simulador de colonias Going Medieval estará disponible mediante el acceso anticipado de Steam, Epic Games Store y GOG el 1 de junio por 22,99 euros, según ha anunciado el editor The Irregular Corporation. El objetivo del desarrollador Foxy Voxel es mantener el título en acceso anticipado “durante al menos un año”. Going Medieval transporta su acción al 1346, cuando el mundo empieza a recuperarse de la Peste Negra. Los supervivientes deciden recuperar las zonas reclamadas por la naturaleza y los jugadores…",
+          "link": "https://www.elotrolado.net/hilo_going-medieval-iniciara-su-acceso-anticipado-el-1-de-junio_2422252",
+          "publishedOn": "2021-05-07T10:16:26.000Z",
+          "wordCount": 309,
+          "sourceHref": "http://www.elotrolado.net/feed/",
+          "sourceTitle": "ElOtroLado.net",
+          "title": "Breve: Going Medieval iniciará su acceso anticipado el 1 de junio"
+        },
+        {
           "description": "Wizards of the Coast ha anunciado que desde este viernes 7 de mayo los jugadores de PS4, Xbox One y Nintendo Switch tienen disponible el clásico Baldur’s Gate: Dark Alliance en su respectiva tienda digital a cambio de 29,99 euros. Además, la compañía ha anunciado que el juego tendrá una versión para PC y móviles que se pondrá a la venta a lo largo de 2021. Será la primera vez que Baldur’s Gate: Dark Alliance pisa un ordenador. La versión de Baldur’s Gate: Dark Alliance que reciben los jugadores de consola (…",
           "link": "https://www.elotrolado.net/noticias/juegos/bauldurs-gate-dark-alliance-consolas-pc-movil",
           "publishedOn": "2021-05-06T21:14:55.000Z",
-          "wordCount": 785,
+          "wordCount": 787,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "El clásico Baldur’s Gate: Dark Alliance llega a PS4, Xbox One y Switch, y más adelante tendrá versión para PC y móvil"
@@ -201,7 +255,7 @@
           "description": "NetEase Games ha anunciado haber llegado a un acuerdo con el estudio polaco 11 bit studios para desarrollar una versión de Frostpunk para móviles, que si todo va según lo previsto estará disponible a lo largo de este año en iOS y Android. La versión original de Frostpunk para PS4, Xbox One y PC ha vendido más de tres millones de copias. El objetivo de NetEase Games es trasladar la experiencia original de Frostpunk, incluyendo todas sus mecánicas, a los dispositivos móviles y añadir nuevas características. D…",
           "link": "https://www.elotrolado.net/hilo_frostpunk-tendra-una-version-para-moviles_2422203",
           "publishedOn": "2021-05-06T19:01:47.000Z",
-          "wordCount": 319,
+          "wordCount": 465,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: Frostpunk tendrá una versión para móviles"
@@ -210,7 +264,7 @@
           "description": "Los jugadores de Remnant: From the Ashes tendrán disponible el 13 de mayo una actualización gratuita que mejorará el rendimiento del juego en PS5 y Xbox Series. Los jugadores de PS5 y Xbox Series X podrán elegir entre 4K y 30 FPS o 1080p y 60 FPS. Esta última opción también se ofrecerá en Xbox Series S. Asimismo, el 13 de mayo Remnant: From the Ashes estará disponible mediante la Microsoft Store y entrará a formar parte del servicio Xbox Game Pass para consola y PC. En Xbox One, Xbox Series y PC el juego de…",
           "link": "https://www.elotrolado.net/hilo_la-actualizacion-de-remnant-from-the-ashes-para-ps5-y-xbox-series-estara-disponible-el-13-de-mayo_2422199",
           "publishedOn": "2021-05-06T18:52:24.000Z",
-          "wordCount": 328,
+          "wordCount": 545,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: La actualización de Remnant: From the Ashes para PS5 y Xbox Series estará disponible el 13 de mayo"
@@ -219,7 +273,7 @@
           "description": "El Portal Oscuro que une Azeroth y Terrallende se abrirá el 1 de junio para los jugadores de World of Warcraft Classic, según ha anunciado Blizzard Entertainment. Junto a la fecha de lanzamiento del viejo contenido, al que se puede acceder con la suscripción de WoW, la compañía ha revelado la existencia del Pase para el Portal Oscuro, una opción de pago que permite subir a un personaje hasta el nivel 58, el mínimo necesario para pisar el reino de Illidan, y la Edición digital de lujo de Burning Crusade Clas…",
           "link": "https://www.elotrolado.net/noticias/juegos/wow-burning-crusade-classic-fecha-hora",
           "publishedOn": "2021-05-06T18:19:09.000Z",
-          "wordCount": 625,
+          "wordCount": 783,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Burning Crusade estará disponible el 1 de junio en World of Warcraft Classic"
@@ -228,7 +282,7 @@
           "description": "La Entertainment Software Association ha anunciado que Bandai Namco, Binge.com, Devious Eye Entertainment, Freedom Games, Gearbox Software, Sega, Square Enix, Turtle Beach, Verizon y XSEED Games estarán presentes en el E3 2021. Esta decena de incorporaciones se conocen después de que Konami decidiera no acudir al evento por motivos de calendario. Entre las compañías que ya habían confirmado su presencia en el E3 2021 encontramos a Capcom, Koch Media, Konami, Nintendo, Microsoft, Take-Two Interactive, Ubisof…",
           "link": "https://www.elotrolado.net/hilo_bandai-namco-gearbox-software-sega-square-enix-y-mas-se-unen-a-al-e3-2021_2422186",
           "publishedOn": "2021-05-06T17:26:52.000Z",
-          "wordCount": 326,
+          "wordCount": 338,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: Bandai Namco, Gearbox Software, Sega, Square Enix y más se unen a al E3 2021"
@@ -237,7 +291,7 @@
           "description": "Los aficionados a los juegos gratis ya tienen disponible Pine, que se puede conseguir sin coste alguno mediante la Epic Games Store hasta el 13 de mayo a las 17:00 horas. A partir de entonces se abrirá la opción de hacerse con la aventura narrativa The Lion's Song. Pine es un juego de acción y aventura de mundo abierto donde los jugadores se ponen en la piel de Hue, un joven que tendrá que explorar, comerciar y abrirse camino a la fuerza en un mundo lleno de criaturas. El objetivo de nuestro protagonista es…",
           "link": "https://www.elotrolado.net/hilo_pine-gratis-en-la-epic-games-store_2422185",
           "publishedOn": "2021-05-06T17:20:33.000Z",
-          "wordCount": 465,
+          "wordCount": 594,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: Pine gratis en la Epic Games Store"
@@ -246,7 +300,7 @@
           "description": "Ubisoft ha anunciado una nueva hoja de ruta para la franquicia The Division que incluye dos juegos: The Division Heartland y una entrega para móviles que aún no ha pasado por la pila bautismal. Estas novedades no impedirán que los equipos de desarrollo del editor francés sigan trabajando en contenido para The Division 2, la última entrega numerada de la saga que recibirá atención hasta como mínimo 2022. “Mientras seguimos trabajando en The Division 2, otros equipos de Ubisoft han estado explorando otras for…",
           "link": "https://www.elotrolado.net/noticias/juegos/division-heartland-anunciado",
           "publishedOn": "2021-05-06T16:55:41.000Z",
-          "wordCount": 655,
+          "wordCount": 813,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "El universo The Division se expande con el juego free-to-play Heartland y un título para móviles"
@@ -255,7 +309,7 @@
           "description": "4A Games celebra que desde hoy Metro Exodus Enhanced Edition se encuentra disponible para PC como una actualización gratuita ofreciendo el primer tráiler, los detalles técnicos y la fecha de lanzamiento para la versión de PS5 y Xbox Series. Los jugadores de consola que ya tengan una copia del juego recibirán la actualización gratuita el 18 de junio y ese mismo día también se pondrá a la venta Metro Exodus Complete Edition, que incluye el juego y las expansiones con todas las mejoras. Como se anunció anterio…",
           "link": "https://www.elotrolado.net/noticias/juegos/metro-exodus-fecha-trailer-ps5-xbox-series",
           "publishedOn": "2021-05-06T16:07:22.000Z",
-          "wordCount": 810,
+          "wordCount": 814,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Metro Exodus para PS5 y Xbox Series estará disponible el 18 de junio: primer tráiler y detalles técnicos"
@@ -264,7 +318,7 @@
           "description": "Microsoft no gana dinero vendiendo consolas y en ocasiones lo pierde. Esta es una frase que hemos escuchado en más de una ocasión por boca de diferentes directivos y ahora se ha vuelto a entonar, pero bajo juramento en el marco del juicio que enfrenta Epic Games y Apple, según recoge Protocol. A raíz de esta declaración, un portavoz de la compañía ha querido recordar a The Verge que el negocio de Xbox es “rentable” y está experimentando un “gran crecimiento”. “¿Qué margen de beneficio tiene Microsoft por la…",
           "link": "https://www.elotrolado.net/noticias/consolas/xbox-dinero-venta-perdida",
           "publishedOn": "2021-05-06T15:11:34.000Z",
-          "wordCount": 824,
+          "wordCount": 828,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Microsoft nunca ha ganado dinero vendiendo consolas, pero afirma que Xbox es un negocio rentable y en crecimiento"
@@ -273,7 +327,7 @@
           "description": "Nintendo ha anunciado que Chris Meledandri, fundador y director ejecutivo de Illumination, el estudio de animación responsable de Los Minions y GRU: Mi villano favorito, será nombrado director externo de la compañía cuando el 29 de junio se celebre la junta de accionistas. La Gran N tiene otros tres directores externos, pero Meledandri es el primer Occidental que ocupa este cargo. El director externo forma parte de la junta directiva y tiene como objetivo asesorar a la compañía. En este caso, todo parece in…",
           "link": "https://www.elotrolado.net/hilo_chris-meledandri-responsable-de-illumination-sera-nombrado-director-externo-de-nintendo_2422148",
           "publishedOn": "2021-05-06T12:22:43.000Z",
-          "wordCount": 341,
+          "wordCount": 349,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: Chris Meledandri, responsable de Illumination, será nombrado director externo de Nintendo"
@@ -282,7 +336,7 @@
           "description": "Capcom ha mostrado el tráiler de lanzamiento de Resident Evil Village, que estará disponible mañana viernes 7 de mayo con versión para PS4, PS5, Xbox One, Xbox Series, PC (Steam) y Stadia. A pesar de que Village es una continuación de Resident Evil 7, una entrega que ha conseguido vender 8,5 millones de unidades, el desarrollador japonés ha decidido cambiar ligeramente el rumbo y la nuevo título ha rebajado su nivel terror y aumentando el de la acción. A continuación hay revelaciones sobre la historia de Re…",
           "link": "https://www.elotrolado.net/noticias/juegos/resident-evil-village-lanzamiento",
           "publishedOn": "2021-05-06T12:07:44.000Z",
-          "wordCount": 1081,
+          "wordCount": 1085,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Tráiler de lanzamiento de Resident Evil Village: Lady Dimitrescu y sus hijas os esperan en el castillo"
@@ -291,7 +345,7 @@
           "description": "Las ventas de Nintendo Switch son para enmarcar y si todo va según lo previsto de aquí a un año habrá superado los 100 millones de unidades más rápido que Wii y PlayStation 4. Este éxito se debe a múltiples factores, pero uno de los principales es el software first-party, algo que se demuestra al comprobar que 11 juegos de Switch desarrollados por Nintendo han conseguido vender más de 10 millones de unidades. Que un juego venda más de 10 millones de unidades es un éxito rotundo y que lo haga en una única co…",
           "link": "https://www.elotrolado.net/noticias/juegos/nintendo-switch-ventas-software",
           "publishedOn": "2021-05-06T10:52:03.000Z",
-          "wordCount": 956,
+          "wordCount": 960,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Switch tiene 11 juegos que han vendido más de 10 millones de copias, las mismas que Mario Kart 8 Deluxe el año pasado"
@@ -300,7 +354,7 @@
           "description": "Imparable. Pocos adjetivos más se le pueden buscar a Nintendo Switch, que durante el pasado año fiscal que llegó a su fin el 31 de marzo ha consiguió colocar 28,8 millones de unidades, un aumento interanual del 37,1 %. La consola ha superado el pronóstico de ventas de la compañía, que en febrero lo revisó al alza para situarlo en 26,5 millones de unidades. Después de cuatro años en el mercado, las ventas acumuladas de Nintendo Switch alcanzan los 84,59 millones de unidades. Respecto a la venta por modelos d…",
           "link": "https://www.elotrolado.net/noticias/consolas/nintendo-switch-vende-2021",
           "publishedOn": "2021-05-06T09:06:18.000Z",
-          "wordCount": 826,
+          "wordCount": 830,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Nintendo Switch vende 28,8 millones de unidades durante su último año fiscal, un 37 % más que el anterior"
@@ -309,7 +363,7 @@
           "description": "Electronic Arts sigue con hambre. Después de pagar 1.000 millones de euros por Codemasters y 2.100 millones de dólares por Glu Mobile, el editor estadounidense ha sacado de nuevo la cartera para adquirir Metalhead Software, desarrollador de Super Mega Baseball. El montante de la operación no ha trascendido. Metalhead Software es un estudio de desarrollo con base en la ciudad canadiense de Victoria y es conocido por Super Mega Baseball, una franquicia que a partir de ahora forma parte de la división EA Sport…",
           "link": "https://www.elotrolado.net/hilo_electronic-arts-adquiere-metalhead-software-desarrollador-de-super-mega-baseball_2422094",
           "publishedOn": "2021-05-05T21:17:01.000Z",
-          "wordCount": 452,
+          "wordCount": 468,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: Electronic Arts adquiere Metalhead Software, desarrollador de Super Mega Baseball"
@@ -318,7 +372,7 @@
           "description": "Después de detallar los ajustes en la mecánica de juego y el equilibrio y mostrar las mejoras visuales, es el turno de que Electronic Arts hable sobre qué rendimiento tendrá Mass Effect Legendary Edition en todas las plataformas en las que estará disponible la colección con la trilogía desarrollada BioWare. A primera vista llama la atención que en Xbox Series X se pueden alcanzar los 120 FPS, mientras que PlayStation 5 se debe conformar con 60 FPS. En PC el máximo serán 240 FPS. Mass Effect Legendary Editio…",
           "link": "https://www.elotrolado.net/noticias/juegos/mass-effect-legendary-edition-rendimiento",
           "publishedOn": "2021-05-05T20:51:49.000Z",
-          "wordCount": 754,
+          "wordCount": 758,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Mass Effect Legendary Edition detalla su resolución y fotogramas por segundo en función de la consola"
@@ -336,7 +390,7 @@
           "description": "El editor Devolver Digital llevaba algunos días prometiendo vía Twitter novedades sobre Shadow Warrior 3 y finalmente ya están aquí. Por un lado tenemos un nuevo tráiler con un par de minutos de gameplay, y por otro la confirmación de que el juego desarrollado por el estudio placo Flying Wild Hog tendrá una versión para PS4 y Xbox One. Tanto en consolas como en PC (Steam), Shadow Warrior 3 estará disponible a lo largo de 2021. El nuevo tráiler de Shadow Warrior 3 nos permite echar un nuevo vistazo al sangri…",
           "link": "https://www.elotrolado.net/noticias/juegos/shadow-warrior-3-trailer-consolas",
           "publishedOn": "2021-05-05T17:37:38.000Z",
-          "wordCount": 708,
+          "wordCount": 712,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Nuevo tráiler de Shadow Warrior 3, que añade versión para PS4 y Xbox One"
@@ -345,7 +399,7 @@
           "description": "Cambio de planes. La organización de la Gamescom ha comunicado que la edición de 2021 será totalmente digital y no híbrida como se había anunciado anteriormente. La decisión se toma después de constatar que varias compañías no iban a participar con una presencia física debido a la situación de la pandemia. Para los que no pretendían viajar hasta Colonia (Alemania) no hay cambios. El 25 de agosto se celebrará la ceremonia de apertura, la Gamescom: Opening Night Live presentada por Geoff Keighley, mientras qu…",
           "link": "https://www.elotrolado.net/hilo_gamescom-cambia-de-idea-y-finalmente-sera-un-evento-totalmente-digital_2422061",
           "publishedOn": "2021-05-05T16:38:38.000Z",
-          "wordCount": 494,
+          "wordCount": 538,
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: Gamescom cambia de idea y finalmente será un evento totalmente digital"
@@ -358,66 +412,57 @@
           "sourceHref": "http://www.elotrolado.net/feed/",
           "sourceTitle": "ElOtroLado.net",
           "title": "Breve: Media docena de empleados de Stadia se incorporan a Haven Studios"
-        },
-        {
-          "description": "Activision ha anunciado que Tony Hawk’s Pro Skater 1 + 2 en su versión para Nintendo Switch se pondrá a la venta el 25 de junio. El título, que debutó en PS4, Xbox One y PC en septiembre de 2020, incluye las dos primeras entregas de la saga remasterizadas y ha sido desarrollado por Vicarious Visions (que ahora forma parte de Blizzard). Tony Hawk’s Pro Skater 1 + 2 ofrece la misma experiencia que ambos juegos entregaron en 1999 y 2000, respectivamente, pero con gráficos totalmente remasterizados. Como noveda…",
-          "link": "https://www.elotrolado.net/hilo_tony-hawk-s-pro-skater-1-2-para-nintendo-switch-estara-disponible-el-25-de-junio_2422054",
-          "publishedOn": "2021-05-05T16:03:35.000Z",
-          "wordCount": 447,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Breve: Tony Hawk’s Pro Skater 1 + 2 para Nintendo Switch estará disponible el 25 de junio"
-        },
-        {
-          "description": "Warner Bros. Games y el desarrollador Turtle Rock Studios (Left 4 Dead) han publicado un nuevo tráiler del shooter cooperativo Back 4 Blood en el que se muestra cómo funciona el sistema de cartas, una función aleatoria que dinamiza las partidas y promete ofrecer una “amplia rejugabilidad”. Las cartas no se podrán comprar de forma individual con dinero real, pero “es probable” que se incluyan naipes como parte del contenido de pago poslanzamiento, que aún no ha sido confirmado. La entrega de cartas gratis sí…",
-          "link": "https://www.elotrolado.net/noticias/juegos/back-4-blood-sistema-cartas-trailer",
-          "publishedOn": "2021-05-05T15:59:43.000Z",
-          "wordCount": 766,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Back 4 Blood muestra un sistema de cartas que promete ofrecer una “amplia rejugabilidad”"
-        },
-        {
-          "description": "Focus Home Interactive ha publicado un gameplay overview trailer de Necromunda: Hired Gun, que como su nombre indica ofrece un resumen con todos los detalles sobre la jugabilidad del título desarrollado por el equipo francés StreumOn Studio. Para que el juego basado en la licencia de Warhammer llegue a las tiendas digitales de PS4, PS5, Xbox One, Xbox Series y PC (Steam) tocará esperar hasta el 1 de junio, mientras que aquellos que quieran la edición física en consola la tendrán disponible el 30 de junio de…",
-          "link": "https://www.elotrolado.net/noticias/juegos/necromunda-hired-gun-gameplay-overview",
-          "publishedOn": "2021-05-05T14:25:47.000Z",
-          "wordCount": 555,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Necromunda: Hired Gun detalla su jugabilidad (armas, historia, zonas, mecánicas…) con un nuevo tráiler"
-        },
-        {
-          "description": "El caudal de documentación que ha visto la luz a raíz del juicio que enfrenta Epic Games y Apple va a la baja, pero sigue proporcionando información interesante que explica algunas situaciones vividas en el pasado. Una de ellas está relacionada con la falta de seguridad de la Epic Games Store y cómo esto provocó un fraude masivo que involucró a The Division 2. Según relata una cadena de correos electrónicos, en abril de 2019 la Epic Games Store tenía un doble problema: las cuentas falsas eran fáciles de cre…",
-          "link": "https://www.elotrolado.net/noticias/juegos/epic-games-store-fraude-division-2",
-          "publishedOn": "2021-05-05T12:41:28.000Z",
-          "wordCount": 864,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "La falta de seguridad en la Epic Games Store provocó un fraude masivo con The Division 2"
-        },
-        {
-          "description": "Las redes sociales tienen un acceso tan profundo a la información personal de sus usuarios, incluso cuando están fuera de las mismas, que pueden confeccionar retratos robot sumamente precisos únicamente a través de su huella digital. Compañías como Facebook tratan de aplacar a sus críticos con controles de privacidad granulares (que no necesariamente accesibles o comprensibles) y aseverando que no tienen nada que ocultar, pero eso no quiere decir que se sientan cómodas comunicando qué es exactamente lo que …",
-          "link": "https://www.elotrolado.net/noticias/internet/facebook-censura-publicidad-signal-datos-personales",
-          "publishedOn": "2021-05-05T09:28:54.000Z",
-          "wordCount": 778,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "Facebook bloquea una campaña de publicidad de Signal que mostraba la información personal recogida en Instagram"
-        },
-        {
-          "description": "Activision Blizzard ha aprovechado la presentación de sus últimos resultados financieros para hablar sobre la próxima entrega de Call of Duty, que como es habitual se pondrá a la venta a finales de año. Además, la compañía ha sacado pecho por el rendimiento de Call of Duty Mobile, que desde su lanzamiento en 2019 ha conseguido 500 millones de descargas y registrar 1.000 millones de dólares en gasto por parte de los jugadores. Respecto a Call of Duty 2021, su desarrollo está liderado por Sledgehammer Games, …",
-          "link": "https://www.elotrolado.net/noticias/juegos/call-of-duty-2021-sledgehammer",
-          "publishedOn": "2021-05-04T23:52:45.000Z",
-          "wordCount": 858,
-          "sourceHref": "http://www.elotrolado.net/feed/",
-          "sourceTitle": "ElOtroLado.net",
-          "title": "El nuevo Call of Duty está en manos de Sledgehammer Games y Call of Duty Mobile ha ingresado 1.000 millones de dólares"
         }
       ]
     },
     {
       "href": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
       "articles": [
+        {
+          "description": "About Lost Judgment\n Seize the truth.\n December 2021, Tokyo district court. Akihiro Ehara stands accused of groping a woman on a crowded train.\n A bystander’s video footage of his attempt to flee the scene and subsequent apprehension is all over the news, and public outcry demands a maximum sentence.\n “Three days ago, a dead body was found in an abandoned building in Yokohama. Have you identified it yet?” he proclaims as confusion cuts through the court room.\n His defense lawyer, Saori Shirosaki, has no dou…",
+          "link": "https://www.allgamesdelta.net/2021/05/lost-judgment-announced-for-ps5-xbox.html",
+          "publishedOn": "2021-05-07T18:35:00.000Z",
+          "wordCount": 298,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Lost Judgment Announced for PS5, Xbox Series, PS4 and Xbox One"
+        },
+        {
+          "description": "",
+          "link": "https://www.allgamesdelta.net/2021/05/sniper-ghost-warrior-contracts-2-for.html",
+          "publishedOn": "2021-05-07T18:21:00.000Z",
+          "wordCount": 35,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Sniper Ghost Warrior Contracts 2 for PS5 Delayed to Later in 2021"
+        },
+        {
+          "description": "Final Fantasy VII Remake Intergrade Final Trailer Showcases Intense Battle and More\n Square Enix today revealed gripping new scenes from Final Fantasy VII Remake Intergrade, the enhanced and expanded version of the critically acclaimed and award-winning Final Fantasy VII Remake on the PlayStation 5. The new footage showcases the impressive PS5 graphics for Final Fantasy VII Remake Intergrade and new content from FF7R EPISODE INTERmission, which follows Yuffie Kisaragi and her partner Sonon Kusakabe, on a da…",
+          "link": "https://www.allgamesdelta.net/2021/05/final-fantasy-vii-remake-intergrade.html",
+          "publishedOn": "2021-05-07T18:15:00.000Z",
+          "wordCount": 486,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Final Fantasy VII Remake Intergrade 'Final' Trailer"
+        },
+        {
+          "description": "Pre-Register Today for the Final Fantasy VII the First Soldier Closed Beta Test\n   Square Enix today announced that the battle royale action mobile game,  Final Fantasy VII: The First Soldier, is now accepting pre-registrations for an upcoming closed beta test to be held from June 1 through 7, 2021. Players looking to prove themselves as prime SOLDIER candidates can sign up here through the Google Play Store, now until May 28, 2021.\n    In  Final Fantasy VII: The First Soldier, players will embark on an int…",
+          "link": "https://www.allgamesdelta.net/2021/05/final-fantasy-vii-first-soldier-closed.html",
+          "publishedOn": "2021-05-07T17:39:00.000Z",
+          "wordCount": 332,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "Final Fantasy VII: The First Soldier Closed Beta Test Set for June 1 to 7"
+        },
+        {
+          "description": "About The Caligula Effect 2\n A virtuadoll named Regret has created the world of Redo in order to save people from their past regrets by unknowingly imprisoning them in a simulation. However, this “paradise” is shaken to the core when a virtual idol named χ breaks into Regret’s virtual reality and restores a high school student’s memories of the real world. In order to escape Redo, they re-establish the Go-Home Club, a resistance group that seeks to fight against Regret and her enforcers, the Obbligato Music…",
+          "link": "https://www.allgamesdelta.net/2021/05/the-caligula-effect-2-second-trailer.html",
+          "publishedOn": "2021-05-07T17:21:00.000Z",
+          "wordCount": 221,
+          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
+          "sourceTitle": "All Games Delta",
+          "title": "The Caligula Effect 2 Second Trailer"
+        },
         {
           "description": "",
           "link": "https://www.allgamesdelta.net/2021/05/psn-leaks-lost-judgment-judgment-sequel.html",
@@ -575,7 +620,7 @@
           "description": "Wonder Boy: Asha in Monster World Launches May 28 in the West for PS4 and Switch, June 29 for PC \n ININ Games and Studio Artdink are delighted to announce the official release for Wonder Boy: Asha in Monster World for the Western retail release for both physical and digital Nintendo Switch and PS4 versions will be on May 28th 2021 for North America, Europe and Australia.\n  The retail editions for Nintendo Switch and PlayStation 4 will be available for €39.99 / $39.99 / £34.99 and include the original Monste…",
           "link": "https://www.allgamesdelta.net/2021/05/wonder-boy-asha-in-monster-world.html",
           "publishedOn": "2021-05-04T19:05:00.000Z",
-          "wordCount": 277,
+          "wordCount": 276,
           "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
           "sourceTitle": "All Games Delta",
           "title": "Wonder Boy: Asha in Monster World Launches May 28 in the West for PS4 and Switch, June 29 for PC"
@@ -597,51 +642,6 @@
           "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
           "sourceTitle": "All Games Delta",
           "title": "NieR Re[in]carnation english localization finished"
-        },
-        {
-          "description": "Imagining Bloodborne 2 by Thomas Chamberlain-Keen",
-          "link": "https://www.allgamesdelta.net/2021/05/imagining-bloodborne-2.html",
-          "publishedOn": "2021-05-03T10:15:00.000Z",
-          "wordCount": 23,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Imagining Bloodborne 2"
-        },
-        {
-          "description": "",
-          "link": "https://www.allgamesdelta.net/2021/04/streets-of-rage-4-dlc-mr-x-nightmare_30.html",
-          "publishedOn": "2021-04-30T14:11:00.000Z",
-          "wordCount": 33,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Streets of Rage 4 DLC 'Mr. X Nightmare' Adds Max Thunder"
-        },
-        {
-          "description": "Hood: Outlaws &amp; Legends unveils 8 minutes of Commented Gameplay offering an in-depth look at the teamplay-oriented medieval heists!\n Hood: Outlaws &amp; Legends, the multiplayer PvPvE heist game from Sumo Digital and Focus Home Interactive today releases an in-depth Commented Gameplay video of its unique medieval heists. Matchmaking in opposing teams of four, choose your character based on your preferred playstyle, or what best fits your team’s strategy. Whether your gang prioritizes a stealthy long-ran…",
-          "link": "https://www.allgamesdelta.net/2021/05/hood-outlaws-legends-official-commented.html",
-          "publishedOn": "2021-04-30T13:55:00.000Z",
-          "wordCount": 431,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Hood: Outlaws & Legends 'Official Commented Gameplay' Video"
-        },
-        {
-          "description": "",
-          "link": "https://www.allgamesdelta.net/2021/04/hot-wheels-unleashed-skyscraper-trailer.html",
-          "publishedOn": "2021-04-30T13:28:00.000Z",
-          "wordCount": 25,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Hot Wheels Unleashed 'Skyscraper' Trailer and Screenshots"
-        },
-        {
-          "description": "",
-          "link": "https://www.allgamesdelta.net/2021/04/ratchet-clank-rift-apart-state-of-play.html",
-          "publishedOn": "2021-04-30T13:12:00.000Z",
-          "wordCount": 33,
-          "sourceHref": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
-          "sourceTitle": "All Games Delta",
-          "title": "Ratchet & Clank: Rift Apart State of Play Presentation and Screenshots"
         }
       ]
     }
