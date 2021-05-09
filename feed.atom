@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-09T01:09:43.265Z</updated>
+    <generator>osmosfeed 1.5.0</generator>
+    <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
+    <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dungeon Crawl Stone Soup – An open-source roguelike adventure]]></title>
+        <id>https://news.ycombinator.com/item?id=27091464</id>
+        <link href="https://crawl.develz.org/"/>
+        <updated>2021-05-08T22:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crawl.develz.org/
+Comments URL: https://news.ycombinator.com/item?id=27091464
+Points: 60
+# Comments: 16]]></summary>
+        <author>
+            <name>1_player</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Euporie, a Tui for Jupyter Notebooks]]></title>
+        <id>https://news.ycombinator.com/item?id=27091167</id>
+        <link href="https://github.com/joouha/euporie"/>
+        <updated>2021-05-08T22:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/joouha/euporie
+Comments URL: https://news.ycombinator.com/item?id=27091167
+Points: 69
+# Comments: 4]]></summary>
+        <author>
+            <name>joouha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I built the world's first 3D ultrasonic scanner]]></title>
+        <id>https://news.ycombinator.com/item?id=27090795</id>
+        <link href="https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html"/>
+        <updated>2021-05-08T21:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html
+Comments URL: https://news.ycombinator.com/item?id=27090795
+Points: 18
+# Comments: 0]]></summary>
+        <author>
+            <name>belzebalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Token Transit (YC W17) is hiring to improve public transit payment]]></title>
+        <id>https://news.ycombinator.com/item?id=27090630</id>
+        <link href="https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer"/>
+        <updated>2021-05-08T21:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer
+Comments URL: https://news.ycombinator.com/item?id=27090630
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>mconbere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suicide by Culture (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27090509</id>
+        <link href="https://250bpm.com/blog:113/"/>
+        <updated>2021-05-08T20:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:113/
+Comments URL: https://news.ycombinator.com/item?id=27090509
+Points: 13
+# Comments: 2]]></summary>
+        <author>
+            <name>ArkanExplorer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIDmacros]]></title>
+        <id>https://news.ycombinator.com/item?id=27089914</id>
+        <link href="http://www.hidmacros.eu/whatisit.php"/>
+        <updated>2021-05-08T19:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.hidmacros.eu/whatisit.php
+Comments URL: https://news.ycombinator.com/item?id=27089914
+Points: 25
+# Comments: 4]]></summary>
+        <author>
+            <name>diplodocusaur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher mushroom consumption is associated with a lower risk of cancer]]></title>
+        <id>https://news.ycombinator.com/item?id=27089770</id>
+        <link href="https://www.sciencedaily.com/releases/2021/04/210421200133.htm"/>
+        <updated>2021-05-08T18:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sciencedaily.com/releases/2021/04/210421200133.htm
+Comments URL: https://news.ycombinator.com/item?id=27089770
+Points: 57
+# Comments: 20]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People who live past 105 years old have genes that stop DNA damage]]></title>
+        <id>https://news.ycombinator.com/item?id=27089624</id>
+        <link href="https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/"/>
+        <updated>2021-05-08T18:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/
+Comments URL: https://news.ycombinator.com/item?id=27089624
+Points: 133
+# Comments: 95]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons on Writing JavaScript and React from ClojureScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27089576</id>
+        <link href="https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/"/>
+        <updated>2021-05-08T18:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/
+Comments URL: https://news.ycombinator.com/item?id=27089576
+Points: 56
+# Comments: 19]]></summary>
+        <author>
+            <name>yogthos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-Transformers: A fully-featured transformer with experimental features]]></title>
+        <id>https://news.ycombinator.com/item?id=27089208</id>
+        <link href="https://github.com/lucidrains/x-transformers"/>
+        <updated>2021-05-08T17:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lucidrains/x-transformers
+Comments URL: https://news.ycombinator.com/item?id=27089208
+Points: 49
+# Comments: 16]]></summary>
+        <author>
+            <name>blackcat201</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABI Mistakes]]></title>
+        <id>https://news.ycombinator.com/item?id=27089184</id>
+        <link href="https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html"/>
+        <updated>2021-05-08T17:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
+Comments URL: https://news.ycombinator.com/item?id=27089184
+Points: 126
+# Comments: 106]]></summary>
+        <author>
+            <name>yagizdegirmenci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple brass discussed disclosing 128M iPhone hack, then decided not to]]></title>
+        <id>https://news.ycombinator.com/item?id=27088884</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/"/>
+        <updated>2021-05-08T17:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/
+Comments URL: https://news.ycombinator.com/item?id=27088884
+Points: 309
+# Comments: 128]]></summary>
+        <author>
+            <name>throwawaysea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restaurant menu tricks (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27088520</id>
+        <link href="https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus"/>
+        <updated>2021-05-08T16:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus
+Comments URL: https://news.ycombinator.com/item?id=27088520
+Points: 77
+# Comments: 82]]></summary>
+        <author>
+            <name>marc__1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is going to turn on 2FA by default]]></title>
+        <id>https://news.ycombinator.com/item?id=27088279</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/"/>
+        <updated>2021-05-08T15:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/
+Comments URL: https://news.ycombinator.com/item?id=27088279
+Points: 72
+# Comments: 84]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inefficient Efficiency (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27088272</id>
+        <link href="https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791"/>
+        <updated>2021-05-08T15:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791
+Comments URL: https://news.ycombinator.com/item?id=27088272
+Points: 103
+# Comments: 60]]></summary>
+        <author>
+            <name>absolute100</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My service to check whether an item is counterfeit or not]]></title>
+        <id>https://news.ycombinator.com/item?id=27087688</id>
+        <link href="https://bychgroup.com/i-make-200000-year-by-writing-order-notes/"/>
+        <updated>2021-05-08T14:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bychgroup.com/i-make-200000-year-by-writing-order-notes/
+Comments URL: https://news.ycombinator.com/item?id=27087688
+Points: 121
+# Comments: 115]]></summary>
+        <author>
+            <name>chdaniel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If I fits I sits: illusory contour susceptibility in domestic cats]]></title>
+        <id>https://news.ycombinator.com/item?id=27087469</id>
+        <link href="https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258"/>
+        <updated>2021-05-08T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258
+Comments URL: https://news.ycombinator.com/item?id=27087469
+Points: 232
+# Comments: 52]]></summary>
+        <author>
+            <name>Hooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple tries to get Epic to admit there's porn on its store]]></title>
+        <id>https://news.ycombinator.com/item?id=27087250</id>
+        <link href="https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388"/>
+        <updated>2021-05-08T14:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388
+Comments URL: https://news.ycombinator.com/item?id=27087250
+Points: 102
+# Comments: 138]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fungus-like organisms in deep time and deep rock]]></title>
+        <id>https://news.ycombinator.com/item?id=27087238</id>
+        <link href="https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock"/>
+        <updated>2021-05-08T14:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock
+Comments URL: https://news.ycombinator.com/item?id=27087238
+Points: 71
+# Comments: 6]]></summary>
+        <author>
+            <name>jelliclesfarm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Foundation starts AgStack, an open-source agtech initiative]]></title>
+        <id>https://news.ycombinator.com/item?id=27086701</id>
+        <link href="https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/"/>
+        <updated>2021-05-08T12:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/
+Comments URL: https://news.ycombinator.com/item?id=27086701
+Points: 253
+# Comments: 75]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las noticias de la semana (1 - 8 de mayo)]]></title>
+        <id>45985_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/semana-1-8-mayo-2021"/>
+        <updated>2021-05-08T10:07:19.000Z</updated>
+        <summary type="html"><![CDATA[El juicio que enfrenta Epic Games y Apple ha protagonizado varias noticias de la semana. Gracias a los documentos que se han presentado descubrimos que Fortnite ingresó 9.000 millones de dólares en dos años y que Sony permitió el juego cruzado en el battle royale a cambio de compensaciones económicas. También ha sido noticia Nintendo, que ya lleva 84,59 millones de Switch despachadas y acumula 11 juegos que han vendido como mínimo 10 millones de copias. Por su parte, Sony ha anunciado la integración de Disc…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lost Judgment Announced for PS5, Xbox Series, PS4 and Xbox One]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7449579008604922209</id>
+        <link href="https://www.allgamesdelta.net/2021/05/lost-judgment-announced-for-ps5-xbox.html"/>
+        <updated>2021-05-07T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[About Lost Judgment
+ Seize the truth.
+ December 2021, Tokyo district court. Akihiro Ehara stands accused of groping a woman on a crowded train.
+ A bystander’s video footage of his attempt to flee the scene and subsequent apprehension is all over the news, and public outcry demands a maximum sentence.
+ “Three days ago, a dead body was found in an abandoned building in Yokohama. Have you identified it yet?” he proclaims as confusion cuts through the court room.
+ His defense lawyer, Saori Shirosaki, has no dou…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sniper Ghost Warrior Contracts 2 for PS5 Delayed to Later in 2021]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6974560519379513538</id>
+        <link href="https://www.allgamesdelta.net/2021/05/sniper-ghost-warrior-contracts-2-for.html"/>
+        <updated>2021-05-07T18:21:00.000Z</updated>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy VII Remake Intergrade 'Final' Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7690947298063169212</id>
+        <link href="https://www.allgamesdelta.net/2021/05/final-fantasy-vii-remake-intergrade.html"/>
+        <updated>2021-05-07T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Final Fantasy VII Remake Intergrade Final Trailer Showcases Intense Battle and More
+ Square Enix today revealed gripping new scenes from Final Fantasy VII Remake Intergrade, the enhanced and expanded version of the critically acclaimed and award-winning Final Fantasy VII Remake on the PlayStation 5. The new footage showcases the impressive PS5 graphics for Final Fantasy VII Remake Intergrade and new content from FF7R EPISODE INTERmission, which follows Yuffie Kisaragi and her partner Sonon Kusakabe, on a da…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy VII: The First Soldier Closed Beta Test Set for June 1 to 7]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7172454417186724864</id>
+        <link href="https://www.allgamesdelta.net/2021/05/final-fantasy-vii-first-soldier-closed.html"/>
+        <updated>2021-05-07T17:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Pre-Register Today for the Final Fantasy VII the First Soldier Closed Beta Test
+   Square Enix today announced that the battle royale action mobile game,  Final Fantasy VII: The First Soldier, is now accepting pre-registrations for an upcoming closed beta test to be held from June 1 through 7, 2021. Players looking to prove themselves as prime SOLDIER candidates can sign up here through the Google Play Store, now until May 28, 2021.
+    In  Final Fantasy VII: The First Soldier, players will embark on an int…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La saga Yakuza seguirá siendo un RPG por turnos y Judgment se quedará con la acción]]></title>
+        <id>45984_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/yakuza-rpg-turnos-judgment-accion"/>
+        <updated>2021-05-07T17:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Yakuza: Like a Dragon, la última entrega de la franquicia desarrollada por Ryu Ga Gotoku Studio, apostó por un sistema de combates por turnos que ha tenido el suficiente éxito como para que el equipo de desarrollo haya decidido adoptarlo para los próximos juegos. La acción directa de la que definitivamente ha sido despojada la serie Yakuza será para su spin-off Judgment, que mantendrá su estilo de lucha en la secuela Lost Judgment y futuras entregas (si existen). “Así es”, dicen Toshihiro Nagoshi y Kazuki H…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Caligula Effect 2 Second Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-2871616069338818912</id>
+        <link href="https://www.allgamesdelta.net/2021/05/the-caligula-effect-2-second-trailer.html"/>
+        <updated>2021-05-07T17:21:00.000Z</updated>
+        <summary type="html"><![CDATA[About The Caligula Effect 2
+ A virtuadoll named Regret has created the world of Redo in order to save people from their past regrets by unknowingly imprisoning them in a simulation. However, this “paradise” is shaken to the core when a virtual idol named χ breaks into Regret’s virtual reality and restores a high school student’s memories of the real world. In order to escape Redo, they re-establish the Go-Home Club, a resistance group that seeks to fight against Regret and her enforcers, the Obbligato Music…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sega anuncia Lost Judgment: Takayuki Yagami volverá a la acción el 24 de septiembre en PlayStation y Xbox]]></title>
+        <id>45983_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/lost-judgment-anunciado"/>
+        <updated>2021-05-07T15:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Sega y Ryu Ga Gotoku Studio (Yakuza) han hecho buenos los rumores y los deseos de no pocos jugadores al anunciar Lost Judgment, la secuela del thriller de acción Judgment que ya tiene fecha de lanzamiento: 24 de septiembre. La compañía japonesa ha amenizado la presentación de Lost Judgment con un primer y generoso tráiler donde se indica que el juego tendrá versión para las plataformas PS4, PS5, Xbox One y Xbox Series. En todas ellas el título lucirá audio en inglés y japonés así como subtítulos en español,…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuevo tráiler de Final Fantasy VII Remake Intergrade, cuya exclusiva en PS5 será de seis meses]]></title>
+        <id>45982_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/final-fantasy-vii-remake-intergrade-trailer-exclusiva"/>
+        <updated>2021-05-07T14:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Square Enix ha mostrado el “tráiler final” de Final Fantasy VII Remake Intergrade donde podemos ver en acción a Yuffie Kisaragi junto a su compañero Sonon Kusakabe luchando contra varios integrantes de Compañía de Electricidad y Energía Shinra. Para los jugadores de PS5 la noticia pasa por el gameplay inédito, mientras que para el resto la gran novedad llega al final del tráiler, donde se indica que Final Fantasy VII Remake Intergrade tiene una exclusividad de seis meses en la consola de Sony. A lo largo de…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gearbox Software asegura que liderará el desarrollo de cualquier futuro Borderlands]]></title>
+        <id>45981_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/borderlands-spin-off-gearbox"/>
+        <updated>2021-05-07T11:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Randy Pitchford, cofundador y director ejecutivo de Gearbox Software, ha usado Twitter para asegurar que su equipo de desarrollo será el encargado de liderar la creación de cualquier juego futuro de la saga Borderlands, ya sea una entrega principal o un spin-off. Estas declaraciones se producen a raíz de dos rumores. El primero de Gamereactor asegura que tenemos en camino un nuevo Borderlands no numerado, y el segundo de Jeff Grubb (VentureBeat) dice que el juego podría no estar desarrollado por Gearbox Sof…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play mostrará a qué datos de tu teléfono acceden las aplicaciones para Android]]></title>
+        <id>45979_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/aplicaciones-android-mostraran-datos-accedidos"/>
+        <updated>2021-05-07T10:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Android tiene un problema con la privacidad de sus aplicaciones. Más allá de sucesos como la aparición de apps que capturan más información de la declarada oficialmente, Google Play no es del todo claro a la hora de explicar a los usuarios la clase de datos a los que acceden las aplicaciones instaladas en un teléfono. Esto contrasta con la política de Apple, que incluso ha llegado a irritar a Facebook al obligarles a declarar todos los datos que recoge; una práctica instaurada a finales de 2020 y que ahora …]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Going Medieval iniciará su acceso anticipado el 1 de junio]]></title>
+        <id>45980_v1</id>
+        <link href="https://www.elotrolado.net/hilo_going-medieval-iniciara-su-acceso-anticipado-el-1-de-junio_2422252"/>
+        <updated>2021-05-07T10:16:26.000Z</updated>
+        <summary type="html"><![CDATA[El simulador de colonias Going Medieval estará disponible mediante el acceso anticipado de Steam, Epic Games Store y GOG el 1 de junio por 22,99 euros, según ha anunciado el editor The Irregular Corporation. El objetivo del desarrollador Foxy Voxel es mantener el título en acceso anticipado “durante al menos un año”. Going Medieval transporta su acción al 1346, cuando el mundo empieza a recuperarse de la Peste Negra. Los supervivientes deciden recuperar las zonas reclamadas por la naturaleza y los jugadores…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El clásico Baldur’s Gate: Dark Alliance llega a PS4, Xbox One y Switch, y más adelante tendrá versión para PC y móvil]]></title>
+        <id>45978_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/bauldurs-gate-dark-alliance-consolas-pc-movil"/>
+        <updated>2021-05-06T21:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Wizards of the Coast ha anunciado que desde este viernes 7 de mayo los jugadores de PS4, Xbox One y Nintendo Switch tienen disponible el clásico Baldur’s Gate: Dark Alliance en su respectiva tienda digital a cambio de 29,99 euros. Además, la compañía ha anunciado que el juego tendrá una versión para PC y móviles que se pondrá a la venta a lo largo de 2021. Será la primera vez que Baldur’s Gate: Dark Alliance pisa un ordenador. La versión de Baldur’s Gate: Dark Alliance que reciben los jugadores de consola (…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSN leaks Lost Judgment ~ Judgment sequel]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-1570665627732312003</id>
+        <link href="https://www.allgamesdelta.net/2021/05/psn-leaks-lost-judgment-judgment-sequel.html"/>
+        <updated>2021-05-06T19:35:00.000Z</updated>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Frostpunk tendrá una versión para móviles]]></title>
+        <id>45977_v1</id>
+        <link href="https://www.elotrolado.net/hilo_frostpunk-tendra-una-version-para-moviles_2422203"/>
+        <updated>2021-05-06T19:01:47.000Z</updated>
+        <summary type="html"><![CDATA[NetEase Games ha anunciado haber llegado a un acuerdo con el estudio polaco 11 bit studios para desarrollar una versión de Frostpunk para móviles, que si todo va según lo previsto estará disponible a lo largo de este año en iOS y Android. La versión original de Frostpunk para PS4, Xbox One y PC ha vendido más de tres millones de copias. El objetivo de NetEase Games es trasladar la experiencia original de Frostpunk, incluyendo todas sus mecánicas, a los dispositivos móviles y añadir nuevas características. D…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: La actualización de Remnant: From the Ashes para PS5 y Xbox Series estará disponible el 13 de mayo]]></title>
+        <id>45976_v1</id>
+        <link href="https://www.elotrolado.net/hilo_la-actualizacion-de-remnant-from-the-ashes-para-ps5-y-xbox-series-estara-disponible-el-13-de-mayo_2422199"/>
+        <updated>2021-05-06T18:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Los jugadores de Remnant: From the Ashes tendrán disponible el 13 de mayo una actualización gratuita que mejorará el rendimiento del juego en PS5 y Xbox Series. Los jugadores de PS5 y Xbox Series X podrán elegir entre 4K y 30 FPS o 1080p y 60 FPS. Esta última opción también se ofrecerá en Xbox Series S. Asimismo, el 13 de mayo Remnant: From the Ashes estará disponible mediante la Microsoft Store y entrará a formar parte del servicio Xbox Game Pass para consola y PC. En Xbox One, Xbox Series y PC el juego de…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burning Crusade estará disponible el 1 de junio en World of Warcraft Classic]]></title>
+        <id>45975_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/wow-burning-crusade-classic-fecha-hora"/>
+        <updated>2021-05-06T18:19:09.000Z</updated>
+        <summary type="html"><![CDATA[El Portal Oscuro que une Azeroth y Terrallende se abrirá el 1 de junio para los jugadores de World of Warcraft Classic, según ha anunciado Blizzard Entertainment. Junto a la fecha de lanzamiento del viejo contenido, al que se puede acceder con la suscripción de WoW, la compañía ha revelado la existencia del Pase para el Portal Oscuro, una opción de pago que permite subir a un personaje hasta el nivel 58, el mínimo necesario para pisar el reino de Illidan, y la Edición digital de lujo de Burning Crusade Clas…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Bandai Namco, Gearbox Software, Sega, Square Enix y más se unen a al E3 2021]]></title>
+        <id>45974_v1</id>
+        <link href="https://www.elotrolado.net/hilo_bandai-namco-gearbox-software-sega-square-enix-y-mas-se-unen-a-al-e3-2021_2422186"/>
+        <updated>2021-05-06T17:26:52.000Z</updated>
+        <summary type="html"><![CDATA[La Entertainment Software Association ha anunciado que Bandai Namco, Binge.com, Devious Eye Entertainment, Freedom Games, Gearbox Software, Sega, Square Enix, Turtle Beach, Verizon y XSEED Games estarán presentes en el E3 2021. Esta decena de incorporaciones se conocen después de que Konami decidiera no acudir al evento por motivos de calendario. Entre las compañías que ya habían confirmado su presencia en el E3 2021 encontramos a Capcom, Koch Media, Konami, Nintendo, Microsoft, Take-Two Interactive, Ubisof…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Pine gratis en la Epic Games Store]]></title>
+        <id>45973_v1</id>
+        <link href="https://www.elotrolado.net/hilo_pine-gratis-en-la-epic-games-store_2422185"/>
+        <updated>2021-05-06T17:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Los aficionados a los juegos gratis ya tienen disponible Pine, que se puede conseguir sin coste alguno mediante la Epic Games Store hasta el 13 de mayo a las 17:00 horas. A partir de entonces se abrirá la opción de hacerse con la aventura narrativa The Lion's Song. Pine es un juego de acción y aventura de mundo abierto donde los jugadores se ponen en la piel de Hue, un joven que tendrá que explorar, comerciar y abrirse camino a la fuerza en un mundo lleno de criaturas. El objetivo de nuestro protagonista es…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El universo The Division se expande con el juego free-to-play Heartland y un título para móviles]]></title>
+        <id>45972_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/division-heartland-anunciado"/>
+        <updated>2021-05-06T16:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Ubisoft ha anunciado una nueva hoja de ruta para la franquicia The Division que incluye dos juegos: The Division Heartland y una entrega para móviles que aún no ha pasado por la pila bautismal. Estas novedades no impedirán que los equipos de desarrollo del editor francés sigan trabajando en contenido para The Division 2, la última entrega numerada de la saga que recibirá atención hasta como mínimo 2022. “Mientras seguimos trabajando en The Division 2, otros equipos de Ubisoft han estado explorando otras for…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft Announces Expansion of the Tom Clancy's The Division Universe]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-884737398131019864</id>
+        <link href="https://www.allgamesdelta.net/2021/05/ubisoft-announces-expansion-of-tom.html"/>
+        <updated>2021-05-06T16:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Ubisoft Announces Expansion of the Tom Clancy's The Division Universe
+ Today, Ubisoft announced an update on the Tom Clancy’s The Division universe.
+ The launch of Tom Clancy’s The Division back in 2016 marked the first completely original IP under the Tom Clancy umbrella since 2009, and the game broke multiple Ubisoft sales records. The franchise continued its development with Tom Clancy’s The Division 2 becoming one of the most successful games of 2019 and its 2020 expansion, Tom Clancy’s The Division 2 W…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metro Exodus para PS5 y Xbox Series estará disponible el 18 de junio: primer tráiler y detalles técnicos]]></title>
+        <id>45971_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/metro-exodus-fecha-trailer-ps5-xbox-series"/>
+        <updated>2021-05-06T16:07:22.000Z</updated>
+        <summary type="html"><![CDATA[4A Games celebra que desde hoy Metro Exodus Enhanced Edition se encuentra disponible para PC como una actualización gratuita ofreciendo el primer tráiler, los detalles técnicos y la fecha de lanzamiento para la versión de PS5 y Xbox Series. Los jugadores de consola que ya tengan una copia del juego recibirán la actualización gratuita el 18 de junio y ese mismo día también se pondrá a la venta Metro Exodus Complete Edition, que incluye el juego y las expansiones con todas las mejoras. Como se anunció anterio…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metro Exodus Complete Edition for PS5 and Xbox Series Launches June 18]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-9015694358582023436</id>
+        <link href="https://www.allgamesdelta.net/2021/05/metro-exodus-complete-edition-for-ps5.html"/>
+        <updated>2021-05-06T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Metro Exodus Gen 9 Coming June 18
+ We are excited to announce that Metro Exodus will come to Xbox Series X|S and PlayStation 5 on June 18 2021.
+ Utilising the power of these new consoles, we have been able to include 4K*, 60 FPS, Ray Tracing throughout (including Ray Traced emissive lighting as pioneered in The Two Colonels), Field of View options and platform specific features such as spatial audio and controller latency improvements on Xbox, and support for the haptic features of the PlayStation 5 Dual Se…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft nunca ha ganado dinero vendiendo consolas, pero afirma que Xbox es un negocio rentable y en crecimiento]]></title>
+        <id>45970_v1</id>
+        <link href="https://www.elotrolado.net/noticias/consolas/xbox-dinero-venta-perdida"/>
+        <updated>2021-05-06T15:11:34.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft no gana dinero vendiendo consolas y en ocasiones lo pierde. Esta es una frase que hemos escuchado en más de una ocasión por boca de diferentes directivos y ahora se ha vuelto a entonar, pero bajo juramento en el marco del juicio que enfrenta Epic Games y Apple, según recoge Protocol. A raíz de esta declaración, un portavoz de la compañía ha querido recordar a The Verge que el negocio de Xbox es “rentable” y está experimentando un “gran crecimiento”. “¿Qué margen de beneficio tiene Microsoft por la…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scarlet Nexus Opening Animation]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6236643739549869478</id>
+        <link href="https://www.allgamesdelta.net/2021/05/scarlet-nexus-opening-animation.html"/>
+        <updated>2021-05-06T14:32:00.000Z</updated>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hood: Outlaws & Legends 'We Are Legends' Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-685323916462188673</id>
+        <link href="https://www.allgamesdelta.net/2021/05/hood-outlaws-legends-we-are-legends.html"/>
+        <updated>2021-05-06T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Hood: Outlaws & Legends is playable in a few hours! Watch the blood-pumping We are Legends trailer now
+ Hood: Outlaws and Legends, the multiplayer PvPvE heist game from Sumo Digital and Focus Home Interactive is playable in a few hours on May 7th for all pre-order players, in anticipation of its official release on May 10th! Matchmaking in opposing teams of four, choose your character based on your preferred playstyle, or what best fits your team’s strategy - cooperation is key for victory in Hood’s nail-bi…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rogue Lords 'Devil' Gameplay Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-4244082951295582429</id>
+        <link href="https://www.allgamesdelta.net/2021/05/rogue-lords-devil-gameplay-trailer.html"/>
+        <updated>2021-05-06T12:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The Devil Always Plays By His Own Rules
+ Nacon, Cyanide Studio and Leikir Studio are today unveiling the new gameplay trailer for Rogue Lords, which introduces a deep and very unique mechanic. In this turn-based roguelike, gamers play as the devil and can therefore play by different rules than their opponents.
+   In Rogue Lords, you play as the devil, who was defeated by demon hunters several years ago. To regain your power, your disciples – nine evil geniuses who have signed a pact with you – must seek out…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Chris Meledandri, responsable de Illumination, será nombrado director externo de Nintendo]]></title>
+        <id>45969_v1</id>
+        <link href="https://www.elotrolado.net/hilo_chris-meledandri-responsable-de-illumination-sera-nombrado-director-externo-de-nintendo_2422148"/>
+        <updated>2021-05-06T12:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo ha anunciado que Chris Meledandri, fundador y director ejecutivo de Illumination, el estudio de animación responsable de Los Minions y GRU: Mi villano favorito, será nombrado director externo de la compañía cuando el 29 de junio se celebre la junta de accionistas. La Gran N tiene otros tres directores externos, pero Meledandri es el primer Occidental que ocupa este cargo. El director externo forma parte de la junta directiva y tiene como objetivo asesorar a la compañía. En este caso, todo parece in…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Resident Evil Village: Lady Dimitrescu y sus hijas os esperan en el castillo]]></title>
+        <id>45968_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/resident-evil-village-lanzamiento"/>
+        <updated>2021-05-06T12:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Capcom ha mostrado el tráiler de lanzamiento de Resident Evil Village, que estará disponible mañana viernes 7 de mayo con versión para PS4, PS5, Xbox One, Xbox Series, PC (Steam) y Stadia. A pesar de que Village es una continuación de Resident Evil 7, una entrega que ha conseguido vender 8,5 millones de unidades, el desarrollador japonés ha decidido cambiar ligeramente el rumbo y la nuevo título ha rebajado su nivel terror y aumentando el de la acción. A continuación hay revelaciones sobre la historia de Re…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil Village Launch Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-8040439621643019176</id>
+        <link href="https://www.allgamesdelta.net/2021/05/resident-evil-village-launch-trailer.html"/>
+        <updated>2021-05-06T12:03:00.000Z</updated>
+        <summary type="html"><![CDATA[About Resident Evil Village
+ Experience survival horror like never before in Resident Evil Village, the eighth major installment in the genre-defining Resident Evil franchise. Set a few years after the horrifying events in the critically acclaimed Resident Evil 7 biohazard, the all-new storyline brings Ethan Winters to a remote snow-capped village filled with a diverse cast of terrifying enemies. After a devastating encounter with Resident Evil series hero Chris Redfield, Ethan pursues him in search of answ…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The King of Fighters XV Ryo Sakazaki and Robert Garcia Trailer and Screenshots]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-4718665564621828152</id>
+        <link href="https://www.allgamesdelta.net/2021/05/the-king-of-fighters-xv-ryo-sakazaki.html"/>
+        <updated>2021-05-06T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris - Shermie - Mai Shiranui - King - Yashiro Nanakase - Yuri Sakazaki
+   Team Fatal Fury: Terry Bogard - Andy Bogard - Joe Higashi
+ Team Sacred Treasures: Kyo Kusanagi - Chizuru Kagura - Iori Yagami
+ Team Hero: Shun’ei - Meitenkun - Benimaru Nikaido]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch tiene 11 juegos que han vendido más de 10 millones de copias, las mismas que Mario Kart 8 Deluxe el año pasado]]></title>
+        <id>45967_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/nintendo-switch-ventas-software"/>
+        <updated>2021-05-06T10:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Las ventas de Nintendo Switch son para enmarcar y si todo va según lo previsto de aquí a un año habrá superado los 100 millones de unidades más rápido que Wii y PlayStation 4. Este éxito se debe a múltiples factores, pero uno de los principales es el software first-party, algo que se demuestra al comprobar que 11 juegos de Switch desarrollados por Nintendo han conseguido vender más de 10 millones de unidades. Que un juego venda más de 10 millones de unidades es un éxito rotundo y que lo haga en una única co…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch vende 28,8 millones de unidades durante su último año fiscal, un 37 % más que el anterior]]></title>
+        <id>45966_v1</id>
+        <link href="https://www.elotrolado.net/noticias/consolas/nintendo-switch-vende-2021"/>
+        <updated>2021-05-06T09:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Imparable. Pocos adjetivos más se le pueden buscar a Nintendo Switch, que durante el pasado año fiscal que llegó a su fin el 31 de marzo ha consiguió colocar 28,8 millones de unidades, un aumento interanual del 37,1 %. La consola ha superado el pronóstico de ventas de la compañía, que en febrero lo revisó al alza para situarlo en 26,5 millones de unidades. Después de cuatro años en el mercado, las ventas acumuladas de Nintendo Switch alcanzan los 84,59 millones de unidades. Respecto a la venta por modelos d…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Announces Game Builder Garage for Switch]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-4498557114035471507</id>
+        <link href="https://www.allgamesdelta.net/2021/05/nintendo-announces-game-builder-garage.html"/>
+        <updated>2021-05-06T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn to Make Games From the Minds at Nintendo With Game Builder Garage for Nintendo Switch 
+ Have you ever dreamed of creating your own video game? That dream can become a reality with the Game Builder Garage software, launching exclusively for the Nintendo Switch system on June 11. With this new software, kids and parents and everyone in between can have fun learning to create and share their very own video games. By connecting colorful creatures called Nodon, anyone can enjoy learning how to create their…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow Warrior 3 Adds PS4 and Xbox One Versions, 'Doomsday Device' Stage Reveal Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7086094417192101297</id>
+        <link href="https://www.allgamesdelta.net/2021/05/shadow-warrior-3-adds-ps4-and-xbox-one.html"/>
+        <updated>2021-05-06T00:28:00.000Z</updated>
+        <summary type="html"><![CDATA[About Shadow Warrior 3
+Fallen corporate shogun Lo Wang and his former employer turned nemesis turned sidekick Orochi Zilla embark on an improbable mission to recapture an ancient dragon they unwillingly unleashed from its eternal prison. Armed with a punishing mix of blades and bullets, Lo Wang must traverse uncharted parts of the world to track down the dark beast and push the apocalypse back yet again. All it will take is the mask of a dead god, a dragon’s egg, a touch of magic, and enough firepower to ho…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Electronic Arts adquiere Metalhead Software, desarrollador de Super Mega Baseball]]></title>
+        <id>45965_v1</id>
+        <link href="https://www.elotrolado.net/hilo_electronic-arts-adquiere-metalhead-software-desarrollador-de-super-mega-baseball_2422094"/>
+        <updated>2021-05-05T21:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Electronic Arts sigue con hambre. Después de pagar 1.000 millones de euros por Codemasters y 2.100 millones de dólares por Glu Mobile, el editor estadounidense ha sacado de nuevo la cartera para adquirir Metalhead Software, desarrollador de Super Mega Baseball. El montante de la operación no ha trascendido. Metalhead Software es un estudio de desarrollo con base en la ciudad canadiense de Victoria y es conocido por Super Mega Baseball, una franquicia que a partir de ahora forma parte de la división EA Sport…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass Effect Legendary Edition detalla su resolución y fotogramas por segundo en función de la consola]]></title>
+        <id>45964_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/mass-effect-legendary-edition-rendimiento"/>
+        <updated>2021-05-05T20:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Después de detallar los ajustes en la mecánica de juego y el equilibrio y mostrar las mejoras visuales, es el turno de que Electronic Arts hable sobre qué rendimiento tendrá Mass Effect Legendary Edition en todas las plataformas en las que estará disponible la colección con la trilogía desarrollada BioWare. A primera vista llama la atención que en Xbox Series X se pueden alcanzar los 120 FPS, mientras que PlayStation 5 se debe conformar con 60 FPS. En PC el máximo serán 240 FPS. Mass Effect Legendary Editio…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stonefly Launches June 1]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7353862392611816203</id>
+        <link href="https://www.allgamesdelta.net/2021/05/stonefly-launches-june-1.html"/>
+        <updated>2021-05-05T19:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Chill and Tranquil Adventure Game Stonefly Launches June 1
+   Stonefly, a chill and tranquil action adventure game from Flight School Studio, the award-winning independent game studio behind the 2019 hit Creature in the Well, launches June 1, 2021 on PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, Nintendo Switch and PC via Steam and the Epic Games Store. Stonefly takes players on a mech adventure through an enchanting forest, as they follow the coming-of-age story of Annika Stonefly, a brilliant b…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back 4 Blood 'Card System' Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-923620074552823297</id>
+        <link href="https://www.allgamesdelta.net/2021/05/back-4-blood-card-system-trailer.html"/>
+        <updated>2021-05-05T18:31:00.000Z</updated>
+        <summary type="html"><![CDATA[New Back 4 Blood Trailer Shows Off Innovative Card System Providing Extensive Replayability
+ Warner Bros. Games and Turtle Rock Studios today released a new Back 4 Blood trailer providing an in-depth look at the game’s innovative Card System, a new rogue-lite feature that enhances your experience with each playthrough, ensuring every gameplay session is dynamic, intense and feels unique. Players can easily jump right into the action by choosing a pre-made default deck or dive into the Card System’s vast cus…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: El juego de exploración y aventura Stonefly estará disponible el 1 de junio]]></title>
+        <id>45963_v1</id>
+        <link href="https://www.elotrolado.net/hilo_el-juego-de-exploracion-y-aventura-stonefly-estara-disponible-el-1-de-junio_2422071"/>
+        <updated>2021-05-05T18:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Stonefly, el nuevo título de aventuras del estudio independiente Flight School Studio (Creature in the Well), se pondrá a la venta el 1 de junio para PlayStation 5, PlayStation 4, Xbox Series, Xbox One, Nintendo Switch y para PC (Steam, Epic Games Store), según ha anunciado el editor MWM Interactive. El comunicado con la fecha de lanzamiento llega acompañado de un nuevo y breve tráiler del título. Stonefly lleva a los jugadores a vivir una aventura con Mechs a través de un bosque, mientras acompañan en su l…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuevo tráiler de Shadow Warrior 3, que añade versión para PS4 y Xbox One]]></title>
+        <id>45962_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/shadow-warrior-3-trailer-consolas"/>
+        <updated>2021-05-05T17:37:38.000Z</updated>
+        <summary type="html"><![CDATA[El editor Devolver Digital llevaba algunos días prometiendo vía Twitter novedades sobre Shadow Warrior 3 y finalmente ya están aquí. Por un lado tenemos un nuevo tráiler con un par de minutos de gameplay, y por otro la confirmación de que el juego desarrollado por el estudio placo Flying Wild Hog tendrá una versión para PS4 y Xbox One. Tanto en consolas como en PC (Steam), Shadow Warrior 3 estará disponible a lo largo de 2021. El nuevo tráiler de Shadow Warrior 3 nos permite echar un nuevo vistazo al sangri…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Necromunda: Hired Gun Gameplay Overview Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6399337188569284408</id>
+        <link href="https://www.allgamesdelta.net/2021/05/necromunda-hired-gun-gameplay-overview.html"/>
+        <updated>2021-05-05T17:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Necromunda: Hired Gun takes you on a deep dive in new Gameplay Overview Trailer
+ Necromunda: Hired Gun, the fast-paced FPS by the small, passionate team at Streum On Studio, hits PC and consoles on June 1st. Welcome to the gritty, violent hive city of Necromunda, a place where anything goes - for the right price. As a bounty hunter in this utopia of violence, get ready to use the many tools in your deadly arsenal to see through each contract. Watch today’s new Gameplay Overview Trailer for a deep dive into …]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Gamescom cambia de idea y finalmente será un evento totalmente digital]]></title>
+        <id>45961_v1</id>
+        <link href="https://www.elotrolado.net/hilo_gamescom-cambia-de-idea-y-finalmente-sera-un-evento-totalmente-digital_2422061"/>
+        <updated>2021-05-05T16:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Cambio de planes. La organización de la Gamescom ha comunicado que la edición de 2021 será totalmente digital y no híbrida como se había anunciado anteriormente. La decisión se toma después de constatar que varias compañías no iban a participar con una presencia física debido a la situación de la pandemia. Para los que no pretendían viajar hasta Colonia (Alemania) no hay cambios. El 25 de agosto se celebrará la ceremonia de apertura, la Gamescom: Opening Night Live presentada por Geoff Keighley, mientras qu…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Action RPG Made in Abyss: Binary Star Falling into Darkness Announced for PS4, Switch and PC]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6659146926685674929</id>
+        <link href="https://www.allgamesdelta.net/2021/05/3d-action-rpg-made-in-abyss-binary-star.html"/>
+        <updated>2021-05-05T05:24:00.000Z</updated>
+        <summary type="html"><![CDATA[A Lomg-Awaited Video Game Adptation for the Popular Manga Series Made in Abyss Has Finally Been Announced!
+ We will be releasing a 3D Action RPG based on the popular manga series, Made in Abyss, titled Made in Abyss: Binary Star Falling into Darkness for PlayStation 4, Nintendo Switch, and Steam for North America! The physical version of the title will also be published in Europe by Numskull Games.
+ Made in Abyss is a fantasy manga by Akihito Tsukushi, published on WEB Comic Gamma (Takeshobo) since 2012. Th…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biomutant 'May The Furrth' Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6491645703785794844</id>
+        <link href="https://www.allgamesdelta.net/2021/05/biomutant-may-furrth-trailer.html"/>
+        <updated>2021-05-05T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[About Biomutant
+ Biomutant is an open-world, post-apocalyptic Wung-Fu fable RPG, with unique martial art styled combat system allowing you to mix melee, shooting, and mutant ability action.
+ 
+Key Features
+   •    A New Take on Third-Person Combat – The martial arts style combat system allows you maximum freedom of movement and agility while mixing shooting, melee, and powers from your mutations. Learning new Wung-Fu combat forms through progression and learning from masters you’ll meet, will constantly add …]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flashback 2 Announced for Consoles and PC]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7707609774662325189</id>
+        <link href="https://www.allgamesdelta.net/2021/05/flashback-2-announced-for-consoles-and.html"/>
+        <updated>2021-05-05T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Microids announces Flashback 2 is in production!
+ Paul Cuisset and Microids are delighted to announce the development of Flashback 2 has started on PC and consoles! Developed by a team under the supervision of Paul Cuisset, Flashback 2 will be an action platformer starring once again Conrad B. Hart.
+ Released almost 3 decades ago, Flashback was ahead of its time offering an innovative gameplay with breathtaking character animations. Unrivaled pioneer in 1992, the game also reached a legendary status thanks …]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Future Viking Horror' Game Apsulov: End of Gods Coming to PS5, Xbox Series, PS4, Xbox One and Switch this Summer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-1669085967898781941</id>
+        <link href="https://www.allgamesdelta.net/2021/05/future-viking-horror-game-apsulov-end.html"/>
+        <updated>2021-05-04T22:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Apsulov: End of Gods – future Viking horror coming to current and new-gen consoles, including PlayStation physical editions by Perp Games
+ Indie publisher Digerati is delighted to announce it's bringing Apsulov: End of Gods to consoles, with the game launching digitally for Nintendo Switch, Xbox One, Xbox Series X|S, PS4, and PS5. Apsulov: End of Gods is currently scheduled to launch summer 2021.
+ Created by Sweden-based developer Angry Demon Studio, Apsulov: End of Gods brings together technology and Norse…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wonder Boy: Asha in Monster World Launches May 28 in the West for PS4 and Switch, June 29 for PC]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7267579137083026543</id>
+        <link href="https://www.allgamesdelta.net/2021/05/wonder-boy-asha-in-monster-world.html"/>
+        <updated>2021-05-04T19:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Wonder Boy: Asha in Monster World Launches May 28 in the West for PS4 and Switch, June 29 for PC 
+ ININ Games and Studio Artdink are delighted to announce the official release for Wonder Boy: Asha in Monster World for the Western retail release for both physical and digital Nintendo Switch and PS4 versions will be on May 28th 2021 for North America, Europe and Australia.
+  The retail editions for Nintendo Switch and PlayStation 4 will be available for €39.99 / $39.99 / £34.99 and include the original Monste…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Interactive Entertainment trademarks Sunset Overdrive in the U.S.]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-8865966590468050885</id>
+        <link href="https://www.allgamesdelta.net/2021/05/sony-interactive-entertainment.html"/>
+        <updated>2021-05-04T18:51:00.000Z</updated>
+        <summary type="html"><![CDATA[tmdn.org]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NieR Re[in]carnation english localization finished]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7495809764824352901</id>
+        <link href="https://www.allgamesdelta.net/2021/05/nier-reincarnation-english-localization.html"/>
+        <updated>2021-05-03T12:02:00.000Z</updated>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+</feed>
