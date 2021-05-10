@@ -2,268 +2,268 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T01:09:43.265Z</updated>
+    <updated>2021-05-10T01:09:01.036Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Dungeon Crawl Stone Soup – An open-source roguelike adventure]]></title>
-        <id>https://news.ycombinator.com/item?id=27091464</id>
-        <link href="https://crawl.develz.org/"/>
-        <updated>2021-05-08T22:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://crawl.develz.org/
-Comments URL: https://news.ycombinator.com/item?id=27091464
-Points: 60
-# Comments: 16]]></summary>
+        <title type="html"><![CDATA[US declares state of emergency in infrastructure cyberattack]]></title>
+        <id>https://news.ycombinator.com/item?id=27101092</id>
+        <link href="https://www.bbc.com/news/business-57050690"/>
+        <updated>2021-05-10T00:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57050690
+Comments URL: https://news.ycombinator.com/item?id=27101092
+Points: 54
+# Comments: 28]]></summary>
         <author>
-            <name>1_player</name>
+            <name>selfsimilar</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Euporie, a Tui for Jupyter Notebooks]]></title>
-        <id>https://news.ycombinator.com/item?id=27091167</id>
-        <link href="https://github.com/joouha/euporie"/>
-        <updated>2021-05-08T22:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/joouha/euporie
-Comments URL: https://news.ycombinator.com/item?id=27091167
-Points: 69
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Show HN: Run your ghost blog on Raspberry Pi for free]]></title>
+        <id>https://news.ycombinator.com/item?id=27100974</id>
+        <link href="https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/"/>
+        <updated>2021-05-09T23:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/
+Comments URL: https://news.ycombinator.com/item?id=27100974
+Points: 8
+# Comments: 1]]></summary>
         <author>
-            <name>joouha</name>
+            <name>vira28</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I built the world's first 3D ultrasonic scanner]]></title>
-        <id>https://news.ycombinator.com/item?id=27090795</id>
-        <link href="https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html"/>
-        <updated>2021-05-08T21:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html
-Comments URL: https://news.ycombinator.com/item?id=27090795
-Points: 18
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Simple bank shutdown goes awry, leaving customers without account access]]></title>
+        <id>https://news.ycombinator.com/item?id=27100611</id>
+        <link href="https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown"/>
+        <updated>2021-05-09T22:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown
+Comments URL: https://news.ycombinator.com/item?id=27100611
+Points: 29
+# Comments: 20]]></summary>
         <author>
-            <name>belzebalex</name>
+            <name>Kye</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Token Transit (YC W17) is hiring to improve public transit payment]]></title>
-        <id>https://news.ycombinator.com/item?id=27090630</id>
-        <link href="https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer"/>
-        <updated>2021-05-08T21:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer
-Comments URL: https://news.ycombinator.com/item?id=27090630
+        <title type="html"><![CDATA[The Animal Is Tired]]></title>
+        <id>https://news.ycombinator.com/item?id=27100299</id>
+        <link href="http://www.robinhobb.com/blog/posts/38429"/>
+        <updated>2021-05-09T22:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.robinhobb.com/blog/posts/38429
+Comments URL: https://news.ycombinator.com/item?id=27100299
+Points: 272
+# Comments: 96]]></summary>
+        <author>
+            <name>montenegrohugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Objective-S: architecture-oriented language based on Smalltalk and Objective-C]]></title>
+        <id>https://news.ycombinator.com/item?id=27100272</id>
+        <link href="http://objective.st/"/>
+        <updated>2021-05-09T22:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://objective.st/
+Comments URL: https://news.ycombinator.com/item?id=27100272
+Points: 38
+# Comments: 10]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff]]></title>
+        <id>https://news.ycombinator.com/item?id=27099995</id>
+        <link href="https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/"/>
+        <updated>2021-05-09T21:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/
+Comments URL: https://news.ycombinator.com/item?id=27099995
+Points: 129
+# Comments: 89]]></summary>
+        <author>
+            <name>themdpreneur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do we buy into the 'cult' of overwork?]]></title>
+        <id>https://news.ycombinator.com/item?id=27099969</id>
+        <link href="https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork"/>
+        <updated>2021-05-09T21:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork
+Comments URL: https://news.ycombinator.com/item?id=27099969
+Points: 110
+# Comments: 101]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27099695</id>
+        <link href="https://jobs.lever.co/buildzoom"/>
+        <updated>2021-05-09T21:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
+Comments URL: https://news.ycombinator.com/item?id=27099695
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>mconbere</name>
+            <name>the_economist</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suicide by Culture (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27090509</id>
-        <link href="https://250bpm.com/blog:113/"/>
-        <updated>2021-05-08T20:43:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:113/
-Comments URL: https://news.ycombinator.com/item?id=27090509
-Points: 13
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[The Ultimate Guide to Inflation]]></title>
+        <id>https://news.ycombinator.com/item?id=27099536</id>
+        <link href="https://www.lynalden.com/inflation/"/>
+        <updated>2021-05-09T20:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lynalden.com/inflation/
+Comments URL: https://news.ycombinator.com/item?id=27099536
+Points: 268
+# Comments: 142]]></summary>
         <author>
-            <name>ArkanExplorer</name>
+            <name>jger15</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HIDmacros]]></title>
-        <id>https://news.ycombinator.com/item?id=27089914</id>
-        <link href="http://www.hidmacros.eu/whatisit.php"/>
-        <updated>2021-05-08T19:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.hidmacros.eu/whatisit.php
-Comments URL: https://news.ycombinator.com/item?id=27089914
-Points: 25
+        <title type="html"><![CDATA[Introduction to Security Good Practices]]></title>
+        <id>https://news.ycombinator.com/item?id=27099025</id>
+        <link href="https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html"/>
+        <updated>2021-05-09T19:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html
+Comments URL: https://news.ycombinator.com/item?id=27099025
+Points: 30
+# Comments: 11]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PocketPCR]]></title>
+        <id>https://news.ycombinator.com/item?id=27098999</id>
+        <link href="https://gaudi.ch/PocketPCR/"/>
+        <updated>2021-05-09T19:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gaudi.ch/PocketPCR/
+Comments URL: https://news.ycombinator.com/item?id=27098999
+Points: 37
 # Comments: 4]]></summary>
         <author>
-            <name>diplodocusaur</name>
+            <name>_Microft</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Higher mushroom consumption is associated with a lower risk of cancer]]></title>
-        <id>https://news.ycombinator.com/item?id=27089770</id>
-        <link href="https://www.sciencedaily.com/releases/2021/04/210421200133.htm"/>
-        <updated>2021-05-08T18:55:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencedaily.com/releases/2021/04/210421200133.htm
-Comments URL: https://news.ycombinator.com/item?id=27089770
-Points: 57
-# Comments: 20]]></summary>
+        <title type="html"><![CDATA[Eleven Ways of Smelling a Tree (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27098978</id>
+        <link href="https://emergencemagazine.org/essay/eleven-ways/"/>
+        <updated>2021-05-09T19:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://emergencemagazine.org/essay/eleven-ways/
+Comments URL: https://news.ycombinator.com/item?id=27098978
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>royalroad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History of RSpec]]></title>
+        <id>https://news.ycombinator.com/item?id=27098157</id>
+        <link href="https://www.stevenrbaker.com/tech/history-of-rspec.html"/>
+        <updated>2021-05-09T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.stevenrbaker.com/tech/history-of-rspec.html
+Comments URL: https://news.ycombinator.com/item?id=27098157
+Points: 80
+# Comments: 23]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is it a bad idea to filter by zeroing out FFT bins? (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27097748</id>
+        <link href="https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/"/>
+        <updated>2021-05-09T17:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/
+Comments URL: https://news.ycombinator.com/item?id=27097748
+Points: 22
+# Comments: 3]]></summary>
+        <author>
+            <name>bcaa7f3a8bbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hypnotic World of Degenerate Spirals]]></title>
+        <id>https://news.ycombinator.com/item?id=27097719</id>
+        <link href="https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/"/>
+        <updated>2021-05-09T17:16:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/
+Comments URL: https://news.ycombinator.com/item?id=27097719
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>thetrustworthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD server CPUs capture highest market share gains from Intel in 15 years]]></title>
+        <id>https://news.ycombinator.com/item?id=27097680</id>
+        <link href="https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years"/>
+        <updated>2021-05-09T17:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years
+Comments URL: https://news.ycombinator.com/item?id=27097680
+Points: 247
+# Comments: 78]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A review of correlations between big five personality types and life outcomes]]></title>
+        <id>https://news.ycombinator.com/item?id=27097590</id>
+        <link href="https://dynomight.net/better-personalities/"/>
+        <updated>2021-05-09T17:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dynomight.net/better-personalities/
+Comments URL: https://news.ycombinator.com/item?id=27097590
+Points: 239
+# Comments: 181]]></summary>
+        <author>
+            <name>dynm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wikipedia is up (2001)]]></title>
+        <id>https://news.ycombinator.com/item?id=27096799</id>
+        <link href="https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html"/>
+        <updated>2021-05-09T15:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html
+Comments URL: https://news.ycombinator.com/item?id=27096799
+Points: 269
+# Comments: 164]]></summary>
+        <author>
+            <name>altilunium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does NMN improve metabolic health in humans?]]></title>
+        <id>https://news.ycombinator.com/item?id=27096498</id>
+        <link href="https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/"/>
+        <updated>2021-05-09T15:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/
+Comments URL: https://news.ycombinator.com/item?id=27096498
+Points: 83
+# Comments: 48]]></summary>
+        <author>
+            <name>nradov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning how to think (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27096181</id>
+        <link href="https://fs.blog/2015/08/how-to-think/"/>
+        <updated>2021-05-09T14:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fs.blog/2015/08/how-to-think/
+Comments URL: https://news.ycombinator.com/item?id=27096181
+Points: 155
+# Comments: 34]]></summary>
         <author>
             <name>prostoalex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People who live past 105 years old have genes that stop DNA damage]]></title>
-        <id>https://news.ycombinator.com/item?id=27089624</id>
-        <link href="https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/"/>
-        <updated>2021-05-08T18:33:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/
-Comments URL: https://news.ycombinator.com/item?id=27089624
-Points: 133
-# Comments: 95]]></summary>
-        <author>
-            <name>awb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons on Writing JavaScript and React from ClojureScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27089576</id>
-        <link href="https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/"/>
-        <updated>2021-05-08T18:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/
-Comments URL: https://news.ycombinator.com/item?id=27089576
-Points: 56
-# Comments: 19]]></summary>
-        <author>
-            <name>yogthos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-Transformers: A fully-featured transformer with experimental features]]></title>
-        <id>https://news.ycombinator.com/item?id=27089208</id>
-        <link href="https://github.com/lucidrains/x-transformers"/>
-        <updated>2021-05-08T17:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/lucidrains/x-transformers
-Comments URL: https://news.ycombinator.com/item?id=27089208
-Points: 49
-# Comments: 16]]></summary>
-        <author>
-            <name>blackcat201</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABI Mistakes]]></title>
-        <id>https://news.ycombinator.com/item?id=27089184</id>
-        <link href="https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html"/>
-        <updated>2021-05-08T17:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
-Comments URL: https://news.ycombinator.com/item?id=27089184
-Points: 126
-# Comments: 106]]></summary>
-        <author>
-            <name>yagizdegirmenci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple brass discussed disclosing 128M iPhone hack, then decided not to]]></title>
-        <id>https://news.ycombinator.com/item?id=27088884</id>
-        <link href="https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/"/>
-        <updated>2021-05-08T17:03:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/
-Comments URL: https://news.ycombinator.com/item?id=27088884
-Points: 309
-# Comments: 128]]></summary>
-        <author>
-            <name>throwawaysea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restaurant menu tricks (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27088520</id>
-        <link href="https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus"/>
-        <updated>2021-05-08T16:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus
-Comments URL: https://news.ycombinator.com/item?id=27088520
-Points: 77
-# Comments: 82]]></summary>
-        <author>
-            <name>marc__1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google is going to turn on 2FA by default]]></title>
-        <id>https://news.ycombinator.com/item?id=27088279</id>
-        <link href="https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/"/>
-        <updated>2021-05-08T15:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/
-Comments URL: https://news.ycombinator.com/item?id=27088279
-Points: 72
-# Comments: 84]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inefficient Efficiency (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27088272</id>
-        <link href="https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791"/>
-        <updated>2021-05-08T15:56:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791
-Comments URL: https://news.ycombinator.com/item?id=27088272
-Points: 103
-# Comments: 60]]></summary>
-        <author>
-            <name>absolute100</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My service to check whether an item is counterfeit or not]]></title>
-        <id>https://news.ycombinator.com/item?id=27087688</id>
-        <link href="https://bychgroup.com/i-make-200000-year-by-writing-order-notes/"/>
-        <updated>2021-05-08T14:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bychgroup.com/i-make-200000-year-by-writing-order-notes/
-Comments URL: https://news.ycombinator.com/item?id=27087688
-Points: 121
-# Comments: 115]]></summary>
-        <author>
-            <name>chdaniel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If I fits I sits: illusory contour susceptibility in domestic cats]]></title>
-        <id>https://news.ycombinator.com/item?id=27087469</id>
-        <link href="https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258"/>
-        <updated>2021-05-08T14:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258
-Comments URL: https://news.ycombinator.com/item?id=27087469
-Points: 232
-# Comments: 52]]></summary>
-        <author>
-            <name>Hooke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple tries to get Epic to admit there's porn on its store]]></title>
-        <id>https://news.ycombinator.com/item?id=27087250</id>
-        <link href="https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388"/>
-        <updated>2021-05-08T14:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388
-Comments URL: https://news.ycombinator.com/item?id=27087250
-Points: 102
-# Comments: 138]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fungus-like organisms in deep time and deep rock]]></title>
-        <id>https://news.ycombinator.com/item?id=27087238</id>
-        <link href="https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock"/>
-        <updated>2021-05-08T14:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock
-Comments URL: https://news.ycombinator.com/item?id=27087238
-Points: 71
-# Comments: 6]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Foundation starts AgStack, an open-source agtech initiative]]></title>
-        <id>https://news.ycombinator.com/item?id=27086701</id>
-        <link href="https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/"/>
-        <updated>2021-05-08T12:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/
-Comments URL: https://news.ycombinator.com/item?id=27086701
-Points: 253
-# Comments: 75]]></summary>
-        <author>
-            <name>teleforce</name>
         </author>
     </entry>
     <entry>
