@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27112010",
-          "author": "gok",
-          "description": "Article URL: https://www.caranddriver.com/news/a36387950/ntsb-investigation-tesla-model-s-autopilot/\nComments URL: https://news.ycombinator.com/item?id=27112010\nPoints: 7\n# Comments: 5",
-          "link": "https://www.caranddriver.com/news/a36387950/ntsb-investigation-tesla-model-s-autopilot/",
-          "publishedOn": "2021-05-10T23:07:46.000Z",
-          "wordCount": 1207,
-          "title": "NTSB: Tesla Model S in Crash Couldn't Have Been Using Autopilot"
+          "id": "https://news.ycombinator.com/item?id=27125200",
+          "author": "tpfour",
+          "description": "Article URL: https://github.com/pallets/flask/pull/4007\nComments URL: https://news.ycombinator.com/item?id=27125200\nPoints: 58\n# Comments: 9",
+          "link": "https://github.com/pallets/flask/pull/4007",
+          "publishedOn": "2021-05-12T00:13:30.000Z",
+          "wordCount": 756,
+          "title": "Flask 2.0.0 has been merged into master"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27111512",
-          "author": "johntfella",
-          "description": "Article URL: http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare\nComments URL: https://news.ycombinator.com/item?id=27111512\nPoints: 39\n# Comments: 18",
-          "link": "http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare",
-          "publishedOn": "2021-05-10T22:11:45.000Z",
-          "wordCount": 1043,
-          "title": "A “Perfect Coronal Mass Ejection” Could Be a Nightmare"
+          "id": "https://news.ycombinator.com/item?id=27124671",
+          "author": "walterbell",
+          "description": "Article URL: https://www.airgradient.com/diy/\nComments URL: https://news.ycombinator.com/item?id=27124671\nPoints: 58\n# Comments: 10",
+          "link": "https://www.airgradient.com/diy/",
+          "publishedOn": "2021-05-11T22:57:02.000Z",
+          "wordCount": 1489,
+          "title": "AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27111466",
-          "author": "chr15m",
-          "description": "Article URL: https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet\nComments URL: https://news.ycombinator.com/item?id=27111466\nPoints: 107\n# Comments: 52",
-          "link": "https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet",
-          "publishedOn": "2021-05-10T22:07:10.000Z",
-          "wordCount": 680,
-          "title": "One million people saw my dumbest tweet"
+          "id": "https://news.ycombinator.com/item?id=27123553",
+          "author": "megasquid",
+          "description": "Hi HN. Like many of you I am working remotely due to COVID.\nI want to continue working remotely, but my job wants me in the office next month.\nHow would you negotiate this with your employer?\nHave any of you already had this conversation? How did it go?\nComments URL: https://news.ycombinator.com/item?id=27123553\nPoints: 110\n# Comments: 86",
+          "link": "https://news.ycombinator.com/item?id=27123553",
+          "publishedOn": "2021-05-11T21:09:06.000Z",
+          "wordCount": 6014,
+          "title": "Ask HN: How to negotiate continuing to work remotely?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27110829",
-          "author": "jstreebin",
-          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27110829\nPoints: 1\n# Comments: 0",
-          "link": "https://www.easypost.com/careers",
-          "publishedOn": "2021-05-10T21:00:11.000Z",
-          "wordCount": 378,
-          "title": "EasyPost (YC S13) Is Hiring Remote"
+          "id": "https://news.ycombinator.com/item?id=27123464",
+          "author": "amarkumar81",
+          "description": "Article URL: https://www.workatastartup.com/jobs/43915\nComments URL: https://news.ycombinator.com/item?id=27123464\nPoints: 1\n# Comments: 0",
+          "link": "https://www.workatastartup.com/jobs/43915",
+          "publishedOn": "2021-05-11T21:00:58.000Z",
+          "wordCount": 925,
+          "title": "KaiPod Learning (YC S21) Is Hiring"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27110669",
-          "author": "bzbarsky",
-          "description": "Article URL: https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/\nComments URL: https://news.ycombinator.com/item?id=27110669\nPoints: 70\n# Comments: 25",
-          "link": "https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/",
-          "publishedOn": "2021-05-10T20:42:39.000Z",
-          "wordCount": 1743,
-          "title": "Beware of Applications Misusing Root Stores"
+          "id": "https://news.ycombinator.com/item?id=27123410",
+          "author": "dgellow",
+          "description": "Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/\nComments URL: https://news.ycombinator.com/item?id=27123410\nPoints: 128\n# Comments: 40",
+          "link": "https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/",
+          "publishedOn": "2021-05-11T20:56:08.000Z",
+          "wordCount": 2147,
+          "title": "The Arduino IDE 2.0 beta"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27110493",
-          "author": "cbg0",
-          "description": "Article URL: https://www.kedglobal.com/newsView/ked202105090002\nComments URL: https://news.ycombinator.com/item?id=27110493\nPoints: 173\n# Comments: 119",
-          "link": "https://www.kedglobal.com/newsView/ked202105090002",
-          "publishedOn": "2021-05-10T20:26:13.000Z",
-          "wordCount": 1131,
-          "title": "Samsung to jump into laptop processor market with Exynos chip in H2"
+          "id": "https://news.ycombinator.com/item?id=27123389",
+          "author": "srpeck",
+          "description": "Article URL: https://www.justuseemail.com/\nComments URL: https://news.ycombinator.com/item?id=27123389\nPoints: 150\n# Comments: 108",
+          "link": "https://www.justuseemail.com/",
+          "publishedOn": "2021-05-11T20:54:24.000Z",
+          "wordCount": 329,
+          "title": "Just Use Email – How to Use Email for Everything"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27109960",
-          "author": "cedricd",
-          "description": "Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/\nComments URL: https://news.ycombinator.com/item?id=27109960\nPoints: 195\n# Comments: 82",
-          "link": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
-          "publishedOn": "2021-05-10T19:39:15.000Z",
-          "wordCount": 2227,
-          "title": "Using PostgreSQL as a Data Warehouse"
+          "id": "https://news.ycombinator.com/item?id=27123077",
+          "author": "thg",
+          "description": "Article URL: https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html\nComments URL: https://news.ycombinator.com/item?id=27123077\nPoints: 127\n# Comments: 37",
+          "link": "https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html",
+          "publishedOn": "2021-05-11T20:27:38.000Z",
+          "wordCount": 943,
+          "title": "Facebook will ignore data collection ban issued in Germany over WhatApp rules"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27109142",
-          "author": "elsewhen",
-          "description": "Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html\nComments URL: https://news.ycombinator.com/item?id=27109142\nPoints: 269\n# Comments: 313",
-          "link": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
-          "publishedOn": "2021-05-10T18:22:45.000Z",
-          "wordCount": 1318,
-          "title": "Game developers sharing their salaries on Twitter"
+          "id": "https://news.ycombinator.com/item?id=27121918",
+          "author": "sylvainkalache",
+          "description": "Article URL: https://www.fragattacks.com/\nComments URL: https://news.ycombinator.com/item?id=27121918\nPoints: 374\n# Comments: 118",
+          "link": "https://www.fragattacks.com/",
+          "publishedOn": "2021-05-11T18:46:24.000Z",
+          "wordCount": 6526,
+          "title": "FragAttacks: new security vulnerabilities that affect wi-fi devices"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27109082",
-          "author": "0xmarcin",
-          "description": "Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt\nComments URL: https://news.ycombinator.com/item?id=27109082\nPoints: 69\n# Comments: 9",
-          "link": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
-          "publishedOn": "2021-05-10T18:17:54.000Z",
-          "wordCount": 1791,
-          "title": "Story of a Tshirt with a Shellcode"
+          "id": "https://news.ycombinator.com/item?id=27121586",
+          "author": "tareqak",
+          "description": "Article URL: https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK\nComments URL: https://news.ycombinator.com/item?id=27121586\nPoints: 342\n# Comments: 244",
+          "link": "https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK",
+          "publishedOn": "2021-05-11T18:23:11.000Z",
+          "wordCount": 392,
+          "title": "Tech giants join call for funding U.S. chip production"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27108593",
-          "author": "praseodym",
-          "description": "Article URL: https://github.com/microsoft/ebpf-for-windows\nComments URL: https://news.ycombinator.com/item?id=27108593\nPoints: 185\n# Comments: 120",
-          "link": "https://github.com/microsoft/ebpf-for-windows",
-          "publishedOn": "2021-05-10T17:35:15.000Z",
-          "wordCount": 1341,
-          "title": "eBPF on Windows"
+          "id": "https://news.ycombinator.com/item?id=27121461",
+          "author": "miles",
+          "description": "Article URL: https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/\nComments URL: https://news.ycombinator.com/item?id=27121461\nPoints: 405\n# Comments: 282",
+          "link": "https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/",
+          "publishedOn": "2021-05-11T18:12:59.000Z",
+          "wordCount": 1849,
+          "title": "I mailed an AirTag and tracked its progress"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27108109",
-          "author": "hacka22",
-          "description": "Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df\nComments URL: https://news.ycombinator.com/item?id=27108109\nPoints: 200\n# Comments: 105",
-          "link": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
-          "publishedOn": "2021-05-10T16:55:24.000Z",
-          "wordCount": 5186,
-          "title": "Tracking One Year of Malicious Tor Exit Relay Activities (Part II)"
+          "id": "https://news.ycombinator.com/item?id=27121332",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns\nComments URL: https://news.ycombinator.com/item?id=27121332\nPoints: 298\n# Comments: 31",
+          "link": "https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns",
+          "publishedOn": "2021-05-11T18:00:59.000Z",
+          "wordCount": 781,
+          "title": "Germany bans Facebook from handling WhatsApp data over privacy concerns"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27107820",
-          "author": "dehrmann",
-          "description": "Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech\nComments URL: https://news.ycombinator.com/item?id=27107820\nPoints: 136\n# Comments: 126",
-          "link": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
-          "publishedOn": "2021-05-10T16:29:09.000Z",
-          "wordCount": 1596,
-          "title": "Why does every advert look the same? Corporate Memphis"
+          "id": "https://news.ycombinator.com/item?id=27120677",
+          "author": "kaboro",
+          "description": "Article URL: https://stratechery.com/2021/cloudflare-on-the-edge/\nComments URL: https://news.ycombinator.com/item?id=27120677\nPoints: 203\n# Comments: 77",
+          "link": "https://stratechery.com/2021/cloudflare-on-the-edge/",
+          "publishedOn": "2021-05-11T17:14:37.000Z",
+          "wordCount": 3696,
+          "title": "Cloudflare on the edge"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27107647",
-          "author": "tosh",
-          "description": "Article URL: https://pyre-check.org\nComments URL: https://news.ycombinator.com/item?id=27107647\nPoints: 108\n# Comments: 76",
-          "link": "https://pyre-check.org",
-          "publishedOn": "2021-05-10T16:14:44.000Z",
-          "wordCount": 139,
-          "title": "Pyre: A performant type-checker for Python 3"
+          "id": "https://news.ycombinator.com/item?id=27120557",
+          "author": "fortran77",
+          "description": "Article URL: https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html\nComments URL: https://news.ycombinator.com/item?id=27120557\nPoints: 107\n# Comments: 75",
+          "link": "https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html",
+          "publishedOn": "2021-05-11T17:05:38.000Z",
+          "wordCount": 2420,
+          "title": "For those who can afford it, quitting has become the ultimate form of self-care"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27107428",
-          "author": "simonw",
-          "description": "Article URL: https://django-sql-dashboard.datasette.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=27107428\nPoints: 162\n# Comments: 22",
-          "link": "https://django-sql-dashboard.datasette.io/en/latest/",
-          "publishedOn": "2021-05-10T15:53:54.000Z",
-          "wordCount": 385,
-          "title": "Show HN: Django SQL Dashboard"
+          "id": "https://news.ycombinator.com/item?id=27120460",
+          "author": "crazypython",
+          "description": "Article URL: http://scp-wiki.wikidot.com/scp-2521\nComments URL: https://news.ycombinator.com/item?id=27120460\nPoints: 369\n# Comments: 151",
+          "link": "http://scp-wiki.wikidot.com/scp-2521",
+          "publishedOn": "2021-05-11T16:57:55.000Z",
+          "wordCount": 919,
+          "title": "●●|●●●●●|●●|●"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27107175",
-          "author": "ingve",
-          "description": "Article URL: https://dl.acm.org/doi/10.1145/3411764.3445642\nComments URL: https://news.ycombinator.com/item?id=27107175\nPoints: 63\n# Comments: 92",
-          "link": "https://dl.acm.org/doi/10.1145/3411764.3445642",
-          "publishedOn": "2021-05-10T15:34:29.000Z",
-          "wordCount": 148,
-          "title": "Perverse Downstream Consequences of Debunking"
+          "id": "https://news.ycombinator.com/item?id=27120354",
+          "author": "airstrike",
+          "description": "Article URL: https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/\nComments URL: https://news.ycombinator.com/item?id=27120354\nPoints: 82\n# Comments: 72",
+          "link": "https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/",
+          "publishedOn": "2021-05-11T16:47:53.000Z",
+          "wordCount": 2681,
+          "title": "An experiment caught a quantum system in the middle of a jump (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27106489",
-          "author": "schultetwin",
-          "description": "Article URL: https://epirhandbook.com/\nComments URL: https://news.ycombinator.com/item?id=27106489\nPoints: 159\n# Comments: 4",
-          "link": "https://epirhandbook.com/",
-          "publishedOn": "2021-05-10T14:43:34.000Z",
-          "wordCount": 896,
-          "title": "Epidemiologist R Handbook"
+          "id": "https://news.ycombinator.com/item?id=27120231",
+          "author": "ian-whitestone",
+          "description": "Article URL: https://ianwhitestone.work/good-ds-bad-ds/\nComments URL: https://news.ycombinator.com/item?id=27120231\nPoints: 122\n# Comments: 77",
+          "link": "https://ianwhitestone.work/good-ds-bad-ds/",
+          "publishedOn": "2021-05-11T16:36:10.000Z",
+          "wordCount": 912,
+          "title": "Good data scientist, bad data scientist"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27106448",
-          "author": "Reventlov",
-          "description": "Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/\nComments URL: https://news.ycombinator.com/item?id=27106448\nPoints: 343\n# Comments: 159",
-          "link": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
-          "publishedOn": "2021-05-10T14:39:37.000Z",
-          "wordCount": 2342,
-          "title": "Dear EU: Please Don't Ruin the Root"
+          "id": "https://news.ycombinator.com/item?id=27119221",
+          "author": "muramira",
+          "description": "Article URL: https://blog.vamp.io/vamp-is-joining-circleci/\nComments URL: https://news.ycombinator.com/item?id=27119221\nPoints: 64\n# Comments: 7",
+          "link": "https://blog.vamp.io/vamp-is-joining-circleci/",
+          "publishedOn": "2021-05-11T15:24:59.000Z",
+          "wordCount": 1038,
+          "title": "Vamp is joining CircleCI"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27106250",
-          "author": "Anon84",
-          "description": "Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html\nComments URL: https://news.ycombinator.com/item?id=27106250\nPoints: 150\n# Comments: 75",
-          "link": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
-          "publishedOn": "2021-05-10T14:22:55.000Z",
-          "wordCount": 742,
-          "title": "Engineer Who Won the Nobel Prize Twice in Physics"
+          "id": "https://news.ycombinator.com/item?id=27118794",
+          "author": "alymurray",
+          "description": "Hi everyone! My name’s Aly, and I’m the founder of UPchieve (https://upchieve.org). I’m here with UPchieve’s CTO, Dave (thedevelopnik). We’re an edtech nonprofit that provides free, 24/7 online tutoring to low-income high school students.\nThe idea for UPchieve was based on my own personal experience as a low-income student. I was raised by a single mom who was an immigrant to the US and often couldn’t help me with schoolwork and applying to college. So I went to a community college, and from there it took m…",
+          "link": "https://news.ycombinator.com/item?id=27118794",
+          "publishedOn": "2021-05-11T14:53:40.000Z",
+          "wordCount": 5820,
+          "title": "Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27106055",
-          "author": "ellegriffin",
-          "description": "Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors\nComments URL: https://news.ycombinator.com/item?id=27106055\nPoints: 421\n# Comments: 484",
-          "link": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
-          "publishedOn": "2021-05-10T14:01:27.000Z",
-          "wordCount": 3155,
-          "title": "Writing books is not really a good idea"
+          "id": "https://news.ycombinator.com/item?id=27118541",
+          "author": "vquemener",
+          "description": "Article URL: https://eng.uber.com/pprof-go-profiler/\nComments URL: https://news.ycombinator.com/item?id=27118541\nPoints: 207\n# Comments: 33",
+          "link": "https://eng.uber.com/pprof-go-profiler/",
+          "publishedOn": "2021-05-11T14:32:06.000Z",
+          "wordCount": 3572,
+          "title": "Pprof++: A Go Profiler with Hardware Performance Monitoring"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27105813",
-          "author": "rbanffy",
-          "description": "Article URL: https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/\nComments URL: https://news.ycombinator.com/item?id=27105813\nPoints: 188\n# Comments: 44",
-          "link": "https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/",
-          "publishedOn": "2021-05-10T13:35:06.000Z",
-          "wordCount": 618,
-          "title": "OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC"
+          "id": "https://news.ycombinator.com/item?id=27118117",
+          "author": "bluestreak",
+          "description": "Article URL: https://questdb.slab.com/public/posts/p4aktor4\nComments URL: https://news.ycombinator.com/item?id=27118117\nPoints: 64\n# Comments: 8",
+          "link": "https://questdb.slab.com/public/posts/p4aktor4",
+          "publishedOn": "2021-05-11T13:51:28.000Z",
+          "wordCount": 3,
+          "title": "Building a new vector based storage model"
         }
       ]
     },
@@ -193,13 +193,148 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46011_v1",
+          "author": null,
+          "description": "Cuando empezó la pandemia de COVID-19 Gabe Newell, cofundador de Valve, se encontraba en Nueva Zelanda y desde entonces no ha abandonado el país. Como invitado y magnate ilustre Gabe ha participado en programas de televisión, enviado un gnomo al espacio con motivos benéficos y más recientemente se ha sometido a una sesión de preguntas y respuestas en un colegio público. Ha sido en este último escenario donde el ejecutivo ha dejado caer una bomba: la posibilidad de que nuevos juegos de Valve estén disponible…",
+          "link": "https://www.elotrolado.net/noticias/juegos/valve-consolas-playstation-xbox",
+          "publishedOn": "2021-05-11T23:40:14.000Z",
+          "wordCount": 635,
+          "title": "Gabe Newell sugiere que Valve lanzará más juegos en consola"
+        },
+        {
+          "id": "46010_v1",
+          "author": null,
+          "description": "El carrusel de las presentaciones de resultados económicos nos lleva hasta Electronic Arts, que más allá de unos ingresos anuales de 6.190 millones de dólares, un aumento interanual del 15 %, nos ha dejado otros datos. Uno de ellos es que Apex Legends ha logrado convertirse en un juego que ha generado más de 1.000 millones de dólares en net bookings (ingresos por venta de productos y servicios), y el otro es la confirmación de que el nuevo Battlefield se presentará en junio como un un título para la pasada …",
+          "link": "https://www.elotrolado.net/noticias/juegos/apex-legends-battlefield-ea",
+          "publishedOn": "2021-05-11T22:33:34.000Z",
+          "wordCount": 682,
+          "title": "Apex Legends supera los 1.000 millones de dólares en ingresos y EA confirma que en junio presentará el nuevo Battlefield"
+        },
+        {
+          "id": "46009_v1",
+          "author": null,
+          "description": "Después de un retraso de dos semanas, el 13 de mayo estará disponible La Ira de los Druidas, la primera gran pieza de contenido adicional que recibirán los jugadores de Assassin's Creed Valhalla. Este complemento está incluido en el pase de temporada de 39,99 euros (o 99,99 euros junto a una copia del juego) y también se podrá adquirir por separado. La campaña La Ira de los Druidas traslada la acción hasta Irlanda y en ella los jugadores de Assassin’s Creed Valhalla deberán hacer frente al Culto de los Hijo…",
+          "link": "https://www.elotrolado.net/noticias/juegos/assassins-creed-valhalla-ira-druidas-trailer",
+          "publishedOn": "2021-05-11T22:20:25.000Z",
+          "wordCount": 667,
+          "title": "Tráiler de Assassin’s Creed Valhalla: La Ira de los Druidas, un contenido que estará disponible el 13 de mayo"
+        },
+        {
+          "id": "46008_v1",
+          "author": null,
+          "description": "Electronic Arts y Bethesda Softworks han coincidido en anunciar hoy la fecha de su evento anual. La primera celebrará el EA Play el 22 de julio, mientras que la segunda ha revelado que la QuakeCon 2021 será virtual y tendrá lugar del 19 al 21 de agosto. Si el EA Play tiene lugar el 22 de julio significa que Electronic Arts ignorará por completo el E3 2021, aunque se espera que el nuevo Battlefield sea anunciado en junio. Respecto a la QuakeCon 2021, de momento no hay detalles sobre la programación. Leer not…",
+          "link": "https://www.elotrolado.net/hilo_ea-play-se-celebrara-el-22-de-julio-y-la-quakecon-2021-del-19-al-21-de-agosto_2422637",
+          "publishedOn": "2021-05-11T20:14:18.000Z",
+          "wordCount": 282,
+          "title": "Breve: EA Play se celebrará el 22 de julio y la QuakeCon 2021 del 19 al 21 de agosto"
+        },
+        {
+          "id": "46007_v1",
+          "author": null,
+          "description": "Disney y LucasArts han anunciado que los clásicos de 16 bits Zombies Ate My Neighbors y su secuela Ghoul Patrol estarán disponibles en forma de pack en PlayStation 4, Xbox One, Nintendo Switch y PC (Steam, GOG) a partir del 29 de junio. Ambos juegos se venderán mediante una colección que tendrá un precio de 14,99 dólares y cuya adaptación corre a cargo de DotEmu. Zombies Ate My Neighbors es un juego de acción y disparos así como un constante homenaje a las películas de terror clásicas. Sus protagonistas son…",
+          "link": "https://www.elotrolado.net/hilo_el-clasico-zombies-ate-my-neighbors-y-su-secuela-llegaran-el-29-de-junio-a-consolas-y-pc_2422634",
+          "publishedOn": "2021-05-11T19:55:56.000Z",
+          "wordCount": 366,
+          "title": "Breve: El clásico Zombies Ate My Neighbors y su secuela llegarán el 29 de junio a consolas y PC"
+        },
+        {
+          "id": "46006_v1",
+          "author": null,
+          "description": "Ubisoft ha rendido cuentas con los accionistas presentando los resultados financieros del año fiscal 2021 que llegó a su fin el pasado 31 de marzo. Durante este periodo de 12 meses el editor francés ha registrado unos ingresos récord de 2.240 millones de euros, un aumento interanual del 46 %, de los cuales 1.609 millones de euros (o un 72 %) previnieron mediante canales digitales. Quien no ha dejado ni un céntimo en la caja de Ubisoft ni lo dejará durante el actual año fiscal será el nuevamente retrasado Su…",
+          "link": "https://www.elotrolado.net/noticias/juegos/ubisoft-record-assassins-creed",
+          "publishedOn": "2021-05-11T19:14:35.000Z",
+          "wordCount": 913,
+          "title": "Ubisoft registra resultados anuales récord gracias a Assassin’s Creed y anuncia un nuevo retraso para Skull & Bones"
+        },
+        {
+          "id": "46005_v1",
+          "author": null,
+          "description": "Aunque la conferencia Vivecon 2021 ha estado marcado por los anuncios de carácter profesional, HTC ha querido hacer un guiño a los jugadores más exigentes con el anuncio del visor Vive Pro 2, con prestaciones algo más lúdicas que las del autónomo Vive Focus 3. Sucesor del Vive Pro de primera generación, en su momento uno de los visores que buscaron rentabilizar el tirón de Half-Life: Alyx, posee unas prestaciones que lo sitúan en la parte alta del mercado. El nuevo HTC Vive Pro 2 destaca por el uso de un nu…",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/htc-vive-pro-2-precio-caracteristicas",
+          "publishedOn": "2021-05-11T17:20:47.000Z",
+          "wordCount": 834,
+          "title": "El HTC Vive Pro 2 llega con resolución 5K, refresco a 120 Hz y un precio de 1.090 euros"
+        },
+        {
+          "id": "46004_v1",
+          "author": null,
+          "description": "Microsoft ha ofrecido los detalles de la actualización de mayo para la familia de consolas Xbox, que hoy mismo ha iniciado su despliegue entre todos los jugadores. La gran novedad pasa por una serie de mejoras para la función Quick Resume, una de las estrellas de Xbox Series, y la nueva opción de Audio Passthrough para aplicaciones de streaming. También tenemos nuevos fondos dinámicos, opciones parentales adicionales y el adiós de la aplicación SmartGlass para PC. La función Quick Resume hace uso de la Xbox…",
+          "link": "https://www.elotrolado.net/noticias/consolas/xbox-series-one-actualizacion-mayo",
+          "publishedOn": "2021-05-11T17:02:25.000Z",
+          "wordCount": 732,
+          "title": "Xbox se actualiza con mejoras para Quick Resume y añade la opción Audio Passthrough"
+        },
+        {
+          "id": "46003_v1",
+          "author": null,
+          "description": "Actualización: El sitio europeo ya está activo, reflejando un precio de 1.451 euros. Noticia original: Allá por noviembre de 2017 HTC desvelaba Vive Focus, un visor autónomo basado en Snapdragon y con un precio de 699 euros que buscaba acercar a los usuarios profesionales una forma más cómoda de trabajar y visualizar sus proyectos, todo ello sin descartar las posibilidades de juego con Viveport. Hoy podemos conocer su relevo, que se salta un modelo completo (el Vive Focus 2 nunca llegó a existir) para propo…",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/htc-vive-focus-3-detalles-precio",
+          "publishedOn": "2021-05-11T16:32:37.000Z",
+          "wordCount": 904,
+          "title": "HTC desvela el visor autónomo Vive Focus 3, con resolución 5K y batería sustituible por 1.451 euros"
+        },
+        {
+          "id": "46002_v1",
+          "author": null,
+          "description": "Saber Interactive ha anunciado que el 18 de mayo los jugadores de SnowRunner (PS4, Xbox, Nintendo Switch y PC) con el pase de temporada o la Edición Premium tendrán acceso al contenido de la cuarta temporada llamada Nuevas Fronteras. La principal novedad pasa por la llegada de la región rusa de Amur Oblast. Amur Oblast proporcionará 12 kilómetros cuadrados de territorio por explorar en cuatro nuevos mapas. El objetivo consiste en rehabilitar un antiguo y abandonado enclave de lanzamiento de cohetes, lo que …",
+          "link": "https://www.elotrolado.net/hilo_snowrunner-anadira-la-region-de-amur-oblast-el-18-de-mayo-como-parte-del-pase-de-temporada_2422606",
+          "publishedOn": "2021-05-11T15:40:47.000Z",
+          "wordCount": 371,
+          "title": "Breve: SnowRunner añadirá la región de Amur Oblast el 18 de mayo como parte del pase de temporada"
+        },
+        {
+          "id": "46001_v1",
+          "author": null,
+          "description": "La industria del videojuego se encuentra en un periodo de consolidación y uno de los estudios que podría haber engordado la nómina de adquisiciones que hemos visto durante los últimos tiempos es Dontnod Entertainment, el desarrollador responsable de Life is Strange, Remember Me, Vampyr o los más recientes Twin Mirror y Tell Me Why. Así lo ha revelado su director ejecutivo Oskar Guilbert en una entrevista a IGN. “Para ser honesto, hemos rechazado varias propuestas”, dice Guilbert cuando le preguntan sobre si…",
+          "link": "https://www.elotrolado.net/noticias/juegos/dontnod-ofertas-rechazado",
+          "publishedOn": "2021-05-11T14:55:17.000Z",
+          "wordCount": 787,
+          "title": "Dontnod Entertainment ha rechazado varias ofertas de compra para mantenerse como un equipo independiente"
+        },
+        {
+          "id": "46000_v1",
+          "author": null,
+          "description": "Polygon ha publicado un extracto del libro Press Reset: Ruin and Recovery in the Video Game Industry donde Jason Schreier escribe sobre el problemático desarrollo de algunos juegos y las consecuencias que tiene para los trabajadores cerrar un estudio. El adelanto se centra en la creación de BioShock Infinite, un título dirigido por Ken Levine que se pudo completar después de un crunch, algunos retrasos y no pocos problemas. A lo largo del texto, Schreier recoge el testimonio de varios desarrolladores de Irr…",
+          "link": "https://www.elotrolado.net/noticias/juegos/bioshock-infinite-desarrollo-problemas-ken-levine",
+          "publishedOn": "2021-05-11T12:36:08.000Z",
+          "wordCount": 1003,
+          "title": "El problemático desarrollo de BioShock Infinite: “Ken Levine es un genio creativo [...] pero un mal líder”"
+        },
+        {
+          "id": "45999_v1",
+          "author": null,
+          "description": "Nvidia no puede satisfacer la demanda de tarjetas gráficas para ordenadores de sobremesa, pero de alguna forma ha logrado encontrar la capacidad productiva necesaria en sus socios para sacarse dos nuevas GPU para equipos portátiles. Coincidiendo estratégicamente con los nuevos Tiger Lake-H de Intel, que también se lanzan hoy, la compañía ha anunciado la disponibilidad de las GeForce RTX 3050 y RTX 3050 Ti para portátiles, destinadas a equipos gaming relativamente finos pero con prestaciones de ray tracing a…",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/nvidia-geforce-rtx-3050-ti-portatiles",
+          "publishedOn": "2021-05-11T11:56:03.000Z",
+          "wordCount": 845,
+          "title": "Nvidia lanza las GeForce RTX 3050 y 3050 Ti para portátiles, brindando ray tracing en las gamas medias"
+        },
+        {
+          "id": "45998_v1",
+          "author": null,
+          "description": "Capcom ha anunciado que entre las copias distribuidas en formato físico y las vendidas en formato digital Resident Evil Village ha conseguido colocar más de 3 millones de unidades desde que la semana pasada se pusiera a la venta en PS4, PS5, Xbox One, Xbox Series, PC (Steam) y Stadia. Un nuevo éxito para la compañía japonesa, que a finales de marzo celebraba los 4 millones de unidades con las que debutó Monster Hunter Rise en Nintendo Switch. En comparación, Resident Evil 7: biohazard (2017) consiguió vende…",
+          "link": "https://www.elotrolado.net/noticias/juegos/resident-evil-village-copias-vendidas",
+          "publishedOn": "2021-05-11T09:34:46.000Z",
+          "wordCount": 844,
+          "title": "Resident Evil Village debuta con 3 millones de unidades vendidas"
+        },
+        {
+          "id": "45997_v1",
+          "author": null,
+          "description": "El anuncio de la nueva política de datos compartidos con Facebook y la necesidad de aceptar unas condiciones de uso que confieren mayor control a la red social han causado consternación entre un buen número de usuarios de WhatsApp... y cierta alegría en el caso de rivales como Signal y Telegram. La situación es en cualquier caso delicada para la aplicación de mensajería instantánea, y prueba de ello es que este cambio administrativo en apariencia menor ha tenido que ser retrasado mientras da explicaciones. …",
+          "link": "https://www.elotrolado.net/noticias/internet/whatsapp-condiciones-de-uso-perdida-caracteristicas-fuera-union-europea-gdpr",
+          "publishedOn": "2021-05-11T07:47:14.000Z",
+          "wordCount": 843,
+          "title": "WhatsApp restringirá funciones a los usuarios fuera de la Unión Europea que no acepten sus nuevas condiciones"
+        },
+        {
           "id": "45996_v1",
           "author": null,
-          "description": "Sony Interactive Entertainment ha compartido una serie de detalles técnicos sobre la nueva generación de PlayStation VR con varios de sus socios y algunos han sido un poco indiscretos. Así es como UploadVR, un medio especializado en realidad virtual, ha obtenido información sobre el dispositivo que por ahora la compañía japonesa no ha revelado al público. Según está información, el nuevo PlayStation VR tendrá una resolución de 4000 x 2040 píxeles (2000 x 2040 por ojo), un motor para ofrecer retroalimentació…",
+          "description": "Sony Interactive Entertainment ha compartido una serie de detalles técnicos sobre la nueva generación de PlayStation VR con varios de sus socios, y algunos han sido un poco indiscretos. Así es como UploadVR, un medio especializado en realidad virtual, ha obtenido información sobre el dispositivo que por ahora la compañía japonesa no ha revelado al público. Según está información, el nuevo PlayStation VR tendrá una resolución de 4000 x 2040 píxeles (2000 x 2040 por ojo), un motor para ofrecer retroalimentaci…",
           "link": "https://www.elotrolado.net/noticias/consolas/playstation-vr-4k-renderizado-foveated",
           "publishedOn": "2021-05-10T23:40:21.000Z",
-          "wordCount": 636,
-          "title": "La nueva generación de PlayStation VR tendría soporte 4K, seguimiento ocular y renderizado foveated"
+          "wordCount": 814,
+          "title": "La nueva generación de PlayStation VR tendría soporte 4K, seguimiento ocular y renderizado foveado"
         },
         {
           "id": "45995_v1",
@@ -207,7 +342,7 @@
           "description": "Codemasters ha anunciado que el martes 11 de mayo pondrá a disposición de los jugadores de DiRT 5 una actualización gratuita que habilita el juego cruzado entre plataformas PlayStation, Xbox y PC (Windows Store y Steam). El emparejamiento multiplataforma es una opción que se puede activar y desactivar. La actualización también añade vueltas fantasma en los modos Time Trial y Playgrounds, nuevas condiciones climáticas en el modo Playgrounds y ocho diseños patrocinados por Red Bull para los siguientes vehícul…",
           "link": "https://www.elotrolado.net/hilo_dirt-5-recibe-juego-cruzado-entre-playstation-xbox-y-pc_2422545",
           "publishedOn": "2021-05-10T21:19:34.000Z",
-          "wordCount": 437,
+          "wordCount": 702,
           "title": "Breve: DiRT 5 recibe juego cruzado entre PlayStation, Xbox y PC"
         },
         {
@@ -216,7 +351,7 @@
           "description": "Los jugadores con un dispositivo Apple (Mac, iPhone, iPad y Apple TV) que utilicen la función Uso a distancia de PlayStation ya pueden emplear el mando DualSense para jugar a los títulos de PS5, según ha anunciado Sony. Hasta ahora para jugar de forma remota a un título de PS5 en un dispositivo Apple se tenía que usar el DuaShock de PS4. La noticia llega acompañada de algunos peros, incluyendo la ausencia de retroalimentación háptica, la necesidad de tener que emparejar manuamente el DualSense cada vez que …",
           "link": "https://www.elotrolado.net/hilo_el-uso-a-distancia-de-ps5-anade-soporte-para-dualsense-en-dispositivos-apple_2422543",
           "publishedOn": "2021-05-10T21:03:39.000Z",
-          "wordCount": 404,
+          "wordCount": 530,
           "title": "Breve: El Uso a distancia de PS5 añade soporte para DualSense en dispositivos Apple"
         },
         {
@@ -234,7 +369,7 @@
           "description": "El editor Annapurna Interactive ha mostrado un tráiler con seis minutos de gameplay de Twelve Minutes. El metraje cuenta con los comentarios de Luis Antonio, el creador de este thriller interactivo que estará disponible a lo largo de este año en Xbox y PC (Steam), que explica cómo funciona y cuál es la mecánica de este juego basado en la repetición. Twelve Minutes explica la historia de un hombre (James McAvoy) que se encuentra atrapado en un bucle temporal de 12 minutos. La narración siempre empieza igual,…",
           "link": "https://www.elotrolado.net/noticias/juegos/twelve-minutes-trailer-gameplay",
           "publishedOn": "2021-05-10T17:58:54.000Z",
-          "wordCount": 747,
+          "wordCount": 749,
           "title": "Twelve Minutes muestra su propuesta con un gameplay de 6 minutos"
         },
         {
@@ -243,7 +378,7 @@
           "description": "El simulador de comercio marítimo Port Royale 4 tendrá una versión para Nintendo Switch que estará disponible a partir del 28 de mayo, según ha revelado el editor Kalypso Media. Esta será la primera vez que la saga Port Royale pisa la mencionada plataforma. Port Royale 4 ya se encuentra disponible en PS4, Xbox One y PC. Desarrollado por Gaming Minds Studios, Port Royale 4 propone a los jugadores convertirse en magnates marítimos durante el siglo XVIII, cuando la piratería estaba a la orden del día. El títul…",
           "link": "https://www.elotrolado.net/hilo_port-royale-4-debutara-el-28-de-mayo-en-nintendo-switch_2422510",
           "publishedOn": "2021-05-10T16:30:13.000Z",
-          "wordCount": 304,
+          "wordCount": 308,
           "title": "Breve: Port Royale 4 debutará el 28 de mayo en Nintendo Switch"
         },
         {
@@ -252,7 +387,7 @@
           "description": "El juego de aventura y misterio Call of the Sea desarrollado por el equipo español Out of the Blue estará disponible en PS4 y PS5 a partir del 11 de mayo, según ha anunciado el editor Raw Fury. Originalmente el título debutó en Xbox Series, Xbox One y PC en diciembre de 2020. Además, desde el primer día se pudo encontrar en Xbox Game Pass. Call of the Sea tiene como protagonista a Norah, una mujer que en 1934 cruza el océano siguiendo el rastro de la expedición de su marido desaparecido. Su viaje la lleva h…",
           "link": "https://www.elotrolado.net/hilo_call-of-the-sea-para-ps4-y-ps5-se-pondra-a-la-venta-el-11-de-mayo_2422507",
           "publishedOn": "2021-05-10T16:02:47.000Z",
-          "wordCount": 435,
+          "wordCount": 511,
           "title": "Breve: Call of the Sea para PS4 y PS5 se pondrá a la venta el 11 de mayo"
         },
         {
@@ -261,7 +396,7 @@
           "description": "El editor 505 Games ha mostrado un nuevo tráiler de Open Country y anunciado que el juego desarrollado por Funlabs se pondrá a la venta el 3 de junio en PlayStation 4, Xbox One y PC (Steam) a cambio de 14,99 euros. En el mencionado metraje se pueden ver algunas actividades que se podrán realizar el juego y que van más allá de la caza y la estricta supervivencia. Open Country se describe como un juego arcade de supervivencia en plena naturaleza, donde los jugadores deberán enfrentarse a un mundo abierto dond…",
           "link": "https://www.elotrolado.net/hilo_open-country-un-juego-de-supervivencia-arcade-estara-disponible-el-3-de-junio-en-ps4-xbox-one-y-pc_2422505",
           "publishedOn": "2021-05-10T15:48:41.000Z",
-          "wordCount": 323,
+          "wordCount": 370,
           "title": "Breve: Open Country, un juego de supervivencia arcade, estará disponible el 3 de junio en PS4, Xbox One y PC"
         },
         {
@@ -279,143 +414,8 @@
           "description": "Encontrar una PlayStation 5 en las estanterías de las tiendas de todo el mundo es una tarea difícil desde que la consola se puso a la venta en noviembre de 2020 y no se espera que la situación mejore a corto plazo, según ha reconocido Hiroki Totoki, director financiero de Sony, Es más, la compañía japonesa prevé que tendrá problemas para cubrir la demanda de su nueva consola incluso en 2022. “No creo que la demanda disminuya durante este año e incluso si conseguimos muchos más dispositivos y producimos much…",
           "link": "https://www.elotrolado.net/noticias/consolas/ps5-problemas-suministro",
           "publishedOn": "2021-05-10T10:21:23.000Z",
-          "wordCount": 822,
-          "title": "Sony prevé que los problemas de suministro de PS5 continúen el próximo año"
-        },
-        {
-          "id": "45986_v1",
-          "author": null,
-          "description": "Realizar comentarios críticos a través de Internet es una actividad que cuenta con la misma protección legal que hacerlo en la prensa escrita o de viva voz, pero lo que es igual de importante: las plataformas que los albergan no tienen la obligación de controlarlos salvo que tengan conocimiento de que se está cometiendo una ilegalidad. Esta aparente obviedad ha tenido que ser confirmada por el Tribunal Supremo, que en una reciente sentencia recogida por ConfiLegal explica que las libertades de información y…",
-          "link": "https://www.elotrolado.net/noticias/internet/tribunal-supremo-criticas-online-publicar-albergar-libertad-expresion",
-          "publishedOn": "2021-05-10T09:58:39.000Z",
-          "wordCount": 846,
-          "title": "El Supremo dictamina que publicar y albergar críticas online está amparado por la libertad de expresión"
-        },
-        {
-          "id": "45985_v1",
-          "author": null,
-          "description": "El juicio que enfrenta Epic Games y Apple ha protagonizado varias noticias de la semana. Gracias a los documentos que se han presentado descubrimos que Fortnite ingresó 9.000 millones de dólares en dos años y que Sony permitió el juego cruzado en el battle royale a cambio de compensaciones económicas. También ha sido noticia Nintendo, que ya lleva 84,59 millones de Switch despachadas y acumula 11 juegos que han vendido como mínimo 10 millones de copias. Por su parte, Sony ha anunciado la integración de Disc…",
-          "link": "https://www.elotrolado.net/noticias/juegos/semana-1-8-mayo-2021",
-          "publishedOn": "2021-05-08T10:07:19.000Z",
-          "wordCount": 1184,
-          "title": "Las noticias de la semana (1 - 8 de mayo)"
-        },
-        {
-          "id": "45984_v1",
-          "author": null,
-          "description": "Yakuza: Like a Dragon, la última entrega de la franquicia desarrollada por Ryu Ga Gotoku Studio, apostó por un sistema de combates por turnos que ha tenido el suficiente éxito como para que el equipo de desarrollo haya decidido adoptarlo para los próximos juegos. La acción directa de la que definitivamente ha sido despojada la serie Yakuza será para su spin-off Judgment, que mantendrá su estilo de lucha en la secuela Lost Judgment y futuras entregas (si existen). “Así es”, dicen Toshihiro Nagoshi y Kazuki H…",
-          "link": "https://www.elotrolado.net/noticias/juegos/yakuza-rpg-turnos-judgment-accion",
-          "publishedOn": "2021-05-07T17:26:19.000Z",
-          "wordCount": 794,
-          "title": "La saga Yakuza seguirá siendo un RPG por turnos y Judgment se quedará con la acción"
-        },
-        {
-          "id": "45983_v1",
-          "author": null,
-          "description": "Sega y Ryu Ga Gotoku Studio (Yakuza) han hecho buenos los rumores y los deseos de no pocos jugadores al anunciar Lost Judgment, la secuela del thriller de acción Judgment que ya tiene fecha de lanzamiento: 24 de septiembre. La compañía japonesa ha amenizado la presentación de Lost Judgment con un primer y generoso tráiler donde se indica que el juego tendrá versión para las plataformas PS4, PS5, Xbox One y Xbox Series. En todas ellas el título lucirá audio en inglés y japonés así como subtítulos en español,…",
-          "link": "https://www.elotrolado.net/noticias/juegos/lost-judgment-anunciado",
-          "publishedOn": "2021-05-07T15:15:54.000Z",
-          "wordCount": 860,
-          "title": "Sega anuncia Lost Judgment: Takayuki Yagami volverá a la acción el 24 de septiembre en PlayStation y Xbox"
-        },
-        {
-          "id": "45982_v1",
-          "author": null,
-          "description": "Square Enix ha mostrado el “tráiler final” de Final Fantasy VII Remake Intergrade donde podemos ver en acción a Yuffie Kisaragi junto a su compañero Sonon Kusakabe luchando contra varios integrantes de Compañía de Electricidad y Energía Shinra. Para los jugadores de PS5 la noticia pasa por el gameplay inédito, mientras que para el resto la gran novedad llega al final del tráiler, donde se indica que Final Fantasy VII Remake Intergrade tiene una exclusividad de seis meses en la consola de Sony. A lo largo de…",
-          "link": "https://www.elotrolado.net/noticias/juegos/final-fantasy-vii-remake-intergrade-trailer-exclusiva",
-          "publishedOn": "2021-05-07T14:49:15.000Z",
-          "wordCount": 837,
-          "title": "Nuevo tráiler de Final Fantasy VII Remake Intergrade, cuya exclusiva en PS5 será de seis meses"
-        },
-        {
-          "id": "45981_v1",
-          "author": null,
-          "description": "Randy Pitchford, cofundador y director ejecutivo de Gearbox Software, ha usado Twitter para asegurar que su equipo de desarrollo será el encargado de liderar la creación de cualquier juego futuro de la saga Borderlands, ya sea una entrega principal o un spin-off. Estas declaraciones se producen a raíz de dos rumores. El primero de Gamereactor asegura que tenemos en camino un nuevo Borderlands no numerado, y el segundo de Jeff Grubb (VentureBeat) dice que el juego podría no estar desarrollado por Gearbox Sof…",
-          "link": "https://www.elotrolado.net/noticias/juegos/borderlands-spin-off-gearbox",
-          "publishedOn": "2021-05-07T11:33:14.000Z",
-          "wordCount": 654,
-          "title": "Gearbox Software asegura que liderará el desarrollo de cualquier futuro Borderlands"
-        },
-        {
-          "id": "45979_v1",
-          "author": null,
-          "description": "Android tiene un problema con la privacidad de sus aplicaciones. Más allá de sucesos como la aparición de apps que capturan más información de la declarada oficialmente, Google Play no es del todo claro a la hora de explicar a los usuarios la clase de datos a los que acceden las aplicaciones instaladas en un teléfono. Esto contrasta con la política de Apple, que incluso ha llegado a irritar a Facebook al obligarles a declarar todos los datos que recoge; una práctica instaurada a finales de 2020 y que ahora …",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/aplicaciones-android-mostraran-datos-accedidos",
-          "publishedOn": "2021-05-07T10:39:18.000Z",
           "wordCount": 824,
-          "title": "Google Play mostrará a qué datos de tu teléfono acceden las aplicaciones para Android"
-        },
-        {
-          "id": "45980_v1",
-          "author": null,
-          "description": "El simulador de colonias Going Medieval estará disponible mediante el acceso anticipado de Steam, Epic Games Store y GOG el 1 de junio por 22,99 euros, según ha anunciado el editor The Irregular Corporation. El objetivo del desarrollador Foxy Voxel es mantener el título en acceso anticipado “durante al menos un año”. Going Medieval transporta su acción al 1346, cuando el mundo empieza a recuperarse de la Peste Negra. Los supervivientes deciden recuperar las zonas reclamadas por la naturaleza y los jugadores…",
-          "link": "https://www.elotrolado.net/hilo_going-medieval-iniciara-su-acceso-anticipado-el-1-de-junio_2422252",
-          "publishedOn": "2021-05-07T10:16:26.000Z",
-          "wordCount": 317,
-          "title": "Breve: Going Medieval iniciará su acceso anticipado el 1 de junio"
-        },
-        {
-          "id": "45978_v1",
-          "author": null,
-          "description": "Wizards of the Coast ha anunciado que desde este viernes 7 de mayo los jugadores de PS4, Xbox One y Nintendo Switch tienen disponible el clásico Baldur’s Gate: Dark Alliance en su respectiva tienda digital a cambio de 29,99 euros. Además, la compañía ha anunciado que el juego tendrá una versión para PC y móviles que se pondrá a la venta a lo largo de 2021. Será la primera vez que Baldur’s Gate: Dark Alliance pisa un ordenador. La versión de Baldur’s Gate: Dark Alliance que reciben los jugadores de consola (…",
-          "link": "https://www.elotrolado.net/noticias/juegos/bauldurs-gate-dark-alliance-consolas-pc-movil",
-          "publishedOn": "2021-05-06T21:14:55.000Z",
-          "wordCount": 805,
-          "title": "El clásico Baldur’s Gate: Dark Alliance llega a PS4, Xbox One y Switch, y más adelante tendrá versión para PC y móvil"
-        },
-        {
-          "id": "45977_v1",
-          "author": null,
-          "description": "NetEase Games ha anunciado haber llegado a un acuerdo con el estudio polaco 11 bit studios para desarrollar una versión de Frostpunk para móviles, que si todo va según lo previsto estará disponible a lo largo de este año en iOS y Android. La versión original de Frostpunk para PS4, Xbox One y PC ha vendido más de tres millones de copias. El objetivo de NetEase Games es trasladar la experiencia original de Frostpunk, incluyendo todas sus mecánicas, a los dispositivos móviles y añadir nuevas características. D…",
-          "link": "https://www.elotrolado.net/hilo_frostpunk-tendra-una-version-para-moviles_2422203",
-          "publishedOn": "2021-05-06T19:01:47.000Z",
-          "wordCount": 481,
-          "title": "Breve: Frostpunk tendrá una versión para móviles"
-        },
-        {
-          "id": "45976_v1",
-          "author": null,
-          "description": "Los jugadores de Remnant: From the Ashes tendrán disponible el 13 de mayo una actualización gratuita que mejorará el rendimiento del juego en PS5 y Xbox Series. Los jugadores de PS5 y Xbox Series X podrán elegir entre 4K y 30 FPS o 1080p y 60 FPS. Esta última opción también se ofrecerá en Xbox Series S. Asimismo, el 13 de mayo Remnant: From the Ashes estará disponible mediante la Microsoft Store y entrará a formar parte del servicio Xbox Game Pass para consola y PC. En Xbox One, Xbox Series y PC el juego de…",
-          "link": "https://www.elotrolado.net/hilo_la-actualizacion-de-remnant-from-the-ashes-para-ps5-y-xbox-series-estara-disponible-el-13-de-mayo_2422199",
-          "publishedOn": "2021-05-06T18:52:24.000Z",
-          "wordCount": 557,
-          "title": "Breve: La actualización de Remnant: From the Ashes para PS5 y Xbox Series estará disponible el 13 de mayo"
-        },
-        {
-          "id": "45975_v1",
-          "author": null,
-          "description": "El Portal Oscuro que une Azeroth y Terrallende se abrirá el 1 de junio para los jugadores de World of Warcraft Classic, según ha anunciado Blizzard Entertainment. Junto a la fecha de lanzamiento del viejo contenido, al que se puede acceder con la suscripción de WoW, la compañía ha revelado la existencia del Pase para el Portal Oscuro, una opción de pago que permite subir a un personaje hasta el nivel 58, el mínimo necesario para pisar el reino de Illidan, y la Edición digital de lujo de Burning Crusade Clas…",
-          "link": "https://www.elotrolado.net/noticias/juegos/wow-burning-crusade-classic-fecha-hora",
-          "publishedOn": "2021-05-06T18:19:09.000Z",
-          "wordCount": 801,
-          "title": "Burning Crusade estará disponible el 1 de junio en World of Warcraft Classic"
-        },
-        {
-          "id": "45974_v1",
-          "author": null,
-          "description": "La Entertainment Software Association ha anunciado que Bandai Namco, Binge.com, Devious Eye Entertainment, Freedom Games, Gearbox Software, Sega, Square Enix, Turtle Beach, Verizon y XSEED Games estarán presentes en el E3 2021. Esta decena de incorporaciones se conocen después de que Konami decidiera no acudir al evento por motivos de calendario. Entre las compañías que ya habían confirmado su presencia en el E3 2021 encontramos a Capcom, Koch Media, Konami, Nintendo, Microsoft, Take-Two Interactive, Ubisof…",
-          "link": "https://www.elotrolado.net/hilo_bandai-namco-gearbox-software-sega-square-enix-y-mas-se-unen-a-al-e3-2021_2422186",
-          "publishedOn": "2021-05-06T17:26:52.000Z",
-          "wordCount": 338,
-          "title": "Breve: Bandai Namco, Gearbox Software, Sega, Square Enix y más se unen a al E3 2021"
-        },
-        {
-          "id": "45973_v1",
-          "author": null,
-          "description": "Los aficionados a los juegos gratis ya tienen disponible Pine, que se puede conseguir sin coste alguno mediante la Epic Games Store hasta el 13 de mayo a las 17:00 horas. A partir de entonces se abrirá la opción de hacerse con la aventura narrativa The Lion's Song. Pine es un juego de acción y aventura de mundo abierto donde los jugadores se ponen en la piel de Hue, un joven que tendrá que explorar, comerciar y abrirse camino a la fuerza en un mundo lleno de criaturas. El objetivo de nuestro protagonista es…",
-          "link": "https://www.elotrolado.net/hilo_pine-gratis-en-la-epic-games-store_2422185",
-          "publishedOn": "2021-05-06T17:20:33.000Z",
-          "wordCount": 637,
-          "title": "Breve: Pine gratis en la Epic Games Store"
-        },
-        {
-          "id": "45972_v1",
-          "author": null,
-          "description": "Ubisoft ha anunciado una nueva hoja de ruta para la franquicia The Division que incluye dos juegos: The Division Heartland y una entrega para móviles que aún no ha pasado por la pila bautismal. Estas novedades no impedirán que los equipos de desarrollo del editor francés sigan trabajando en contenido para The Division 2, la última entrega numerada de la saga que recibirá atención hasta como mínimo 2022. “Mientras seguimos trabajando en The Division 2, otros equipos de Ubisoft han estado explorando otras for…",
-          "link": "https://www.elotrolado.net/noticias/juegos/division-heartland-anunciado",
-          "publishedOn": "2021-05-06T16:55:41.000Z",
-          "wordCount": 831,
-          "title": "El universo The Division se expande con el juego free-to-play Heartland y un título para móviles"
+          "title": "Sony prevé que los problemas de suministro de PS5 continúen el próximo año"
         }
       ]
     },
@@ -424,6 +424,33 @@
       "feedUrl": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
       "siteUrl": "https://www.allgamesdelta.net/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-2689008422808562845",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "Photo: @stefanieGMJ   \n \n\nJoint venture with MercurySteam Entertainment\n Digital Bros announces the contract between its subsidiary 505 Games and MercurySteam Entertainment S.L. for development and the world-wide publishing of a brand-new videogame to be released on both PC and consoles.\n   MercurySteam Entertainment is the award-winning development studio behind the bestselling Castlevania: Lords of Shadowseries, the critically acclaimed Metroid: Samus Returns, and the self-published co-op shooter Spacelor…",
+          "link": "https://www.allgamesdelta.net/2021/05/505-games-will-publish-mercurysteams.html",
+          "publishedOn": "2021-05-11T09:04:00.000Z",
+          "wordCount": 108,
+          "title": "505 Games Will Publish MercurySteam's Next Game for Console and PC"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-6909617633659865124",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "About Shadow Warrior 3\nFallen corporate shogun Lo Wang and his former employer turned nemesis turned sidekick Orochi Zilla embark on an improbable mission to recapture an ancient dragon they unwillingly unleashed from its eternal prison. Armed with a punishing mix of blades and bullets, Lo Wang must traverse uncharted parts of the world to track down the dark beast and push the apocalypse back yet again. All it will take is the mask of a dead god, a dragon’s egg, a touch of magic, and enough firepower to ho…",
+          "link": "https://www.allgamesdelta.net/2021/05/shadow-warrior-3-that-damn-dam-mission.html",
+          "publishedOn": "2021-05-11T08:45:00.000Z",
+          "wordCount": 315,
+          "title": "Shadow Warrior 3 'That Damn Dam' Mission Trailer"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-1241577569821341368",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "Bring the Outdoors Inside With Open Country\n 505 Games is turning the great outdoors into the great indoors with Open Country, an arcade-style hunting game delivering an easily accessible and enjoyable open world outdoor adventure.\n   The Open Country launch trailer showcases an explorable environment where survival, sport hunting, and more are all at a players’ fingertips.\n   Developed by Funlabs, Open Country is trekking to the Epic Games Store and Steam for PC on May 18 for £12.99. Players can add Open C…",
+          "link": "https://www.allgamesdelta.net/2021/05/open-country-launches-june-3.html",
+          "publishedOn": "2021-05-11T08:39:00.000Z",
+          "wordCount": 308,
+          "title": "Open Country Launches June 3"
+        },
         {
           "id": "tag:blogger.com,1999:blog-6752074960104712501.post-8979072675806433231",
           "author": "noreply@blogger.com (AllGamesDelta)",
@@ -621,33 +648,6 @@
           "publishedOn": "2021-05-05T05:05:00.000Z",
           "wordCount": 493,
           "title": "Biomutant 'May The Furrth' Trailer"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-7707609774662325189",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "Microids announces Flashback 2 is in production!\n Paul Cuisset and Microids are delighted to announce the development of Flashback 2 has started on PC and consoles! Developed by a team under the supervision of Paul Cuisset, Flashback 2 will be an action platformer starring once again Conrad B. Hart.\n Released almost 3 decades ago, Flashback was ahead of its time offering an innovative gameplay with breathtaking character animations. Unrivaled pioneer in 1992, the game also reached a legendary status thanks …",
-          "link": "https://www.allgamesdelta.net/2021/05/flashback-2-announced-for-consoles-and.html",
-          "publishedOn": "2021-05-05T00:57:00.000Z",
-          "wordCount": 265,
-          "title": "Flashback 2 Announced for Consoles and PC"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-1669085967898781941",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "Apsulov: End of Gods – future Viking horror coming to current and new-gen consoles, including PlayStation physical editions by Perp Games\n Indie publisher Digerati is delighted to announce it's bringing Apsulov: End of Gods to consoles, with the game launching digitally for Nintendo Switch, Xbox One, Xbox Series X|S, PS4, and PS5. Apsulov: End of Gods is currently scheduled to launch summer 2021.\n Created by Sweden-based developer Angry Demon Studio, Apsulov: End of Gods brings together technology and Norse…",
-          "link": "https://www.allgamesdelta.net/2021/05/future-viking-horror-game-apsulov-end.html",
-          "publishedOn": "2021-05-04T22:42:00.000Z",
-          "wordCount": 401,
-          "title": "'Future Viking Horror' Game Apsulov: End of Gods Coming to PS5, Xbox Series, PS4, Xbox One and Switch this Summer"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-7267579137083026543",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "Wonder Boy: Asha in Monster World Launches May 28 in the West for PS4 and Switch, June 29 for PC \n ININ Games and Studio Artdink are delighted to announce the official release for Wonder Boy: Asha in Monster World for the Western retail release for both physical and digital Nintendo Switch and PS4 versions will be on May 28th 2021 for North America, Europe and Australia.\n  The retail editions for Nintendo Switch and PlayStation 4 will be available for €39.99 / $39.99 / £34.99 and include the original Monste…",
-          "link": "https://www.allgamesdelta.net/2021/05/wonder-boy-asha-in-monster-world.html",
-          "publishedOn": "2021-05-04T19:05:00.000Z",
-          "wordCount": 276,
-          "title": "Wonder Boy: Asha in Monster World Launches May 28 in the West for PS4 and Switch, June 29 for PC"
         }
       ]
     }
