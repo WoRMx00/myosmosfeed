@@ -2,21 +2,348 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T01:09:54.614Z</updated>
+    <updated>2021-05-13T01:15:03.800Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Flask 2.0.0 has been merged into master]]></title>
-        <id>https://news.ycombinator.com/item?id=27125200</id>
-        <link href="https://github.com/pallets/flask/pull/4007"/>
-        <updated>2021-05-12T00:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/pallets/flask/pull/4007
-Comments URL: https://news.ycombinator.com/item?id=27125200
-Points: 58
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Managing Dotfiles with GNU Stow]]></title>
+        <id>https://news.ycombinator.com/item?id=27137172</id>
+        <link href="https://alexpearce.me/2016/02/managing-dotfiles-with-stow/"/>
+        <updated>2021-05-13T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alexpearce.me/2016/02/managing-dotfiles-with-stow/
+Comments URL: https://news.ycombinator.com/item?id=27137172
+Points: 6
+# Comments: 1]]></summary>
         <author>
-            <name>tpfour</name>
+            <name>harporoeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executive Order on Improving the Nation’s Cybersecurity]]></title>
+        <id>https://news.ycombinator.com/item?id=27136746</id>
+        <link href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/"/>
+        <updated>2021-05-13T00:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+Comments URL: https://news.ycombinator.com/item?id=27136746
+Points: 16
+# Comments: 2]]></summary>
+        <author>
+            <name>encryptluks2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT should not be your default for sessions]]></title>
+        <id>https://news.ycombinator.com/item?id=27136539</id>
+        <link href="https://evertpot.com/jwt-is-a-bad-default/"/>
+        <updated>2021-05-12T23:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://evertpot.com/jwt-is-a-bad-default/
+Comments URL: https://news.ycombinator.com/item?id=27136539
+Points: 49
+# Comments: 25]]></summary>
+        <author>
+            <name>mfbx9da4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue]]></title>
+        <id>https://news.ycombinator.com/item?id=27136002</id>
+        <link href="https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5"/>
+        <updated>2021-05-12T22:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5
+Comments URL: https://news.ycombinator.com/item?id=27136002
+Points: 108
+# Comments: 62]]></summary>
+        <author>
+            <name>kareemm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Desarrolladores de Epic Games y Blizzard fundan Lightforge Games]]></title>
+        <id>46019_v1</id>
+        <link href="https://www.elotrolado.net/hilo_desarrolladores-de-epic-games-y-blizzard-fundan-lightforge-games_2422734"/>
+        <updated>2021-05-12T22:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Un grupo de veteranos desarrolladores que hasta ahora trabajaban en Epic Games y Blizzard Entertainment, se han unido para crear el estudio Lightforge Games. El equipo de desarrollo ya ha revelado que desde el principio trabajarán en remoto y con el objetivo de sacar adelante un RPG multiplataforma con elementos de Minecraft o Roblox y juegos de rol de mesa. Lightforge Games inicia su andadura después de haber completado una ronda de financiación de 5 millones de dólares que han aportado compañías como Gala…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kobra – visual programming language for machine learning]]></title>
+        <id>https://news.ycombinator.com/item?id=27135573</id>
+        <link href="https://kobra.dev/"/>
+        <updated>2021-05-12T21:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kobra.dev/
+Comments URL: https://news.ycombinator.com/item?id=27135573
+Points: 88
+# Comments: 10]]></summary>
+        <author>
+            <name>amrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CP/M for OS X]]></title>
+        <id>https://news.ycombinator.com/item?id=27135421</id>
+        <link href="https://github.com/TomHarte/CP-M-for-OS-X"/>
+        <updated>2021-05-12T21:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/TomHarte/CP-M-for-OS-X
+Comments URL: https://news.ycombinator.com/item?id=27135421
+Points: 73
+# Comments: 25]]></summary>
+        <author>
+            <name>bilegeek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relationship Hero is hiring coaches – Full Time Remote]]></title>
+        <id>https://news.ycombinator.com/item?id=27135089</id>
+        <link href="https://relationshiphero.com/careers?role=coach"/>
+        <updated>2021-05-12T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://relationshiphero.com/careers?role=coach
+Comments URL: https://news.ycombinator.com/item?id=27135089
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>Liron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch coloca ocho juegos entre los más vendidos de abril, pero Grand Theft Auto V lidera la lista]]></title>
+        <id>46018_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/mas-vendidos-abril-2021"/>
+        <updated>2021-05-12T20:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Por cuarto mes consecutivo Nintendo Switch domina con mano de hierro la lista de los juegos más vendidos en España al lograr colocar, una vez más, hasta ocho representantes en ella. Sin embargo, en esta ocasión quien lidera no es un título de Mario como en los tres últimos meses, sino que en la primera posición encontramos al veterano e incombustible Grand Theft Auto V. Sin embargo, Nintendo pincha con New Pokémon Snap, que debuta en la séptima plaza. El podio lo completan dos juegos de Nintendo Switch como…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram, Twitter blame glitches for deleting Palestinian posts]]></title>
+        <id>https://news.ycombinator.com/item?id=27134995</id>
+        <link href="https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624"/>
+        <updated>2021-05-12T20:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624
+Comments URL: https://news.ycombinator.com/item?id=27134995
+Points: 244
+# Comments: 109]]></summary>
+        <author>
+            <name>tareqak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid Git LFS if possible]]></title>
+        <id>https://news.ycombinator.com/item?id=27134972</id>
+        <link href="https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/"/>
+        <updated>2021-05-12T20:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
+Comments URL: https://news.ycombinator.com/item?id=27134972
+Points: 82
+# Comments: 57]]></summary>
+        <author>
+            <name>reimbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Pollution Linked to Increased Mental Health Outpatient Visits]]></title>
+        <id>https://news.ycombinator.com/item?id=27134429</id>
+        <link href="https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/"/>
+        <updated>2021-05-12T19:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/
+Comments URL: https://news.ycombinator.com/item?id=27134429
+Points: 35
+# Comments: 4]]></summary>
+        <author>
+            <name>hamilyon2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Way to Manage Dotfiles]]></title>
+        <id>https://news.ycombinator.com/item?id=27134249</id>
+        <link href="https://github.com/kalkayan/dotfiles"/>
+        <updated>2021-05-12T19:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/kalkayan/dotfiles
+Comments URL: https://news.ycombinator.com/item?id=27134249
+Points: 45
+# Comments: 28]]></summary>
+        <author>
+            <name>bminusl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural implant lets paralyzed person type by imagining writing]]></title>
+        <id>https://news.ycombinator.com/item?id=27134049</id>
+        <link href="https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/"/>
+        <updated>2021-05-12T19:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/
+Comments URL: https://news.ycombinator.com/item?id=27134049
+Points: 265
+# Comments: 111]]></summary>
+        <author>
+            <name>Engineering-MD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking division and libdivide on Apple M1 and Intel AVX512]]></title>
+        <id>https://news.ycombinator.com/item?id=27133804</id>
+        <link href="https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html"/>
+        <updated>2021-05-12T18:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
+Comments URL: https://news.ycombinator.com/item?id=27133804
+Points: 177
+# Comments: 69]]></summary>
+        <author>
+            <name>ridiculous_fish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Studios tiene más de 25 juegos en desarrollo para PS5 y casi la mitad son nuevas propiedades intelectuales]]></title>
+        <id>46017_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/playstation-studios-desarrollo-ps5"/>
+        <updated>2021-05-12T18:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Hermen Hulst, máximo responsable de PlayStation Studios, ha celebrado los seis meses que PlayStation 5 lleva en el mercado concediendo una entrevista a Wired donde ha hablado sobre varios temas que rodean la consola, incluyendo los problemas de suministro y los próximos juegos que se encuentran en desarrollo. Respecto al abastecimiento, no existe una varita mágica, pero se espera que mes a mes la situación vaya mejorando, mientras que en el apartado juegos el directivo revela que PlayStation Studios tiene e…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit Apps]]></title>
+        <id>https://news.ycombinator.com/item?id=27132979</id>
+        <link href="https://blog.replit.com/apps"/>
+        <updated>2021-05-12T17:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/apps
+Comments URL: https://news.ycombinator.com/item?id=27132979
+Points: 94
+# Comments: 37]]></summary>
+        <author>
+            <name>razin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuevos gameplays y detalles de Ratchet & Clank: Una Dimensión Aparte]]></title>
+        <id>46016_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/ratchet-clank-gameplays-detalles"/>
+        <updated>2021-05-12T17:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Durante las últimas horas varios medios han publicado su respectivo avance de Ratchet &amp; Clank: Una Dimensión Aparte, unas impresiones que debido a la pandemia se han extraído después de ver vía streaming un inédito gameplay de 30 minutos ofrecido por Sony. Muchos de los textos están acompañados de parte del mencionado gameplay, así que el resto del mundo ha podido ver de nuevo cómo luce el título de Insomniac Games para PS5, que estará disponible el 11 de junio. La campaña de Ratchet &amp; Clank: Una Di…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I wrote my own RTS game engine in C]]></title>
+        <id>https://news.ycombinator.com/item?id=27132334</id>
+        <link href="https://github.com/eduard-permyakov/permafrost-engine"/>
+        <updated>2021-05-12T16:44:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
+Comments URL: https://news.ycombinator.com/item?id=27132334
+Points: 763
+# Comments: 141]]></summary>
+        <author>
+            <name>epermyakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Houdini]]></title>
+        <id>https://news.ycombinator.com/item?id=27131897</id>
+        <link href="https://developer.mozilla.org/en-US/docs/Web/Houdini"/>
+        <updated>2021-05-12T16:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini
+Comments URL: https://news.ycombinator.com/item?id=27131897
+Points: 225
+# Comments: 109]]></summary>
+        <author>
+            <name>mvolfik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vesuvius ancient eruption rescuer identified at Herculaneum, says expert]]></title>
+        <id>https://news.ycombinator.com/item?id=27131744</id>
+        <link href="https://www.bbc.com/news/world-europe-57055163"/>
+        <updated>2021-05-12T15:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57055163
+Comments URL: https://news.ycombinator.com/item?id=27131744
+Points: 71
+# Comments: 26]]></summary>
+        <author>
+            <name>harscoat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Layers of Fear 2 para Nintendo Switch estará disponible el 20 de mayo]]></title>
+        <id>46015_v1</id>
+        <link href="https://www.elotrolado.net/hilo_layers-of-fear-2-para-nintendo-switch-estara-disponible-el-20-de-mayo_2422708"/>
+        <updated>2021-05-12T15:41:39.000Z</updated>
+        <summary type="html"><![CDATA[El juego de horror psicológico en primera persona Layers of Fear 2 se pondrá a la venta para Nintendo Switch mediante la eShop el 20 de mayo a cambio de 29,99 euros, según ha anunciado el desarrollador polaco Bloober Team. Inicialmente este título llegó a las tiendas para PS4, Xbox One y PC (Steam) en mayo de 2019. Layers of Fear 2 tiene como protagonista a un actor de Hollywood que acude a la llamada de un enigmático director para protagonizar una película a bordo de un transatlántico. La historia del jueg…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sniper Ghost Warrior Contracts 2 muestra su jugabilidad con un nuevo tráiler]]></title>
+        <id>46014_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/sniper-ghost-warrior-contracts-2-trailer-gameplay"/>
+        <updated>2021-05-12T15:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Cuando queda menos de un mes para el lanzamiento de Sniper Ghost Warrior Contracts 2, CI Games ha distribuido un tráiler explicativo con todos los detalles sobre la jugabilidad del título. El desarrollador polaco también ha recordado que la nueva entrega de su franquicia de francotiradores en primera persona estará disponible el 4 de junio en PS4, Xbox One, Xbox Series y PC, mientras que la versión y actualización para PS5 llegará a finales de año. Sniper Ghost Warrior Contracts 2 sitúa su acción en Kuamar,…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emulating AirTags to upload arbitrary data via Apple's FindMy network]]></title>
+        <id>https://news.ycombinator.com/item?id=27130355</id>
+        <link href="https://positive.security/blog/send-my"/>
+        <updated>2021-05-12T13:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
+Comments URL: https://news.ycombinator.com/item?id=27130355
+Points: 431
+# Comments: 105]]></summary>
+        <author>
+            <name>kerm1t</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft espera más ingresos por los juegos free-to-play y que estos ofrezcan una vía adicional para probar sus sagas]]></title>
+        <id>46013_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/ubisoft-f2p-grandes-franquicias"/>
+        <updated>2021-05-12T13:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Después de la presentación de sus últimos resultados económicos, el director financiero de Ubisoft, Frederick Duguet, se dirigió a los accionistas para explicarles que la compañía está decidida a que los juegos free-to-play (F2P) representen una mayor parte de sus ingresos. Eso no significa que los franceses vayan a abandonar las entregas prémium de sus sagas, pero sí que tienen como objetivo diversificar sus fuentes de ingresos y no solo depender de los grandes lanzamientos. Después de que las palabras de …]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Docs will now use canvas based rendering]]></title>
+        <id>https://news.ycombinator.com/item?id=27129858</id>
+        <link href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html"/>
+        <updated>2021-05-12T13:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
+Comments URL: https://news.ycombinator.com/item?id=27129858
+Points: 906
+# Comments: 821]]></summary>
+        <author>
+            <name>lewisjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing a Programming Book in 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27129518</id>
+        <link href="https://jmtirado.net/writing-a-programming-book-in-2021/"/>
+        <updated>2021-05-12T12:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/
+Comments URL: https://news.ycombinator.com/item?id=27129518
+Points: 154
+# Comments: 56]]></summary>
+        <author>
+            <name>wilsonfiifi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estados Unidos elimina a Xiaomi de la lista de empresas chinas sancionadas]]></title>
+        <id>46012_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/estados-unidos-elimina-sanciones-xiaomi"/>
+        <updated>2021-05-12T11:40:14.000Z</updated>
+        <summary type="html"><![CDATA[El vía crucis de Xiaomi en Estados Unidos ha llegado a su fin. El gobierno estadounidense ha aceptado eliminar al fabricante chino de la lista de empresas sancionadas por el Departamento de Defensa por su relación con el ejército y/o el espionaje del gigante asiático, donde fue introducida por la anterior administración junto a otras como Huawei y el fabricante de semiconductores SMIC. Las sanciones, que ya fueron paralizadas provisionalmente por un juez a instancias de Xiaomi, impedían que inversores estad…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -27,19 +354,6 @@ Points: 58
         <summary type="html"><![CDATA[Cuando empezó la pandemia de COVID-19 Gabe Newell, cofundador de Valve, se encontraba en Nueva Zelanda y desde entonces no ha abandonado el país. Como invitado y magnate ilustre Gabe ha participado en programas de televisión, enviado un gnomo al espacio con motivos benéficos y más recientemente se ha sometido a una sesión de preguntas y respuestas en un colegio público. Ha sido en este último escenario donde el ejecutivo ha dejado caer una bomba: la posibilidad de que nuevos juegos de Valve estén disponible…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware]]></title>
-        <id>https://news.ycombinator.com/item?id=27124671</id>
-        <link href="https://www.airgradient.com/diy/"/>
-        <updated>2021-05-11T22:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.airgradient.com/diy/
-Comments URL: https://news.ycombinator.com/item?id=27124671
-Points: 58
-# Comments: 10]]></summary>
-        <author>
-            <name>walterbell</name>
         </author>
     </entry>
     <entry>
@@ -60,74 +374,6 @@ Points: 58
         <summary type="html"><![CDATA[Después de un retraso de dos semanas, el 13 de mayo estará disponible La Ira de los Druidas, la primera gran pieza de contenido adicional que recibirán los jugadores de Assassin's Creed Valhalla. Este complemento está incluido en el pase de temporada de 39,99 euros (o 99,99 euros junto a una copia del juego) y también se podrá adquirir por separado. La campaña La Ira de los Druidas traslada la acción hasta Irlanda y en ella los jugadores de Assassin’s Creed Valhalla deberán hacer frente al Culto de los Hijo…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How to negotiate continuing to work remotely?]]></title>
-        <id>https://news.ycombinator.com/item?id=27123553</id>
-        <link href="https://news.ycombinator.com/item?id=27123553"/>
-        <updated>2021-05-11T21:09:06.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN. Like many of you I am working remotely due to COVID.
-I want to continue working remotely, but my job wants me in the office next month.
-How would you negotiate this with your employer?
-Have any of you already had this conversation? How did it go?
-Comments URL: https://news.ycombinator.com/item?id=27123553
-Points: 110
-# Comments: 86]]></summary>
-        <author>
-            <name>megasquid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KaiPod Learning (YC S21) Is Hiring]]></title>
-        <id>https://news.ycombinator.com/item?id=27123464</id>
-        <link href="https://www.workatastartup.com/jobs/43915"/>
-        <updated>2021-05-11T21:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/43915
-Comments URL: https://news.ycombinator.com/item?id=27123464
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>amarkumar81</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Arduino IDE 2.0 beta]]></title>
-        <id>https://news.ycombinator.com/item?id=27123410</id>
-        <link href="https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/"/>
-        <updated>2021-05-11T20:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/
-Comments URL: https://news.ycombinator.com/item?id=27123410
-Points: 128
-# Comments: 40]]></summary>
-        <author>
-            <name>dgellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Use Email – How to Use Email for Everything]]></title>
-        <id>https://news.ycombinator.com/item?id=27123389</id>
-        <link href="https://www.justuseemail.com/"/>
-        <updated>2021-05-11T20:54:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.justuseemail.com/
-Comments URL: https://news.ycombinator.com/item?id=27123389
-Points: 150
-# Comments: 108]]></summary>
-        <author>
-            <name>srpeck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook will ignore data collection ban issued in Germany over WhatApp rules]]></title>
-        <id>https://news.ycombinator.com/item?id=27123077</id>
-        <link href="https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html"/>
-        <updated>2021-05-11T20:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html
-Comments URL: https://news.ycombinator.com/item?id=27123077
-Points: 127
-# Comments: 37]]></summary>
-        <author>
-            <name>thg</name>
         </author>
     </entry>
     <entry>
@@ -161,58 +407,6 @@ Points: 127
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FragAttacks: new security vulnerabilities that affect wi-fi devices]]></title>
-        <id>https://news.ycombinator.com/item?id=27121918</id>
-        <link href="https://www.fragattacks.com/"/>
-        <updated>2021-05-11T18:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fragattacks.com/
-Comments URL: https://news.ycombinator.com/item?id=27121918
-Points: 374
-# Comments: 118]]></summary>
-        <author>
-            <name>sylvainkalache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech giants join call for funding U.S. chip production]]></title>
-        <id>https://news.ycombinator.com/item?id=27121586</id>
-        <link href="https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK"/>
-        <updated>2021-05-11T18:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK
-Comments URL: https://news.ycombinator.com/item?id=27121586
-Points: 342
-# Comments: 244]]></summary>
-        <author>
-            <name>tareqak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I mailed an AirTag and tracked its progress]]></title>
-        <id>https://news.ycombinator.com/item?id=27121461</id>
-        <link href="https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/"/>
-        <updated>2021-05-11T18:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/
-Comments URL: https://news.ycombinator.com/item?id=27121461
-Points: 405
-# Comments: 282]]></summary>
-        <author>
-            <name>miles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Germany bans Facebook from handling WhatsApp data over privacy concerns]]></title>
-        <id>https://news.ycombinator.com/item?id=27121332</id>
-        <link href="https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns"/>
-        <updated>2021-05-11T18:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns
-Comments URL: https://news.ycombinator.com/item?id=27121332
-Points: 298
-# Comments: 31]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[El HTC Vive Pro 2 llega con resolución 5K, refresco a 120 Hz y un precio de 1.090 euros]]></title>
         <id>46005_v1</id>
         <link href="https://www.elotrolado.net/noticias/tecnologia/htc-vive-pro-2-precio-caracteristicas"/>
@@ -223,32 +417,6 @@ Points: 298
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare on the edge]]></title>
-        <id>https://news.ycombinator.com/item?id=27120677</id>
-        <link href="https://stratechery.com/2021/cloudflare-on-the-edge/"/>
-        <updated>2021-05-11T17:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stratechery.com/2021/cloudflare-on-the-edge/
-Comments URL: https://news.ycombinator.com/item?id=27120677
-Points: 203
-# Comments: 77]]></summary>
-        <author>
-            <name>kaboro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For those who can afford it, quitting has become the ultimate form of self-care]]></title>
-        <id>https://news.ycombinator.com/item?id=27120557</id>
-        <link href="https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html"/>
-        <updated>2021-05-11T17:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html
-Comments URL: https://news.ycombinator.com/item?id=27120557
-Points: 107
-# Comments: 75]]></summary>
-        <author>
-            <name>fortran77</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xbox se actualiza con mejoras para Quick Resume y añade la opción Audio Passthrough]]></title>
         <id>46004_v1</id>
         <link href="https://www.elotrolado.net/noticias/consolas/xbox-series-one-actualizacion-mayo"/>
@@ -256,45 +424,6 @@ Points: 107
         <summary type="html"><![CDATA[Microsoft ha ofrecido los detalles de la actualización de mayo para la familia de consolas Xbox, que hoy mismo ha iniciado su despliegue entre todos los jugadores. La gran novedad pasa por una serie de mejoras para la función Quick Resume, una de las estrellas de Xbox Series, y la nueva opción de Audio Passthrough para aplicaciones de streaming. También tenemos nuevos fondos dinámicos, opciones parentales adicionales y el adiós de la aplicación SmartGlass para PC. La función Quick Resume hace uso de la Xbox…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[●●|●●●●●|●●|●]]></title>
-        <id>https://news.ycombinator.com/item?id=27120460</id>
-        <link href="http://scp-wiki.wikidot.com/scp-2521"/>
-        <updated>2021-05-11T16:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://scp-wiki.wikidot.com/scp-2521
-Comments URL: https://news.ycombinator.com/item?id=27120460
-Points: 369
-# Comments: 151]]></summary>
-        <author>
-            <name>crazypython</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An experiment caught a quantum system in the middle of a jump (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27120354</id>
-        <link href="https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/"/>
-        <updated>2021-05-11T16:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/
-Comments URL: https://news.ycombinator.com/item?id=27120354
-Points: 82
-# Comments: 72]]></summary>
-        <author>
-            <name>airstrike</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good data scientist, bad data scientist]]></title>
-        <id>https://news.ycombinator.com/item?id=27120231</id>
-        <link href="https://ianwhitestone.work/good-ds-bad-ds/"/>
-        <updated>2021-05-11T16:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ianwhitestone.work/good-ds-bad-ds/
-Comments URL: https://news.ycombinator.com/item?id=27120231
-Points: 122
-# Comments: 77]]></summary>
-        <author>
-            <name>ian-whitestone</name>
         </author>
     </entry>
     <entry>
@@ -318,19 +447,6 @@ Points: 122
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vamp is joining CircleCI]]></title>
-        <id>https://news.ycombinator.com/item?id=27119221</id>
-        <link href="https://blog.vamp.io/vamp-is-joining-circleci/"/>
-        <updated>2021-05-11T15:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.vamp.io/vamp-is-joining-circleci/
-Comments URL: https://news.ycombinator.com/item?id=27119221
-Points: 64
-# Comments: 7]]></summary>
-        <author>
-            <name>muramira</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dontnod Entertainment ha rechazado varias ofertas de compra para mantenerse como un equipo independiente]]></title>
         <id>46001_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/dontnod-ofertas-rechazado"/>
@@ -338,43 +454,6 @@ Points: 64
         <summary type="html"><![CDATA[La industria del videojuego se encuentra en un periodo de consolidación y uno de los estudios que podría haber engordado la nómina de adquisiciones que hemos visto durante los últimos tiempos es Dontnod Entertainment, el desarrollador responsable de Life is Strange, Remember Me, Vampyr o los más recientes Twin Mirror y Tell Me Why. Así lo ha revelado su director ejecutivo Oskar Guilbert en una entrevista a IGN. “Para ser honesto, hemos rechazado varias propuestas”, dice Guilbert cuando le preguntan sobre si…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students]]></title>
-        <id>https://news.ycombinator.com/item?id=27118794</id>
-        <link href="https://news.ycombinator.com/item?id=27118794"/>
-        <updated>2021-05-11T14:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! My name’s Aly, and I’m the founder of UPchieve (https://upchieve.org). I’m here with UPchieve’s CTO, Dave (thedevelopnik). We’re an edtech nonprofit that provides free, 24/7 online tutoring to low-income high school students.
-The idea for UPchieve was based on my own personal experience as a low-income student. I was raised by a single mom who was an immigrant to the US and often couldn’t help me with schoolwork and applying to college. So I went to a community college, and from there it took m…]]></summary>
-        <author>
-            <name>alymurray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pprof++: A Go Profiler with Hardware Performance Monitoring]]></title>
-        <id>https://news.ycombinator.com/item?id=27118541</id>
-        <link href="https://eng.uber.com/pprof-go-profiler/"/>
-        <updated>2021-05-11T14:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eng.uber.com/pprof-go-profiler/
-Comments URL: https://news.ycombinator.com/item?id=27118541
-Points: 207
-# Comments: 33]]></summary>
-        <author>
-            <name>vquemener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a new vector based storage model]]></title>
-        <id>https://news.ycombinator.com/item?id=27118117</id>
-        <link href="https://questdb.slab.com/public/posts/p4aktor4"/>
-        <updated>2021-05-11T13:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://questdb.slab.com/public/posts/p4aktor4
-Comments URL: https://news.ycombinator.com/item?id=27118117
-Points: 64
-# Comments: 8]]></summary>
-        <author>
-            <name>bluestreak</name>
         </author>
     </entry>
     <entry>
@@ -472,86 +551,6 @@ Fallen corporate shogun Lo Wang and his former employer turned nemesis turned si
         <link href="https://www.elotrolado.net/hilo_dirt-5-recibe-juego-cruzado-entre-playstation-xbox-y-pc_2422545"/>
         <updated>2021-05-10T21:19:34.000Z</updated>
         <summary type="html"><![CDATA[Codemasters ha anunciado que el martes 11 de mayo pondrá a disposición de los jugadores de DiRT 5 una actualización gratuita que habilita el juego cruzado entre plataformas PlayStation, Xbox y PC (Windows Store y Steam). El emparejamiento multiplataforma es una opción que se puede activar y desactivar. La actualización también añade vueltas fantasma en los modos Time Trial y Playgrounds, nuevas condiciones climáticas en el modo Playgrounds y ocho diseños patrocinados por Red Bull para los siguientes vehícul…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: El Uso a distancia de PS5 añade soporte para DualSense en dispositivos Apple]]></title>
-        <id>45994_v1</id>
-        <link href="https://www.elotrolado.net/hilo_el-uso-a-distancia-de-ps5-anade-soporte-para-dualsense-en-dispositivos-apple_2422543"/>
-        <updated>2021-05-10T21:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Los jugadores con un dispositivo Apple (Mac, iPhone, iPad y Apple TV) que utilicen la función Uso a distancia de PlayStation ya pueden emplear el mando DualSense para jugar a los títulos de PS5, según ha anunciado Sony. Hasta ahora para jugar de forma remota a un título de PS5 en un dispositivo Apple se tenía que usar el DuaShock de PS4. La noticia llega acompañada de algunos peros, incluyendo la ausencia de retroalimentación háptica, la necesidad de tener que emparejar manuamente el DualSense cada vez que …]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncharted 4 celebra su quinto aniversario con 37 millones de jugadores]]></title>
-        <id>45993_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/uncharted-4-ventas-ps4"/>
-        <updated>2021-05-10T20:29:58.000Z</updated>
-        <summary type="html"><![CDATA[El 10 de mayo de 2016 se puso a la venta Uncharted 4: El desenlace del ladrón para PlayStation 4 y el desarrollador Naughty Dog lo ha querido celebrar el quinto aniversario del juego con una retrospectiva y una serie de cifras. La mayoría son curiosidades, incluyendo los 2 millones de jugadores que han tomado una foto de Sully, pero las hay de más interesantes, incluyendo que hasta la fecha Uncharted 4 ha registrado más de 37 millones de jugadores. Uncharted 4 es el último juego protagonizado por Nathan Dra…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twelve Minutes muestra su propuesta con un gameplay de 6 minutos]]></title>
-        <id>45992_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/twelve-minutes-trailer-gameplay"/>
-        <updated>2021-05-10T17:58:54.000Z</updated>
-        <summary type="html"><![CDATA[El editor Annapurna Interactive ha mostrado un tráiler con seis minutos de gameplay de Twelve Minutes. El metraje cuenta con los comentarios de Luis Antonio, el creador de este thriller interactivo que estará disponible a lo largo de este año en Xbox y PC (Steam), que explica cómo funciona y cuál es la mecánica de este juego basado en la repetición. Twelve Minutes explica la historia de un hombre (James McAvoy) que se encuentra atrapado en un bucle temporal de 12 minutos. La narración siempre empieza igual,…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Port Royale 4 debutará el 28 de mayo en Nintendo Switch]]></title>
-        <id>45991_v1</id>
-        <link href="https://www.elotrolado.net/hilo_port-royale-4-debutara-el-28-de-mayo-en-nintendo-switch_2422510"/>
-        <updated>2021-05-10T16:30:13.000Z</updated>
-        <summary type="html"><![CDATA[El simulador de comercio marítimo Port Royale 4 tendrá una versión para Nintendo Switch que estará disponible a partir del 28 de mayo, según ha revelado el editor Kalypso Media. Esta será la primera vez que la saga Port Royale pisa la mencionada plataforma. Port Royale 4 ya se encuentra disponible en PS4, Xbox One y PC. Desarrollado por Gaming Minds Studios, Port Royale 4 propone a los jugadores convertirse en magnates marítimos durante el siglo XVIII, cuando la piratería estaba a la orden del día. El títul…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Call of the Sea para PS4 y PS5 se pondrá a la venta el 11 de mayo]]></title>
-        <id>45990_v1</id>
-        <link href="https://www.elotrolado.net/hilo_call-of-the-sea-para-ps4-y-ps5-se-pondra-a-la-venta-el-11-de-mayo_2422507"/>
-        <updated>2021-05-10T16:02:47.000Z</updated>
-        <summary type="html"><![CDATA[El juego de aventura y misterio Call of the Sea desarrollado por el equipo español Out of the Blue estará disponible en PS4 y PS5 a partir del 11 de mayo, según ha anunciado el editor Raw Fury. Originalmente el título debutó en Xbox Series, Xbox One y PC en diciembre de 2020. Además, desde el primer día se pudo encontrar en Xbox Game Pass. Call of the Sea tiene como protagonista a Norah, una mujer que en 1934 cruza el océano siguiendo el rastro de la expedición de su marido desaparecido. Su viaje la lleva h…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Open Country, un juego de supervivencia arcade, estará disponible el 3 de junio en PS4, Xbox One y PC]]></title>
-        <id>45989_v1</id>
-        <link href="https://www.elotrolado.net/hilo_open-country-un-juego-de-supervivencia-arcade-estara-disponible-el-3-de-junio-en-ps4-xbox-one-y-pc_2422505"/>
-        <updated>2021-05-10T15:48:41.000Z</updated>
-        <summary type="html"><![CDATA[El editor 505 Games ha mostrado un nuevo tráiler de Open Country y anunciado que el juego desarrollado por Funlabs se pondrá a la venta el 3 de junio en PlayStation 4, Xbox One y PC (Steam) a cambio de 14,99 euros. En el mencionado metraje se pueden ver algunas actividades que se podrán realizar el juego y que van más allá de la caza y la estricta supervivencia. Open Country se describe como un juego arcade de supervivencia en plena naturaleza, donde los jugadores deberán enfrentarse a un mundo abierto dond…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Hood: Outlaws & Legends]]></title>
-        <id>45988_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/hood-outlaws-legends-trailer-lanzamiento"/>
-        <updated>2021-05-10T14:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Focus Home Interactive ha mostrado el tráiler de lanzamiento de Hood: Outlaws &amp; Legends para celebrar que desde hoy el juego desarrollado por Sumo Digital (Team Sonic Racing, Sackboy: A Big Adventure) ya se encuentra disponible en PS4, PS5, Xbox One, Xbox Series y PC (Steam) a cambio de 29,99 euros. En caso de querer el título junto a contenido cosmético de las tres primeras temporadas tocará abonar 49,99 euros. Hood: Outlaws &amp; Legends es un juego multijugador de asaltos JcJcE (jugador contra jugado…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony prevé que los problemas de suministro de PS5 continúen el próximo año]]></title>
-        <id>45987_v1</id>
-        <link href="https://www.elotrolado.net/noticias/consolas/ps5-problemas-suministro"/>
-        <updated>2021-05-10T10:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Encontrar una PlayStation 5 en las estanterías de las tiendas de todo el mundo es una tarea difícil desde que la consola se puso a la venta en noviembre de 2020 y no se espera que la situación mejore a corto plazo, según ha reconocido Hiroki Totoki, director financiero de Sony, Es más, la compañía japonesa prevé que tendrá problemas para cubrir la demanda de su nueva consola incluso en 2022. “No creo que la demanda disminuya durante este año e incluso si conseguimos muchos más dispositivos y producimos much…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
