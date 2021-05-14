@@ -2,60 +2,356 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T01:15:03.800Z</updated>
+    <updated>2021-05-14T01:16:27.663Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Managing Dotfiles with GNU Stow]]></title>
-        <id>https://news.ycombinator.com/item?id=27137172</id>
-        <link href="https://alexpearce.me/2016/02/managing-dotfiles-with-stow/"/>
-        <updated>2021-05-13T00:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://alexpearce.me/2016/02/managing-dotfiles-with-stow/
-Comments URL: https://news.ycombinator.com/item?id=27137172
-Points: 6
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Zulip 4.0: Threaded open source team chat]]></title>
+        <id>https://news.ycombinator.com/item?id=27149123</id>
+        <link href="https://blog.zulip.com/2021/05/13/zulip-4-0-released/"/>
+        <updated>2021-05-14T00:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.zulip.com/2021/05/13/zulip-4-0-released/
+Comments URL: https://news.ycombinator.com/item?id=27149123
+Points: 12
+# Comments: 0]]></summary>
         <author>
-            <name>harporoeder</name>
+            <name>karlicoss</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Executive Order on Improving the Nation’s Cybersecurity]]></title>
-        <id>https://news.ycombinator.com/item?id=27136746</id>
-        <link href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/"/>
-        <updated>2021-05-13T00:04:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
-Comments URL: https://news.ycombinator.com/item?id=27136746
-Points: 16
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Open Source Continuous File Synchronization]]></title>
+        <id>https://news.ycombinator.com/item?id=27149002</id>
+        <link href="https://github.com/syncthing/syncthing"/>
+        <updated>2021-05-13T23:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/syncthing/syncthing
+Comments URL: https://news.ycombinator.com/item?id=27149002
+Points: 7
+# Comments: 0]]></summary>
         <author>
-            <name>encryptluks2</name>
+            <name>quyleanh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JWT should not be your default for sessions]]></title>
-        <id>https://news.ycombinator.com/item?id=27136539</id>
-        <link href="https://evertpot.com/jwt-is-a-bad-default/"/>
-        <updated>2021-05-12T23:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://evertpot.com/jwt-is-a-bad-default/
-Comments URL: https://news.ycombinator.com/item?id=27136539
-Points: 49
-# Comments: 25]]></summary>
+        <title type="html"><![CDATA[BackBlaze: Privacy Update: Third-Party Tracking]]></title>
+        <id>https://news.ycombinator.com/item?id=27148593</id>
+        <link href="https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13"/>
+        <updated>2021-05-13T23:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13
+Comments URL: https://news.ycombinator.com/item?id=27148593
+Points: 106
+# Comments: 15]]></summary>
         <author>
-            <name>mfbx9da4</name>
+            <name>busymom0</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue]]></title>
-        <id>https://news.ycombinator.com/item?id=27136002</id>
-        <link href="https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5"/>
-        <updated>2021-05-12T22:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5
-Comments URL: https://news.ycombinator.com/item?id=27136002
-Points: 108
-# Comments: 62]]></summary>
+        <title type="html"><![CDATA[The Brain Maps Out Ideas and Memories Like Spaces]]></title>
+        <id>https://news.ycombinator.com/item?id=27148529</id>
+        <link href="https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/"/>
+        <updated>2021-05-13T22:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/
+Comments URL: https://news.ycombinator.com/item?id=27148529
+Points: 30
+# Comments: 5]]></summary>
         <author>
-            <name>kareemm</name>
+            <name>andyxor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Ghostrunner 2 anunciado para PS5, Xbox Series y PC]]></title>
+        <id>46028_v1</id>
+        <link href="https://www.elotrolado.net/hilo_ghostrunner-2-anunciado-para-ps5-xbox-series-y-pc_2422827"/>
+        <updated>2021-05-13T22:53:42.000Z</updated>
+        <summary type="html"><![CDATA[505 Games ha anunciado haber llegado a un acuerdo con One More Level para el desarrollo y publicación de Ghostrunner 2, que estará disponible en PlayStation 5, Xbox Series y PC. Por ahora no tenemos detalles ni ventana de lanzamiento, pero sí un dato, que la primera entrega de Ghostrunner ha superado las 600.000 unidades vendidas. Este anuncio no es del todo sorprendente si tenemos en cuenta que hace poco más de un mes 505 Games anunció haber adquirido la propiedad intelectual Ghostrunner por 5 millones de …]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts]]></title>
+        <id>https://news.ycombinator.com/item?id=27148435</id>
+        <link href="https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce"/>
+        <updated>2021-05-13T22:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce
+Comments URL: https://news.ycombinator.com/item?id=27148435
+Points: 12
+# Comments: 5]]></summary>
+        <author>
+            <name>clairity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo confirma un aumento de la inversión en I+D vinculado al “desarrollo de la próxima generación de hardware”]]></title>
+        <id>46027_v1</id>
+        <link href="https://www.elotrolado.net/noticias/consolas/nintendo-inversion-proxima-generacion"/>
+        <updated>2021-05-13T22:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo es una compañía que cuando presenta sus resultados económicos es bastante transparente con los números y en caso de duda los accionistas pueden resolverla en una posterior sesión de preguntas y respuestas. Como ejemplo tenemos el interrogante que ha generado el continuo aumento en la inversión en Investigación y Desarrollo (I+D), que durante el pasado año fiscal fue de 93.253 millones de yenes (705 millones de euros), un 11 % más que el anterior y una cifra nunca antes vista. ¿Por qué tanto dinero?…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How SpaceX lands Starship (sort of)]]></title>
+        <id>https://news.ycombinator.com/item?id=27148296</id>
+        <link href="https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b"/>
+        <updated>2021-05-13T22:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b
+Comments URL: https://news.ycombinator.com/item?id=27148296
+Points: 67
+# Comments: 12]]></summary>
+        <author>
+            <name>zeristor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly’s Prometheus Metrics]]></title>
+        <id>https://news.ycombinator.com/item?id=27147482</id>
+        <link href="https://fly.io/blog/measuring-fly/"/>
+        <updated>2021-05-13T21:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/measuring-fly/
+Comments URL: https://news.ycombinator.com/item?id=27147482
+Points: 95
+# Comments: 39]]></summary>
+        <author>
+            <name>elithrar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack is hiring engineers to build a better business model for writing]]></title>
+        <id>https://news.ycombinator.com/item?id=27147408</id>
+        <link href="https://substack.com/jobs"/>
+        <updated>2021-05-13T21:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://substack.com/jobs
+Comments URL: https://news.ycombinator.com/item?id=27147408
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jairajs89</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google afirma que Stadia está “vivo y coleando”]]></title>
+        <id>46026_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/google-stadia-vivo"/>
+        <updated>2021-05-13T20:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Desde su presentación hace ya dos años Stadia ha estado envuelto por el escepticismo de una notable parte de la comunidad de jugadores. Algunos simplemente huyen de los servicios de juegos en streaming y otros no se fían de Google, una compañía con un generoso catálogo de iniciativas enterradas. A pesar de ello, el gigante tecnológico sigue adelante con su proyecto, que en opinión de Nate Ahearn, responsable de marketing de Stadia, está “vivo y coleando”. En declaraciones a GamesIndustry, Ahearn defiende la…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new era of personalised medicine: or how I got myself sequenced for free]]></title>
+        <id>https://news.ycombinator.com/item?id=27146975</id>
+        <link href="https://souradip.mookerj.ee/blog/free-sequencing"/>
+        <updated>2021-05-13T20:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://souradip.mookerj.ee/blog/free-sequencing
+Comments URL: https://news.ycombinator.com/item?id=27146975
+Points: 71
+# Comments: 52]]></summary>
+        <author>
+            <name>souradip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor]]></title>
+        <id>https://news.ycombinator.com/item?id=27145911</id>
+        <link href="https://fingerprintjs.com/blog/external-protocol-flooding/"/>
+        <updated>2021-05-13T18:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/
+Comments URL: https://news.ycombinator.com/item?id=27145911
+Points: 261
+# Comments: 135]]></summary>
+        <author>
+            <name>danpinto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataflow, a self-hosted Observable notebook editor]]></title>
+        <id>https://news.ycombinator.com/item?id=27145515</id>
+        <link href="https://observablehq.com/@asg017/introducing-dataflow"/>
+        <updated>2021-05-13T18:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://observablehq.com/@asg017/introducing-dataflow
+Comments URL: https://news.ycombinator.com/item?id=27145515
+Points: 141
+# Comments: 44]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Recap of the Mars Terraforming Debate]]></title>
+        <id>https://news.ycombinator.com/item?id=27145504</id>
+        <link href="https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap"/>
+        <updated>2021-05-13T18:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap
+Comments URL: https://news.ycombinator.com/item?id=27145504
+Points: 69
+# Comments: 215]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dungeons & Dragons: Dark Alliance estará disponible desde el primer día en Xbox Game Pass]]></title>
+        <id>46025_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/dark-alliance-xbox-game-pass"/>
+        <updated>2021-05-13T18:22:51.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft vuelve a dar un impulso a Xbox Game Pass al anunciar que Dungeons &amp; Dragons: Dark Alliance estará disponible mediante el servicio de suscripción a partir del martes 22 de junio, el mismo día que el juego se pondrá a la venta. El título distribuido por Wizards of the Coast y desarrollado por Tuque Games se ofrecerá mediante Xbox Game Pass en Xbox One, Xbox Series, PC (Windows Store) y dispositivos móviles gracias a Xbox Cloud Gaming (xCloud). “Estoy entusiasmado de poder anunciar que Dungeons &…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon surveilling Americans without a warrant, Senator Wyden reveals]]></title>
+        <id>https://news.ycombinator.com/item?id=27145263</id>
+        <link href="https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing"/>
+        <updated>2021-05-13T18:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing
+Comments URL: https://news.ycombinator.com/item?id=27145263
+Points: 469
+# Comments: 176]]></summary>
+        <author>
+            <name>jbegley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=27145230</id>
+        <link href="https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html"/>
+        <updated>2021-05-13T18:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
+Comments URL: https://news.ycombinator.com/item?id=27145230
+Points: 304
+# Comments: 445]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las operadoras bloquean el acceso a Twitch por mandato judicial y tras una petición errónea de Telefónica]]></title>
+        <id>46024_v1</id>
+        <link href="https://www.elotrolado.net/noticias/internet/twitch-bloqueo-telefonica"/>
+        <updated>2021-05-13T17:34:59.000Z</updated>
+        <summary type="html"><![CDATA[Durante las últimas horas miles de internautas españoles de diferentes operadoras como Movistar, Vodafone, Orange y sus respectivas filiales, han experimentado problemas para acceder a Twitch, la mayor plataforma de transmisiones en directo del mundo. Inicialmente ha reinado la confusión, nadie sabía qué ocurría, pero finalmente se ha descubierto que todo se ha debido al bloqueo por orden judicial del dominio ttvnw.net propiedad de Twitch. El caos se ha puesto en marcha cuando los usuarios accedían a Twitch…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?]]></title>
+        <id>https://news.ycombinator.com/item?id=27144764</id>
+        <link href="https://stefanzukin.com/enigma/"/>
+        <updated>2021-05-13T17:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stefanzukin.com/enigma/
+Comments URL: https://news.ycombinator.com/item?id=27144764
+Points: 138
+# Comments: 82]]></summary>
+        <author>
+            <name>MrUssek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion API – public beta]]></title>
+        <id>https://news.ycombinator.com/item?id=27144566</id>
+        <link href="https://developers.notion.so"/>
+        <updated>2021-05-13T17:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developers.notion.so
+Comments URL: https://news.ycombinator.com/item?id=27144566
+Points: 387
+# Comments: 187]]></summary>
+        <author>
+            <name>cristinacordova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021 detalla cómo será su edición virtual con transmisiones interactivas en directo]]></title>
+        <id>46023_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/e3-2021-virtual-transmisiones"/>
+        <updated>2021-05-13T16:22:46.000Z</updated>
+        <summary type="html"><![CDATA[La Entertainment Software Association (ESA) ha anunciado los detalles sobre cómo será el E3 2021, que tendrá lugar del 12 al 15 de junio. Este será el segundo año consecutivo que el E3 no se celebra en persona en Los Ángeles debido a la pandemia de COVID-19. En 2020 la ESA no consiguió sacar adelante ningún tipo de iniciativa, ni virtual ni física, y se vio atropellada por eventos como el Summer Game Fest (que este año regresa). Sin embargo, en 2021 parece que la patronal del videojuego se ha puesto las pil…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Handcuffs]]></title>
+        <id>https://news.ycombinator.com/item?id=27143898</id>
+        <link href="https://avc.com/2021/05/golden-handcuffs-2/"/>
+        <updated>2021-05-13T16:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://avc.com/2021/05/golden-handcuffs-2/
+Comments URL: https://news.ycombinator.com/item?id=27143898
+Points: 95
+# Comments: 147]]></summary>
+        <author>
+            <name>bitsweet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: The Lion's Song gratis en la Epic Games Store]]></title>
+        <id>46022_v1</id>
+        <link href="https://www.elotrolado.net/hilo_the-lion-s-song-gratis-en-la-epic-games-store_2422785"/>
+        <updated>2021-05-13T15:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Un jueves más los interesados en sumar un juego gratis en su catálogo ya pueden pasar por la Epic Games Store, donde con un par de clics y durante una semana se puede conseguir The Lion's Song sin coste alguno. El próximo título que regalará la tienda es un misterio que se descubrirá el jueves 20 de mayo a las 17:00 horas. The Lion's Song es una aventura narrativa ambientada en Austria a principios del siglo XX y cada episodio sigue la historia de un personaje diferente. Cada uno de los protagonistas, una c…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anunciados los primeros mandos DualSense con nuevos colores: Midnight Black y Cosmic Red]]></title>
+        <id>46021_v1</id>
+        <link href="https://www.elotrolado.net/noticias/consolas/dualsense-nuevos-colores"/>
+        <updated>2021-05-13T15:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Sony ha anunciado el lanzamiento de los primeros modelos del mando DualSense para PlayStation 5, una consola que cuesta (y costará) encontrar en las tiendas. Por un lado tenemos el Midnight Black, que presenta dos sutiles tonos de negro con detalles en gris claro, y por otro el Cosmic Red, que cuenta con un diseño con tonos intensos en rojo y negro. Ambos periféricos estarán disponibles a partir del 18 de junio en España. Hasta ahora, Sony solo ha ofrecido el mando Dualsense con un esquema de color blanco y…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Ditto (YC W20) – Keep product text in sync from design to production]]></title>
+        <id>https://news.ycombinator.com/item?id=27142930</id>
+        <link href="https://news.ycombinator.com/item?id=27142930"/>
+        <updated>2021-05-13T15:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Jess and Jo here, and we're excited to share Ditto with you all (https://dittowords.com). Ditto is a way to manage product copy—the text found on user interfaces—all the way from design to development. Think of a headless CMS but with the text from your design files.
+We think product copy is one of the highest ROI aspects of product development today, but also one of the most overlooked. Even more so than the visuals, the text users read is critical to shaping their understanding of how things work. Copy of…]]></summary>
+        <author>
+            <name>jessouyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Memory athletes" and the techniques they use [audio]]]></title>
+        <id>https://news.ycombinator.com/item?id=27142663</id>
+        <link href="https://www.bbc.co.uk/programmes/m000tmm1"/>
+        <updated>2021-05-13T14:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/programmes/m000tmm1
+Comments URL: https://news.ycombinator.com/item?id=27142663
+Points: 61
+# Comments: 29]]></summary>
+        <author>
+            <name>open-source-ux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colonial Pipeline Paid Hackers Nearly $5M in Ransom]]></title>
+        <id>https://news.ycombinator.com/item?id=27142407</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom"/>
+        <updated>2021-05-13T14:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom
+Comments URL: https://news.ycombinator.com/item?id=27142407
+Points: 295
+# Comments: 327]]></summary>
+        <author>
+            <name>longdefeat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sega examinará sus propiedades intelectuales para valorar posibles remasters, remakes y reinicios]]></title>
+        <id>46020_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/sega-remaster-remake-reinicio"/>
+        <updated>2021-05-13T14:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Sega Sammy ha presentado el informe con sus últimos resultados financieros, y más allá de los números en el documento aparece una interesante iniciativa que propone revisar las propiedades intelectuales (IP) que atesora la compañía y estudiar cuáles son viables para sacar adelante un remaster, remake o reinicio. El holding también ha revelado una estrategia de cinco años llamada “Creation of Super Game” que implica el desarrollo de un nuevo FPS. La lista de propiedades intelectuales que Sega Sammy podría re…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -69,45 +365,6 @@ Points: 108
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kobra – visual programming language for machine learning]]></title>
-        <id>https://news.ycombinator.com/item?id=27135573</id>
-        <link href="https://kobra.dev/"/>
-        <updated>2021-05-12T21:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kobra.dev/
-Comments URL: https://news.ycombinator.com/item?id=27135573
-Points: 88
-# Comments: 10]]></summary>
-        <author>
-            <name>amrrs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CP/M for OS X]]></title>
-        <id>https://news.ycombinator.com/item?id=27135421</id>
-        <link href="https://github.com/TomHarte/CP-M-for-OS-X"/>
-        <updated>2021-05-12T21:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/TomHarte/CP-M-for-OS-X
-Comments URL: https://news.ycombinator.com/item?id=27135421
-Points: 73
-# Comments: 25]]></summary>
-        <author>
-            <name>bilegeek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relationship Hero is hiring coaches – Full Time Remote]]></title>
-        <id>https://news.ycombinator.com/item?id=27135089</id>
-        <link href="https://relationshiphero.com/careers?role=coach"/>
-        <updated>2021-05-12T21:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://relationshiphero.com/careers?role=coach
-Comments URL: https://news.ycombinator.com/item?id=27135089
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>Liron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Switch coloca ocho juegos entre los más vendidos de abril, pero Grand Theft Auto V lidera la lista]]></title>
         <id>46018_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/mas-vendidos-abril-2021"/>
@@ -115,84 +372,6 @@ Points: 1
         <summary type="html"><![CDATA[Por cuarto mes consecutivo Nintendo Switch domina con mano de hierro la lista de los juegos más vendidos en España al lograr colocar, una vez más, hasta ocho representantes en ella. Sin embargo, en esta ocasión quien lidera no es un título de Mario como en los tres últimos meses, sino que en la primera posición encontramos al veterano e incombustible Grand Theft Auto V. Sin embargo, Nintendo pincha con New Pokémon Snap, que debuta en la séptima plaza. El podio lo completan dos juegos de Nintendo Switch como…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram, Twitter blame glitches for deleting Palestinian posts]]></title>
-        <id>https://news.ycombinator.com/item?id=27134995</id>
-        <link href="https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624"/>
-        <updated>2021-05-12T20:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624
-Comments URL: https://news.ycombinator.com/item?id=27134995
-Points: 244
-# Comments: 109]]></summary>
-        <author>
-            <name>tareqak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid Git LFS if possible]]></title>
-        <id>https://news.ycombinator.com/item?id=27134972</id>
-        <link href="https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/"/>
-        <updated>2021-05-12T20:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
-Comments URL: https://news.ycombinator.com/item?id=27134972
-Points: 82
-# Comments: 57]]></summary>
-        <author>
-            <name>reimbar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Pollution Linked to Increased Mental Health Outpatient Visits]]></title>
-        <id>https://news.ycombinator.com/item?id=27134429</id>
-        <link href="https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/"/>
-        <updated>2021-05-12T19:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/
-Comments URL: https://news.ycombinator.com/item?id=27134429
-Points: 35
-# Comments: 4]]></summary>
-        <author>
-            <name>hamilyon2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Way to Manage Dotfiles]]></title>
-        <id>https://news.ycombinator.com/item?id=27134249</id>
-        <link href="https://github.com/kalkayan/dotfiles"/>
-        <updated>2021-05-12T19:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/kalkayan/dotfiles
-Comments URL: https://news.ycombinator.com/item?id=27134249
-Points: 45
-# Comments: 28]]></summary>
-        <author>
-            <name>bminusl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural implant lets paralyzed person type by imagining writing]]></title>
-        <id>https://news.ycombinator.com/item?id=27134049</id>
-        <link href="https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/"/>
-        <updated>2021-05-12T19:14:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/
-Comments URL: https://news.ycombinator.com/item?id=27134049
-Points: 265
-# Comments: 111]]></summary>
-        <author>
-            <name>Engineering-MD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking division and libdivide on Apple M1 and Intel AVX512]]></title>
-        <id>https://news.ycombinator.com/item?id=27133804</id>
-        <link href="https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html"/>
-        <updated>2021-05-12T18:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
-Comments URL: https://news.ycombinator.com/item?id=27133804
-Points: 177
-# Comments: 69]]></summary>
-        <author>
-            <name>ridiculous_fish</name>
         </author>
     </entry>
     <entry>
@@ -206,19 +385,6 @@ Points: 177
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replit Apps]]></title>
-        <id>https://news.ycombinator.com/item?id=27132979</id>
-        <link href="https://blog.replit.com/apps"/>
-        <updated>2021-05-12T17:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/apps
-Comments URL: https://news.ycombinator.com/item?id=27132979
-Points: 94
-# Comments: 37]]></summary>
-        <author>
-            <name>razin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nuevos gameplays y detalles de Ratchet & Clank: Una Dimensión Aparte]]></title>
         <id>46016_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/ratchet-clank-gameplays-detalles"/>
@@ -226,45 +392,6 @@ Points: 94
         <summary type="html"><![CDATA[Durante las últimas horas varios medios han publicado su respectivo avance de Ratchet &amp; Clank: Una Dimensión Aparte, unas impresiones que debido a la pandemia se han extraído después de ver vía streaming un inédito gameplay de 30 minutos ofrecido por Sony. Muchos de los textos están acompañados de parte del mencionado gameplay, así que el resto del mundo ha podido ver de nuevo cómo luce el título de Insomniac Games para PS5, que estará disponible el 11 de junio. La campaña de Ratchet &amp; Clank: Una Di…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I wrote my own RTS game engine in C]]></title>
-        <id>https://news.ycombinator.com/item?id=27132334</id>
-        <link href="https://github.com/eduard-permyakov/permafrost-engine"/>
-        <updated>2021-05-12T16:44:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
-Comments URL: https://news.ycombinator.com/item?id=27132334
-Points: 763
-# Comments: 141]]></summary>
-        <author>
-            <name>epermyakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Houdini]]></title>
-        <id>https://news.ycombinator.com/item?id=27131897</id>
-        <link href="https://developer.mozilla.org/en-US/docs/Web/Houdini"/>
-        <updated>2021-05-12T16:06:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini
-Comments URL: https://news.ycombinator.com/item?id=27131897
-Points: 225
-# Comments: 109]]></summary>
-        <author>
-            <name>mvolfik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vesuvius ancient eruption rescuer identified at Herculaneum, says expert]]></title>
-        <id>https://news.ycombinator.com/item?id=27131744</id>
-        <link href="https://www.bbc.com/news/world-europe-57055163"/>
-        <updated>2021-05-12T15:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57055163
-Comments URL: https://news.ycombinator.com/item?id=27131744
-Points: 71
-# Comments: 26]]></summary>
-        <author>
-            <name>harscoat</name>
         </author>
     </entry>
     <entry>
@@ -288,19 +415,6 @@ Points: 71
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emulating AirTags to upload arbitrary data via Apple's FindMy network]]></title>
-        <id>https://news.ycombinator.com/item?id=27130355</id>
-        <link href="https://positive.security/blog/send-my"/>
-        <updated>2021-05-12T13:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
-Comments URL: https://news.ycombinator.com/item?id=27130355
-Points: 431
-# Comments: 105]]></summary>
-        <author>
-            <name>kerm1t</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ubisoft espera más ingresos por los juegos free-to-play y que estos ofrezcan una vía adicional para probar sus sagas]]></title>
         <id>46013_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/ubisoft-f2p-grandes-franquicias"/>
@@ -308,32 +422,6 @@ Points: 431
         <summary type="html"><![CDATA[Después de la presentación de sus últimos resultados económicos, el director financiero de Ubisoft, Frederick Duguet, se dirigió a los accionistas para explicarles que la compañía está decidida a que los juegos free-to-play (F2P) representen una mayor parte de sus ingresos. Eso no significa que los franceses vayan a abandonar las entregas prémium de sus sagas, pero sí que tienen como objetivo diversificar sus fuentes de ingresos y no solo depender de los grandes lanzamientos. Después de que las palabras de …]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Docs will now use canvas based rendering]]></title>
-        <id>https://news.ycombinator.com/item?id=27129858</id>
-        <link href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html"/>
-        <updated>2021-05-12T13:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
-Comments URL: https://news.ycombinator.com/item?id=27129858
-Points: 906
-# Comments: 821]]></summary>
-        <author>
-            <name>lewisjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing a Programming Book in 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27129518</id>
-        <link href="https://jmtirado.net/writing-a-programming-book-in-2021/"/>
-        <updated>2021-05-12T12:34:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/
-Comments URL: https://news.ycombinator.com/item?id=27129518
-Points: 154
-# Comments: 56]]></summary>
-        <author>
-            <name>wilsonfiifi</name>
         </author>
     </entry>
     <entry>
@@ -427,66 +515,6 @@ Points: 154
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTC desvela el visor autónomo Vive Focus 3, con resolución 5K y batería sustituible por 1.451 euros]]></title>
-        <id>46003_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/htc-vive-focus-3-detalles-precio"/>
-        <updated>2021-05-11T16:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Actualización: El sitio europeo ya está activo, reflejando un precio de 1.451 euros. Noticia original: Allá por noviembre de 2017 HTC desvelaba Vive Focus, un visor autónomo basado en Snapdragon y con un precio de 699 euros que buscaba acercar a los usuarios profesionales una forma más cómoda de trabajar y visualizar sus proyectos, todo ello sin descartar las posibilidades de juego con Viveport. Hoy podemos conocer su relevo, que se salta un modelo completo (el Vive Focus 2 nunca llegó a existir) para propo…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: SnowRunner añadirá la región de Amur Oblast el 18 de mayo como parte del pase de temporada]]></title>
-        <id>46002_v1</id>
-        <link href="https://www.elotrolado.net/hilo_snowrunner-anadira-la-region-de-amur-oblast-el-18-de-mayo-como-parte-del-pase-de-temporada_2422606"/>
-        <updated>2021-05-11T15:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Saber Interactive ha anunciado que el 18 de mayo los jugadores de SnowRunner (PS4, Xbox, Nintendo Switch y PC) con el pase de temporada o la Edición Premium tendrán acceso al contenido de la cuarta temporada llamada Nuevas Fronteras. La principal novedad pasa por la llegada de la región rusa de Amur Oblast. Amur Oblast proporcionará 12 kilómetros cuadrados de territorio por explorar en cuatro nuevos mapas. El objetivo consiste en rehabilitar un antiguo y abandonado enclave de lanzamiento de cohetes, lo que …]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dontnod Entertainment ha rechazado varias ofertas de compra para mantenerse como un equipo independiente]]></title>
-        <id>46001_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/dontnod-ofertas-rechazado"/>
-        <updated>2021-05-11T14:55:17.000Z</updated>
-        <summary type="html"><![CDATA[La industria del videojuego se encuentra en un periodo de consolidación y uno de los estudios que podría haber engordado la nómina de adquisiciones que hemos visto durante los últimos tiempos es Dontnod Entertainment, el desarrollador responsable de Life is Strange, Remember Me, Vampyr o los más recientes Twin Mirror y Tell Me Why. Así lo ha revelado su director ejecutivo Oskar Guilbert en una entrevista a IGN. “Para ser honesto, hemos rechazado varias propuestas”, dice Guilbert cuando le preguntan sobre si…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El problemático desarrollo de BioShock Infinite: “Ken Levine es un genio creativo [...] pero un mal líder”]]></title>
-        <id>46000_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/bioshock-infinite-desarrollo-problemas-ken-levine"/>
-        <updated>2021-05-11T12:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Polygon ha publicado un extracto del libro Press Reset: Ruin and Recovery in the Video Game Industry donde Jason Schreier escribe sobre el problemático desarrollo de algunos juegos y las consecuencias que tiene para los trabajadores cerrar un estudio. El adelanto se centra en la creación de BioShock Infinite, un título dirigido por Ken Levine que se pudo completar después de un crunch, algunos retrasos y no pocos problemas. A lo largo del texto, Schreier recoge el testimonio de varios desarrolladores de Irr…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia lanza las GeForce RTX 3050 y 3050 Ti para portátiles, brindando ray tracing en las gamas medias]]></title>
-        <id>45999_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/nvidia-geforce-rtx-3050-ti-portatiles"/>
-        <updated>2021-05-11T11:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia no puede satisfacer la demanda de tarjetas gráficas para ordenadores de sobremesa, pero de alguna forma ha logrado encontrar la capacidad productiva necesaria en sus socios para sacarse dos nuevas GPU para equipos portátiles. Coincidiendo estratégicamente con los nuevos Tiger Lake-H de Intel, que también se lanzan hoy, la compañía ha anunciado la disponibilidad de las GeForce RTX 3050 y RTX 3050 Ti para portátiles, destinadas a equipos gaming relativamente finos pero con prestaciones de ray tracing a…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil Village debuta con 3 millones de unidades vendidas]]></title>
-        <id>45998_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/resident-evil-village-copias-vendidas"/>
-        <updated>2021-05-11T09:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Capcom ha anunciado que entre las copias distribuidas en formato físico y las vendidas en formato digital Resident Evil Village ha conseguido colocar más de 3 millones de unidades desde que la semana pasada se pusiera a la venta en PS4, PS5, Xbox One, Xbox Series, PC (Steam) y Stadia. Un nuevo éxito para la compañía japonesa, que a finales de marzo celebraba los 4 millones de unidades con las que debutó Monster Hunter Rise en Nintendo Switch. En comparación, Resident Evil 7: biohazard (2017) consiguió vende…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[505 Games Will Publish MercurySteam's Next Game for Console and PC]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-2689008422808562845</id>
         <link href="https://www.allgamesdelta.net/2021/05/505-games-will-publish-mercurysteams.html"/>
@@ -523,36 +551,6 @@ Fallen corporate shogun Lo Wang and his former employer turned nemesis turned si
    Developed by Funlabs, Open Country is trekking to the Epic Games Store and Steam for PC on May 18 for £12.99. Players can add Open C…]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp restringirá funciones a los usuarios fuera de la Unión Europea que no acepten sus nuevas condiciones]]></title>
-        <id>45997_v1</id>
-        <link href="https://www.elotrolado.net/noticias/internet/whatsapp-condiciones-de-uso-perdida-caracteristicas-fuera-union-europea-gdpr"/>
-        <updated>2021-05-11T07:47:14.000Z</updated>
-        <summary type="html"><![CDATA[El anuncio de la nueva política de datos compartidos con Facebook y la necesidad de aceptar unas condiciones de uso que confieren mayor control a la red social han causado consternación entre un buen número de usuarios de WhatsApp... y cierta alegría en el caso de rivales como Signal y Telegram. La situación es en cualquier caso delicada para la aplicación de mensajería instantánea, y prueba de ello es que este cambio administrativo en apariencia menor ha tenido que ser retrasado mientras da explicaciones. …]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La nueva generación de PlayStation VR tendría soporte 4K, seguimiento ocular y renderizado foveado]]></title>
-        <id>45996_v1</id>
-        <link href="https://www.elotrolado.net/noticias/consolas/playstation-vr-4k-renderizado-foveated"/>
-        <updated>2021-05-10T23:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Sony Interactive Entertainment ha compartido una serie de detalles técnicos sobre la nueva generación de PlayStation VR con varios de sus socios, y algunos han sido un poco indiscretos. Así es como UploadVR, un medio especializado en realidad virtual, ha obtenido información sobre el dispositivo que por ahora la compañía japonesa no ha revelado al público. Según está información, el nuevo PlayStation VR tendrá una resolución de 4000 x 2040 píxeles (2000 x 2040 por ojo), un motor para ofrecer retroalimentaci…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: DiRT 5 recibe juego cruzado entre PlayStation, Xbox y PC]]></title>
-        <id>45995_v1</id>
-        <link href="https://www.elotrolado.net/hilo_dirt-5-recibe-juego-cruzado-entre-playstation-xbox-y-pc_2422545"/>
-        <updated>2021-05-10T21:19:34.000Z</updated>
-        <summary type="html"><![CDATA[Codemasters ha anunciado que el martes 11 de mayo pondrá a disposición de los jugadores de DiRT 5 una actualización gratuita que habilita el juego cruzado entre plataformas PlayStation, Xbox y PC (Windows Store y Steam). El emparejamiento multiplataforma es una opción que se puede activar y desactivar. La actualización también añade vueltas fantasma en los modos Time Trial y Playgrounds, nuevas condiciones climáticas en el modo Playgrounds y ocho diseños patrocinados por Red Bull para los siguientes vehícul…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
