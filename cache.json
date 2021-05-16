@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27161217",
-          "author": "adventured",
-          "description": "Article URL: https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/\nComments URL: https://news.ycombinator.com/item?id=27161217\nPoints: 5\n# Comments: 0",
-          "link": "https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/",
-          "publishedOn": "2021-05-15T00:49:09.000Z",
-          "wordCount": 1350,
-          "title": "TSMC looks to double down on U.S. chip factories as talks in Europe falter"
+          "id": "https://news.ycombinator.com/item?id=27170199",
+          "author": "nabla9",
+          "description": "Article URL: https://www.bbc.com/news/57111293\nComments URL: https://news.ycombinator.com/item?id=27170199\nPoints: 10\n# Comments: 3",
+          "link": "https://www.bbc.com/news/57111293",
+          "publishedOn": "2021-05-16T00:31:54.000Z",
+          "wordCount": 1399,
+          "title": "Israel-Palestinian conflict: False and misleading claims fact-checked"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27161011",
-          "author": "demail",
-          "description": "Article URL: https://twitter.com/Iameaschris/status/1391207396979007488\nComments URL: https://news.ycombinator.com/item?id=27161011\nPoints: 39\n# Comments: 3",
-          "link": "https://twitter.com/Iameaschris/status/1391207396979007488",
-          "publishedOn": "2021-05-15T00:06:30.000Z",
-          "wordCount": 196,
-          "title": "TikTok Remix Culture"
+          "id": "https://news.ycombinator.com/item?id=27168965",
+          "author": "the_economist",
+          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=27168965\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-05-15T21:00:51.000Z",
+          "wordCount": 109,
+          "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27160983",
-          "author": "typeofnandev",
-          "description": "Article URL: https://macwright.com/2021/03/16/return-of-fancy-tools.html\nComments URL: https://news.ycombinator.com/item?id=27160983\nPoints: 60\n# Comments: 14",
-          "link": "https://macwright.com/2021/03/16/return-of-fancy-tools.html",
-          "publishedOn": "2021-05-15T00:03:01.000Z",
-          "wordCount": 529,
-          "title": "The Return of Fancy Tools"
+          "id": "https://news.ycombinator.com/item?id=27168035",
+          "author": "matt_d",
+          "description": "Article URL: https://www.pagetable.com/?p=1520\nComments URL: https://news.ycombinator.com/item?id=27168035\nPoints: 48\n# Comments: 2",
+          "link": "https://www.pagetable.com/?p=1520",
+          "publishedOn": "2021-05-15T19:17:45.000Z",
+          "wordCount": 2029,
+          "title": "Commodore’s Assemblers: Part 1: MOS Cross-Assembler"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27160734",
-          "author": "DanielKehoe",
-          "description": "Article URL: https://rodencrater.com/\nComments URL: https://news.ycombinator.com/item?id=27160734\nPoints: 9\n# Comments: 2",
-          "link": "https://rodencrater.com/",
-          "publishedOn": "2021-05-14T23:27:21.000Z",
-          "wordCount": 77,
-          "title": "Roden Crater"
+          "id": "https://news.ycombinator.com/item?id=27167762",
+          "author": "blacksqr",
+          "description": "Article URL: https://til-lang.github.io/til/\nComments URL: https://news.ycombinator.com/item?id=27167762\nPoints: 74\n# Comments: 6",
+          "link": "https://til-lang.github.io/til/",
+          "publishedOn": "2021-05-15T18:40:30.000Z",
+          "wordCount": 1973,
+          "title": "TIL: Tcl-inspired command language on top of D"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27160312",
-          "author": "vuciv1",
-          "description": "Article URL: https://jerseyfonseca.com/blogs/wewatchgrowth\nComments URL: https://news.ycombinator.com/item?id=27160312\nPoints: 52\n# Comments: 39",
-          "link": "https://jerseyfonseca.com/blogs/wewatchgrowth",
-          "publishedOn": "2021-05-14T22:22:43.000Z",
-          "wordCount": 1094,
-          "title": "I got 22k app downloads in one weekend with a $0 budget"
+          "id": "https://news.ycombinator.com/item?id=27167729",
+          "author": "commoner",
+          "description": "Article URL: https://bibliogram.art\nComments URL: https://news.ycombinator.com/item?id=27167729\nPoints: 123\n# Comments: 31",
+          "link": "https://bibliogram.art",
+          "publishedOn": "2021-05-15T18:37:11.000Z",
+          "wordCount": 142,
+          "title": "Show HN: Bibliogram – Open-source front-end for Instagram"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27160049",
-          "author": "kaeruct",
-          "description": "Article URL: https://desk.glitchy.website\nComments URL: https://news.ycombinator.com/item?id=27160049\nPoints: 35\n# Comments: 15",
-          "link": "https://desk.glitchy.website",
-          "publishedOn": "2021-05-14T21:45:13.000Z",
-          "wordCount": 90,
-          "title": "Show HN: A Windows 7 web desktop recreation"
+          "id": "https://news.ycombinator.com/item?id=27167604",
+          "author": "metahost",
+          "description": "Article URL: http://kai.sub.blue/en/africa.html\nComments URL: https://news.ycombinator.com/item?id=27167604\nPoints: 179\n# Comments: 108",
+          "link": "http://kai.sub.blue/en/africa.html",
+          "publishedOn": "2021-05-15T18:22:20.000Z",
+          "wordCount": 1003,
+          "title": "The True Size of Africa (2015)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27159906",
-          "author": "pdenton",
-          "description": "Article URL: https://github.com/ec-/Quake3e\nComments URL: https://news.ycombinator.com/item?id=27159906\nPoints: 107\n# Comments: 36",
-          "link": "https://github.com/ec-/Quake3e",
-          "publishedOn": "2021-05-14T21:29:34.000Z",
-          "wordCount": 1305,
-          "title": "Quake3e, a modern Quake III Arena engine"
+          "id": "https://news.ycombinator.com/item?id=27167250",
+          "author": "axiomdata316",
+          "description": "Article URL: https://futureofcoding.org/episodes/044\nComments URL: https://news.ycombinator.com/item?id=27167250\nPoints: 34\n# Comments: 2",
+          "link": "https://futureofcoding.org/episodes/044",
+          "publishedOn": "2021-05-15T17:40:22.000Z",
+          "wordCount": 9956,
+          "title": "Making Your Own Tools"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27159629",
-          "author": "chrisupjohn",
-          "description": "Hello,\nMagicBus is helping more commuters traveling longer distance get into shared vans, in particular for those without good access to public transit or daily access to a car.\nWe have a few roles available:\nFrontend developer (https://www.ycombinator.com/companies/magicbus/jobs/Z5q4bEv-...)\nBackend developer (https://www.ycombinator.com/companies/magicbus/jobs/hesmd99-...)\nDevOps & backend (https://www.ycombinator.com/companies/magicbus/jobs/Ki6bx3i-...)\nComments URL: https://news.ycombinator.com/item?id=…",
-          "link": "https://news.ycombinator.com/item?id=27159629",
-          "publishedOn": "2021-05-14T21:00:29.000Z",
-          "wordCount": 100,
-          "title": "MagicBus (YC W16) Is Hiring Front End/Back End/DevOps"
+          "id": "https://news.ycombinator.com/item?id=27166271",
+          "author": "mgh2",
+          "description": "Article URL: https://www.bbc.com/news/stories-50435014\nComments URL: https://news.ycombinator.com/item?id=27166271\nPoints: 217\n# Comments: 143",
+          "link": "https://www.bbc.com/news/stories-50435014",
+          "publishedOn": "2021-05-15T15:49:40.000Z",
+          "wordCount": 8399,
+          "title": "Cryptoqueen: A woman scammed the world, then vanished (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27159192",
-          "author": "stefan_",
-          "description": "Article URL: https://secret.club/2021/05/13/source-engine-rce-join.html\nComments URL: https://news.ycombinator.com/item?id=27159192\nPoints: 94\n# Comments: 21",
-          "link": "https://secret.club/2021/05/13/source-engine-rce-join.html",
-          "publishedOn": "2021-05-14T20:13:46.000Z",
-          "wordCount": 2586,
-          "title": "Counter-Strike Global Offsets: reliable remote code execution"
+          "id": "https://news.ycombinator.com/item?id=27166162",
+          "author": "Iazel",
+          "description": "Article URL: https://github.com/parsix/parsix\nComments URL: https://news.ycombinator.com/item?id=27166162\nPoints: 115\n# Comments: 61",
+          "link": "https://github.com/parsix/parsix",
+          "publishedOn": "2021-05-15T15:38:43.000Z",
+          "wordCount": 3025,
+          "title": "Parsix: Parse Don't Validate"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27158566",
-          "author": "gmays",
-          "description": "Article URL: https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/\nComments URL: https://news.ycombinator.com/item?id=27158566\nPoints: 36\n# Comments: 8",
-          "link": "https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/",
-          "publishedOn": "2021-05-14T19:17:57.000Z",
-          "wordCount": 1181,
-          "title": "Study in zebrafish examines how tumors alter whole-body metabolism"
+          "id": "https://news.ycombinator.com/item?id=27166043",
+          "author": "foobarbecue",
+          "description": "Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html\nComments URL: https://news.ycombinator.com/item?id=27166043\nPoints: 51\n# Comments: 44",
+          "link": "https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html",
+          "publishedOn": "2021-05-15T15:27:44.000Z",
+          "wordCount": 1459,
+          "title": "Cox Hotspots with Panoramic Wifi"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27158277",
-          "author": "andy_herbert",
-          "description": "Article URL: https://www.hyperion-entertainment.com/\nComments URL: https://news.ycombinator.com/item?id=27158277\nPoints: 106\n# Comments: 52",
-          "link": "https://www.hyperion-entertainment.com/",
-          "publishedOn": "2021-05-14T18:53:21.000Z",
-          "wordCount": 1405,
-          "title": "AmigaOS 3.2"
+          "id": "https://news.ycombinator.com/item?id=27165954",
+          "author": "EntICOnc",
+          "description": "Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years\nComments URL: https://news.ycombinator.com/item?id=27165954\nPoints: 694\n# Comments: 395",
+          "link": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+          "publishedOn": "2021-05-15T15:15:57.000Z",
+          "wordCount": 1493,
+          "title": "Modern Javascript: Everything you missed over the last 10 years (2020)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27158088",
-          "author": "tracyhenry",
-          "description": "Article URL: http://www.paulgraham.com/corpdev.html\nComments URL: https://news.ycombinator.com/item?id=27158088\nPoints: 131\n# Comments: 79",
-          "link": "http://www.paulgraham.com/corpdev.html",
-          "publishedOn": "2021-05-14T18:38:50.000Z",
-          "wordCount": 1275,
-          "title": "Don't Talk to Corp Dev (2015)"
+          "id": "https://news.ycombinator.com/item?id=27165366",
+          "author": "michaelsbradley",
+          "description": "Article URL: https://forum.nim-lang.org/t/7983\nComments URL: https://news.ycombinator.com/item?id=27165366\nPoints: 208\n# Comments: 97",
+          "link": "https://forum.nim-lang.org/t/7983",
+          "publishedOn": "2021-05-15T14:08:12.000Z",
+          "wordCount": 4,
+          "title": "Nim 2.0 thoughts"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27157869",
-          "author": "dcminter",
-          "description": "Article URL: https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html\nComments URL: https://news.ycombinator.com/item?id=27157869\nPoints: 24\n# Comments: 14",
-          "link": "https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html",
-          "publishedOn": "2021-05-14T18:23:42.000Z",
-          "wordCount": 1057,
-          "title": "An Elegant Sufficiency, or the Curious Case of a Victorian Meme (2018)"
+          "id": "https://news.ycombinator.com/item?id=27165352",
+          "author": "fheld",
+          "description": "Article URL: https://www.pine64.org/2021/05/15/may-update-connection-established/\nComments URL: https://news.ycombinator.com/item?id=27165352\nPoints: 59\n# Comments: 12",
+          "link": "https://www.pine64.org/2021/05/15/may-update-connection-established/",
+          "publishedOn": "2021-05-15T14:05:19.000Z",
+          "wordCount": 5752,
+          "title": "May Update: Connection Established"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27157225",
+          "id": "https://news.ycombinator.com/item?id=27165307",
+          "author": "jeffbee",
+          "description": "Article URL: https://rdcu.be/ckFPK\nComments URL: https://news.ycombinator.com/item?id=27165307\nPoints: 144\n# Comments: 122",
+          "link": "https://rdcu.be/ckFPK",
+          "publishedOn": "2021-05-15T13:59:34.000Z",
+          "wordCount": 24,
+          "title": "ML model can classify sex from retinal photograph, clinicians can't"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165192",
+          "author": "lana-k",
+          "description": "Article URL: https://github.com/lana-k/sqliteviz\nComments URL: https://news.ycombinator.com/item?id=27165192\nPoints: 183\n# Comments: 25",
+          "link": "https://github.com/lana-k/sqliteviz",
+          "publishedOn": "2021-05-15T13:48:01.000Z",
+          "wordCount": 691,
+          "title": "Offline-First PWA for Plotly Visualization of CSV via SQLite"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165133",
+          "author": "nceqs3",
+          "description": "Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=27165133\nPoints: 58\n# Comments: 15",
+          "link": "http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf",
+          "publishedOn": "2021-05-15T13:41:47.000Z",
+          "wordCount": 14573,
+          "title": "Multiplying Integers Using Fourier Transforms [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27164769",
+          "author": "JacobDesigns",
+          "description": "Article URL: https://icepanel.io/\nComments URL: https://news.ycombinator.com/item?id=27164769\nPoints: 212\n# Comments: 63",
+          "link": "https://icepanel.io/",
+          "publishedOn": "2021-05-15T12:55:52.000Z",
+          "wordCount": 19,
+          "title": "Design structured diagrams, built to increase your team's trust in your docs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27164417",
+          "author": "gscott",
+          "description": "Article URL: https://www.rbth.com/longreads/soviet-watches/\nComments URL: https://news.ycombinator.com/item?id=27164417\nPoints: 107\n# Comments: 36",
+          "link": "https://www.rbth.com/longreads/soviet-watches/",
+          "publishedOn": "2021-05-15T11:55:52.000Z",
+          "wordCount": 1916,
+          "title": "Watches from the Soviet Union"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27164171",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world\nComments URL: https://news.ycombinator.com/item?id=27164171\nPoints: 99\n# Comments: 126",
+          "link": "https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world",
+          "publishedOn": "2021-05-15T11:04:34.000Z",
+          "wordCount": 2194,
+          "title": "Was cancer less likely in a pre-industrial world?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27164138",
           "author": "tmfi",
-          "description": "Article URL: https://www.scs.cmu.edu/news/overcoming-tab-overload\nComments URL: https://news.ycombinator.com/item?id=27157225\nPoints: 117\n# Comments: 156",
-          "link": "https://www.scs.cmu.edu/news/overcoming-tab-overload",
-          "publishedOn": "2021-05-14T17:39:15.000Z",
-          "wordCount": null,
-          "title": "Overcoming Tab Overload"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27157203",
-          "author": "optimalsolver",
-          "description": "Article URL: https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/\nComments URL: https://news.ycombinator.com/item?id=27157203\nPoints: 87\n# Comments: 32",
-          "link": "https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/",
-          "publishedOn": "2021-05-14T17:37:27.000Z",
-          "wordCount": 3629,
-          "title": "Forth: Stack-Manipulation Operators"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27156859",
-          "author": "throwkeep",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-01299-y\nComments URL: https://news.ycombinator.com/item?id=27156859\nPoints: 205\n# Comments: 155",
-          "link": "https://www.nature.com/articles/d41586-021-01299-y",
-          "publishedOn": "2021-05-14T17:17:27.000Z",
-          "wordCount": 1370,
-          "title": "Delaying a Covid vaccine’s second dose boosts immune response"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27156106",
-          "author": "ykdojo",
-          "description": "Article URL: https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/\nComments URL: https://news.ycombinator.com/item?id=27156106\nPoints: 782\n# Comments: 197",
-          "link": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
-          "publishedOn": "2021-05-14T16:28:21.000Z",
-          "wordCount": 265,
-          "title": "A URL Lengthener"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27155497",
-          "author": "feross",
-          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 599\n# Comments: 489",
-          "link": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
-          "publishedOn": "2021-05-14T15:47:30.000Z",
-          "wordCount": 2153,
-          "title": "DarkSide ransomware gang quits after servers, Bitcoin stash seized"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27154368",
-          "author": "Dowwie",
-          "description": "Article URL: https://bfi.uchicago.edu/working-paper/2021-56/\nComments URL: https://news.ycombinator.com/item?id=27154368\nPoints: 111\n# Comments: 85",
-          "link": "https://bfi.uchicago.edu/working-paper/2021-56/",
-          "publishedOn": "2021-05-14T13:58:39.000Z",
-          "wordCount": 362,
-          "title": "Work from Home and Productivity"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27154309",
-          "author": "AllanFischMB",
-          "description": "We are Allan, CJ and Jesus, co-founders of Moonshot Brands (https://www.moonshotbrands.com/). We offer e-commerce founders a simple way to sell their companies, which we then grow.\nThe story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives. Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…",
-          "link": "https://news.ycombinator.com/item?id=27154309",
-          "publishedOn": "2021-05-14T13:52:58.000Z",
-          "wordCount": 4234,
-          "title": "Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies"
+          "description": "Article URL: https://www.bbc.com/news/uk-england-london-56281464\nComments URL: https://news.ycombinator.com/item?id=27164138\nPoints: 11\n# Comments: 2",
+          "link": "https://www.bbc.com/news/uk-england-london-56281464",
+          "publishedOn": "2021-05-15T10:57:34.000Z",
+          "wordCount": 2618,
+          "title": "Drain brain: The secret life of a gutter enthusiast"
         }
       ]
     },
@@ -193,12 +193,39 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46037_v1",
+          "author": null,
+          "description": "Una vez más, Ubisoft ha demostrado tener un serio problema con las filtraciones. En esta ocasión ha sido el turno del juego free-to-play The Division Heartland, que por primera vez se ha dejado ver mediante un gameplay de 20 minutos sacado de forma clandestina de unas pruebas a las que solo se puede acceder con invitación y después de firmar un estricto acuerdo de confidencialidad (NDA, por sus siglas en inglés). Además del tráiler con poco más de 20 minutos de gameplay de The Division Heartland, que encont…",
+          "link": "https://www.elotrolado.net/noticias/juegos/the-division-heartland-gameplay-filtrado",
+          "publishedOn": "2021-05-15T21:15:39.000Z",
+          "wordCount": 701,
+          "title": "Filtrado un gameplay de 20 minutos de The Division Heartland"
+        },
+        {
+          "id": "46036_v1",
+          "author": null,
+          "description": "Durante el discurso inaugural del Digital Fan Festival 2021 el productor y director de Final Fantasy XIV, Naoki Yoshida, ha puesto fecha de lanzamiento a Endwalker, que estará disponible el 23 de noviembre para PS4, PS5 y PC. El mismo evento también ha servido para revelar nuevos detalles de la expansión, incluyendo al Segador como nuevo oficio y la ciudad Old Sharlayan. Como es habitual en Square Enix todo ello ha estado amenizado con tráilers entre los que encontramos una cinemática de 6 minutos. El Segad…",
+          "link": "https://www.elotrolado.net/noticias/juegos/final-fantasy-xiv-endwalker-fecha-lanzamiento",
+          "publishedOn": "2021-05-15T13:04:20.000Z",
+          "wordCount": 860,
+          "title": "Final Fantasy XIV: Endwalker, disponible el 23 de noviembre, presenta el oficio Segador y la ciudad Old Sharlayan"
+        },
+        {
+          "id": "46035_v1",
+          "author": null,
+          "description": "Esta semana hemos conocido que PlayStation Studios tiene más de 25 juegos en marcha, confirmado que el suministro de PS5 continuará siendo limitado en 2022 y descubierto nuevos detalles de la nueva generación de PlayStation VR que aún deben ser confirmados. Los jugadores de Xbox han recibido una nueva actualización con mejoras en la función Quick Resume, mientras que en Nintendo han asegurado que el gasto en I+D aumenta para hacer frente al desarrollo de juegos y la próxima generación de hardware. En juegos…",
+          "link": "https://www.elotrolado.net/noticias/juegos/semana-8-15-mayo-2021",
+          "publishedOn": "2021-05-15T11:20:08.000Z",
+          "wordCount": 1173,
+          "title": "Las noticias de la semana (8 - 15 de mayo)"
+        },
+        {
           "id": "46034_v1",
           "author": null,
           "description": "THQ Nordic ha mostrado tres nuevos gameplays sin editar de Biomutant que tienen como gran objetivo mostrar el rendimiento del juego en todas las plataformas en las que estará disponible el 25 de mayo. Es una buena forma de demostrar a los jugadores que después de más de cuatro años de desarrollo el juego creado por Experiment 101 ofrecerá un buen desempeño independientemente de la consola (PS4, PS4 Pro, Xbox One, Xbox One X). Para los usuarios de PC (Steam, GOG, Epic Games Store) hay vídeo y requisitos (al …",
           "link": "https://www.elotrolado.net/noticias/juegos/biomutant-trailers-gameplay-rendimiento",
           "publishedOn": "2021-05-14T20:42:07.000Z",
-          "wordCount": 752,
+          "wordCount": 750,
           "title": "Biomutant muestra su rendimiento en PS4, PS4 Pro, Xbox One, Xbox One X y PC"
         },
         {
@@ -207,7 +234,7 @@
           "description": "Después de un largo periodo de acceso anticipado, finalmente Subnautica: Below Zero ya se encuentra disponible como un juego completo para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y Nintendo Switch. Además, la consola de Nintendo también ha recibido hoy la primera entrega de Subnautica, mientras que los jugadores de PS4 y Xbox One tienen disponible la actualización para la nueva generación. En PC, el título creado por Unknown Worlds Entertainment está disponible en Steam y Epic Games Store. Subna…",
           "link": "https://www.elotrolado.net/noticias/juegos/subnautica-below-zero-disponible",
           "publishedOn": "2021-05-14T18:41:28.000Z",
-          "wordCount": 587,
+          "wordCount": 743,
           "title": "Subnautica: Below Zero abandona el acceso anticipado y debuta en consolas"
         },
         {
@@ -243,7 +270,7 @@
           "description": "La crisis de los semiconductores ha puesto de relevancia que la fabricación de chips y otros componentes de alta tecnología es tan estratégica como el abastecimiento de energía y la capacidad para producir vacunas. Con numerosas industrias padeciendo una sequía que está provocando pérdidas difíciles de cuantificar y miles de despidos debido a la paralización de las cadenas, las grandes potencias se han propuesto liderar el diseño y la fabricación de semiconductores. Y Corea del Sur no quiere quedarse atrás.…",
           "link": "https://www.elotrolado.net/noticias/tecnologia/corea-del-sur-invierte-semiconductores",
           "publishedOn": "2021-05-14T11:52:30.000Z",
-          "wordCount": 864,
+          "wordCount": 862,
           "title": "Corea del Sur invertirá más de 370.000 millones de euros para liderar la industria de los semiconductores"
         },
         {
@@ -252,7 +279,7 @@
           "description": "505 Games ha anunciado haber llegado a un acuerdo con One More Level para el desarrollo y publicación de Ghostrunner 2, que estará disponible en PlayStation 5, Xbox Series y PC. Por ahora no tenemos detalles ni ventana de lanzamiento, pero sí un dato, que la primera entrega de Ghostrunner ha superado las 600.000 unidades vendidas. Este anuncio no es del todo sorprendente si tenemos en cuenta que hace poco más de un mes 505 Games anunció haber adquirido la propiedad intelectual Ghostrunner por 5 millones de …",
           "link": "https://www.elotrolado.net/hilo_ghostrunner-2-anunciado-para-ps5-xbox-series-y-pc_2422827",
           "publishedOn": "2021-05-13T22:53:42.000Z",
-          "wordCount": 466,
+          "wordCount": 517,
           "title": "Breve: Ghostrunner 2 anunciado para PS5, Xbox Series y PC"
         },
         {
@@ -276,7 +303,7 @@
         {
           "id": "46025_v1",
           "author": null,
-          "description": "Microsoft vuelve a dar un impulso a Xbox Game Pass al anunciar que Dungeons &amp; Dragons: Dark Alliance estará disponible mediante el servicio de suscripción a partir del martes 22 de junio, el mismo día que el juego se pondrá a la venta. El título distribuido por Wizards of the Coast y desarrollado por Tuque Games se ofrecerá mediante Xbox Game Pass en Xbox One, Xbox Series, PC (Windows Store) y dispositivos móviles gracias a Xbox Cloud Gaming (xCloud). “Estoy entusiasmado de poder anunciar que Dungeons &…",
+          "description": "Microsoft vuelve a dar un impulso a Xbox Game Pass al anunciar que Dungeons & Dragons: Dark Alliance estará disponible mediante el servicio de suscripción a partir del martes 22 de junio, el mismo día que el juego se pondrá a la venta. El título distribuido por Wizards of the Coast y desarrollado por Tuque Games se ofrecerá mediante Xbox Game Pass en Xbox One, Xbox Series, PC (Windows Store) y dispositivos móviles gracias a Xbox Cloud Gaming (xCloud). “Estoy entusiasmado de poder anunciar que Dungeons & Dra…",
           "link": "https://www.elotrolado.net/noticias/juegos/dark-alliance-xbox-game-pass",
           "publishedOn": "2021-05-13T18:22:51.000Z",
           "wordCount": 797,
@@ -306,7 +333,7 @@
           "description": "Un jueves más los interesados en sumar un juego gratis en su catálogo ya pueden pasar por la Epic Games Store, donde con un par de clics y durante una semana se puede conseguir The Lion's Song sin coste alguno. El próximo título que regalará la tienda es un misterio que se descubrirá el jueves 20 de mayo a las 17:00 horas. The Lion's Song es una aventura narrativa ambientada en Austria a principios del siglo XX y cada episodio sigue la historia de un personaje diferente. Cada uno de los protagonistas, una c…",
           "link": "https://www.elotrolado.net/hilo_the-lion-s-song-gratis-en-la-epic-games-store_2422785",
           "publishedOn": "2021-05-13T15:17:54.000Z",
-          "wordCount": 521,
+          "wordCount": 525,
           "title": "Breve: The Lion's Song gratis en la Epic Games Store"
         },
         {
@@ -333,7 +360,7 @@
           "description": "Un grupo de veteranos desarrolladores que hasta ahora trabajaban en Epic Games y Blizzard Entertainment, se han unido para crear el estudio Lightforge Games. El equipo de desarrollo ya ha revelado que desde el principio trabajarán en remoto y con el objetivo de sacar adelante un RPG multiplataforma con elementos de Minecraft o Roblox y juegos de rol de mesa. Lightforge Games inicia su andadura después de haber completado una ronda de financiación de 5 millones de dólares que han aportado compañías como Gala…",
           "link": "https://www.elotrolado.net/hilo_desarrolladores-de-epic-games-y-blizzard-fundan-lightforge-games_2422734",
           "publishedOn": "2021-05-12T22:20:37.000Z",
-          "wordCount": 540,
+          "wordCount": 639,
           "title": "Breve: Desarrolladores de Epic Games y Blizzard fundan Lightforge Games"
         },
         {
@@ -357,7 +384,7 @@
         {
           "id": "46016_v1",
           "author": null,
-          "description": "Durante las últimas horas varios medios han publicado su respectivo avance de Ratchet &amp; Clank: Una Dimensión Aparte, unas impresiones que debido a la pandemia se han extraído después de ver vía streaming un inédito gameplay de 30 minutos ofrecido por Sony. Muchos de los textos están acompañados de parte del mencionado gameplay, así que el resto del mundo ha podido ver de nuevo cómo luce el título de Insomniac Games para PS5, que estará disponible el 11 de junio. La campaña de Ratchet &amp; Clank: Una Di…",
+          "description": "Durante las últimas horas varios medios han publicado su respectivo avance de Ratchet & Clank: Una Dimensión Aparte, unas impresiones que debido a la pandemia se han extraído después de ver vía streaming un inédito gameplay de 30 minutos ofrecido por Sony. Muchos de los textos están acompañados de parte del mencionado gameplay, así que el resto del mundo ha podido ver de nuevo cómo luce el título de Insomniac Games para PS5, que estará disponible el 11 de junio. La campaña de Ratchet & Clank: Una Dimensión …",
           "link": "https://www.elotrolado.net/noticias/juegos/ratchet-clank-gameplays-detalles",
           "publishedOn": "2021-05-12T17:29:09.000Z",
           "wordCount": 849,
@@ -389,33 +416,6 @@
           "publishedOn": "2021-05-12T13:30:12.000Z",
           "wordCount": 744,
           "title": "Ubisoft espera más ingresos por los juegos free-to-play y que estos ofrezcan una vía adicional para probar sus sagas"
-        },
-        {
-          "id": "46012_v1",
-          "author": null,
-          "description": "El vía crucis de Xiaomi en Estados Unidos ha llegado a su fin. El gobierno estadounidense ha aceptado eliminar al fabricante chino de la lista de empresas sancionadas por el Departamento de Defensa por su relación con el ejército y/o el espionaje del gigante asiático, donde fue introducida por la anterior administración junto a otras como Huawei y el fabricante de semiconductores SMIC. Las sanciones, que ya fueron paralizadas provisionalmente por un juez a instancias de Xiaomi, impedían que inversores estad…",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/estados-unidos-elimina-sanciones-xiaomi",
-          "publishedOn": "2021-05-12T11:40:14.000Z",
-          "wordCount": 727,
-          "title": "Estados Unidos elimina a Xiaomi de la lista de empresas chinas sancionadas"
-        },
-        {
-          "id": "46011_v1",
-          "author": null,
-          "description": "Cuando empezó la pandemia de COVID-19 Gabe Newell, cofundador de Valve, se encontraba en Nueva Zelanda y desde entonces no ha abandonado el país. Como invitado y magnate ilustre Gabe ha participado en programas de televisión, enviado un gnomo al espacio con motivos benéficos y más recientemente se ha sometido a una sesión de preguntas y respuestas en un colegio público. Ha sido en este último escenario donde el ejecutivo ha dejado caer una bomba: la posibilidad de que nuevos juegos de Valve estén disponible…",
-          "link": "https://www.elotrolado.net/noticias/juegos/valve-consolas-playstation-xbox",
-          "publishedOn": "2021-05-11T23:40:14.000Z",
-          "wordCount": 789,
-          "title": "Gabe Newell sugiere que Valve lanzará más juegos en consola"
-        },
-        {
-          "id": "46010_v1",
-          "author": null,
-          "description": "El carrusel de las presentaciones de resultados económicos nos lleva hasta Electronic Arts, que más allá de unos ingresos anuales de 6.190 millones de dólares, un aumento interanual del 15 %, nos ha dejado otros datos. Uno de ellos es que Apex Legends ha logrado convertirse en un juego que ha generado más de 1.000 millones de dólares en net bookings (ingresos por venta de productos y servicios), y el otro es la confirmación de que el nuevo Battlefield se presentará en junio como un un título para la pasada …",
-          "link": "https://www.elotrolado.net/noticias/juegos/apex-legends-battlefield-ea",
-          "publishedOn": "2021-05-11T22:33:34.000Z",
-          "wordCount": 838,
-          "title": "Apex Legends supera los 1.000 millones de dólares en ingresos y EA confirma que en junio presentará el nuevo Battlefield"
         }
       ]
     },
@@ -652,5 +652,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }

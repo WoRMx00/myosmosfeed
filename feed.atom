@@ -2,115 +2,298 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T01:13:32.522Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-16T01:20:44.440Z</updated>
+    <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[TSMC looks to double down on U.S. chip factories as talks in Europe falter]]></title>
-        <id>https://news.ycombinator.com/item?id=27161217</id>
-        <link href="https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/"/>
-        <updated>2021-05-15T00:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/
-Comments URL: https://news.ycombinator.com/item?id=27161217
-Points: 5
-# Comments: 0]]></summary>
-        <author>
-            <name>adventured</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok Remix Culture]]></title>
-        <id>https://news.ycombinator.com/item?id=27161011</id>
-        <link href="https://twitter.com/Iameaschris/status/1391207396979007488"/>
-        <updated>2021-05-15T00:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Iameaschris/status/1391207396979007488
-Comments URL: https://news.ycombinator.com/item?id=27161011
-Points: 39
+        <title type="html"><![CDATA[Israel-Palestinian conflict: False and misleading claims fact-checked]]></title>
+        <id>https://news.ycombinator.com/item?id=27170199</id>
+        <link href="https://www.bbc.com/news/57111293"/>
+        <updated>2021-05-16T00:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/57111293
+Comments URL: https://news.ycombinator.com/item?id=27170199
+Points: 10
 # Comments: 3]]></summary>
         <author>
-            <name>demail</name>
+            <name>nabla9</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Return of Fancy Tools]]></title>
-        <id>https://news.ycombinator.com/item?id=27160983</id>
-        <link href="https://macwright.com/2021/03/16/return-of-fancy-tools.html"/>
-        <updated>2021-05-15T00:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://macwright.com/2021/03/16/return-of-fancy-tools.html
-Comments URL: https://news.ycombinator.com/item?id=27160983
-Points: 60
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Filtrado un gameplay de 20 minutos de The Division Heartland]]></title>
+        <id>46037_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/the-division-heartland-gameplay-filtrado"/>
+        <updated>2021-05-15T21:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Una vez más, Ubisoft ha demostrado tener un serio problema con las filtraciones. En esta ocasión ha sido el turno del juego free-to-play The Division Heartland, que por primera vez se ha dejado ver mediante un gameplay de 20 minutos sacado de forma clandestina de unas pruebas a las que solo se puede acceder con invitación y después de firmar un estricto acuerdo de confidencialidad (NDA, por sus siglas en inglés). Además del tráiler con poco más de 20 minutos de gameplay de The Division Heartland, que encont…]]></summary>
         <author>
-            <name>typeofnandev</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roden Crater]]></title>
-        <id>https://news.ycombinator.com/item?id=27160734</id>
-        <link href="https://rodencrater.com/"/>
-        <updated>2021-05-14T23:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rodencrater.com/
-Comments URL: https://news.ycombinator.com/item?id=27160734
-Points: 9
+        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27168965</id>
+        <link href="https://jobs.lever.co/buildzoom"/>
+        <updated>2021-05-15T21:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
+Comments URL: https://news.ycombinator.com/item?id=27168965
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>the_economist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commodore’s Assemblers: Part 1: MOS Cross-Assembler]]></title>
+        <id>https://news.ycombinator.com/item?id=27168035</id>
+        <link href="https://www.pagetable.com/?p=1520"/>
+        <updated>2021-05-15T19:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pagetable.com/?p=1520
+Comments URL: https://news.ycombinator.com/item?id=27168035
+Points: 48
 # Comments: 2]]></summary>
         <author>
-            <name>DanielKehoe</name>
+            <name>matt_d</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I got 22k app downloads in one weekend with a $0 budget]]></title>
-        <id>https://news.ycombinator.com/item?id=27160312</id>
-        <link href="https://jerseyfonseca.com/blogs/wewatchgrowth"/>
-        <updated>2021-05-14T22:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jerseyfonseca.com/blogs/wewatchgrowth
-Comments URL: https://news.ycombinator.com/item?id=27160312
-Points: 52
-# Comments: 39]]></summary>
+        <title type="html"><![CDATA[TIL: Tcl-inspired command language on top of D]]></title>
+        <id>https://news.ycombinator.com/item?id=27167762</id>
+        <link href="https://til-lang.github.io/til/"/>
+        <updated>2021-05-15T18:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://til-lang.github.io/til/
+Comments URL: https://news.ycombinator.com/item?id=27167762
+Points: 74
+# Comments: 6]]></summary>
         <author>
-            <name>vuciv1</name>
+            <name>blacksqr</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A Windows 7 web desktop recreation]]></title>
-        <id>https://news.ycombinator.com/item?id=27160049</id>
-        <link href="https://desk.glitchy.website"/>
-        <updated>2021-05-14T21:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://desk.glitchy.website
-Comments URL: https://news.ycombinator.com/item?id=27160049
-Points: 35
+        <title type="html"><![CDATA[Show HN: Bibliogram – Open-source front-end for Instagram]]></title>
+        <id>https://news.ycombinator.com/item?id=27167729</id>
+        <link href="https://bibliogram.art"/>
+        <updated>2021-05-15T18:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bibliogram.art
+Comments URL: https://news.ycombinator.com/item?id=27167729
+Points: 123
+# Comments: 31]]></summary>
+        <author>
+            <name>commoner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The True Size of Africa (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27167604</id>
+        <link href="http://kai.sub.blue/en/africa.html"/>
+        <updated>2021-05-15T18:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://kai.sub.blue/en/africa.html
+Comments URL: https://news.ycombinator.com/item?id=27167604
+Points: 179
+# Comments: 108]]></summary>
+        <author>
+            <name>metahost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Your Own Tools]]></title>
+        <id>https://news.ycombinator.com/item?id=27167250</id>
+        <link href="https://futureofcoding.org/episodes/044"/>
+        <updated>2021-05-15T17:40:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://futureofcoding.org/episodes/044
+Comments URL: https://news.ycombinator.com/item?id=27167250
+Points: 34
+# Comments: 2]]></summary>
+        <author>
+            <name>axiomdata316</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptoqueen: A woman scammed the world, then vanished (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27166271</id>
+        <link href="https://www.bbc.com/news/stories-50435014"/>
+        <updated>2021-05-15T15:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/stories-50435014
+Comments URL: https://news.ycombinator.com/item?id=27166271
+Points: 217
+# Comments: 143]]></summary>
+        <author>
+            <name>mgh2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsix: Parse Don't Validate]]></title>
+        <id>https://news.ycombinator.com/item?id=27166162</id>
+        <link href="https://github.com/parsix/parsix"/>
+        <updated>2021-05-15T15:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/parsix/parsix
+Comments URL: https://news.ycombinator.com/item?id=27166162
+Points: 115
+# Comments: 61]]></summary>
+        <author>
+            <name>Iazel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cox Hotspots with Panoramic Wifi]]></title>
+        <id>https://news.ycombinator.com/item?id=27166043</id>
+        <link href="https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html"/>
+        <updated>2021-05-15T15:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html
+Comments URL: https://news.ycombinator.com/item?id=27166043
+Points: 51
+# Comments: 44]]></summary>
+        <author>
+            <name>foobarbecue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Javascript: Everything you missed over the last 10 years (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27165954</id>
+        <link href="https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years"/>
+        <updated>2021-05-15T15:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
+Comments URL: https://news.ycombinator.com/item?id=27165954
+Points: 694
+# Comments: 395]]></summary>
+        <author>
+            <name>EntICOnc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nim 2.0 thoughts]]></title>
+        <id>https://news.ycombinator.com/item?id=27165366</id>
+        <link href="https://forum.nim-lang.org/t/7983"/>
+        <updated>2021-05-15T14:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://forum.nim-lang.org/t/7983
+Comments URL: https://news.ycombinator.com/item?id=27165366
+Points: 208
+# Comments: 97]]></summary>
+        <author>
+            <name>michaelsbradley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May Update: Connection Established]]></title>
+        <id>https://news.ycombinator.com/item?id=27165352</id>
+        <link href="https://www.pine64.org/2021/05/15/may-update-connection-established/"/>
+        <updated>2021-05-15T14:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/15/may-update-connection-established/
+Comments URL: https://news.ycombinator.com/item?id=27165352
+Points: 59
+# Comments: 12]]></summary>
+        <author>
+            <name>fheld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ML model can classify sex from retinal photograph, clinicians can't]]></title>
+        <id>https://news.ycombinator.com/item?id=27165307</id>
+        <link href="https://rdcu.be/ckFPK"/>
+        <updated>2021-05-15T13:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rdcu.be/ckFPK
+Comments URL: https://news.ycombinator.com/item?id=27165307
+Points: 144
+# Comments: 122]]></summary>
+        <author>
+            <name>jeffbee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offline-First PWA for Plotly Visualization of CSV via SQLite]]></title>
+        <id>https://news.ycombinator.com/item?id=27165192</id>
+        <link href="https://github.com/lana-k/sqliteviz"/>
+        <updated>2021-05-15T13:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lana-k/sqliteviz
+Comments URL: https://news.ycombinator.com/item?id=27165192
+Points: 183
+# Comments: 25]]></summary>
+        <author>
+            <name>lana-k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiplying Integers Using Fourier Transforms [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27165133</id>
+        <link href="http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf"/>
+        <updated>2021-05-15T13:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf
+Comments URL: https://news.ycombinator.com/item?id=27165133
+Points: 58
 # Comments: 15]]></summary>
         <author>
-            <name>kaeruct</name>
+            <name>nceqs3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quake3e, a modern Quake III Arena engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27159906</id>
-        <link href="https://github.com/ec-/Quake3e"/>
-        <updated>2021-05-14T21:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ec-/Quake3e
-Comments URL: https://news.ycombinator.com/item?id=27159906
+        <title type="html"><![CDATA[Final Fantasy XIV: Endwalker, disponible el 23 de noviembre, presenta el oficio Segador y la ciudad Old Sharlayan]]></title>
+        <id>46036_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/final-fantasy-xiv-endwalker-fecha-lanzamiento"/>
+        <updated>2021-05-15T13:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Durante el discurso inaugural del Digital Fan Festival 2021 el productor y director de Final Fantasy XIV, Naoki Yoshida, ha puesto fecha de lanzamiento a Endwalker, que estará disponible el 23 de noviembre para PS4, PS5 y PC. El mismo evento también ha servido para revelar nuevos detalles de la expansión, incluyendo al Segador como nuevo oficio y la ciudad Old Sharlayan. Como es habitual en Square Enix todo ello ha estado amenizado con tráilers entre los que encontramos una cinemática de 6 minutos. El Segad…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design structured diagrams, built to increase your team's trust in your docs]]></title>
+        <id>https://news.ycombinator.com/item?id=27164769</id>
+        <link href="https://icepanel.io/"/>
+        <updated>2021-05-15T12:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://icepanel.io/
+Comments URL: https://news.ycombinator.com/item?id=27164769
+Points: 212
+# Comments: 63]]></summary>
+        <author>
+            <name>JacobDesigns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watches from the Soviet Union]]></title>
+        <id>https://news.ycombinator.com/item?id=27164417</id>
+        <link href="https://www.rbth.com/longreads/soviet-watches/"/>
+        <updated>2021-05-15T11:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rbth.com/longreads/soviet-watches/
+Comments URL: https://news.ycombinator.com/item?id=27164417
 Points: 107
 # Comments: 36]]></summary>
         <author>
-            <name>pdenton</name>
+            <name>gscott</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MagicBus (YC W16) Is Hiring Front End/Back End/DevOps]]></title>
-        <id>https://news.ycombinator.com/item?id=27159629</id>
-        <link href="https://news.ycombinator.com/item?id=27159629"/>
-        <updated>2021-05-14T21:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Hello,
-MagicBus is helping more commuters traveling longer distance get into shared vans, in particular for those without good access to public transit or daily access to a car.
-We have a few roles available:
-Frontend developer (https://www.ycombinator.com/companies/magicbus/jobs/Z5q4bEv-...)
-Backend developer (https://www.ycombinator.com/companies/magicbus/jobs/hesmd99-...)
-DevOps & backend (https://www.ycombinator.com/companies/magicbus/jobs/Ki6bx3i-...)
-Comments URL: https://news.ycombinator.com/item?id=…]]></summary>
+        <title type="html"><![CDATA[Las noticias de la semana (8 - 15 de mayo)]]></title>
+        <id>46035_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/semana-8-15-mayo-2021"/>
+        <updated>2021-05-15T11:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Esta semana hemos conocido que PlayStation Studios tiene más de 25 juegos en marcha, confirmado que el suministro de PS5 continuará siendo limitado en 2022 y descubierto nuevos detalles de la nueva generación de PlayStation VR que aún deben ser confirmados. Los jugadores de Xbox han recibido una nueva actualización con mejoras en la función Quick Resume, mientras que en Nintendo han asegurado que el gasto en I+D aumenta para hacer frente al desarrollo de juegos y la próxima generación de hardware. En juegos…]]></summary>
         <author>
-            <name>chrisupjohn</name>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was cancer less likely in a pre-industrial world?]]></title>
+        <id>https://news.ycombinator.com/item?id=27164171</id>
+        <link href="https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world"/>
+        <updated>2021-05-15T11:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world
+Comments URL: https://news.ycombinator.com/item?id=27164171
+Points: 99
+# Comments: 126]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drain brain: The secret life of a gutter enthusiast]]></title>
+        <id>https://news.ycombinator.com/item?id=27164138</id>
+        <link href="https://www.bbc.com/news/uk-england-london-56281464"/>
+        <updated>2021-05-15T10:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-england-london-56281464
+Comments URL: https://news.ycombinator.com/item?id=27164138
+Points: 11
+# Comments: 2]]></summary>
+        <author>
+            <name>tmfi</name>
         </author>
     </entry>
     <entry>
@@ -124,45 +307,6 @@ Comments URL: https://news.ycombinator.com/item?id=…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Counter-Strike Global Offsets: reliable remote code execution]]></title>
-        <id>https://news.ycombinator.com/item?id=27159192</id>
-        <link href="https://secret.club/2021/05/13/source-engine-rce-join.html"/>
-        <updated>2021-05-14T20:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://secret.club/2021/05/13/source-engine-rce-join.html
-Comments URL: https://news.ycombinator.com/item?id=27159192
-Points: 94
-# Comments: 21]]></summary>
-        <author>
-            <name>stefan_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Study in zebrafish examines how tumors alter whole-body metabolism]]></title>
-        <id>https://news.ycombinator.com/item?id=27158566</id>
-        <link href="https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/"/>
-        <updated>2021-05-14T19:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/
-Comments URL: https://news.ycombinator.com/item?id=27158566
-Points: 36
-# Comments: 8]]></summary>
-        <author>
-            <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AmigaOS 3.2]]></title>
-        <id>https://news.ycombinator.com/item?id=27158277</id>
-        <link href="https://www.hyperion-entertainment.com/"/>
-        <updated>2021-05-14T18:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.hyperion-entertainment.com/
-Comments URL: https://news.ycombinator.com/item?id=27158277
-Points: 106
-# Comments: 52]]></summary>
-        <author>
-            <name>andy_herbert</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Subnautica: Below Zero abandona el acceso anticipado y debuta en consolas]]></title>
         <id>46033_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/subnautica-below-zero-disponible"/>
@@ -170,71 +314,6 @@ Points: 106
         <summary type="html"><![CDATA[Después de un largo periodo de acceso anticipado, finalmente Subnautica: Below Zero ya se encuentra disponible como un juego completo para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y Nintendo Switch. Además, la consola de Nintendo también ha recibido hoy la primera entrega de Subnautica, mientras que los jugadores de PS4 y Xbox One tienen disponible la actualización para la nueva generación. En PC, el título creado por Unknown Worlds Entertainment está disponible en Steam y Epic Games Store. Subna…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Talk to Corp Dev (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27158088</id>
-        <link href="http://www.paulgraham.com/corpdev.html"/>
-        <updated>2021-05-14T18:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.paulgraham.com/corpdev.html
-Comments URL: https://news.ycombinator.com/item?id=27158088
-Points: 131
-# Comments: 79]]></summary>
-        <author>
-            <name>tracyhenry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Elegant Sufficiency, or the Curious Case of a Victorian Meme (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27157869</id>
-        <link href="https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html"/>
-        <updated>2021-05-14T18:23:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html
-Comments URL: https://news.ycombinator.com/item?id=27157869
-Points: 24
-# Comments: 14]]></summary>
-        <author>
-            <name>dcminter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overcoming Tab Overload]]></title>
-        <id>https://news.ycombinator.com/item?id=27157225</id>
-        <link href="https://www.scs.cmu.edu/news/overcoming-tab-overload"/>
-        <updated>2021-05-14T17:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.scs.cmu.edu/news/overcoming-tab-overload
-Comments URL: https://news.ycombinator.com/item?id=27157225
-Points: 117
-# Comments: 156]]></summary>
-        <author>
-            <name>tmfi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forth: Stack-Manipulation Operators]]></title>
-        <id>https://news.ycombinator.com/item?id=27157203</id>
-        <link href="https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/"/>
-        <updated>2021-05-14T17:37:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/
-Comments URL: https://news.ycombinator.com/item?id=27157203
-Points: 87
-# Comments: 32]]></summary>
-        <author>
-            <name>optimalsolver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delaying a Covid vaccine’s second dose boosts immune response]]></title>
-        <id>https://news.ycombinator.com/item?id=27156859</id>
-        <link href="https://www.nature.com/articles/d41586-021-01299-y"/>
-        <updated>2021-05-14T17:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01299-y
-Comments URL: https://news.ycombinator.com/item?id=27156859
-Points: 205
-# Comments: 155]]></summary>
-        <author>
-            <name>throwkeep</name>
         </author>
     </entry>
     <entry>
@@ -248,19 +327,6 @@ Points: 205
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A URL Lengthener]]></title>
-        <id>https://news.ycombinator.com/item?id=27156106</id>
-        <link href="https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/"/>
-        <updated>2021-05-14T16:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/
-Comments URL: https://news.ycombinator.com/item?id=27156106
-Points: 782
-# Comments: 197]]></summary>
-        <author>
-            <name>ykdojo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Warren Spector: “No sé por qué no me despidieron seis veces de Disney”]]></title>
         <id>46031_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/warren-spector-disney-epic-mickey"/>
@@ -268,43 +334,6 @@ Points: 782
         <summary type="html"><![CDATA[Kotaku ha publicado un nuevo extracto del libro Press Reset: Ruin and Recovery in the Video Game Industry escrito por Jason Schreier, que si sigue así leeremos toda su obra a base de avances, cuyo objetivo es poner luz al paso de Warren Spector por The Walt Disney Company. La historia empezó con dudas, no terminó demasiado bien y dio como resultado dos entregas de Epic Mickey. Según explica Warren, el 13 de julio de 2007 Graham Hopper, director ejecutivo de Disney Interactive Studios, había convocado a la p…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DarkSide ransomware gang quits after servers, Bitcoin stash seized]]></title>
-        <id>https://news.ycombinator.com/item?id=27155497</id>
-        <link href="https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/"/>
-        <updated>2021-05-14T15:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/
-Comments URL: https://news.ycombinator.com/item?id=27155497
-Points: 599
-# Comments: 489]]></summary>
-        <author>
-            <name>feross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work from Home and Productivity]]></title>
-        <id>https://news.ycombinator.com/item?id=27154368</id>
-        <link href="https://bfi.uchicago.edu/working-paper/2021-56/"/>
-        <updated>2021-05-14T13:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bfi.uchicago.edu/working-paper/2021-56/
-Comments URL: https://news.ycombinator.com/item?id=27154368
-Points: 111
-# Comments: 85]]></summary>
-        <author>
-            <name>Dowwie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies]]></title>
-        <id>https://news.ycombinator.com/item?id=27154309</id>
-        <link href="https://news.ycombinator.com/item?id=27154309"/>
-        <updated>2021-05-14T13:52:58.000Z</updated>
-        <summary type="html"><![CDATA[We are Allan, CJ and Jesus, co-founders of Moonshot Brands (https://www.moonshotbrands.com/). We offer e-commerce founders a simple way to sell their companies, which we then grow.
-The story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives. Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…]]></summary>
-        <author>
-            <name>AllanFischMB</name>
         </author>
     </entry>
     <entry>
@@ -362,7 +391,7 @@ The story behind this began several years ago when CJ and I were trying to sell 
         <id>46025_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/dark-alliance-xbox-game-pass"/>
         <updated>2021-05-13T18:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft vuelve a dar un impulso a Xbox Game Pass al anunciar que Dungeons &amp; Dragons: Dark Alliance estará disponible mediante el servicio de suscripción a partir del martes 22 de junio, el mismo día que el juego se pondrá a la venta. El título distribuido por Wizards of the Coast y desarrollado por Tuque Games se ofrecerá mediante Xbox Game Pass en Xbox One, Xbox Series, PC (Windows Store) y dispositivos móviles gracias a Xbox Cloud Gaming (xCloud). “Estoy entusiasmado de poder anunciar que Dungeons &…]]></summary>
+        <summary type="html"><![CDATA[Microsoft vuelve a dar un impulso a Xbox Game Pass al anunciar que Dungeons & Dragons: Dark Alliance estará disponible mediante el servicio de suscripción a partir del martes 22 de junio, el mismo día que el juego se pondrá a la venta. El título distribuido por Wizards of the Coast y desarrollado por Tuque Games se ofrecerá mediante Xbox Game Pass en Xbox One, Xbox Series, PC (Windows Store) y dispositivos móviles gracias a Xbox Cloud Gaming (xCloud). “Estoy entusiasmado de poder anunciar que Dungeons & Dra…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
@@ -452,7 +481,7 @@ The story behind this began several years ago when CJ and I were trying to sell 
         <id>46016_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/ratchet-clank-gameplays-detalles"/>
         <updated>2021-05-12T17:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Durante las últimas horas varios medios han publicado su respectivo avance de Ratchet &amp; Clank: Una Dimensión Aparte, unas impresiones que debido a la pandemia se han extraído después de ver vía streaming un inédito gameplay de 30 minutos ofrecido por Sony. Muchos de los textos están acompañados de parte del mencionado gameplay, así que el resto del mundo ha podido ver de nuevo cómo luce el título de Insomniac Games para PS5, que estará disponible el 11 de junio. La campaña de Ratchet &amp; Clank: Una Di…]]></summary>
+        <summary type="html"><![CDATA[Durante las últimas horas varios medios han publicado su respectivo avance de Ratchet & Clank: Una Dimensión Aparte, unas impresiones que debido a la pandemia se han extraído después de ver vía streaming un inédito gameplay de 30 minutos ofrecido por Sony. Muchos de los textos están acompañados de parte del mencionado gameplay, así que el resto del mundo ha podido ver de nuevo cómo luce el título de Insomniac Games para PS5, que estará disponible el 11 de junio. La campaña de Ratchet & Clank: Una Dimensión …]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
@@ -483,36 +512,6 @@ The story behind this began several years ago when CJ and I were trying to sell 
         <link href="https://www.elotrolado.net/noticias/juegos/ubisoft-f2p-grandes-franquicias"/>
         <updated>2021-05-12T13:30:12.000Z</updated>
         <summary type="html"><![CDATA[Después de la presentación de sus últimos resultados económicos, el director financiero de Ubisoft, Frederick Duguet, se dirigió a los accionistas para explicarles que la compañía está decidida a que los juegos free-to-play (F2P) representen una mayor parte de sus ingresos. Eso no significa que los franceses vayan a abandonar las entregas prémium de sus sagas, pero sí que tienen como objetivo diversificar sus fuentes de ingresos y no solo depender de los grandes lanzamientos. Después de que las palabras de …]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estados Unidos elimina a Xiaomi de la lista de empresas chinas sancionadas]]></title>
-        <id>46012_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/estados-unidos-elimina-sanciones-xiaomi"/>
-        <updated>2021-05-12T11:40:14.000Z</updated>
-        <summary type="html"><![CDATA[El vía crucis de Xiaomi en Estados Unidos ha llegado a su fin. El gobierno estadounidense ha aceptado eliminar al fabricante chino de la lista de empresas sancionadas por el Departamento de Defensa por su relación con el ejército y/o el espionaje del gigante asiático, donde fue introducida por la anterior administración junto a otras como Huawei y el fabricante de semiconductores SMIC. Las sanciones, que ya fueron paralizadas provisionalmente por un juez a instancias de Xiaomi, impedían que inversores estad…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gabe Newell sugiere que Valve lanzará más juegos en consola]]></title>
-        <id>46011_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/valve-consolas-playstation-xbox"/>
-        <updated>2021-05-11T23:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Cuando empezó la pandemia de COVID-19 Gabe Newell, cofundador de Valve, se encontraba en Nueva Zelanda y desde entonces no ha abandonado el país. Como invitado y magnate ilustre Gabe ha participado en programas de televisión, enviado un gnomo al espacio con motivos benéficos y más recientemente se ha sometido a una sesión de preguntas y respuestas en un colegio público. Ha sido en este último escenario donde el ejecutivo ha dejado caer una bomba: la posibilidad de que nuevos juegos de Valve estén disponible…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apex Legends supera los 1.000 millones de dólares en ingresos y EA confirma que en junio presentará el nuevo Battlefield]]></title>
-        <id>46010_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/apex-legends-battlefield-ea"/>
-        <updated>2021-05-11T22:33:34.000Z</updated>
-        <summary type="html"><![CDATA[El carrusel de las presentaciones de resultados económicos nos lleva hasta Electronic Arts, que más allá de unos ingresos anuales de 6.190 millones de dólares, un aumento interanual del 15 %, nos ha dejado otros datos. Uno de ellos es que Apex Legends ha logrado convertirse en un juego que ha generado más de 1.000 millones de dólares en net bookings (ingresos por venta de productos y servicios), y el otro es la confirmación de que el nuevo Battlefield se presentará en junio como un un título para la pasada …]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
