@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27170199",
-          "author": "nabla9",
-          "description": "Article URL: https://www.bbc.com/news/57111293\nComments URL: https://news.ycombinator.com/item?id=27170199\nPoints: 10\n# Comments: 3",
-          "link": "https://www.bbc.com/news/57111293",
-          "publishedOn": "2021-05-16T00:31:54.000Z",
-          "wordCount": 1399,
-          "title": "Israel-Palestinian conflict: False and misleading claims fact-checked"
+          "id": "https://news.ycombinator.com/item?id=27178486",
+          "author": "dgudkov",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries\nComments URL: https://news.ycombinator.com/item?id=27178486\nPoints: 14\n# Comments: 4",
+          "link": "https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries",
+          "publishedOn": "2021-05-16T23:58:50.000Z",
+          "wordCount": 93,
+          "title": "CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27168965",
-          "author": "the_economist",
-          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=27168965\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/buildzoom",
-          "publishedOn": "2021-05-15T21:00:51.000Z",
-          "wordCount": 109,
-          "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer"
+          "id": "https://news.ycombinator.com/item?id=27178395",
+          "author": "neom",
+          "description": "Article URL: https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803\nComments URL: https://news.ycombinator.com/item?id=27178395\nPoints: 24\n# Comments: 6",
+          "link": "https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803",
+          "publishedOn": "2021-05-16T23:45:47.000Z",
+          "wordCount": 1251,
+          "title": "Microsoft Decided Bill Gates Needed to Leave Board Due to Staff Relationship"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27168035",
-          "author": "matt_d",
-          "description": "Article URL: https://www.pagetable.com/?p=1520\nComments URL: https://news.ycombinator.com/item?id=27168035\nPoints: 48\n# Comments: 2",
-          "link": "https://www.pagetable.com/?p=1520",
-          "publishedOn": "2021-05-15T19:17:45.000Z",
-          "wordCount": 2029,
-          "title": "Commodore’s Assemblers: Part 1: MOS Cross-Assembler"
+          "id": "https://news.ycombinator.com/item?id=27177746",
+          "author": "oumua_don17",
+          "description": "Article URL: https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html\nComments URL: https://news.ycombinator.com/item?id=27177746\nPoints: 28\n# Comments: 4",
+          "link": "https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html",
+          "publishedOn": "2021-05-16T22:40:35.000Z",
+          "wordCount": 1346,
+          "title": "The Achilles Heel of the Coronavirus"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27167762",
-          "author": "blacksqr",
-          "description": "Article URL: https://til-lang.github.io/til/\nComments URL: https://news.ycombinator.com/item?id=27167762\nPoints: 74\n# Comments: 6",
-          "link": "https://til-lang.github.io/til/",
-          "publishedOn": "2021-05-15T18:40:30.000Z",
-          "wordCount": 1973,
-          "title": "TIL: Tcl-inspired command language on top of D"
+          "id": "https://news.ycombinator.com/item?id=27177718",
+          "author": "fortran77",
+          "description": "Article URL: https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt\nComments URL: https://news.ycombinator.com/item?id=27177718\nPoints: 73\n# Comments: 10",
+          "link": "https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt",
+          "publishedOn": "2021-05-16T22:37:37.000Z",
+          "wordCount": 3258,
+          "title": "Busy Being Born (2004)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27167729",
-          "author": "commoner",
-          "description": "Article URL: https://bibliogram.art\nComments URL: https://news.ycombinator.com/item?id=27167729\nPoints: 123\n# Comments: 31",
-          "link": "https://bibliogram.art",
-          "publishedOn": "2021-05-15T18:37:11.000Z",
-          "wordCount": 142,
-          "title": "Show HN: Bibliogram – Open-source front-end for Instagram"
+          "id": "https://news.ycombinator.com/item?id=27177503",
+          "author": "pranshum",
+          "description": "Article URL: https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic\nComments URL: https://news.ycombinator.com/item?id=27177503\nPoints: 207\n# Comments: 320",
+          "link": "https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic",
+          "publishedOn": "2021-05-16T22:09:37.000Z",
+          "wordCount": 2163,
+          "title": "There have been 7M-13M excess deaths worldwide during the pandemic"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27167604",
-          "author": "metahost",
-          "description": "Article URL: http://kai.sub.blue/en/africa.html\nComments URL: https://news.ycombinator.com/item?id=27167604\nPoints: 179\n# Comments: 108",
-          "link": "http://kai.sub.blue/en/africa.html",
-          "publishedOn": "2021-05-15T18:22:20.000Z",
-          "wordCount": 1003,
-          "title": "The True Size of Africa (2015)"
+          "id": "https://news.ycombinator.com/item?id=27176976",
+          "author": "CrankyBear",
+          "description": "Article URL: https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?\nComments URL: https://news.ycombinator.com/item?id=27176976\nPoints: 96\n# Comments: 68",
+          "link": "https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?",
+          "publishedOn": "2021-05-16T20:59:33.000Z",
+          "wordCount": 1504,
+          "title": "Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27167250",
-          "author": "axiomdata316",
-          "description": "Article URL: https://futureofcoding.org/episodes/044\nComments URL: https://news.ycombinator.com/item?id=27167250\nPoints: 34\n# Comments: 2",
-          "link": "https://futureofcoding.org/episodes/044",
-          "publishedOn": "2021-05-15T17:40:22.000Z",
-          "wordCount": 9956,
-          "title": "Making Your Own Tools"
+          "id": "https://news.ycombinator.com/item?id=27176819",
+          "author": "us0r",
+          "description": "Article URL: https://voiceofoc.org/2021/05/fullerton-settles-lawsuit-against-local-bloggers-for-publishing-secret-city-hall-documents-including-police-misconduct-records/\nComments URL: https://news.ycombinator.com/item?id=27176819\nPoints: 74\n# Comments: 15",
+          "link": "https://voiceofoc.org/2021/05/fullerton-settles-lawsuit-against-local-bloggers-for-publishing-secret-city-hall-documents-including-police-misconduct-records/",
+          "publishedOn": "2021-05-16T20:37:32.000Z",
+          "wordCount": 1866,
+          "title": "Fullerton settles lawsuit against bloggers for publishing City Hall documents"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27166271",
-          "author": "mgh2",
-          "description": "Article URL: https://www.bbc.com/news/stories-50435014\nComments URL: https://news.ycombinator.com/item?id=27166271\nPoints: 217\n# Comments: 143",
-          "link": "https://www.bbc.com/news/stories-50435014",
-          "publishedOn": "2021-05-15T15:49:40.000Z",
-          "wordCount": 8399,
-          "title": "Cryptoqueen: A woman scammed the world, then vanished (2019)"
+          "id": "https://news.ycombinator.com/item?id=27176145",
+          "author": "aberoham",
+          "description": "Article URL: https://goteleport.com/blog/access-controls/\nComments URL: https://news.ycombinator.com/item?id=27176145\nPoints: 17\n# Comments: 2",
+          "link": "https://goteleport.com/blog/access-controls/",
+          "publishedOn": "2021-05-16T19:10:49.000Z",
+          "wordCount": 3809,
+          "title": "The search for a perfect access control system"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27166162",
-          "author": "Iazel",
-          "description": "Article URL: https://github.com/parsix/parsix\nComments URL: https://news.ycombinator.com/item?id=27166162\nPoints: 115\n# Comments: 61",
-          "link": "https://github.com/parsix/parsix",
-          "publishedOn": "2021-05-15T15:38:43.000Z",
-          "wordCount": 3025,
-          "title": "Parsix: Parse Don't Validate"
+          "id": "https://news.ycombinator.com/item?id=27175960",
+          "author": "pcr910303",
+          "description": "Article URL: https://christine.website/talks/systemd-the-good-parts-2021-05-16\nComments URL: https://news.ycombinator.com/item?id=27175960\nPoints: 264\n# Comments: 243",
+          "link": "https://christine.website/talks/systemd-the-good-parts-2021-05-16",
+          "publishedOn": "2021-05-16T18:42:26.000Z",
+          "wordCount": 2641,
+          "title": "Systemd: The Good Parts"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27166043",
-          "author": "foobarbecue",
-          "description": "Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html\nComments URL: https://news.ycombinator.com/item?id=27166043\nPoints: 51\n# Comments: 44",
-          "link": "https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html",
-          "publishedOn": "2021-05-15T15:27:44.000Z",
-          "wordCount": 1459,
-          "title": "Cox Hotspots with Panoramic Wifi"
+          "id": "https://news.ycombinator.com/item?id=27175955",
+          "author": "pcr910303",
+          "description": "Article URL: https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/\nComments URL: https://news.ycombinator.com/item?id=27175955\nPoints: 140\n# Comments: 58",
+          "link": "https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/",
+          "publishedOn": "2021-05-16T18:41:32.000Z",
+          "wordCount": 448,
+          "title": "An iOS app update that annoys me"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27165954",
-          "author": "EntICOnc",
-          "description": "Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years\nComments URL: https://news.ycombinator.com/item?id=27165954\nPoints: 694\n# Comments: 395",
-          "link": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
-          "publishedOn": "2021-05-15T15:15:57.000Z",
-          "wordCount": 1493,
-          "title": "Modern Javascript: Everything you missed over the last 10 years (2020)"
+          "id": "https://news.ycombinator.com/item?id=27175913",
+          "author": "GBiT",
+          "description": "Article URL: https://coincarboncap.com/\nComments URL: https://news.ycombinator.com/item?id=27175913\nPoints: 199\n# Comments: 147",
+          "link": "https://coincarboncap.com/",
+          "publishedOn": "2021-05-16T18:35:17.000Z",
+          "wordCount": 220,
+          "title": "Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27165366",
-          "author": "michaelsbradley",
-          "description": "Article URL: https://forum.nim-lang.org/t/7983\nComments URL: https://news.ycombinator.com/item?id=27165366\nPoints: 208\n# Comments: 97",
-          "link": "https://forum.nim-lang.org/t/7983",
-          "publishedOn": "2021-05-15T14:08:12.000Z",
-          "wordCount": 4,
-          "title": "Nim 2.0 thoughts"
+          "id": "https://news.ycombinator.com/item?id=27175739",
+          "author": "not-now",
+          "description": "Article URL: https://www.cabinetmagazine.org/issues/63/mcconnell.php\nComments URL: https://news.ycombinator.com/item?id=27175739\nPoints: 11\n# Comments: 2",
+          "link": "https://www.cabinetmagazine.org/issues/63/mcconnell.php",
+          "publishedOn": "2021-05-16T18:11:56.000Z",
+          "wordCount": 4380,
+          "title": "Orphan Utopia: John Ballou Newbrough’s desert colony (2017)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27165352",
-          "author": "fheld",
-          "description": "Article URL: https://www.pine64.org/2021/05/15/may-update-connection-established/\nComments URL: https://news.ycombinator.com/item?id=27165352\nPoints: 59\n# Comments: 12",
-          "link": "https://www.pine64.org/2021/05/15/may-update-connection-established/",
-          "publishedOn": "2021-05-15T14:05:19.000Z",
-          "wordCount": 5752,
-          "title": "May Update: Connection Established"
+          "id": "https://news.ycombinator.com/item?id=27175622",
+          "author": "drdrey",
+          "description": "Article URL: https://www.rekt.news/value-rekt2/\nComments URL: https://news.ycombinator.com/item?id=27175622\nPoints: 205\n# Comments: 203",
+          "link": "https://www.rekt.news/value-rekt2/",
+          "publishedOn": "2021-05-16T17:59:46.000Z",
+          "wordCount": 658,
+          "title": "Missing line in a smart contract leads to $10M hack"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27165307",
-          "author": "jeffbee",
-          "description": "Article URL: https://rdcu.be/ckFPK\nComments URL: https://news.ycombinator.com/item?id=27165307\nPoints: 144\n# Comments: 122",
-          "link": "https://rdcu.be/ckFPK",
-          "publishedOn": "2021-05-15T13:59:34.000Z",
-          "wordCount": 24,
-          "title": "ML model can classify sex from retinal photograph, clinicians can't"
+          "id": "https://news.ycombinator.com/item?id=27175299",
+          "author": "paulpauper",
+          "description": "Article URL: https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/\nComments URL: https://news.ycombinator.com/item?id=27175299\nPoints: 75\n# Comments: 29",
+          "link": "https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/",
+          "publishedOn": "2021-05-16T17:26:14.000Z",
+          "wordCount": 2547,
+          "title": "Bette Graham, inventor and founder of Liquid Paper"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27165192",
-          "author": "lana-k",
-          "description": "Article URL: https://github.com/lana-k/sqliteviz\nComments URL: https://news.ycombinator.com/item?id=27165192\nPoints: 183\n# Comments: 25",
-          "link": "https://github.com/lana-k/sqliteviz",
-          "publishedOn": "2021-05-15T13:48:01.000Z",
-          "wordCount": 691,
-          "title": "Offline-First PWA for Plotly Visualization of CSV via SQLite"
+          "id": "https://news.ycombinator.com/item?id=27175284",
+          "author": "nethunters",
+          "description": "Article URL: https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite\nComments URL: https://news.ycombinator.com/item?id=27175284\nPoints: 130\n# Comments: 19",
+          "link": "https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite",
+          "publishedOn": "2021-05-16T17:24:24.000Z",
+          "wordCount": 2796,
+          "title": "Replacing Elasticsearch with Rust and SQLite (2017)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27165133",
-          "author": "nceqs3",
-          "description": "Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=27165133\nPoints: 58\n# Comments: 15",
-          "link": "http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf",
-          "publishedOn": "2021-05-15T13:41:47.000Z",
-          "wordCount": 14573,
-          "title": "Multiplying Integers Using Fourier Transforms [pdf]"
+          "id": "https://news.ycombinator.com/item?id=27175053",
+          "author": "jonlerner",
+          "description": "Article URL: https://www.cointracker.io/careers\nComments URL: https://news.ycombinator.com/item?id=27175053\nPoints: 1\n# Comments: 0",
+          "link": "https://www.cointracker.io/careers",
+          "publishedOn": "2021-05-16T17:00:19.000Z",
+          "wordCount": 54,
+          "title": "CoinTracker (YC W18) is hiring people passionate about cryptocurrency"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27164769",
-          "author": "JacobDesigns",
-          "description": "Article URL: https://icepanel.io/\nComments URL: https://news.ycombinator.com/item?id=27164769\nPoints: 212\n# Comments: 63",
-          "link": "https://icepanel.io/",
-          "publishedOn": "2021-05-15T12:55:52.000Z",
-          "wordCount": 19,
-          "title": "Design structured diagrams, built to increase your team's trust in your docs"
+          "id": "https://news.ycombinator.com/item?id=27174188",
+          "author": "Tomte",
+          "description": "Article URL: https://html-notepad.com/\nComments URL: https://news.ycombinator.com/item?id=27174188\nPoints: 187\n# Comments: 59",
+          "link": "https://html-notepad.com/",
+          "publishedOn": "2021-05-16T15:04:53.000Z",
+          "wordCount": 519,
+          "title": "HTML Notepad – HTML WYSIWYG editor"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27164417",
-          "author": "gscott",
-          "description": "Article URL: https://www.rbth.com/longreads/soviet-watches/\nComments URL: https://news.ycombinator.com/item?id=27164417\nPoints: 107\n# Comments: 36",
-          "link": "https://www.rbth.com/longreads/soviet-watches/",
-          "publishedOn": "2021-05-15T11:55:52.000Z",
-          "wordCount": 1916,
-          "title": "Watches from the Soviet Union"
+          "id": "https://news.ycombinator.com/item?id=27173967",
+          "author": "1cvmask",
+          "description": "Article URL: https://faculty.georgetown.edu/jod/texts/twain.german.html\nComments URL: https://news.ycombinator.com/item?id=27173967\nPoints: 91\n# Comments: 118",
+          "link": "https://faculty.georgetown.edu/jod/texts/twain.german.html",
+          "publishedOn": "2021-05-16T14:32:24.000Z",
+          "wordCount": 7370,
+          "title": "The Awful German Language (1880)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27164171",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world\nComments URL: https://news.ycombinator.com/item?id=27164171\nPoints: 99\n# Comments: 126",
-          "link": "https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world",
-          "publishedOn": "2021-05-15T11:04:34.000Z",
-          "wordCount": 2194,
-          "title": "Was cancer less likely in a pre-industrial world?"
+          "id": "https://news.ycombinator.com/item?id=27173890",
+          "author": "cube2222",
+          "description": "Article URL: http://www.learndatalogtoday.org\nComments URL: https://news.ycombinator.com/item?id=27173890\nPoints: 75\n# Comments: 22",
+          "link": "http://www.learndatalogtoday.org",
+          "publishedOn": "2021-05-16T14:21:10.000Z",
+          "wordCount": 150,
+          "title": "Learn Datalog Today"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27164138",
-          "author": "tmfi",
-          "description": "Article URL: https://www.bbc.com/news/uk-england-london-56281464\nComments URL: https://news.ycombinator.com/item?id=27164138\nPoints: 11\n# Comments: 2",
-          "link": "https://www.bbc.com/news/uk-england-london-56281464",
-          "publishedOn": "2021-05-15T10:57:34.000Z",
-          "wordCount": 2618,
-          "title": "Drain brain: The secret life of a gutter enthusiast"
+          "id": "https://news.ycombinator.com/item?id=27173859",
+          "author": "krustyburger",
+          "description": "Article URL: https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1\nComments URL: https://news.ycombinator.com/item?id=27173859\nPoints: 245\n# Comments: 107",
+          "link": "https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1",
+          "publishedOn": "2021-05-16T14:15:59.000Z",
+          "wordCount": 5683,
+          "title": "The man who didn't invent Flamin' Hot Cheetos"
         }
       ]
     },
@@ -193,12 +193,30 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46039_v1",
+          "author": null,
+          "description": "El gigante Tencent ha celebrado un evento durante el cual ha presentado un generoso catálogo de juegos desarrollados por sus estudios internos. Muchos de estos proyectos tienen como objetivo conquistar el vasto mercado chino, pero también los hay que buscan seducir el mercado internacional. Este último caso parece ser el de Metal Slug, un juego para móviles a cargo de TiMi Studios que anteriormente vimos bajo el nombre de Metal Slug Code: J y cuyo título final podría ser Metal Slug: Awakening. A falta de in…",
+          "link": "https://www.elotrolado.net/noticias/juegos/metal-slug-moviles-gameplay",
+          "publishedOn": "2021-05-16T14:03:29.000Z",
+          "wordCount": 777,
+          "title": "Tencent y TiMi Studio muestran un nuevo gameplay de Metal Slug para móviles"
+        },
+        {
+          "id": "46038_v1",
+          "author": null,
+          "description": "El Digital Fan Festival 2021 sigue ofreciendo novedades sobre Final Fantasy XIV. Ayer Square Enix reveló nuevos detalles sobre Endwalker y anunció que la expansión estará disponible el 23 de noviembre y hoy es el turno de saber que la versión del MMO para PS5 debutará el 25 de mayo junto al parche 5.55. Durante el evento el editor japonés también ha facilitado una hoja de ruta con las novedades que se incorporarán al FF XIV hasta la llegada de Endwalker. La beta abierta de Final Fantasy XIV para PlayStation…",
+          "link": "https://www.elotrolado.net/noticias/juegos/final-fantasy-xiv-fecha-lanzamiento-ps5",
+          "publishedOn": "2021-05-16T12:07:27.000Z",
+          "wordCount": 787,
+          "title": "La versión de Final Fantasy XIV para PS5 estará disponible el 25 de mayo junto al parche 5.55"
+        },
+        {
           "id": "46037_v1",
           "author": null,
-          "description": "Una vez más, Ubisoft ha demostrado tener un serio problema con las filtraciones. En esta ocasión ha sido el turno del juego free-to-play The Division Heartland, que por primera vez se ha dejado ver mediante un gameplay de 20 minutos sacado de forma clandestina de unas pruebas a las que solo se puede acceder con invitación y después de firmar un estricto acuerdo de confidencialidad (NDA, por sus siglas en inglés). Además del tráiler con poco más de 20 minutos de gameplay de The Division Heartland, que encont…",
+          "description": "Una vez más, Ubisoft ha demostrado tener un serio problema con las filtraciones. En esta ocasión ha sido el turno del juego free-to-play The Division Heartland, que por primera vez se ha dejado ver mediante un gameplay de 20 minutos sacado de forma clandestina de unas pruebas a las que solo se puede acceder con invitación y después de firmar un estricto acuerdo de confidencialidad (NDA, por sus siglas en inglés). Además del tráiler con poco más de 20 minutos de gameplay de The Division Heartland, que incrus…",
           "link": "https://www.elotrolado.net/noticias/juegos/the-division-heartland-gameplay-filtrado",
           "publishedOn": "2021-05-15T21:15:39.000Z",
-          "wordCount": 701,
+          "wordCount": 698,
           "title": "Filtrado un gameplay de 20 minutos de The Division Heartland"
         },
         {
@@ -207,7 +225,7 @@
           "description": "Durante el discurso inaugural del Digital Fan Festival 2021 el productor y director de Final Fantasy XIV, Naoki Yoshida, ha puesto fecha de lanzamiento a Endwalker, que estará disponible el 23 de noviembre para PS4, PS5 y PC. El mismo evento también ha servido para revelar nuevos detalles de la expansión, incluyendo al Segador como nuevo oficio y la ciudad Old Sharlayan. Como es habitual en Square Enix todo ello ha estado amenizado con tráilers entre los que encontramos una cinemática de 6 minutos. El Segad…",
           "link": "https://www.elotrolado.net/noticias/juegos/final-fantasy-xiv-endwalker-fecha-lanzamiento",
           "publishedOn": "2021-05-15T13:04:20.000Z",
-          "wordCount": 860,
+          "wordCount": 883,
           "title": "Final Fantasy XIV: Endwalker, disponible el 23 de noviembre, presenta el oficio Segador y la ciudad Old Sharlayan"
         },
         {
@@ -225,7 +243,7 @@
           "description": "THQ Nordic ha mostrado tres nuevos gameplays sin editar de Biomutant que tienen como gran objetivo mostrar el rendimiento del juego en todas las plataformas en las que estará disponible el 25 de mayo. Es una buena forma de demostrar a los jugadores que después de más de cuatro años de desarrollo el juego creado por Experiment 101 ofrecerá un buen desempeño independientemente de la consola (PS4, PS4 Pro, Xbox One, Xbox One X). Para los usuarios de PC (Steam, GOG, Epic Games Store) hay vídeo y requisitos (al …",
           "link": "https://www.elotrolado.net/noticias/juegos/biomutant-trailers-gameplay-rendimiento",
           "publishedOn": "2021-05-14T20:42:07.000Z",
-          "wordCount": 750,
+          "wordCount": 751,
           "title": "Biomutant muestra su rendimiento en PS4, PS4 Pro, Xbox One, Xbox One X y PC"
         },
         {
@@ -234,7 +252,7 @@
           "description": "Después de un largo periodo de acceso anticipado, finalmente Subnautica: Below Zero ya se encuentra disponible como un juego completo para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y Nintendo Switch. Además, la consola de Nintendo también ha recibido hoy la primera entrega de Subnautica, mientras que los jugadores de PS4 y Xbox One tienen disponible la actualización para la nueva generación. En PC, el título creado por Unknown Worlds Entertainment está disponible en Steam y Epic Games Store. Subna…",
           "link": "https://www.elotrolado.net/noticias/juegos/subnautica-below-zero-disponible",
           "publishedOn": "2021-05-14T18:41:28.000Z",
-          "wordCount": 743,
+          "wordCount": 744,
           "title": "Subnautica: Below Zero abandona el acceso anticipado y debuta en consolas"
         },
         {
@@ -243,7 +261,7 @@
           "description": "La saga Mass Effect desarrollada por BioWare ofreció una de las trilogías más celebradas de la historia de los videojuegos y desde hoy aquellos que se la perdieron o la quieran revivir tienen la oportunidad de hacerlo con Mass Effect Legendary Edition. Así lo ha recordado Electronic Arts, que ha publicado el tradicional tráiler de lanzamiento para celebrar que la colección que reúne los tres primeros Mass Effect y la mayor parte de su contenido adicional ya está disponible en PlayStation 4, Xbox One y PC (S…",
           "link": "https://www.elotrolado.net/noticias/juegos/mass-effect-legendary-edition-trailer-lanzamiento",
           "publishedOn": "2021-05-14T17:05:29.000Z",
-          "wordCount": 851,
+          "wordCount": 852,
           "title": "Tráiler de lanzamiento de Mass Effect Legendary Edition: la epopeya del Comandante Shepard se repite, pero con mejoras"
         },
         {
@@ -252,7 +270,7 @@
           "description": "Kotaku ha publicado un nuevo extracto del libro Press Reset: Ruin and Recovery in the Video Game Industry escrito por Jason Schreier, que si sigue así leeremos toda su obra a base de avances, cuyo objetivo es poner luz al paso de Warren Spector por The Walt Disney Company. La historia empezó con dudas, no terminó demasiado bien y dio como resultado dos entregas de Epic Mickey. Según explica Warren, el 13 de julio de 2007 Graham Hopper, director ejecutivo de Disney Interactive Studios, había convocado a la p…",
           "link": "https://www.elotrolado.net/noticias/juegos/warren-spector-disney-epic-mickey",
           "publishedOn": "2021-05-14T16:16:50.000Z",
-          "wordCount": 851,
+          "wordCount": 852,
           "title": "Warren Spector: “No sé por qué no me despidieron seis veces de Disney”"
         },
         {
@@ -261,7 +279,7 @@
           "description": "El futuro de Smach Z, una consola portátil española que nació gracias a la financiación colectiva y cuyo objetivo era llevar la biblioteca de Steam a cualquier lugar, parece sentenciado. Así lo ha reconocido Daniel Fernandez, director ejecutivo y fundador de Smach Z, que en un mensaje a la comunidad ha sido bastante claro sobre la situación de su compañía: han perdido la inversión privada que sostenía el proyecto y pronto podrían entrar en bancarrota. En consecuencia, la entrega de la consola difícilmente s…",
           "link": "https://www.elotrolado.net/noticias/consolas/smach-z-bancarrota-reembolsos",
           "publishedOn": "2021-05-14T12:06:22.000Z",
-          "wordCount": 872,
+          "wordCount": 873,
           "title": "La portátil española Smach Z al borde de la bancarrota"
         },
         {
@@ -270,7 +288,7 @@
           "description": "La crisis de los semiconductores ha puesto de relevancia que la fabricación de chips y otros componentes de alta tecnología es tan estratégica como el abastecimiento de energía y la capacidad para producir vacunas. Con numerosas industrias padeciendo una sequía que está provocando pérdidas difíciles de cuantificar y miles de despidos debido a la paralización de las cadenas, las grandes potencias se han propuesto liderar el diseño y la fabricación de semiconductores. Y Corea del Sur no quiere quedarse atrás.…",
           "link": "https://www.elotrolado.net/noticias/tecnologia/corea-del-sur-invierte-semiconductores",
           "publishedOn": "2021-05-14T11:52:30.000Z",
-          "wordCount": 862,
+          "wordCount": 863,
           "title": "Corea del Sur invertirá más de 370.000 millones de euros para liderar la industria de los semiconductores"
         },
         {
@@ -279,7 +297,7 @@
           "description": "505 Games ha anunciado haber llegado a un acuerdo con One More Level para el desarrollo y publicación de Ghostrunner 2, que estará disponible en PlayStation 5, Xbox Series y PC. Por ahora no tenemos detalles ni ventana de lanzamiento, pero sí un dato, que la primera entrega de Ghostrunner ha superado las 600.000 unidades vendidas. Este anuncio no es del todo sorprendente si tenemos en cuenta que hace poco más de un mes 505 Games anunció haber adquirido la propiedad intelectual Ghostrunner por 5 millones de …",
           "link": "https://www.elotrolado.net/hilo_ghostrunner-2-anunciado-para-ps5-xbox-series-y-pc_2422827",
           "publishedOn": "2021-05-13T22:53:42.000Z",
-          "wordCount": 517,
+          "wordCount": 521,
           "title": "Breve: Ghostrunner 2 anunciado para PS5, Xbox Series y PC"
         },
         {
@@ -288,7 +306,7 @@
           "description": "Nintendo es una compañía que cuando presenta sus resultados económicos es bastante transparente con los números y en caso de duda los accionistas pueden resolverla en una posterior sesión de preguntas y respuestas. Como ejemplo tenemos el interrogante que ha generado el continuo aumento en la inversión en Investigación y Desarrollo (I+D), que durante el pasado año fiscal fue de 93.253 millones de yenes (705 millones de euros), un 11 % más que el anterior y una cifra nunca antes vista. ¿Por qué tanto dinero?…",
           "link": "https://www.elotrolado.net/noticias/consolas/nintendo-inversion-proxima-generacion",
           "publishedOn": "2021-05-13T22:41:01.000Z",
-          "wordCount": 870,
+          "wordCount": 871,
           "title": "Nintendo confirma un aumento de la inversión en I+D vinculado al “desarrollo de la próxima generación de hardware”"
         },
         {
@@ -297,7 +315,7 @@
           "description": "Desde su presentación hace ya dos años Stadia ha estado envuelto por el escepticismo de una notable parte de la comunidad de jugadores. Algunos simplemente huyen de los servicios de juegos en streaming y otros no se fían de Google, una compañía con un generoso catálogo de iniciativas enterradas. A pesar de ello, el gigante tecnológico sigue adelante con su proyecto, que en opinión de Nate Ahearn, responsable de marketing de Stadia, está “vivo y coleando”. En declaraciones a GamesIndustry, Ahearn defiende la…",
           "link": "https://www.elotrolado.net/noticias/juegos/google-stadia-vivo",
           "publishedOn": "2021-05-13T20:38:38.000Z",
-          "wordCount": 819,
+          "wordCount": 820,
           "title": "Google afirma que Stadia está “vivo y coleando”"
         },
         {
@@ -306,7 +324,7 @@
           "description": "Microsoft vuelve a dar un impulso a Xbox Game Pass al anunciar que Dungeons & Dragons: Dark Alliance estará disponible mediante el servicio de suscripción a partir del martes 22 de junio, el mismo día que el juego se pondrá a la venta. El título distribuido por Wizards of the Coast y desarrollado por Tuque Games se ofrecerá mediante Xbox Game Pass en Xbox One, Xbox Series, PC (Windows Store) y dispositivos móviles gracias a Xbox Cloud Gaming (xCloud). “Estoy entusiasmado de poder anunciar que Dungeons & Dra…",
           "link": "https://www.elotrolado.net/noticias/juegos/dark-alliance-xbox-game-pass",
           "publishedOn": "2021-05-13T18:22:51.000Z",
-          "wordCount": 797,
+          "wordCount": 798,
           "title": "Dungeons & Dragons: Dark Alliance estará disponible desde el primer día en Xbox Game Pass"
         },
         {
@@ -315,7 +333,7 @@
           "description": "Durante las últimas horas miles de internautas españoles de diferentes operadoras como Movistar, Vodafone, Orange y sus respectivas filiales, han experimentado problemas para acceder a Twitch, la mayor plataforma de transmisiones en directo del mundo. Inicialmente ha reinado la confusión, nadie sabía qué ocurría, pero finalmente se ha descubierto que todo se ha debido al bloqueo por orden judicial del dominio ttvnw.net propiedad de Twitch. El caos se ha puesto en marcha cuando los usuarios accedían a Twitch…",
           "link": "https://www.elotrolado.net/noticias/internet/twitch-bloqueo-telefonica",
           "publishedOn": "2021-05-13T17:34:59.000Z",
-          "wordCount": 753,
+          "wordCount": 754,
           "title": "Las operadoras bloquean el acceso a Twitch por mandato judicial y tras una petición errónea de Telefónica"
         },
         {
@@ -342,7 +360,7 @@
           "description": "Sony ha anunciado el lanzamiento de los primeros modelos del mando DualSense para PlayStation 5, una consola que cuesta (y costará) encontrar en las tiendas. Por un lado tenemos el Midnight Black, que presenta dos sutiles tonos de negro con detalles en gris claro, y por otro el Cosmic Red, que cuenta con un diseño con tonos intensos en rojo y negro. Ambos periféricos estarán disponibles a partir del 18 de junio en España. Hasta ahora, Sony solo ha ofrecido el mando Dualsense con un esquema de color blanco y…",
           "link": "https://www.elotrolado.net/noticias/consolas/dualsense-nuevos-colores",
           "publishedOn": "2021-05-13T15:12:13.000Z",
-          "wordCount": 763,
+          "wordCount": 764,
           "title": "Anunciados los primeros mandos DualSense con nuevos colores: Midnight Black y Cosmic Red"
         },
         {
@@ -351,7 +369,7 @@
           "description": "Sega Sammy ha presentado el informe con sus últimos resultados financieros, y más allá de los números en el documento aparece una interesante iniciativa que propone revisar las propiedades intelectuales (IP) que atesora la compañía y estudiar cuáles son viables para sacar adelante un remaster, remake o reinicio. El holding también ha revelado una estrategia de cinco años llamada “Creation of Super Game” que implica el desarrollo de un nuevo FPS. La lista de propiedades intelectuales que Sega Sammy podría re…",
           "link": "https://www.elotrolado.net/noticias/juegos/sega-remaster-remake-reinicio",
           "publishedOn": "2021-05-13T14:02:24.000Z",
-          "wordCount": 810,
+          "wordCount": 811,
           "title": "Sega examinará sus propiedades intelectuales para valorar posibles remasters, remakes y reinicios"
         },
         {
@@ -360,7 +378,7 @@
           "description": "Un grupo de veteranos desarrolladores que hasta ahora trabajaban en Epic Games y Blizzard Entertainment, se han unido para crear el estudio Lightforge Games. El equipo de desarrollo ya ha revelado que desde el principio trabajarán en remoto y con el objetivo de sacar adelante un RPG multiplataforma con elementos de Minecraft o Roblox y juegos de rol de mesa. Lightforge Games inicia su andadura después de haber completado una ronda de financiación de 5 millones de dólares que han aportado compañías como Gala…",
           "link": "https://www.elotrolado.net/hilo_desarrolladores-de-epic-games-y-blizzard-fundan-lightforge-games_2422734",
           "publishedOn": "2021-05-12T22:20:37.000Z",
-          "wordCount": 639,
+          "wordCount": 643,
           "title": "Breve: Desarrolladores de Epic Games y Blizzard fundan Lightforge Games"
         },
         {
@@ -369,7 +387,7 @@
           "description": "Por cuarto mes consecutivo Nintendo Switch domina con mano de hierro la lista de los juegos más vendidos en España al lograr colocar, una vez más, hasta ocho representantes en ella. Sin embargo, en esta ocasión quien lidera no es un título de Mario como en los tres últimos meses, sino que en la primera posición encontramos al veterano e incombustible Grand Theft Auto V. Sin embargo, Nintendo pincha con New Pokémon Snap, que debuta en la séptima plaza. El podio lo completan dos juegos de Nintendo Switch como…",
           "link": "https://www.elotrolado.net/noticias/juegos/mas-vendidos-abril-2021",
           "publishedOn": "2021-05-12T20:49:47.000Z",
-          "wordCount": 788,
+          "wordCount": 789,
           "title": "Switch coloca ocho juegos entre los más vendidos de abril, pero Grand Theft Auto V lidera la lista"
         },
         {
@@ -378,7 +396,7 @@
           "description": "Hermen Hulst, máximo responsable de PlayStation Studios, ha celebrado los seis meses que PlayStation 5 lleva en el mercado concediendo una entrevista a Wired donde ha hablado sobre varios temas que rodean la consola, incluyendo los problemas de suministro y los próximos juegos que se encuentran en desarrollo. Respecto al abastecimiento, no existe una varita mágica, pero se espera que mes a mes la situación vaya mejorando, mientras que en el apartado juegos el directivo revela que PlayStation Studios tiene e…",
           "link": "https://www.elotrolado.net/noticias/juegos/playstation-studios-desarrollo-ps5",
           "publishedOn": "2021-05-12T18:31:24.000Z",
-          "wordCount": 860,
+          "wordCount": 861,
           "title": "PlayStation Studios tiene más de 25 juegos en desarrollo para PS5 y casi la mitad son nuevas propiedades intelectuales"
         },
         {
@@ -387,7 +405,7 @@
           "description": "Durante las últimas horas varios medios han publicado su respectivo avance de Ratchet & Clank: Una Dimensión Aparte, unas impresiones que debido a la pandemia se han extraído después de ver vía streaming un inédito gameplay de 30 minutos ofrecido por Sony. Muchos de los textos están acompañados de parte del mencionado gameplay, así que el resto del mundo ha podido ver de nuevo cómo luce el título de Insomniac Games para PS5, que estará disponible el 11 de junio. La campaña de Ratchet & Clank: Una Dimensión …",
           "link": "https://www.elotrolado.net/noticias/juegos/ratchet-clank-gameplays-detalles",
           "publishedOn": "2021-05-12T17:29:09.000Z",
-          "wordCount": 849,
+          "wordCount": 850,
           "title": "Nuevos gameplays y detalles de Ratchet & Clank: Una Dimensión Aparte"
         },
         {
@@ -398,24 +416,6 @@
           "publishedOn": "2021-05-12T15:41:39.000Z",
           "wordCount": 313,
           "title": "Breve: Layers of Fear 2 para Nintendo Switch estará disponible el 20 de mayo"
-        },
-        {
-          "id": "46014_v1",
-          "author": null,
-          "description": "Cuando queda menos de un mes para el lanzamiento de Sniper Ghost Warrior Contracts 2, CI Games ha distribuido un tráiler explicativo con todos los detalles sobre la jugabilidad del título. El desarrollador polaco también ha recordado que la nueva entrega de su franquicia de francotiradores en primera persona estará disponible el 4 de junio en PS4, Xbox One, Xbox Series y PC, mientras que la versión y actualización para PS5 llegará a finales de año. Sniper Ghost Warrior Contracts 2 sitúa su acción en Kuamar,…",
-          "link": "https://www.elotrolado.net/noticias/juegos/sniper-ghost-warrior-contracts-2-trailer-gameplay",
-          "publishedOn": "2021-05-12T15:24:06.000Z",
-          "wordCount": 559,
-          "title": "Sniper Ghost Warrior Contracts 2 muestra su jugabilidad con un nuevo tráiler"
-        },
-        {
-          "id": "46013_v1",
-          "author": null,
-          "description": "Después de la presentación de sus últimos resultados económicos, el director financiero de Ubisoft, Frederick Duguet, se dirigió a los accionistas para explicarles que la compañía está decidida a que los juegos free-to-play (F2P) representen una mayor parte de sus ingresos. Eso no significa que los franceses vayan a abandonar las entregas prémium de sus sagas, pero sí que tienen como objetivo diversificar sus fuentes de ingresos y no solo depender de los grandes lanzamientos. Después de que las palabras de …",
-          "link": "https://www.elotrolado.net/noticias/juegos/ubisoft-f2p-grandes-franquicias",
-          "publishedOn": "2021-05-12T13:30:12.000Z",
-          "wordCount": 744,
-          "title": "Ubisoft espera más ingresos por los juegos free-to-play y que estos ofrezcan una vía adicional para probar sus sagas"
         }
       ]
     },
@@ -424,6 +424,42 @@
       "feedUrl": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
       "siteUrl": "https://www.allgamesdelta.net/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-8271056203150605341",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "Embracer Group acquires Appeal Studios, KAIKO, Massive Miniteam and FRAME BREAK\n Embracer Group (“Embracer”) through its subsidiaries THQ Nordic and Amplifier Game Invest  have entered into four acquisition agreements to acquire 100% each of Appeal Studios, KAIKO, Massive Miniteam and FRAME BREAK. In addition, THQ Nordic is today also announcing that it has founded Gate 21 in Bosnia and Herzegovina. The aggregated day one purchase price for all four acquisitions amounts to approximately SEK 71 million on a …",
+          "link": "https://www.allgamesdelta.net/2021/05/embracer-group-acquires-appeal-studios.html",
+          "publishedOn": "2021-05-16T18:10:00.000Z",
+          "wordCount": 448,
+          "title": "Embracer Group Acquires Appeal Studios, KAIKO, Massive Miniteam, and FRAME BREAK, establishes Gate21"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-2052514221658892140",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "QuakeCon 2021 - Join Us Online August 19-21\n      We can’t wait to get back to Dallas with our QuakeCon family, but for the continued safety of our staff, the volunteers, and the community, this year’s QuakeCon will once again be a digital-only event. We’ll have all the Peace, Love, and Rockets – remotely – August 19-21.\n We’ll share additional details on the streaming lineup, charity opportunities, giveaways, and more later in June, so stay tuned for more updates.\n   quakecon.bethesda.net",
+          "link": "https://www.allgamesdelta.net/2021/05/digital-only-quakecon-2021-set-for.html",
+          "publishedOn": "2021-05-16T16:36:00.000Z",
+          "wordCount": 108,
+          "title": "Digital-only QuakeCon 2021 Set for August 19 to 21"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-2204182557937058655",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "Action-adventure Trigger Witch Blasts onto Consoles\n We are pleased to announce that we have picked up publishing rights for Rainbite's upcoming top-down action-adventure Trigger Witch. In this worldwide partnership, eastasiasoft will publish Trigger Witch for release on Nintendo Switch, PS4, PS5, Xbox One and Xbox Series X|S in Summer 2021.\n Trigger Witch is a stylized 2D twin-stick action game from the creators of Reverie, set in an odd open world where magic is outdated and firearms are the new way of li…",
+          "link": "https://www.allgamesdelta.net/2021/05/trigger-witch-launches-this-summer-for.html",
+          "publishedOn": "2021-05-16T16:09:00.000Z",
+          "wordCount": 334,
+          "title": "Trigger Witch Launches this Summer for PS5, Xbox Series, PS4, Xbox One and Switch"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-4056734217346463728",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "School-Building RPG 'Valthirian Arc: Hero School Story 2' Coming to Steam Early Access this Summer!\n PQube and developer Agate are excited to reveal their partnership in bringing vibrant fantasy adventure Valthirian Arc: Hero School Story 2 to early access on Steam this summer!\n    •  Sequel to Valthirian Arc: Hero School Story rated 8/10* in 2018.\n   • Become the principal of a brand-new hero academy and run it your way.\n  •  Nurture brave young students to reach their heroic potential.\n  •  Challenging tu…",
+          "link": "https://www.allgamesdelta.net/2021/05/valthirian-arc-hero-school-story-2.html",
+          "publishedOn": "2021-05-16T15:36:00.000Z",
+          "wordCount": 203,
+          "title": "Valthirian Arc: Hero School Story 2 Launches in Early Access this Summer"
+        },
         {
           "id": "tag:blogger.com,1999:blog-6752074960104712501.post-2689008422808562845",
           "author": "noreply@blogger.com (AllGamesDelta)",
@@ -612,45 +648,9 @@
           "publishedOn": "2021-05-05T19:06:00.000Z",
           "wordCount": 434,
           "title": "Stonefly Launches June 1"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-923620074552823297",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "New Back 4 Blood Trailer Shows Off Innovative Card System Providing Extensive Replayability\n Warner Bros. Games and Turtle Rock Studios today released a new Back 4 Blood trailer providing an in-depth look at the game’s innovative Card System, a new rogue-lite feature that enhances your experience with each playthrough, ensuring every gameplay session is dynamic, intense and feels unique. Players can easily jump right into the action by choosing a pre-made default deck or dive into the Card System’s vast cus…",
-          "link": "https://www.allgamesdelta.net/2021/05/back-4-blood-card-system-trailer.html",
-          "publishedOn": "2021-05-05T18:31:00.000Z",
-          "wordCount": 342,
-          "title": "Back 4 Blood 'Card System' Trailer"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-6399337188569284408",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "Necromunda: Hired Gun takes you on a deep dive in new Gameplay Overview Trailer\n Necromunda: Hired Gun, the fast-paced FPS by the small, passionate team at Streum On Studio, hits PC and consoles on June 1st. Welcome to the gritty, violent hive city of Necromunda, a place where anything goes - for the right price. As a bounty hunter in this utopia of violence, get ready to use the many tools in your deadly arsenal to see through each contract. Watch today’s new Gameplay Overview Trailer for a deep dive into …",
-          "link": "https://www.allgamesdelta.net/2021/05/necromunda-hired-gun-gameplay-overview.html",
-          "publishedOn": "2021-05-05T17:36:00.000Z",
-          "wordCount": 354,
-          "title": "Necromunda: Hired Gun Gameplay Overview Trailer"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-6659146926685674929",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "A Lomg-Awaited Video Game Adptation for the Popular Manga Series Made in Abyss Has Finally Been Announced!\n We will be releasing a 3D Action RPG based on the popular manga series, Made in Abyss, titled Made in Abyss: Binary Star Falling into Darkness for PlayStation 4, Nintendo Switch, and Steam for North America! The physical version of the title will also be published in Europe by Numskull Games.\n Made in Abyss is a fantasy manga by Akihito Tsukushi, published on WEB Comic Gamma (Takeshobo) since 2012. Th…",
-          "link": "https://www.allgamesdelta.net/2021/05/3d-action-rpg-made-in-abyss-binary-star.html",
-          "publishedOn": "2021-05-05T05:24:00.000Z",
-          "wordCount": 378,
-          "title": "3D Action RPG Made in Abyss: Binary Star Falling into Darkness Announced for PS4, Switch and PC"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-6491645703785794844",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "About Biomutant\n Biomutant is an open-world, post-apocalyptic Wung-Fu fable RPG, with unique martial art styled combat system allowing you to mix melee, shooting, and mutant ability action.\n \nKey Features\n   •    A New Take on Third-Person Combat – The martial arts style combat system allows you maximum freedom of movement and agility while mixing shooting, melee, and powers from your mutations. Learning new Wung-Fu combat forms through progression and learning from masters you’ll meet, will constantly add …",
-          "link": "https://www.allgamesdelta.net/2021/05/biomutant-may-furrth-trailer.html",
-          "publishedOn": "2021-05-05T05:05:00.000Z",
-          "wordCount": 493,
-          "title": "Biomutant 'May The Furrth' Trailer"
         }
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }

@@ -2,21 +2,339 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T01:20:44.440Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T01:13:30.985Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Israel-Palestinian conflict: False and misleading claims fact-checked]]></title>
-        <id>https://news.ycombinator.com/item?id=27170199</id>
-        <link href="https://www.bbc.com/news/57111293"/>
-        <updated>2021-05-16T00:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/57111293
-Comments URL: https://news.ycombinator.com/item?id=27170199
-Points: 10
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries]]></title>
+        <id>https://news.ycombinator.com/item?id=27178486</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries"/>
+        <updated>2021-05-16T23:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries
+Comments URL: https://news.ycombinator.com/item?id=27178486
+Points: 14
+# Comments: 4]]></summary>
         <author>
-            <name>nabla9</name>
+            <name>dgudkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Decided Bill Gates Needed to Leave Board Due to Staff Relationship]]></title>
+        <id>https://news.ycombinator.com/item?id=27178395</id>
+        <link href="https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803"/>
+        <updated>2021-05-16T23:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803
+Comments URL: https://news.ycombinator.com/item?id=27178395
+Points: 24
+# Comments: 6]]></summary>
+        <author>
+            <name>neom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Achilles Heel of the Coronavirus]]></title>
+        <id>https://news.ycombinator.com/item?id=27177746</id>
+        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html"/>
+        <updated>2021-05-16T22:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html
+Comments URL: https://news.ycombinator.com/item?id=27177746
+Points: 28
+# Comments: 4]]></summary>
+        <author>
+            <name>oumua_don17</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Busy Being Born (2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=27177718</id>
+        <link href="https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=Busy_Being_Born.txt"/>
+        <updated>2021-05-16T22:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt
+Comments URL: https://news.ycombinator.com/item?id=27177718
+Points: 73
+# Comments: 10]]></summary>
+        <author>
+            <name>fortran77</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There have been 7M-13M excess deaths worldwide during the pandemic]]></title>
+        <id>https://news.ycombinator.com/item?id=27177503</id>
+        <link href="https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic"/>
+        <updated>2021-05-16T22:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic
+Comments URL: https://news.ycombinator.com/item?id=27177503
+Points: 207
+# Comments: 320]]></summary>
+        <author>
+            <name>pranshum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?]]></title>
+        <id>https://news.ycombinator.com/item?id=27176976</id>
+        <link href="https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?"/>
+        <updated>2021-05-16T20:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?
+Comments URL: https://news.ycombinator.com/item?id=27176976
+Points: 96
+# Comments: 68]]></summary>
+        <author>
+            <name>CrankyBear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fullerton settles lawsuit against bloggers for publishing City Hall documents]]></title>
+        <id>https://news.ycombinator.com/item?id=27176819</id>
+        <link href="https://voiceofoc.org/2021/05/fullerton-settles-lawsuit-against-local-bloggers-for-publishing-secret-city-hall-documents-including-police-misconduct-records/"/>
+        <updated>2021-05-16T20:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://voiceofoc.org/2021/05/fullerton-settles-lawsuit-against-local-bloggers-for-publishing-secret-city-hall-documents-including-police-misconduct-records/
+Comments URL: https://news.ycombinator.com/item?id=27176819
+Points: 74
+# Comments: 15]]></summary>
+        <author>
+            <name>us0r</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The search for a perfect access control system]]></title>
+        <id>https://news.ycombinator.com/item?id=27176145</id>
+        <link href="https://goteleport.com/blog/access-controls/"/>
+        <updated>2021-05-16T19:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://goteleport.com/blog/access-controls/
+Comments URL: https://news.ycombinator.com/item?id=27176145
+Points: 17
+# Comments: 2]]></summary>
+        <author>
+            <name>aberoham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systemd: The Good Parts]]></title>
+        <id>https://news.ycombinator.com/item?id=27175960</id>
+        <link href="https://christine.website/talks/systemd-the-good-parts-2021-05-16"/>
+        <updated>2021-05-16T18:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://christine.website/talks/systemd-the-good-parts-2021-05-16
+Comments URL: https://news.ycombinator.com/item?id=27175960
+Points: 264
+# Comments: 243]]></summary>
+        <author>
+            <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An iOS app update that annoys me]]></title>
+        <id>https://news.ycombinator.com/item?id=27175955</id>
+        <link href="https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/"/>
+        <updated>2021-05-16T18:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/
+Comments URL: https://news.ycombinator.com/item?id=27175955
+Points: 140
+# Comments: 58]]></summary>
+        <author>
+            <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency]]></title>
+        <id>https://news.ycombinator.com/item?id=27175913</id>
+        <link href="https://coincarboncap.com/"/>
+        <updated>2021-05-16T18:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://coincarboncap.com/
+Comments URL: https://news.ycombinator.com/item?id=27175913
+Points: 199
+# Comments: 147]]></summary>
+        <author>
+            <name>GBiT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orphan Utopia: John Ballou Newbrough’s desert colony (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27175739</id>
+        <link href="https://www.cabinetmagazine.org/issues/63/mcconnell.php"/>
+        <updated>2021-05-16T18:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cabinetmagazine.org/issues/63/mcconnell.php
+Comments URL: https://news.ycombinator.com/item?id=27175739
+Points: 11
+# Comments: 2]]></summary>
+        <author>
+            <name>not-now</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracer Group Acquires Appeal Studios, KAIKO, Massive Miniteam, and FRAME BREAK, establishes Gate21]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-8271056203150605341</id>
+        <link href="https://www.allgamesdelta.net/2021/05/embracer-group-acquires-appeal-studios.html"/>
+        <updated>2021-05-16T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Embracer Group acquires Appeal Studios, KAIKO, Massive Miniteam and FRAME BREAK
+ Embracer Group (“Embracer”) through its subsidiaries THQ Nordic and Amplifier Game Invest  have entered into four acquisition agreements to acquire 100% each of Appeal Studios, KAIKO, Massive Miniteam and FRAME BREAK. In addition, THQ Nordic is today also announcing that it has founded Gate 21 in Bosnia and Herzegovina. The aggregated day one purchase price for all four acquisitions amounts to approximately SEK 71 million on a …]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing line in a smart contract leads to $10M hack]]></title>
+        <id>https://news.ycombinator.com/item?id=27175622</id>
+        <link href="https://www.rekt.news/value-rekt2/"/>
+        <updated>2021-05-16T17:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rekt.news/value-rekt2/
+Comments URL: https://news.ycombinator.com/item?id=27175622
+Points: 205
+# Comments: 203]]></summary>
+        <author>
+            <name>drdrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bette Graham, inventor and founder of Liquid Paper]]></title>
+        <id>https://news.ycombinator.com/item?id=27175299</id>
+        <link href="https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/"/>
+        <updated>2021-05-16T17:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/
+Comments URL: https://news.ycombinator.com/item?id=27175299
+Points: 75
+# Comments: 29]]></summary>
+        <author>
+            <name>paulpauper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacing Elasticsearch with Rust and SQLite (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27175284</id>
+        <link href="https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite"/>
+        <updated>2021-05-16T17:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite
+Comments URL: https://news.ycombinator.com/item?id=27175284
+Points: 130
+# Comments: 19]]></summary>
+        <author>
+            <name>nethunters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinTracker (YC W18) is hiring people passionate about cryptocurrency]]></title>
+        <id>https://news.ycombinator.com/item?id=27175053</id>
+        <link href="https://www.cointracker.io/careers"/>
+        <updated>2021-05-16T17:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cointracker.io/careers
+Comments URL: https://news.ycombinator.com/item?id=27175053
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jonlerner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital-only QuakeCon 2021 Set for August 19 to 21]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-2052514221658892140</id>
+        <link href="https://www.allgamesdelta.net/2021/05/digital-only-quakecon-2021-set-for.html"/>
+        <updated>2021-05-16T16:36:00.000Z</updated>
+        <summary type="html"><![CDATA[QuakeCon 2021 - Join Us Online August 19-21
+      We can’t wait to get back to Dallas with our QuakeCon family, but for the continued safety of our staff, the volunteers, and the community, this year’s QuakeCon will once again be a digital-only event. We’ll have all the Peace, Love, and Rockets – remotely – August 19-21.
+ We’ll share additional details on the streaming lineup, charity opportunities, giveaways, and more later in June, so stay tuned for more updates.
+   quakecon.bethesda.net]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigger Witch Launches this Summer for PS5, Xbox Series, PS4, Xbox One and Switch]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-2204182557937058655</id>
+        <link href="https://www.allgamesdelta.net/2021/05/trigger-witch-launches-this-summer-for.html"/>
+        <updated>2021-05-16T16:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Action-adventure Trigger Witch Blasts onto Consoles
+ We are pleased to announce that we have picked up publishing rights for Rainbite's upcoming top-down action-adventure Trigger Witch. In this worldwide partnership, eastasiasoft will publish Trigger Witch for release on Nintendo Switch, PS4, PS5, Xbox One and Xbox Series X|S in Summer 2021.
+ Trigger Witch is a stylized 2D twin-stick action game from the creators of Reverie, set in an odd open world where magic is outdated and firearms are the new way of li…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valthirian Arc: Hero School Story 2 Launches in Early Access this Summer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-4056734217346463728</id>
+        <link href="https://www.allgamesdelta.net/2021/05/valthirian-arc-hero-school-story-2.html"/>
+        <updated>2021-05-16T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[School-Building RPG 'Valthirian Arc: Hero School Story 2' Coming to Steam Early Access this Summer!
+ PQube and developer Agate are excited to reveal their partnership in bringing vibrant fantasy adventure Valthirian Arc: Hero School Story 2 to early access on Steam this summer!
+    •  Sequel to Valthirian Arc: Hero School Story rated 8/10* in 2018.
+   • Become the principal of a brand-new hero academy and run it your way.
+  •  Nurture brave young students to reach their heroic potential.
+  •  Challenging tu…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Notepad – HTML WYSIWYG editor]]></title>
+        <id>https://news.ycombinator.com/item?id=27174188</id>
+        <link href="https://html-notepad.com/"/>
+        <updated>2021-05-16T15:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://html-notepad.com/
+Comments URL: https://news.ycombinator.com/item?id=27174188
+Points: 187
+# Comments: 59]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Awful German Language (1880)]]></title>
+        <id>https://news.ycombinator.com/item?id=27173967</id>
+        <link href="https://faculty.georgetown.edu/jod/texts/twain.german.html"/>
+        <updated>2021-05-16T14:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://faculty.georgetown.edu/jod/texts/twain.german.html
+Comments URL: https://news.ycombinator.com/item?id=27173967
+Points: 91
+# Comments: 118]]></summary>
+        <author>
+            <name>1cvmask</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Datalog Today]]></title>
+        <id>https://news.ycombinator.com/item?id=27173890</id>
+        <link href="http://www.learndatalogtoday.org"/>
+        <updated>2021-05-16T14:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.learndatalogtoday.org
+Comments URL: https://news.ycombinator.com/item?id=27173890
+Points: 75
+# Comments: 22]]></summary>
+        <author>
+            <name>cube2222</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The man who didn't invent Flamin' Hot Cheetos]]></title>
+        <id>https://news.ycombinator.com/item?id=27173859</id>
+        <link href="https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1"/>
+        <updated>2021-05-16T14:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1
+Comments URL: https://news.ycombinator.com/item?id=27173859
+Points: 245
+# Comments: 107]]></summary>
+        <author>
+            <name>krustyburger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tencent y TiMi Studio muestran un nuevo gameplay de Metal Slug para móviles]]></title>
+        <id>46039_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/metal-slug-moviles-gameplay"/>
+        <updated>2021-05-16T14:03:29.000Z</updated>
+        <summary type="html"><![CDATA[El gigante Tencent ha celebrado un evento durante el cual ha presentado un generoso catálogo de juegos desarrollados por sus estudios internos. Muchos de estos proyectos tienen como objetivo conquistar el vasto mercado chino, pero también los hay que buscan seducir el mercado internacional. Este último caso parece ser el de Metal Slug, un juego para móviles a cargo de TiMi Studios que anteriormente vimos bajo el nombre de Metal Slug Code: J y cuyo título final podría ser Metal Slug: Awakening. A falta de in…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La versión de Final Fantasy XIV para PS5 estará disponible el 25 de mayo junto al parche 5.55]]></title>
+        <id>46038_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/final-fantasy-xiv-fecha-lanzamiento-ps5"/>
+        <updated>2021-05-16T12:07:27.000Z</updated>
+        <summary type="html"><![CDATA[El Digital Fan Festival 2021 sigue ofreciendo novedades sobre Final Fantasy XIV. Ayer Square Enix reveló nuevos detalles sobre Endwalker y anunció que la expansión estará disponible el 23 de noviembre y hoy es el turno de saber que la versión del MMO para PS5 debutará el 25 de mayo junto al parche 5.55. Durante el evento el editor japonés también ha facilitado una hoja de ruta con las novedades que se incorporarán al FF XIV hasta la llegada de Endwalker. La beta abierta de Final Fantasy XIV para PlayStation…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -24,204 +342,9 @@ Points: 10
         <id>46037_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/the-division-heartland-gameplay-filtrado"/>
         <updated>2021-05-15T21:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Una vez más, Ubisoft ha demostrado tener un serio problema con las filtraciones. En esta ocasión ha sido el turno del juego free-to-play The Division Heartland, que por primera vez se ha dejado ver mediante un gameplay de 20 minutos sacado de forma clandestina de unas pruebas a las que solo se puede acceder con invitación y después de firmar un estricto acuerdo de confidencialidad (NDA, por sus siglas en inglés). Además del tráiler con poco más de 20 minutos de gameplay de The Division Heartland, que encont…]]></summary>
+        <summary type="html"><![CDATA[Una vez más, Ubisoft ha demostrado tener un serio problema con las filtraciones. En esta ocasión ha sido el turno del juego free-to-play The Division Heartland, que por primera vez se ha dejado ver mediante un gameplay de 20 minutos sacado de forma clandestina de unas pruebas a las que solo se puede acceder con invitación y después de firmar un estricto acuerdo de confidencialidad (NDA, por sus siglas en inglés). Además del tráiler con poco más de 20 minutos de gameplay de The Division Heartland, que incrus…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27168965</id>
-        <link href="https://jobs.lever.co/buildzoom"/>
-        <updated>2021-05-15T21:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
-Comments URL: https://news.ycombinator.com/item?id=27168965
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>the_economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commodore’s Assemblers: Part 1: MOS Cross-Assembler]]></title>
-        <id>https://news.ycombinator.com/item?id=27168035</id>
-        <link href="https://www.pagetable.com/?p=1520"/>
-        <updated>2021-05-15T19:17:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pagetable.com/?p=1520
-Comments URL: https://news.ycombinator.com/item?id=27168035
-Points: 48
-# Comments: 2]]></summary>
-        <author>
-            <name>matt_d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIL: Tcl-inspired command language on top of D]]></title>
-        <id>https://news.ycombinator.com/item?id=27167762</id>
-        <link href="https://til-lang.github.io/til/"/>
-        <updated>2021-05-15T18:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://til-lang.github.io/til/
-Comments URL: https://news.ycombinator.com/item?id=27167762
-Points: 74
-# Comments: 6]]></summary>
-        <author>
-            <name>blacksqr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Bibliogram – Open-source front-end for Instagram]]></title>
-        <id>https://news.ycombinator.com/item?id=27167729</id>
-        <link href="https://bibliogram.art"/>
-        <updated>2021-05-15T18:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bibliogram.art
-Comments URL: https://news.ycombinator.com/item?id=27167729
-Points: 123
-# Comments: 31]]></summary>
-        <author>
-            <name>commoner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The True Size of Africa (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27167604</id>
-        <link href="http://kai.sub.blue/en/africa.html"/>
-        <updated>2021-05-15T18:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://kai.sub.blue/en/africa.html
-Comments URL: https://news.ycombinator.com/item?id=27167604
-Points: 179
-# Comments: 108]]></summary>
-        <author>
-            <name>metahost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Your Own Tools]]></title>
-        <id>https://news.ycombinator.com/item?id=27167250</id>
-        <link href="https://futureofcoding.org/episodes/044"/>
-        <updated>2021-05-15T17:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://futureofcoding.org/episodes/044
-Comments URL: https://news.ycombinator.com/item?id=27167250
-Points: 34
-# Comments: 2]]></summary>
-        <author>
-            <name>axiomdata316</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptoqueen: A woman scammed the world, then vanished (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27166271</id>
-        <link href="https://www.bbc.com/news/stories-50435014"/>
-        <updated>2021-05-15T15:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/stories-50435014
-Comments URL: https://news.ycombinator.com/item?id=27166271
-Points: 217
-# Comments: 143]]></summary>
-        <author>
-            <name>mgh2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsix: Parse Don't Validate]]></title>
-        <id>https://news.ycombinator.com/item?id=27166162</id>
-        <link href="https://github.com/parsix/parsix"/>
-        <updated>2021-05-15T15:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/parsix/parsix
-Comments URL: https://news.ycombinator.com/item?id=27166162
-Points: 115
-# Comments: 61]]></summary>
-        <author>
-            <name>Iazel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cox Hotspots with Panoramic Wifi]]></title>
-        <id>https://news.ycombinator.com/item?id=27166043</id>
-        <link href="https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html"/>
-        <updated>2021-05-15T15:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html
-Comments URL: https://news.ycombinator.com/item?id=27166043
-Points: 51
-# Comments: 44]]></summary>
-        <author>
-            <name>foobarbecue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Javascript: Everything you missed over the last 10 years (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27165954</id>
-        <link href="https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years"/>
-        <updated>2021-05-15T15:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
-Comments URL: https://news.ycombinator.com/item?id=27165954
-Points: 694
-# Comments: 395]]></summary>
-        <author>
-            <name>EntICOnc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nim 2.0 thoughts]]></title>
-        <id>https://news.ycombinator.com/item?id=27165366</id>
-        <link href="https://forum.nim-lang.org/t/7983"/>
-        <updated>2021-05-15T14:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://forum.nim-lang.org/t/7983
-Comments URL: https://news.ycombinator.com/item?id=27165366
-Points: 208
-# Comments: 97]]></summary>
-        <author>
-            <name>michaelsbradley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Update: Connection Established]]></title>
-        <id>https://news.ycombinator.com/item?id=27165352</id>
-        <link href="https://www.pine64.org/2021/05/15/may-update-connection-established/"/>
-        <updated>2021-05-15T14:05:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/15/may-update-connection-established/
-Comments URL: https://news.ycombinator.com/item?id=27165352
-Points: 59
-# Comments: 12]]></summary>
-        <author>
-            <name>fheld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ML model can classify sex from retinal photograph, clinicians can't]]></title>
-        <id>https://news.ycombinator.com/item?id=27165307</id>
-        <link href="https://rdcu.be/ckFPK"/>
-        <updated>2021-05-15T13:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rdcu.be/ckFPK
-Comments URL: https://news.ycombinator.com/item?id=27165307
-Points: 144
-# Comments: 122]]></summary>
-        <author>
-            <name>jeffbee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offline-First PWA for Plotly Visualization of CSV via SQLite]]></title>
-        <id>https://news.ycombinator.com/item?id=27165192</id>
-        <link href="https://github.com/lana-k/sqliteviz"/>
-        <updated>2021-05-15T13:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/lana-k/sqliteviz
-Comments URL: https://news.ycombinator.com/item?id=27165192
-Points: 183
-# Comments: 25]]></summary>
-        <author>
-            <name>lana-k</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiplying Integers Using Fourier Transforms [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27165133</id>
-        <link href="http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf"/>
-        <updated>2021-05-15T13:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf
-Comments URL: https://news.ycombinator.com/item?id=27165133
-Points: 58
-# Comments: 15]]></summary>
-        <author>
-            <name>nceqs3</name>
         </author>
     </entry>
     <entry>
@@ -235,32 +358,6 @@ Points: 58
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Design structured diagrams, built to increase your team's trust in your docs]]></title>
-        <id>https://news.ycombinator.com/item?id=27164769</id>
-        <link href="https://icepanel.io/"/>
-        <updated>2021-05-15T12:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://icepanel.io/
-Comments URL: https://news.ycombinator.com/item?id=27164769
-Points: 212
-# Comments: 63]]></summary>
-        <author>
-            <name>JacobDesigns</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watches from the Soviet Union]]></title>
-        <id>https://news.ycombinator.com/item?id=27164417</id>
-        <link href="https://www.rbth.com/longreads/soviet-watches/"/>
-        <updated>2021-05-15T11:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.rbth.com/longreads/soviet-watches/
-Comments URL: https://news.ycombinator.com/item?id=27164417
-Points: 107
-# Comments: 36]]></summary>
-        <author>
-            <name>gscott</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Las noticias de la semana (8 - 15 de mayo)]]></title>
         <id>46035_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/semana-8-15-mayo-2021"/>
@@ -268,32 +365,6 @@ Points: 107
         <summary type="html"><![CDATA[Esta semana hemos conocido que PlayStation Studios tiene más de 25 juegos en marcha, confirmado que el suministro de PS5 continuará siendo limitado en 2022 y descubierto nuevos detalles de la nueva generación de PlayStation VR que aún deben ser confirmados. Los jugadores de Xbox han recibido una nueva actualización con mejoras en la función Quick Resume, mientras que en Nintendo han asegurado que el gasto en I+D aumenta para hacer frente al desarrollo de juegos y la próxima generación de hardware. En juegos…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was cancer less likely in a pre-industrial world?]]></title>
-        <id>https://news.ycombinator.com/item?id=27164171</id>
-        <link href="https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world"/>
-        <updated>2021-05-15T11:04:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world
-Comments URL: https://news.ycombinator.com/item?id=27164171
-Points: 99
-# Comments: 126]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drain brain: The secret life of a gutter enthusiast]]></title>
-        <id>https://news.ycombinator.com/item?id=27164138</id>
-        <link href="https://www.bbc.com/news/uk-england-london-56281464"/>
-        <updated>2021-05-15T10:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-england-london-56281464
-Comments URL: https://news.ycombinator.com/item?id=27164138
-Points: 11
-# Comments: 2]]></summary>
-        <author>
-            <name>tmfi</name>
         </author>
     </entry>
     <entry>
@@ -492,26 +563,6 @@ Points: 11
         <link href="https://www.elotrolado.net/hilo_layers-of-fear-2-para-nintendo-switch-estara-disponible-el-20-de-mayo_2422708"/>
         <updated>2021-05-12T15:41:39.000Z</updated>
         <summary type="html"><![CDATA[El juego de horror psicológico en primera persona Layers of Fear 2 se pondrá a la venta para Nintendo Switch mediante la eShop el 20 de mayo a cambio de 29,99 euros, según ha anunciado el desarrollador polaco Bloober Team. Inicialmente este título llegó a las tiendas para PS4, Xbox One y PC (Steam) en mayo de 2019. Layers of Fear 2 tiene como protagonista a un actor de Hollywood que acude a la llamada de un enigmático director para protagonizar una película a bordo de un transatlántico. La historia del jueg…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sniper Ghost Warrior Contracts 2 muestra su jugabilidad con un nuevo tráiler]]></title>
-        <id>46014_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/sniper-ghost-warrior-contracts-2-trailer-gameplay"/>
-        <updated>2021-05-12T15:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Cuando queda menos de un mes para el lanzamiento de Sniper Ghost Warrior Contracts 2, CI Games ha distribuido un tráiler explicativo con todos los detalles sobre la jugabilidad del título. El desarrollador polaco también ha recordado que la nueva entrega de su franquicia de francotiradores en primera persona estará disponible el 4 de junio en PS4, Xbox One, Xbox Series y PC, mientras que la versión y actualización para PS5 llegará a finales de año. Sniper Ghost Warrior Contracts 2 sitúa su acción en Kuamar,…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft espera más ingresos por los juegos free-to-play y que estos ofrezcan una vía adicional para probar sus sagas]]></title>
-        <id>46013_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/ubisoft-f2p-grandes-franquicias"/>
-        <updated>2021-05-12T13:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Después de la presentación de sus últimos resultados económicos, el director financiero de Ubisoft, Frederick Duguet, se dirigió a los accionistas para explicarles que la compañía está decidida a que los juegos free-to-play (F2P) representen una mayor parte de sus ingresos. Eso no significa que los franceses vayan a abandonar las entregas prémium de sus sagas, pero sí que tienen como objetivo diversificar sus fuentes de ingresos y no solo depender de los grandes lanzamientos. Después de que las palabras de …]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
@@ -753,54 +804,6 @@ Fallen corporate shogun Lo Wang and his former employer turned nemesis turned si
         <updated>2021-05-05T19:06:00.000Z</updated>
         <summary type="html"><![CDATA[Chill and Tranquil Adventure Game Stonefly Launches June 1
    Stonefly, a chill and tranquil action adventure game from Flight School Studio, the award-winning independent game studio behind the 2019 hit Creature in the Well, launches June 1, 2021 on PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, Nintendo Switch and PC via Steam and the Epic Games Store. Stonefly takes players on a mech adventure through an enchanting forest, as they follow the coming-of-age story of Annika Stonefly, a brilliant b…]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back 4 Blood 'Card System' Trailer]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-923620074552823297</id>
-        <link href="https://www.allgamesdelta.net/2021/05/back-4-blood-card-system-trailer.html"/>
-        <updated>2021-05-05T18:31:00.000Z</updated>
-        <summary type="html"><![CDATA[New Back 4 Blood Trailer Shows Off Innovative Card System Providing Extensive Replayability
- Warner Bros. Games and Turtle Rock Studios today released a new Back 4 Blood trailer providing an in-depth look at the game’s innovative Card System, a new rogue-lite feature that enhances your experience with each playthrough, ensuring every gameplay session is dynamic, intense and feels unique. Players can easily jump right into the action by choosing a pre-made default deck or dive into the Card System’s vast cus…]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Necromunda: Hired Gun Gameplay Overview Trailer]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6399337188569284408</id>
-        <link href="https://www.allgamesdelta.net/2021/05/necromunda-hired-gun-gameplay-overview.html"/>
-        <updated>2021-05-05T17:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Necromunda: Hired Gun takes you on a deep dive in new Gameplay Overview Trailer
- Necromunda: Hired Gun, the fast-paced FPS by the small, passionate team at Streum On Studio, hits PC and consoles on June 1st. Welcome to the gritty, violent hive city of Necromunda, a place where anything goes - for the right price. As a bounty hunter in this utopia of violence, get ready to use the many tools in your deadly arsenal to see through each contract. Watch today’s new Gameplay Overview Trailer for a deep dive into …]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Action RPG Made in Abyss: Binary Star Falling into Darkness Announced for PS4, Switch and PC]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6659146926685674929</id>
-        <link href="https://www.allgamesdelta.net/2021/05/3d-action-rpg-made-in-abyss-binary-star.html"/>
-        <updated>2021-05-05T05:24:00.000Z</updated>
-        <summary type="html"><![CDATA[A Lomg-Awaited Video Game Adptation for the Popular Manga Series Made in Abyss Has Finally Been Announced!
- We will be releasing a 3D Action RPG based on the popular manga series, Made in Abyss, titled Made in Abyss: Binary Star Falling into Darkness for PlayStation 4, Nintendo Switch, and Steam for North America! The physical version of the title will also be published in Europe by Numskull Games.
- Made in Abyss is a fantasy manga by Akihito Tsukushi, published on WEB Comic Gamma (Takeshobo) since 2012. Th…]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biomutant 'May The Furrth' Trailer]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6491645703785794844</id>
-        <link href="https://www.allgamesdelta.net/2021/05/biomutant-may-furrth-trailer.html"/>
-        <updated>2021-05-05T05:05:00.000Z</updated>
-        <summary type="html"><![CDATA[About Biomutant
- Biomutant is an open-world, post-apocalyptic Wung-Fu fable RPG, with unique martial art styled combat system allowing you to mix melee, shooting, and mutant ability action.
- 
-Key Features
-   •    A New Take on Third-Person Combat – The martial arts style combat system allows you maximum freedom of movement and agility while mixing shooting, melee, and powers from your mutations. Learning new Wung-Fu combat forms through progression and learning from masters you’ll meet, will constantly add …]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
