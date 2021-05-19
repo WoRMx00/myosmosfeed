@@ -2,205 +2,357 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T01:16:39.167Z</updated>
+    <updated>2021-05-19T01:12:32.786Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Etleap (YC W13) Is Hiring a Technical End User Documentation Writer]]></title>
-        <id>https://news.ycombinator.com/item?id=27190219</id>
-        <link href="https://news.ycombinator.com/item?id=27190219"/>
-        <updated>2021-05-18T01:01:12.000Z</updated>
-        <summary type="html"><![CDATA[We are looking for a technical writer to create technical product documentation for our site/product, and help us maintain it on an ongoing basis.
-The project is about 3 months half-time to start, and then a few hours a week following that.
-What you are going to do:
-- Create an intuitive, comprehensive, and readable documentation site
-- Work closely with our engineering team to become an expert user of our product and extract insights
-- Interview our engineers and users in order to create tutorials for appr…]]></summary>
+        <title type="html"><![CDATA[GTA Online permite a Take-Two obtener unos resultados récord mientras GTA V alcanza los 145 millones de copias vendidas]]></title>
+        <id>46068_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/take-two-ventas-gta-saga"/>
+        <updated>2021-05-18T23:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Take-Two ha presentado los resultados financieros del cuarto y último trimestre del año fiscal 2022 y con ello ha descubierto que GTA Online sigue siendo una máquina de hacer dinero. Además, la compañía ha actualizado las ventas totales Grand Theft Auto V, que después de ocho años en el mercado acumula 145 millones de unidades vendidas, 5 millones más que hace tres meses. En total, la saga Grand Theft Auto suma 345 millones de copias despachadas. Durante el pasado año fiscal Take-Two ingresó la cifra récord…]]></summary>
         <author>
-            <name>romming</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saying the Difficult Things]]></title>
-        <id>https://news.ycombinator.com/item?id=27189308</id>
-        <link href="https://ethan.katzenberg.co.uk/posts/saying-difficult-things/"/>
-        <updated>2021-05-17T22:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ethan.katzenberg.co.uk/posts/saying-difficult-things/
-Comments URL: https://news.ycombinator.com/item?id=27189308
-Points: 27
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Take-Two actualiza su calendario de lanzamientos: 62 juegos en los próximos tres años y una nueva saga junto a Gearbox]]></title>
+        <id>46067_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/take-two-proximos-lanzamientos"/>
+        <updated>2021-05-18T22:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Take-Two, el sello bajo el cual se resguardan Rockstar Games, 2K Games, Private Division y Social Point, ha presentado sus últimos resultados financieros y aprovechado la ocasión para actualizar los lanzamientos previstos hasta el año fiscal 2023/2024. En total, la compañía tiene en marcha 62 juegos y entre ellos se esconde una nueva propiedad intelectual de Gearbox Software, el desarrollador responsable de la saga Borderlands que desde hace poco tiempo forma parte de Embracer Group. Si entramos al detalle,…]]></summary>
         <author>
-            <name>ethangk</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com]]></title>
-        <id>https://news.ycombinator.com/item?id=27189288</id>
-        <link href="http://jobs.hackclub.com/"/>
-        <updated>2021-05-17T22:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://jobs.hackclub.com/
-Comments URL: https://news.ycombinator.com/item?id=27189288
-Points: 54
-# Comments: 22]]></summary>
+        <title type="html"><![CDATA[Breve: No Man’s Sky será uno de los primeros juegos de realidad virtual con soporte para DLSS]]></title>
+        <id>46066_v1</id>
+        <link href="https://www.elotrolado.net/hilo_no-man-s-sky-sera-uno-de-los-primeros-juegos-de-realidad-virtual-con-soporte-para-dlss_2423278"/>
+        <updated>2021-05-18T21:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia ha anunciado que los primeros juegos de realidad virtual o con soporte para esta tecnología que tendrán soporte para DLSS serán No Man’s Sky, Wrench y Into The Radius. Gracias a esta tecnología impulsada por la inteligencia artificial y presente en las tarjetas RTX con núcleos Tensor los mencionados títulos aumentarán tanto la calidad de imagen como la resolución del juego. Según Nvidia, “cuando juegas No Man’s Sky en modo VR, DLSS duplica el rendimiento con en el ajuste preestablecido de gráficos Ul…]]></summary>
         <author>
-            <name>zachlatta</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S.]]></title>
-        <id>https://news.ycombinator.com/item?id=27189162</id>
-        <link href="https://www.nps.gov/articles/000/cicadas-brood-x.htm"/>
-        <updated>2021-05-17T22:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nps.gov/articles/000/cicadas-brood-x.htm
-Comments URL: https://news.ycombinator.com/item?id=27189162
-Points: 45
-# Comments: 20]]></summary>
+        <title type="html"><![CDATA[Empire of Sin recibe la actualización Gánster y anuncia la expansión gratuita El Distrito para finales de año]]></title>
+        <id>46065_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/empire-of-sin-expansion-el-distrito-anunciada"/>
+        <updated>2021-05-18T21:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Después de un lanzamiento no demasiado afortunado en PlayStation 4, Xbox One, Nintendo Switch y PC, el juego de estrategia Empire of Sin desarrollado por Romero Games y editado por Paradox Interactive emprendió el camino de la redención con una serie de actualizaciones. Hoy esta senda llega a un “punto de inflexión” con la llegada de la actualización Gánster, mientras que al horizonte asoma una expansión gratuita llamada El Distrito que estará disponible a finales de año. La actualización Gánster añade las …]]></summary>
         <author>
-            <name>ag8</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can't Unsee]]></title>
-        <id>https://news.ycombinator.com/item?id=27188989</id>
-        <link href="https://cantunsee.space/"/>
-        <updated>2021-05-17T22:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cantunsee.space/
-Comments URL: https://news.ycombinator.com/item?id=27188989
-Points: 47
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Sirum is hiring engineers for the micro-fulfillment of medicine]]></title>
+        <id>https://news.ycombinator.com/item?id=27201040</id>
+        <link href="https://news.ycombinator.com/item?id=27201040"/>
+        <updated>2021-05-18T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[SIRUM is making medications affordable for all.
+We’re a small (~25) but quickly growing team that’s passionate about our mission of reimagining healthcare access for those in need. We like to work hard, solve tough problems, and are determined to improve healthcare access for families who have trouble affording the medications they need to stay healthy.
+We're currently hiring for both our Palo Alto and Atlanta offices, as well as some fully remote roles. We have opportunities for senior software developers,…]]></summary>
         <author>
-            <name>rajlego</name>
+            <name>akircher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Positions chess engines don't understand]]></title>
-        <id>https://news.ycombinator.com/item?id=27188854</id>
-        <link href="https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand"/>
-        <updated>2021-05-17T21:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
-Comments URL: https://news.ycombinator.com/item?id=27188854
-Points: 143
-# Comments: 66]]></summary>
+        <title type="html"><![CDATA[Breve: The Witcher Tales: Thronebreaker para Android estará disponible el 17 de junio]]></title>
+        <id>46064_v1</id>
+        <link href="https://www.elotrolado.net/hilo_the-witcher-tales-thronebreaker-para-android-estara-disponible-el-17-de-junio_2423270"/>
+        <updated>2021-05-18T20:26:19.000Z</updated>
+        <summary type="html"><![CDATA[CD Projekt Red ha revelado que el juego de rol Thronebreaker ambientado en el mundo de The Witcher estará disponible para Android mediante Google Play a partir del 17 de junio a cambio de 10,99 euros. Hasta ahora el título se podría encontrar en PlayStation 4, Xbox One, Nintendo Switch, PC (Steam, GOG) y iOS. Thronebreaker es un título combina la exploración enfocada en la narrativa con rompecabezas y mecánicas de batallas de cartas. Su historia de unas 30 horas de duración tiene como protagonista a Meve, l…]]></summary>
         <author>
-            <name>diplodocusaur</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First nuclear detonation created ‘impossible’ quasicrystals]]></title>
-        <id>https://news.ycombinator.com/item?id=27188753</id>
-        <link href="https://www.nature.com/articles/d41586-021-01332-0"/>
-        <updated>2021-05-17T21:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01332-0
-Comments URL: https://news.ycombinator.com/item?id=27188753
-Points: 41
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[Breve: Ancestors: The Humankind Odyssey alcanza el millón de unidades vendidas]]></title>
+        <id>46063_v1</id>
+        <link href="https://www.elotrolado.net/hilo_ancestors-the-humankind-odyssey-alcanza-el-millon-de-unidades-vendidas_2423268"/>
+        <updated>2021-05-18T20:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Después de dos años a la venta, Ancestors: The Humankind Odyssey ha conseguido superar el millón de copias vendidas, según han anunciado el desarrollador Panache Digital Games y el editor Private Division. A día de hoy el juego de supervivencia se encuentra disponible en PlayStation 4, Xbox One y PC (Steam, GOG, Epic Games Store). “Hemos emprendido un viaje para crear algo especial con Ancestors: The Humankind Odyssey y significa mucho para nosotros que más de un millón de jugadores nos hayan acompañado en …]]></summary>
         <author>
-            <name>sova</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2]]></title>
-        <id>https://news.ycombinator.com/item?id=27188644</id>
-        <link href="https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/"/>
-        <updated>2021-05-17T21:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/
-Comments URL: https://news.ycombinator.com/item?id=27188644
-Points: 18
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Breve: Maid of Sker recibirá la actualización para PS5 y Xbox Series el 26 de mayo]]></title>
+        <id>46062_v1</id>
+        <link href="https://www.elotrolado.net/hilo_maid-of-sker-recibira-la-actualizacion-para-ps5-y-xbox-series-el-26-de-mayo_2423267"/>
+        <updated>2021-05-18T20:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Los jugadores de PlayStation 4 y Xbox One con una copia de Maid of Sker tendrán disponible el 26 de mayo una actualización gratuita que permitirá al título desarrollado por Wales Interactive aprovechar el hardware de PlayStation 5 y Xbox Series. Ese mismo día y en todas las plataformas incluyendo PC se añadirá el contenido gratuito FPS Challenge Modes. Con la actualización instalada, los jugadores de Maid of Sker con una PS5 o Xbox Series X disfrutarán de unas texturas mejoradas, tiempos de carga más rápido…]]></summary>
         <author>
-            <name>rbanffy</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Civilization Is Older Than We Thought]]></title>
-        <id>https://news.ycombinator.com/item?id=27188643</id>
-        <link href="https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/"/>
-        <updated>2021-05-17T21:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/
-Comments URL: https://news.ycombinator.com/item?id=27188643
-Points: 47
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Breve: Outward para PS4 y Xbox One recibe el contenido Los Tres Hermanos]]></title>
+        <id>46061_v1</id>
+        <link href="https://www.elotrolado.net/hilo_outward-para-ps4-y-xbox-one-recibe-el-contenido-los-tres-hermanos_2423265"/>
+        <updated>2021-05-18T19:57:40.000Z</updated>
+        <summary type="html"><![CDATA[El editor Deep Silver y el desarrollador Nine Dots Studio han anunciado que los jugadores de Outward en PlayStation 4 y Xbox One ya tiene disponible el contenido adicional de pago Los Tres Hermanos, que se despacha por 14,99 euros. En PC este complemento se encuentra a la venta desde diciembre de 2020. En The Three Brothers los jugadores de Outward participarán en la reconstrucción del campo de refugiados de Vieja Sirocco para que sus gentes tengan un nuevo hogar. A lo largo de esta aventura que permitirá c…]]></summary>
         <author>
-            <name>throwkeep</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab]]></title>
-        <id>https://news.ycombinator.com/item?id=27188443</id>
-        <link href="https://github.com/jupyterlab/jupyterlab-latex"/>
-        <updated>2021-05-17T21:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/jupyterlab/jupyterlab-latex
-Comments URL: https://news.ycombinator.com/item?id=27188443
-Points: 65
-# Comments: 11]]></summary>
+        <title type="html"><![CDATA[The data model behind Notion's flexibility]]></title>
+        <id>https://news.ycombinator.com/item?id=27200177</id>
+        <link href="https://www.notion.so/blog/data-model-behind-notion"/>
+        <updated>2021-05-18T19:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.notion.so/blog/data-model-behind-notion
+Comments URL: https://news.ycombinator.com/item?id=27200177
+Points: 176
+# Comments: 61]]></summary>
         <author>
-            <name>gjvc</name>
+            <name>pspeter3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Identify a Facebook user by his phone number despite privacy settings set]]></title>
-        <id>https://news.ycombinator.com/item?id=27188188</id>
-        <link href="https://ysamm.com/?p=691"/>
-        <updated>2021-05-17T20:41:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ysamm.com/?p=691
-Comments URL: https://news.ycombinator.com/item?id=27188188
-Points: 31
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Google y Samsung se alían para unir Wear OS y Tizen en una nueva plataforma común: Wear]]></title>
+        <id>46060_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/google-wearos-samsung-tizen-se-unen"/>
+        <updated>2021-05-18T19:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Si hay una verdad inamovible en la industria de la electrónica personal, es que tres son multitud. No veremos mejor demostración de ello que la proporcionada por el mercado de la telefonía móvil, que poco a poco ha ido perdiendo cualquier posible competidor contra iOS y Android. Y algo parecido se estaba fraguando en el espacio de los wearables, si excluimos las pulseras inteligentes y algunas marcas (como Garmin) que juegan por libre. Tizen, apoyado en solitario por Samsung, estaba jugando al juego de las …]]></summary>
         <author>
-            <name>throwaway888abc</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Legalese – Computational Law]]></title>
-        <id>https://news.ycombinator.com/item?id=27188130</id>
-        <link href="https://legalese.com/"/>
-        <updated>2021-05-17T20:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://legalese.com/
-Comments URL: https://news.ycombinator.com/item?id=27188130
-Points: 92
+        <title type="html"><![CDATA[Google presenta Android 12, con una interfaz totalmente rediseñada y adaptable por el usuario]]></title>
+        <id>46059_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/android-12-novedades-cambios"/>
+        <updated>2021-05-18T19:25:22.000Z</updated>
+        <summary type="html"><![CDATA[La conferencia para desarrolladores I/O ha regresado hoy tras un año de ausencia. En un formato virtual y tal vez reducida en lo que se refiere a unas novedades más centradas en la nube y la supercomputación que en ocasiones anteriores, pero no por ello Google se ha olvidado de Android y su ecosistema. De hecho, la cita ha servido para conocer los primeros detalles oficiales y formales de Android 12, que se construirá sobre dos pilares: la personalización y la privacidad. La primera beta de Android 12 servi…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SnowRunner, Secret Neighbor, Knockout City, Maneater, Conan Exiles, MechWarrior 5 y más se unen a Xbox Game Pass]]></title>
+        <id>46058_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/xbox-game-pass-mayo-2021-2"/>
+        <updated>2021-05-18T18:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft ha revelado una generosa colección de juegos que durante la segunda quincena de mayo se unirán al catálogo de Xbox Game Pass. Entre los títulos seleccionados tenemos algunos day one como The Wild at Heart y Knockout City, así como nombres veteranos incluyendo a SnowRunner y Conan Exiles. Además, hay una serie de juegos que ganan soporte para los controles táctiles y una lista de títulos que se despiden como las dos primeras entregas de Kingdom Hearts y Assetto Corsa. Al final de la noticia tenéis …]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The overfitted brain: Dreams evolved to assist generalization]]></title>
+        <id>https://news.ycombinator.com/item?id=27198505</id>
+        <link href="https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7"/>
+        <updated>2021-05-18T17:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7
+Comments URL: https://news.ycombinator.com/item?id=27198505
+Points: 118
 # Comments: 46]]></summary>
         <author>
-            <name>sdeframond</name>
+            <name>hheikinh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A long-lasting, stable solid-state lithium battery]]></title>
-        <id>https://news.ycombinator.com/item?id=27187896</id>
-        <link href="https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery"/>
-        <updated>2021-05-17T20:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery
-Comments URL: https://news.ycombinator.com/item?id=27187896
-Points: 86
-# Comments: 29]]></summary>
+        <title type="html"><![CDATA[Unveiling our new Quantum AI campus]]></title>
+        <id>https://news.ycombinator.com/item?id=27198357</id>
+        <link href="https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/"/>
+        <updated>2021-05-18T17:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/
+Comments URL: https://news.ycombinator.com/item?id=27198357
+Points: 77
+# Comments: 46]]></summary>
         <author>
-            <name>macinjosh</name>
+            <name>asparagui</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caltech professor helps solve Hindenburg disaster]]></title>
-        <id>https://news.ycombinator.com/item?id=27187522</id>
-        <link href="https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster"/>
-        <updated>2021-05-17T19:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster
-Comments URL: https://news.ycombinator.com/item?id=27187522
-Points: 91
-# Comments: 42]]></summary>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Elite Dangerous: Odyssey, la expansión que permite explorar los mundos a pie]]></title>
+        <id>46057_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/elite-dangerous-odyssey-lanzamiento-pc"/>
+        <updated>2021-05-18T17:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Frontier Developments ha mostrado el tráiler de lanzamiento de Elite Dangerous: Odyssey para demostrar que ya lo tiene todo a punto para que mañana 19 de mayo los jugadores de este título multijugador masivo espacial accedan al contenido y novedades de la nueva expansión. El complemento Odyssey tiene un precio de 34,99 euros y se encuentra disponible para PC mediante Steam y Epic Games Store. La versión para PlayStation 4 y Xbox One se pondrá a la venta en otoño de 2021. “Odyssey constituye la expansión más…]]></summary>
         <author>
-            <name>chmaynard</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recovering “lost” treasure-filled floppy discs with an oscilloscope]]></title>
-        <id>https://news.ycombinator.com/item?id=27187435</id>
-        <link href="https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html"/>
-        <updated>2021-05-17T19:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html
-Comments URL: https://news.ycombinator.com/item?id=27187435
-Points: 174
-# Comments: 26]]></summary>
+        <title type="html"><![CDATA[The Ascent muestra un nuevo tráiler y anuncia su llegada para el 29 de julio]]></title>
+        <id>46056_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/the-ascent-fecha-trailer-xbox-pc"/>
+        <updated>2021-05-18T16:23:27.000Z</updated>
+        <summary type="html"><![CDATA[El editor Curve Digital ha anunciado que el action-shooter RPG The Ascent se pondrá a la venta el 29 de julio con versión para Xbox One, Xbox Series y PC mediante Steam. Ese mismo día el juego desarrollado por Neon Giant también pasará a formar parte del catálogo de Xbox Game Pass. La fecha de lanzamiento de The Ascent ha estado acompañada de un nuevo tráiler y el inicio de la campaña de reservas, que permite adquirir el título en las tres plataformas por 26,99 euros (que pasarán a ser 29,99 euros a partir …]]></summary>
         <author>
-            <name>scarybeast</name>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halide for iPad]]></title>
+        <id>https://news.ycombinator.com/item?id=27196576</id>
+        <link href="https://lux.camera/halide-pro-camera-for-ipad/"/>
+        <updated>2021-05-18T16:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lux.camera/halide-pro-camera-for-ipad/
+Comments URL: https://news.ycombinator.com/item?id=27196576
+Points: 186
+# Comments: 64]]></summary>
+        <author>
+            <name>uptown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Site Isolation in Firefox]]></title>
+        <id>https://news.ycombinator.com/item?id=27196526</id>
+        <link href="https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/"/>
+        <updated>2021-05-18T16:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/
+Comments URL: https://news.ycombinator.com/item?id=27196526
+Points: 327
+# Comments: 77]]></summary>
+        <author>
+            <name>arthuredelstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tencent adquiere un 3,8 % de Remedy Entertainment]]></title>
+        <id>46055_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/tencent-accionista-remedy"/>
+        <updated>2021-05-18T15:39:40.000Z</updated>
+        <summary type="html"><![CDATA[La lista de compañías en las que Tencent tiene un pie en la puerta aumenta por enésima vez. En esta ocasión el objetivo ha sido Remedy Entertainment, que ha visto cómo la sicav Accendo Capital vendía al gigante chino 500.000 títulos que corresponden al 3,8 % de sus acciones y votos en circulación. El montante de la operación no ha trascendido, pero sí sabemos que Tencent pasa a ser un socio minoritario de Remedy Entertainment mientras que Accendo Capital conserva el 14 % de las acciones y votos del equipo d…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hydras suggest that sleep evolved before brains]]></title>
+        <id>https://news.ycombinator.com/item?id=27195813</id>
+        <link href="https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/"/>
+        <updated>2021-05-18T15:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/
+Comments URL: https://news.ycombinator.com/item?id=27195813
+Points: 244
+# Comments: 113]]></summary>
+        <author>
+            <name>theafh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Saints Row The Third Remastered para PS5 y Xbox Series debutará el 25 de mayo]]></title>
+        <id>46054_v1</id>
+        <link href="https://www.elotrolado.net/hilo_saints-row-the-third-remastered-para-ps5-y-xbox-series-debutara-el-25-de-mayo_2423232"/>
+        <updated>2021-05-18T14:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Deep Silver ha anunciado que Saints Row The Third Remastered tendrá una versión para PlayStation 5 y Xbox Series que estará disponible el 25 de mayo de 2021. El título se ofrecerá en una versión independiente y como una actualización gratuita para aquellos que ya tengan una copia para PS4 y Xbox One. Además, Saints Row The Third Remastered debutará el 22 de mayo en Steam y GOG. En PS5 y Xbox Series, Saints Row: The Third Remastered permitirá a los jugadores experimentar el juego con una mayor configuración …]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Days Gone: la historia de Deacon St. John llega al PC]]></title>
+        <id>46053_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/days-gone-disponible-pc"/>
+        <updated>2021-05-18T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Sin demasiada prisa Sony Interactive Entertainment cumple con la promesa de lanzar juegos de PlayStation Studios en PC. El primer paso lo dio Horizon Zero Dawn de Guerrilla Studios y ahora es el turno de Days Gone, un título desarrollado por Bend Studio que desde hoy se encuentra disponible mediante Steam y Epic Games Store a cambio de 49,99 euros. Como testimonio de ello, tenemos el tradicional tráiler de lanzamiento. Days Gone es un juego de acción y aventura de mundo abierto ambientado en el Noroeste del…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Public Working Drafts: WebGPU and WebGPU Shading Language]]></title>
+        <id>https://news.ycombinator.com/item?id=27194857</id>
+        <link href="https://www.w3.org/blog/news/archives/9059"/>
+        <updated>2021-05-18T14:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.w3.org/blog/news/archives/9059
+Comments URL: https://news.ycombinator.com/item?id=27194857
+Points: 136
+# Comments: 90]]></summary>
+        <author>
+            <name>bpierre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fierce Nerds]]></title>
+        <id>https://news.ycombinator.com/item?id=27194284</id>
+        <link href="http://paulgraham.com/fn.html"/>
+        <updated>2021-05-18T13:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://paulgraham.com/fn.html
+Comments URL: https://news.ycombinator.com/item?id=27194284
+Points: 364
+# Comments: 404]]></summary>
+        <author>
+            <name>prtkgpt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand Theft Auto V para PlayStation 5 y Xbox Series estará disponible el 11 de noviembre]]></title>
+        <id>46052_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/gta-v-fecha-lanzamiento-ps5-xbox-series"/>
+        <updated>2021-05-18T13:27:13.000Z</updated>
+        <summary type="html"><![CDATA[La versión de Grand Theft Auto V para PlayStation 5 y Xbox Series estará disponible el 11 de noviembre, según ha revelado Rockstar Games. Ese mismo día también debutará la edición independiente de GTA Online para las dos mencionadas consolas, que actualmente pueden ejecutar el popular título mediante su respectivo sistema de retrocompatibilidad. Además, el editor ha ofrecido detalles sobre las nuevas actualizaciones de GTA Online y Red Dead Online. Rockstar Games no ha ofrecido ni un tráiler ni imágenes par…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SnowRunner llega a Nintendo Switch y anuncia un segundo año de contenidos]]></title>
+        <id>46051_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/snowrunner-trailer-lanzamiento-switch-steam"/>
+        <updated>2021-05-18T13:17:12.000Z</updated>
+        <summary type="html"><![CDATA[El editor Focus Home Interactive y el desarrollador Saber Interactive han recordado con un tráiler de lanzamiento que SnowRunner ya se encuentra disponible en Nintendo Switch tanto en formato físico como versión digital a cambio de 39,99 euros. Desde hoy el juego también se puede adquirir mediante Steam después de su exclusivo paso por la Epic Games Store. Además, Saber Interactive ha comunicado que trabaja en un segundo año de contenidos. El lanzamiento de SnowRunner en Nintendo Switch y Steam coincide con…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vivo lanza en España el X60 Pro 5G, un buque insignia con óptica Zeiss estabilizada por cardán por 799 euros]]></title>
+        <id>46050_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/vivo-x60-pro-5g-serie-y-precios-detalles"/>
+        <updated>2021-05-18T12:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Vivo tiene un nuevo abanderado en su gama española. El fabricante chino filial de conglomerado BBK Electronics, donde comparte piso con marcas como Oppo, Realme y OnePlus, ha dado a conocer la próxima disponibilidad del X60 Pro 5G, un teléfono de altos vuelos que llega con características tan potentes (y al mismo tiempo tan poco sorprendentes) como un Snapdragon 870 y 12 GB de RAM, pero también con una cámara que puede resultar muy interesante para los aficionados a la fotografía móvil. Presidido por una pa…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ya disponible Siege Survival: Gloria Victis, un juego de gestión, estrategia y construcción medieval]]></title>
+        <id>46049_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/siege-survival-gloria-victis-disponible-steam"/>
+        <updated>2021-05-18T12:00:09.000Z</updated>
+        <summary type="html"><![CDATA[El editor Ravenscourt, una filial de Koch Media (Embracer Group), ha mostrado el tráiler de lanzamiento de Siege Survival: Gloria Victis para recordar que desde hoy este juego que combina gestión de supervivencia, estrategia y construcción en un mundo medieval ya se encuentra disponible para PC mediante Steam, GOG y Epic Games Store a cambio de 24,99 euros (19,99 euros hasta el 25 de mayo). Los interesados que no estén convencidos con la propuesta pueden descargar una demo desde la tienda de Valve. Desarrol…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Leisure Suit Larry - Wet Dreams Dry Twice ya disponible en PS4, Xbox One y Nintendo Switch]]></title>
+        <id>46048_v1</id>
+        <link href="https://www.elotrolado.net/hilo_leisure-suit-larry-wet-dreams-dry-twice-ya-disponible-en-ps4-xbox-one-y-nintendo-switch_2423208"/>
+        <updated>2021-05-18T09:48:33.000Z</updated>
+        <summary type="html"><![CDATA[Assemble Entertainment ha mostrado el tráiler de lanzamiento de Leisure Suit Larry - Wet Dreams Dry Twice para celebrar que la última entrega de la popular serie de aventuras point-and-click ya está disponible en PlayStation 4, Xbox One y Nintendo Switch. Hasta ahora el título desarrollado por CrazyBunch solo se encontraba a la venta en PC (Steam, GOG). En Leisure Suit Larry - Wet Dreams Dry Twice nuestro protagonista, Larry Laffer, se encuentra varado en Cancún tras conocer a la única dama que podía conven…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon estaría en conversaciones para adquirir MGM, responsable de James Bond]]></title>
+        <id>46047_v1</id>
+        <link href="https://www.elotrolado.net/noticias/internet/amazon-mgm-james-bond"/>
+        <updated>2021-05-18T09:03:12.000Z</updated>
+        <summary type="html"><![CDATA[MGM, una de las productoras y distribuidoras más conocidas de Hollywood, podría acabar en manos de Amazon, según coinciden en avanzar The Information y Variety. No es la primera vez que se habla sobre la posible venta de MGM, pero en esta ocasión parece que las conversaciones han pasado al más alto nivel y en frente de ellas tendríamos a Mike Hopkins, vicepresidente senior de Prime Video y Amazon Studios, despachando directamente con Kevin Ulrich, presidente de la junta del estudio cinematográfico. El preci…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bleak Prescience of Richard Wright]]></title>
+        <id>https://news.ycombinator.com/item?id=27191636</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2021/06/richard-wright-man-who-lived-underground/618705/"/>
+        <updated>2021-05-18T05:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2021/06/richard-wright-man-who-lived-underground/618705/
+Comments URL: https://news.ycombinator.com/item?id=27191636
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>apollinaire</name>
         </author>
     </entry>
     <entry>
@@ -213,71 +365,6 @@ Points: 174
     PlayStation 4 (Base) / Xbox One (Base) – These versions run in 1080p dynamic resolution at 30 frames per second.]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index]]></title>
-        <id>https://news.ycombinator.com/item?id=27186959</id>
-        <link href="https://www.sec.gov/news/press-release/2021-84"/>
-        <updated>2021-05-17T19:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/news/press-release/2021-84
-Comments URL: https://news.ycombinator.com/item?id=27186959
-Points: 154
-# Comments: 47]]></summary>
-        <author>
-            <name>epa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes]]></title>
-        <id>https://news.ycombinator.com/item?id=27186778</id>
-        <link href="https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/"/>
-        <updated>2021-05-17T18:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/
-Comments URL: https://news.ycombinator.com/item?id=27186778
-Points: 107
-# Comments: 68]]></summary>
-        <author>
-            <name>IMAYousaf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is the Gaza Strip blurry on Google Maps?]]></title>
-        <id>https://news.ycombinator.com/item?id=27186675</id>
-        <link href="https://www.bbc.com/news/57102499"/>
-        <updated>2021-05-17T18:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/57102499
-Comments URL: https://news.ycombinator.com/item?id=27186675
-Points: 648
-# Comments: 326]]></summary>
-        <author>
-            <name>vanusa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A police dog who cried drugs at every traffic stop]]></title>
-        <id>https://news.ycombinator.com/item?id=27186436</id>
-        <link href="https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/"/>
-        <updated>2021-05-17T18:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/
-Comments URL: https://news.ycombinator.com/item?id=27186436
-Points: 198
-# Comments: 151]]></summary>
-        <author>
-            <name>pessimizer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do database columns have a character length of 191?]]></title>
-        <id>https://news.ycombinator.com/item?id=27186385</id>
-        <link href="https://www.grouparoo.com/blog/varchar-191"/>
-        <updated>2021-05-17T18:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.grouparoo.com/blog/varchar-191
-Comments URL: https://news.ycombinator.com/item?id=27186385
-Points: 93
-# Comments: 30]]></summary>
-        <author>
-            <name>andyjih_</name>
         </author>
     </entry>
     <entry>
@@ -311,26 +398,6 @@ Points: 93
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chivalry 2 celebrará una beta abierta del 27 de mayo al 1 de junio en todas las plataformas]]></title>
-        <id>46043_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/chivalry-2-beta-abierta-fecha-detalles"/>
-        <updated>2021-05-17T14:47:46.000Z</updated>
-        <summary type="html"><![CDATA[El desarrollador Torn Banner Studios quiere un evento multitudinario antes de poner a la venta Chivalry 2 y para lograrlo ha organizado una beta abierta multiplataforma que tendrá lugar del 27 de mayo a las 17 horas al 1 de junio a las 17 horas en PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Epic Games Store). La beta abierta estará disponible para su descarga previa en todas las plataformas el 26 de mayo a las 17 horas. Además de ofrecer los detalles y poner fecha a la beta abierta de Chivalry…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Golf: Super Rush muestra su jugabilidad y novedades con un nuevo tráiler]]></title>
-        <id>46042_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/mario-golf-super-rush-gameplay-trailer"/>
-        <updated>2021-05-17T14:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo ha mostrado un nuevo tráiler de Mario Golf: Super Rush donde prácticamente se revelan todos los detalles del juego para Nintendo Switch, que si todo va según lo previsto estará disponible el 25 de junio. Al igual que anteriores entregas de la serie, así como otros juegos deportivos similares desarrollados por Nintendo, estamos ante un título con jugabilidad arcade. Mario Golf: Super Rush presenta unos sencillos controles gracias a los cuales "todo el mundo puede dar golpes perfectos”, dice la voz s…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blizzard and Epic Veterans Announce New RPG Studio, Lightforge Games]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-1405083748540859644</id>
         <link href="https://www.allgamesdelta.net/2021/05/blizzard-and-epic-veterans-announce-new.html"/>
@@ -352,16 +419,6 @@ Points: 93
   Highrise City is the next evolution of City Simulations. Experience a modern take on the genre enriched with a complex resource based economy system. Highrise City combines two genres in new and interesting ways: City…]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung avanza el futuro de sus pantallas AMOLED plegables y LG desvela micropaneles 3K para realidad virtual]]></title>
-        <id>46041_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/samsung-lg-pantallas-amoled-oled-realidad-virtual-plegables"/>
-        <updated>2021-05-17T10:44:10.000Z</updated>
-        <summary type="html"><![CDATA[La conferencia SID Display Week 2021 es uno de esos eventos menores pero que todos los años nos dejan novedades interesantes que brindan un vistazo al futuro de la electrónica de consumo, desgranando las tecnologías que próximamente serán clave (si no estándar) en productos como televisores, teléfonos móviles, ordenadores y visores de realidad virtual. Corea del Sur juega fuerte, como ya es habitual, y en la presente edición tanto Samsung como LG han descubierto paneles muy avanzados dirigidos a diversos es…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -412,17 +469,7 @@ Points: 93
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breve: Samurai Shodown estará disponible el 14 de junio en Steam]]></title>
-        <id>46040_v1</id>
-        <link href="https://www.elotrolado.net/hilo_samurai-shodown-estara-disponible-el-14-de-junio-en-steam_2423113"/>
-        <updated>2021-05-17T08:53:11.000Z</updated>
-        <summary type="html"><![CDATA[SNK ha anunciado que la versión de Samurai Shodown para PC se pondrá a la venta mediante Steam el 14 de junio. Hasta ahora el juego de lucha se encontraba disponible para PC vía Epic Games Store así como Stadia y consolas (PlayStation 4, Xbox Series, Xbox One y Nintendo Switch). Además, SNK ha comunicado que el mismo 14 de junio los jugadores de Samurai Shodown con el tercer pase de temporada recibirán el personaje adicional Shiro Tokisada Amakusa, que también se podrá adquirir por separado a cambio de 5,99…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Side-scrolling platformer Lumione Announced for Switch and PC]]></title>
+        <title type="html"><![CDATA[Side-scrolling Platformer Lumione Announced for Switch and PC]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-765539325214964950</id>
         <link href="https://www.allgamesdelta.net/2021/05/side-scrolling-platformer-lumione.html"/>
         <updated>2021-05-17T06:01:00.000Z</updated>
@@ -447,7 +494,7 @@ Points: 93
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sniper Ghost Warrior Contracts 2 gameplay Overview Trailer]]></title>
+        <title type="html"><![CDATA[Sniper Ghost Warrior Contracts 2 Gameplay Overview Trailer]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-201891543684438273</id>
         <link href="https://www.allgamesdelta.net/2021/05/sniper-ghost-warrior-contracts-2.html"/>
         <updated>2021-05-17T04:54:00.000Z</updated>
@@ -478,7 +525,7 @@ Points: 93
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lucasfilm Classic Games: Zombies Ate My Neighbors and Ghoul Patrol Announced for PS4, Xbox One, Switch and PC]]></title>
+        <title type="html"><![CDATA[Lucasfilm Classic Games Zombies Ate My Neighbors and Ghoul Patrol Announced for PS4, Xbox One, Switch and PC]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-5493472013899296848</id>
         <link href="https://www.allgamesdelta.net/2021/05/lucasfilm-classic-games-zombies-ate-my.html"/>
         <updated>2021-05-17T04:13:00.000Z</updated>
@@ -541,186 +588,6 @@ Zombies Ate My Neighbors
   •  Challenging tu…]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tencent y TiMi Studio muestran un nuevo gameplay de Metal Slug para móviles]]></title>
-        <id>46039_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/metal-slug-moviles-gameplay"/>
-        <updated>2021-05-16T14:03:29.000Z</updated>
-        <summary type="html"><![CDATA[El gigante Tencent ha celebrado un evento durante el cual ha presentado un generoso catálogo de juegos desarrollados por sus estudios internos. Muchos de estos proyectos tienen como objetivo conquistar el vasto mercado chino, pero también los hay que buscan seducir el mercado internacional. Este último caso parece ser el de Metal Slug, un juego para móviles a cargo de TiMi Studios que anteriormente vimos bajo el nombre de Metal Slug Code: J y cuyo título final podría ser Metal Slug: Awakening. A falta de in…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La versión de Final Fantasy XIV para PS5 estará disponible el 25 de mayo junto al parche 5.55]]></title>
-        <id>46038_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/final-fantasy-xiv-fecha-lanzamiento-ps5"/>
-        <updated>2021-05-16T12:07:27.000Z</updated>
-        <summary type="html"><![CDATA[El Digital Fan Festival 2021 sigue ofreciendo novedades sobre Final Fantasy XIV. Ayer Square Enix reveló nuevos detalles sobre Endwalker y anunció que la expansión estará disponible el 23 de noviembre y hoy es el turno de saber que la versión del MMO para PS5 debutará el 25 de mayo junto al parche 5.55. Durante el evento el editor japonés también ha facilitado una hoja de ruta con las novedades que se incorporarán al FF XIV hasta la llegada de Endwalker. La beta abierta de Final Fantasy XIV para PlayStation…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filtrado un gameplay de 20 minutos de The Division Heartland]]></title>
-        <id>46037_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/the-division-heartland-gameplay-filtrado"/>
-        <updated>2021-05-15T21:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Una vez más, Ubisoft ha demostrado tener un serio problema con las filtraciones. En esta ocasión ha sido el turno del juego free-to-play The Division Heartland, que por primera vez se ha dejado ver mediante un gameplay de 20 minutos sacado de forma clandestina de unas pruebas a las que solo se puede acceder con invitación y después de firmar un estricto acuerdo de confidencialidad (NDA, por sus siglas en inglés). Además del tráiler con poco más de 20 minutos de gameplay de The Division Heartland, que incrus…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final Fantasy XIV: Endwalker, disponible el 23 de noviembre, presenta el oficio Segador y la ciudad Old Sharlayan]]></title>
-        <id>46036_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/final-fantasy-xiv-endwalker-fecha-lanzamiento"/>
-        <updated>2021-05-15T13:04:20.000Z</updated>
-        <summary type="html"><![CDATA[Durante el discurso inaugural del Digital Fan Festival 2021 el productor y director de Final Fantasy XIV, Naoki Yoshida, ha puesto fecha de lanzamiento a Endwalker, que estará disponible el 23 de noviembre para PS4, PS5 y PC. El mismo evento también ha servido para revelar nuevos detalles de la expansión, incluyendo al Segador como nuevo oficio y la ciudad Old Sharlayan. Como es habitual en Square Enix todo ello ha estado amenizado con tráilers entre los que encontramos una cinemática de 6 minutos. El Segad…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Las noticias de la semana (8 - 15 de mayo)]]></title>
-        <id>46035_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/semana-8-15-mayo-2021"/>
-        <updated>2021-05-15T11:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Esta semana hemos conocido que PlayStation Studios tiene más de 25 juegos en marcha, confirmado que el suministro de PS5 continuará siendo limitado en 2022 y descubierto nuevos detalles de la nueva generación de PlayStation VR que aún deben ser confirmados. Los jugadores de Xbox han recibido una nueva actualización con mejoras en la función Quick Resume, mientras que en Nintendo han asegurado que el gasto en I+D aumenta para hacer frente al desarrollo de juegos y la próxima generación de hardware. En juegos…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biomutant muestra su rendimiento en PS4, PS4 Pro, Xbox One, Xbox One X y PC]]></title>
-        <id>46034_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/biomutant-trailers-gameplay-rendimiento"/>
-        <updated>2021-05-14T20:42:07.000Z</updated>
-        <summary type="html"><![CDATA[THQ Nordic ha mostrado tres nuevos gameplays sin editar de Biomutant que tienen como gran objetivo mostrar el rendimiento del juego en todas las plataformas en las que estará disponible el 25 de mayo. Es una buena forma de demostrar a los jugadores que después de más de cuatro años de desarrollo el juego creado por Experiment 101 ofrecerá un buen desempeño independientemente de la consola (PS4, PS4 Pro, Xbox One, Xbox One X). Para los usuarios de PC (Steam, GOG, Epic Games Store) hay vídeo y requisitos (al …]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subnautica: Below Zero abandona el acceso anticipado y debuta en consolas]]></title>
-        <id>46033_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/subnautica-below-zero-disponible"/>
-        <updated>2021-05-14T18:41:28.000Z</updated>
-        <summary type="html"><![CDATA[Después de un largo periodo de acceso anticipado, finalmente Subnautica: Below Zero ya se encuentra disponible como un juego completo para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y Nintendo Switch. Además, la consola de Nintendo también ha recibido hoy la primera entrega de Subnautica, mientras que los jugadores de PS4 y Xbox One tienen disponible la actualización para la nueva generación. En PC, el título creado por Unknown Worlds Entertainment está disponible en Steam y Epic Games Store. Subna…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Mass Effect Legendary Edition: la epopeya del Comandante Shepard se repite, pero con mejoras]]></title>
-        <id>46032_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/mass-effect-legendary-edition-trailer-lanzamiento"/>
-        <updated>2021-05-14T17:05:29.000Z</updated>
-        <summary type="html"><![CDATA[La saga Mass Effect desarrollada por BioWare ofreció una de las trilogías más celebradas de la historia de los videojuegos y desde hoy aquellos que se la perdieron o la quieran revivir tienen la oportunidad de hacerlo con Mass Effect Legendary Edition. Así lo ha recordado Electronic Arts, que ha publicado el tradicional tráiler de lanzamiento para celebrar que la colección que reúne los tres primeros Mass Effect y la mayor parte de su contenido adicional ya está disponible en PlayStation 4, Xbox One y PC (S…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warren Spector: “No sé por qué no me despidieron seis veces de Disney”]]></title>
-        <id>46031_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/warren-spector-disney-epic-mickey"/>
-        <updated>2021-05-14T16:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Kotaku ha publicado un nuevo extracto del libro Press Reset: Ruin and Recovery in the Video Game Industry escrito por Jason Schreier, que si sigue así leeremos toda su obra a base de avances, cuyo objetivo es poner luz al paso de Warren Spector por The Walt Disney Company. La historia empezó con dudas, no terminó demasiado bien y dio como resultado dos entregas de Epic Mickey. Según explica Warren, el 13 de julio de 2007 Graham Hopper, director ejecutivo de Disney Interactive Studios, había convocado a la p…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La portátil española Smach Z al borde de la bancarrota]]></title>
-        <id>46030_v1</id>
-        <link href="https://www.elotrolado.net/noticias/consolas/smach-z-bancarrota-reembolsos"/>
-        <updated>2021-05-14T12:06:22.000Z</updated>
-        <summary type="html"><![CDATA[El futuro de Smach Z, una consola portátil española que nació gracias a la financiación colectiva y cuyo objetivo era llevar la biblioteca de Steam a cualquier lugar, parece sentenciado. Así lo ha reconocido Daniel Fernandez, director ejecutivo y fundador de Smach Z, que en un mensaje a la comunidad ha sido bastante claro sobre la situación de su compañía: han perdido la inversión privada que sostenía el proyecto y pronto podrían entrar en bancarrota. En consecuencia, la entrega de la consola difícilmente s…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corea del Sur invertirá más de 370.000 millones de euros para liderar la industria de los semiconductores]]></title>
-        <id>46029_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/corea-del-sur-invierte-semiconductores"/>
-        <updated>2021-05-14T11:52:30.000Z</updated>
-        <summary type="html"><![CDATA[La crisis de los semiconductores ha puesto de relevancia que la fabricación de chips y otros componentes de alta tecnología es tan estratégica como el abastecimiento de energía y la capacidad para producir vacunas. Con numerosas industrias padeciendo una sequía que está provocando pérdidas difíciles de cuantificar y miles de despidos debido a la paralización de las cadenas, las grandes potencias se han propuesto liderar el diseño y la fabricación de semiconductores. Y Corea del Sur no quiere quedarse atrás.…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Ghostrunner 2 anunciado para PS5, Xbox Series y PC]]></title>
-        <id>46028_v1</id>
-        <link href="https://www.elotrolado.net/hilo_ghostrunner-2-anunciado-para-ps5-xbox-series-y-pc_2422827"/>
-        <updated>2021-05-13T22:53:42.000Z</updated>
-        <summary type="html"><![CDATA[505 Games ha anunciado haber llegado a un acuerdo con One More Level para el desarrollo y publicación de Ghostrunner 2, que estará disponible en PlayStation 5, Xbox Series y PC. Por ahora no tenemos detalles ni ventana de lanzamiento, pero sí un dato, que la primera entrega de Ghostrunner ha superado las 600.000 unidades vendidas. Este anuncio no es del todo sorprendente si tenemos en cuenta que hace poco más de un mes 505 Games anunció haber adquirido la propiedad intelectual Ghostrunner por 5 millones de …]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo confirma un aumento de la inversión en I+D vinculado al “desarrollo de la próxima generación de hardware”]]></title>
-        <id>46027_v1</id>
-        <link href="https://www.elotrolado.net/noticias/consolas/nintendo-inversion-proxima-generacion"/>
-        <updated>2021-05-13T22:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo es una compañía que cuando presenta sus resultados económicos es bastante transparente con los números y en caso de duda los accionistas pueden resolverla en una posterior sesión de preguntas y respuestas. Como ejemplo tenemos el interrogante que ha generado el continuo aumento en la inversión en Investigación y Desarrollo (I+D), que durante el pasado año fiscal fue de 93.253 millones de yenes (705 millones de euros), un 11 % más que el anterior y una cifra nunca antes vista. ¿Por qué tanto dinero?…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google afirma que Stadia está “vivo y coleando”]]></title>
-        <id>46026_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/google-stadia-vivo"/>
-        <updated>2021-05-13T20:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Desde su presentación hace ya dos años Stadia ha estado envuelto por el escepticismo de una notable parte de la comunidad de jugadores. Algunos simplemente huyen de los servicios de juegos en streaming y otros no se fían de Google, una compañía con un generoso catálogo de iniciativas enterradas. A pesar de ello, el gigante tecnológico sigue adelante con su proyecto, que en opinión de Nate Ahearn, responsable de marketing de Stadia, está “vivo y coleando”. En declaraciones a GamesIndustry, Ahearn defiende la…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeons & Dragons: Dark Alliance estará disponible desde el primer día en Xbox Game Pass]]></title>
-        <id>46025_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/dark-alliance-xbox-game-pass"/>
-        <updated>2021-05-13T18:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft vuelve a dar un impulso a Xbox Game Pass al anunciar que Dungeons & Dragons: Dark Alliance estará disponible mediante el servicio de suscripción a partir del martes 22 de junio, el mismo día que el juego se pondrá a la venta. El título distribuido por Wizards of the Coast y desarrollado por Tuque Games se ofrecerá mediante Xbox Game Pass en Xbox One, Xbox Series, PC (Windows Store) y dispositivos móviles gracias a Xbox Cloud Gaming (xCloud). “Estoy entusiasmado de poder anunciar que Dungeons & Dra…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Las operadoras bloquean el acceso a Twitch por mandato judicial y tras una petición errónea de Telefónica]]></title>
-        <id>46024_v1</id>
-        <link href="https://www.elotrolado.net/noticias/internet/twitch-bloqueo-telefonica"/>
-        <updated>2021-05-13T17:34:59.000Z</updated>
-        <summary type="html"><![CDATA[Durante las últimas horas miles de internautas españoles de diferentes operadoras como Movistar, Vodafone, Orange y sus respectivas filiales, han experimentado problemas para acceder a Twitch, la mayor plataforma de transmisiones en directo del mundo. Inicialmente ha reinado la confusión, nadie sabía qué ocurría, pero finalmente se ha descubierto que todo se ha debido al bloqueo por orden judicial del dominio ttvnw.net propiedad de Twitch. El caos se ha puesto en marcha cuando los usuarios accedían a Twitch…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E3 2021 detalla cómo será su edición virtual con transmisiones interactivas en directo]]></title>
-        <id>46023_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/e3-2021-virtual-transmisiones"/>
-        <updated>2021-05-13T16:22:46.000Z</updated>
-        <summary type="html"><![CDATA[La Entertainment Software Association (ESA) ha anunciado los detalles sobre cómo será el E3 2021, que tendrá lugar del 12 al 15 de junio. Este será el segundo año consecutivo que el E3 no se celebra en persona en Los Ángeles debido a la pandemia de COVID-19. En 2020 la ESA no consiguió sacar adelante ningún tipo de iniciativa, ni virtual ni física, y se vio atropellada por eventos como el Summer Game Fest (que este año regresa). Sin embargo, en 2021 parece que la patronal del videojuego se ha puesto las pil…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: The Lion's Song gratis en la Epic Games Store]]></title>
-        <id>46022_v1</id>
-        <link href="https://www.elotrolado.net/hilo_the-lion-s-song-gratis-en-la-epic-games-store_2422785"/>
-        <updated>2021-05-13T15:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Un jueves más los interesados en sumar un juego gratis en su catálogo ya pueden pasar por la Epic Games Store, donde con un par de clics y durante una semana se puede conseguir The Lion's Song sin coste alguno. El próximo título que regalará la tienda es un misterio que se descubrirá el jueves 20 de mayo a las 17:00 horas. The Lion's Song es una aventura narrativa ambientada en Austria a principios del siglo XX y cada episodio sigue la historia de un personaje diferente. Cada uno de los protagonistas, una c…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
