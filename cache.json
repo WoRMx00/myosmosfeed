@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27215894",
-          "author": "hirundo",
-          "description": "Article URL: https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/\nComments URL: https://news.ycombinator.com/item?id=27215894\nPoints: 25\n# Comments: 2",
-          "link": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
-          "publishedOn": "2021-05-19T23:57:04.000Z",
-          "wordCount": 1226,
-          "title": "Nikola Tesla invention from 100 years ago suddenly makes more sense today"
+          "id": "https://news.ycombinator.com/item?id=27228550",
+          "author": "danso",
+          "description": "Article URL: https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/\nComments URL: https://news.ycombinator.com/item?id=27228550\nPoints: 75\n# Comments: 46",
+          "link": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
+          "publishedOn": "2021-05-20T23:05:07.000Z",
+          "wordCount": 2273,
+          "title": "The Anus Is an Evolutionary Marvel"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27215690",
-          "author": "ingve",
-          "description": "Article URL: http://0pointer.net/blog/file-descriptor-limits.html\nComments URL: https://news.ycombinator.com/item?id=27215690\nPoints: 25\n# Comments: 8",
-          "link": "http://0pointer.net/blog/file-descriptor-limits.html",
-          "publishedOn": "2021-05-19T23:22:45.000Z",
-          "wordCount": 1403,
-          "title": "File Descriptor Limits"
+          "id": "https://news.ycombinator.com/item?id=27227751",
+          "author": "rmason",
+          "description": "Article URL: https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/\nComments URL: https://news.ycombinator.com/item?id=27227751\nPoints: 50\n# Comments: 9",
+          "link": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
+          "publishedOn": "2021-05-20T21:44:18.000Z",
+          "wordCount": 1839,
+          "title": "SimuLand, a lab environment to simulate attacker tradecraft"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27215653",
-          "author": "chris_f",
-          "description": "Article URL: https://blog.google/products/search/introducing-mum/\nComments URL: https://news.ycombinator.com/item?id=27215653\nPoints: 54\n# Comments: 31",
-          "link": "https://blog.google/products/search/introducing-mum/",
-          "publishedOn": "2021-05-19T23:15:51.000Z",
-          "wordCount": 1591,
-          "title": "Google MUM: A new AI milestone for understanding information"
+          "id": "https://news.ycombinator.com/item?id=27227683",
+          "author": "belter",
+          "description": "Article URL: https://ionescu007.github.io/SimpleVisor/\nComments URL: https://news.ycombinator.com/item?id=27227683\nPoints: 59\n# Comments: 5",
+          "link": "https://ionescu007.github.io/SimpleVisor/",
+          "publishedOn": "2021-05-20T21:40:16.000Z",
+          "wordCount": 1672,
+          "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27215563",
-          "author": "p4bl0",
-          "description": "Article URL: https://landlock.io/\nComments URL: https://news.ycombinator.com/item?id=27215563\nPoints: 18\n# Comments: 6",
-          "link": "https://landlock.io/",
-          "publishedOn": "2021-05-19T23:00:10.000Z",
-          "wordCount": 405,
-          "title": "Landlock merged in mainline for Linux 5.13"
+          "id": "https://news.ycombinator.com/item?id=27227498",
+          "author": "mritzmann",
+          "description": "Article URL: https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956\nComments URL: https://news.ycombinator.com/item?id=27227498\nPoints: 49\n# Comments: 17",
+          "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
+          "publishedOn": "2021-05-20T21:25:27.000Z",
+          "wordCount": 610,
+          "title": "Thunderbird stored OpenPGP secret keys without master password protection"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27215477",
-          "author": "AJAlabs",
-          "description": "Article URL: https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8\nComments URL: https://news.ycombinator.com/item?id=27215477\nPoints: 52\n# Comments: 26",
-          "link": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
-          "publishedOn": "2021-05-19T22:45:36.000Z",
-          "wordCount": 549,
-          "title": "Ansible 4.0"
+          "id": "https://news.ycombinator.com/item?id=27227492",
+          "author": "DoreenMichele",
+          "description": "Article URL: https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/\nComments URL: https://news.ycombinator.com/item?id=27227492\nPoints: 76\n# Comments: 12",
+          "link": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
+          "publishedOn": "2021-05-20T21:25:03.000Z",
+          "wordCount": 983,
+          "title": "Red Cross honors Igiugig woman for helping light runway during nighttime medevac"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27215348",
-          "author": "sohkamyung",
-          "description": "Article URL: https://computerhistory.org/blog/patricias-perfect-pull/\nComments URL: https://news.ycombinator.com/item?id=27215348\nPoints: 12\n# Comments: 0",
-          "link": "https://computerhistory.org/blog/patricias-perfect-pull/",
-          "publishedOn": "2021-05-19T22:28:34.000Z",
-          "wordCount": 2963,
-          "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story"
+          "id": "https://news.ycombinator.com/item?id=27227180",
+          "author": "ukd1",
+          "description": "Article URL: https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN\nComments URL: https://news.ycombinator.com/item?id=27227180\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
+          "publishedOn": "2021-05-20T21:00:37.000Z",
+          "wordCount": 48,
+          "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27214929",
-          "author": "herogreen",
-          "description": "Article URL: https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/\nComments URL: https://news.ycombinator.com/item?id=27214929\nPoints: 43\n# Comments: 16",
-          "link": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
-          "publishedOn": "2021-05-19T21:47:33.000Z",
-          "wordCount": 2136,
-          "title": "“Energy in the Future”: a time capsule of energy concerns from 1953"
+          "id": "https://news.ycombinator.com/item?id=27226751",
+          "author": "paultgriffiths",
+          "description": "Article URL: https://science.sciencemag.org/content/early/2021/05/19/science.abg6296\nComments URL: https://news.ycombinator.com/item?id=27226751\nPoints: 184\n# Comments: 144",
+          "link": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+          "publishedOn": "2021-05-20T20:27:02.000Z",
+          "wordCount": 6846,
+          "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27214507",
-          "author": "choult",
-          "description": "Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/\nComments URL: https://news.ycombinator.com/item?id=27214507\nPoints: 62\n# Comments: 6",
-          "link": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
-          "publishedOn": "2021-05-19T21:12:07.000Z",
-          "wordCount": 4351,
-          "title": "Miss Shilling's orifice helped win the war (2020)"
+          "id": "https://news.ycombinator.com/item?id=27226625",
+          "author": "lukastyrychtr",
+          "description": "Article URL: https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/\nComments URL: https://news.ycombinator.com/item?id=27226625\nPoints: 92\n# Comments: 8",
+          "link": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
+          "publishedOn": "2021-05-20T20:18:32.000Z",
+          "wordCount": 1387,
+          "title": "Why RISC-V doesn't yet support KVM"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27214399",
-          "author": "ksar",
-          "description": "Article URL: https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca\nComments URL: https://news.ycombinator.com/item?id=27214399\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca",
-          "publishedOn": "2021-05-19T21:00:43.000Z",
-          "wordCount": 637,
-          "title": "Cover (YC W16) Is Hiring"
+          "id": "https://news.ycombinator.com/item?id=27226382",
+          "author": "talawahtech",
+          "description": "Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/\nComments URL: https://news.ycombinator.com/item?id=27226382\nPoints: 358\n# Comments: 51",
+          "link": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
+          "publishedOn": "2021-05-20T20:01:28.000Z",
+          "wordCount": 14589,
+          "title": "Extreme HTTP Performance Tuning"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27214221",
-          "author": "noch",
-          "description": "Article URL: https://gamemath.com/\nComments URL: https://news.ycombinator.com/item?id=27214221\nPoints: 54\n# Comments: 2",
-          "link": "https://gamemath.com/",
-          "publishedOn": "2021-05-19T20:43:42.000Z",
-          "wordCount": 341,
-          "title": "3D Math Primer for Graphics and Game Development"
+          "id": "https://news.ycombinator.com/item?id=27225789",
+          "author": "geerlingguy",
+          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router\nComments URL: https://news.ycombinator.com/item?id=27225789\nPoints: 39\n# Comments: 7",
+          "link": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
+          "publishedOn": "2021-05-20T19:20:29.000Z",
+          "wordCount": 665,
+          "title": "Setting up a Raspberry Pi with 2 Network Interfaces as a simple router"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27213567",
-          "author": "aburan28",
-          "description": "Article URL: https://www.marcolancini.it/2021/blog-cloud-security-roadmap/\nComments URL: https://news.ycombinator.com/item?id=27213567\nPoints: 36\n# Comments: 1",
-          "link": "https://www.marcolancini.it/2021/blog-cloud-security-roadmap/",
-          "publishedOn": "2021-05-19T19:49:01.000Z",
-          "wordCount": 2777,
-          "title": "On Establishing a Cloud Security Program"
+          "id": "https://news.ycombinator.com/item?id=27225739",
+          "author": "rmason",
+          "description": "Article URL: https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/\nComments URL: https://news.ycombinator.com/item?id=27225739\nPoints: 214\n# Comments: 480",
+          "link": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
+          "publishedOn": "2021-05-20T19:16:40.000Z",
+          "wordCount": 984,
+          "title": "Five Oregon counties vote to leave state, create 'Greater Idaho'"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27212812",
-          "author": "taxyovio",
-          "description": "Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html\nComments URL: https://news.ycombinator.com/item?id=27212812\nPoints: 130\n# Comments: 144",
-          "link": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-          "publishedOn": "2021-05-19T18:54:05.000Z",
-          "wordCount": 2749,
-          "title": "YouTube ads in Safari: you see them now, will you see them in the future?"
+          "id": "https://news.ycombinator.com/item?id=27224691",
+          "author": "upwardbound",
+          "description": "Article URL: https://www.spectacles.com/new-spectacles\nComments URL: https://news.ycombinator.com/item?id=27224691\nPoints: 96\n# Comments: 96",
+          "link": "https://www.spectacles.com/new-spectacles",
+          "publishedOn": "2021-05-20T18:00:05.000Z",
+          "wordCount": 12,
+          "title": "New Snap Spectacles Feature Augmented Reality Display"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27212423",
-          "author": "kyleblarson",
-          "description": "Article URL: https://sfciti.org/sf-tech-exodus/\nComments URL: https://news.ycombinator.com/item?id=27212423\nPoints: 176\n# Comments: 217",
-          "link": "https://sfciti.org/sf-tech-exodus/",
-          "publishedOn": "2021-05-19T18:23:50.000Z",
-          "wordCount": 3090,
-          "title": "Tracking the San Francisco Tech Exodus"
+          "id": "https://news.ycombinator.com/item?id=27224094",
+          "author": "javierbyte",
+          "description": "Article URL: https://javier.xyz/pintr/\nComments URL: https://news.ycombinator.com/item?id=27224094\nPoints: 244\n# Comments: 42",
+          "link": "https://javier.xyz/pintr/",
+          "publishedOn": "2021-05-20T17:22:33.000Z",
+          "wordCount": 50,
+          "title": "Show HN: Tool that turns your images into plotter-like line drawings"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27212270",
-          "author": "dsr12",
-          "description": "Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html\nComments URL: https://news.ycombinator.com/item?id=27212270\nPoints: 131\n# Comments: 75",
-          "link": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
-          "publishedOn": "2021-05-19T18:10:21.000Z",
-          "wordCount": 1452,
-          "title": "Sharing learnings about our image cropping algorithm"
+          "id": "https://news.ycombinator.com/item?id=27223520",
+          "author": "theafh",
+          "description": "Article URL: https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/\nComments URL: https://news.ycombinator.com/item?id=27223520\nPoints: 113\n# Comments: 73",
+          "link": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
+          "publishedOn": "2021-05-20T16:43:51.000Z",
+          "wordCount": 2634,
+          "title": "Physicists identify the engine powering black hole energy beams"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27212127",
-          "author": "smukherjee19",
-          "description": "Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/\nComments URL: https://news.ycombinator.com/item?id=27212127\nPoints: 326\n# Comments: 172",
-          "link": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
-          "publishedOn": "2021-05-19T18:00:24.000Z",
-          "wordCount": 1789,
-          "title": "Internet Explorer 11 (IE11) to be retired on June 15, 2022"
+          "id": "https://news.ycombinator.com/item?id=27223340",
+          "author": "jwcooper",
+          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates\nComments URL: https://news.ycombinator.com/item?id=27223340\nPoints: 134\n# Comments: 46",
+          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
+          "publishedOn": "2021-05-20T16:31:47.000Z",
+          "wordCount": 3051,
+          "title": "CRISPR Editing in Primates"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27211583",
-          "author": "ArmandGrillet",
-          "description": "Article URL: https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/\nComments URL: https://news.ycombinator.com/item?id=27211583\nPoints: 343\n# Comments: 145",
-          "link": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
-          "publishedOn": "2021-05-19T17:19:12.000Z",
-          "wordCount": 2354,
-          "title": "Previews of software updates designed for people with disabilities"
+          "id": "https://news.ycombinator.com/item?id=27223012",
+          "author": "bpierre",
+          "description": "Article URL: https://blog.stackblitz.com/posts/introducing-webcontainers/\nComments URL: https://news.ycombinator.com/item?id=27223012\nPoints: 253\n# Comments: 139",
+          "link": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
+          "publishedOn": "2021-05-20T16:10:26.000Z",
+          "wordCount": 1811,
+          "title": "WebContainers: Run Node.js natively in the browser"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27211517",
-          "author": "marc__1",
-          "description": "Article URL: https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4\nComments URL: https://news.ycombinator.com/item?id=27211517\nPoints: 299\n# Comments: 125",
-          "link": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
-          "publishedOn": "2021-05-19T17:13:27.000Z",
-          "wordCount": 413,
-          "title": "FTC and several states sue Frontier Communications regarding internet speeds"
+          "id": "https://news.ycombinator.com/item?id=27222985",
+          "author": "tonikami",
+          "description": "We're Tunde, Boateng, and Landon, the founders of YSplit (https://www.ysplit.com). We make it easy to share the cost of utility bills, subscriptions, phone plans & more. When your bill is due, we charge everyone their portion, and then we pay for it.\nWhile sharing an apartment with my co-founders during an internship, I was responsible for paying the gas, wifi & rent bills upfront and having everyone Venmo me back. Tracking how much I was owed and getting everyone to pay me back took up a fair amount of tim…",
+          "link": "https://news.ycombinator.com/item?id=27222985",
+          "publishedOn": "2021-05-20T16:08:30.000Z",
+          "wordCount": 4179,
+          "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27210460",
-          "author": "csmajorfive",
-          "description": "Article URL: https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/\nComments URL: https://news.ycombinator.com/item?id=27210460\nPoints: 133\n# Comments: 27",
-          "link": "https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/",
-          "publishedOn": "2021-05-19T16:01:05.000Z",
-          "wordCount": 1261,
-          "title": "Next-generation Deploy Previews, plus Netlify acquires FeaturePeek (YC S19)"
+          "id": "https://news.ycombinator.com/item?id=27222460",
+          "author": "bpierre",
+          "description": "Article URL: https://v2.parceljs.org/blog/beta3/\nComments URL: https://news.ycombinator.com/item?id=27222460\nPoints: 227\n# Comments: 61",
+          "link": "https://v2.parceljs.org/blog/beta3/",
+          "publishedOn": "2021-05-20T15:31:22.000Z",
+          "wordCount": 1972,
+          "title": "Parcel 2 Beta 3 – improved build performance"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27210008",
-          "author": "breck",
-          "description": "Article URL: https://www.nongnu.org/gzz/gi/gi.html\nComments URL: https://news.ycombinator.com/item?id=27210008\nPoints: 75\n# Comments: 27",
-          "link": "https://www.nongnu.org/gzz/gi/gi.html",
-          "publishedOn": "2021-05-19T15:25:40.000Z",
-          "wordCount": 4442,
-          "title": "A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)"
+          "id": "https://news.ycombinator.com/item?id=27222457",
+          "author": "mcp_",
+          "description": "Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits\nComments URL: https://news.ycombinator.com/item?id=27222457\nPoints: 258\n# Comments: 62",
+          "link": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
+          "publishedOn": "2021-05-20T15:31:06.000Z",
+          "wordCount": 3657,
+          "title": "Spintronics: Build Mechanical Circuits"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27209412",
-          "author": "TangerineDream",
-          "description": "Article URL: https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/\nComments URL: https://news.ycombinator.com/item?id=27209412\nPoints: 429\n# Comments: 154",
-          "link": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
-          "publishedOn": "2021-05-19T14:48:43.000Z",
-          "wordCount": 1411,
-          "title": "Improving Firefox stability on Linux"
+          "id": "https://news.ycombinator.com/item?id=27221552",
+          "author": "zdw",
+          "description": "Article URL: https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/\nComments URL: https://news.ycombinator.com/item?id=27221552\nPoints: 140\n# Comments: 293",
+          "link": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
+          "publishedOn": "2021-05-20T14:29:55.000Z",
+          "wordCount": 1980,
+          "title": "Undefined behavior in C is a reading error"
         }
       ]
     },
@@ -193,12 +193,129 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46095_v1",
+          "author": null,
+          "description": "Durante una transmisión en vivo dedicada a mostrar y descubrir nuevos detalles del PvP (jugador contra jugador) de Overwatch 2, Blizzard Entertainment ha anunciado un cambio en el tamaño de los equipos, que una vez esté disponible el juego pasarán a ser de cinco miembros (5c5) en lugar de los seis (6c6) actuales. Además, solo se podrá elegir un tanque por bando. El evento también ha servido para mostrar mediante partidas algunos de los nuevos mapas. “Hay muchas razones por las que queríamos hacer este cambi…",
+          "link": "https://www.elotrolado.net/noticias/juegos/overwatch-2-pvp-5c5",
+          "publishedOn": "2021-05-20T23:00:18.000Z",
+          "wordCount": 652,
+          "title": "Los equipos de Overwatch 2 serán de cinco jugadores y con un solo tanque"
+        },
+        {
+          "id": "46094_v2",
+          "author": null,
+          "description": "La editora especializada en juegos indie The Arcade Crew propiedad de DotEmu (Streets of Rage 4, Wonder Boy: The Dragon's Trap), ha anunciado que The Last Spell debutará en el acceso anticipado de Steam el 3 de junio por 19,99 euros. Junto a la fecha de lanzamiento se ha distribuido un generoso tráiler donde se desgranan todos los detalles sobre el gameplay del título desarrollado por Ishtar Games, un estudio francés antes conocido como CCCP. The Last Spell se describe como un RPG de defensa táctica cuya ac…",
+          "link": "https://www.elotrolado.net/noticias/juegos/the-last-spell-fecha-gampelay",
+          "publishedOn": "2021-05-20T18:01:39.000Z",
+          "wordCount": 575,
+          "title": "The Last Spell, un RPG de defensa táctica, llegará al acceso anticipado de Steam el 3 de junio"
+        },
+        {
+          "id": "46093_v1",
+          "author": null,
+          "description": "El juego en forma de “telenovela mutante” Mutazione se pondrá a la venta con versión para Xbox One y Nintendo Switch el 27 de mayo, según ha anunciado el editor Akupara Games. La compañía también ha comunicado que la versión del título para Nintendo Switch y PS4, donde se encuentra disponible desde septiembre de 2019, tendrá una edición en formato físico de la mano de iam8bit. Desarrollado por Die Gute Fabrik, Mutazione es una aventura protagonizada por Kai, una niña de 15 años que viaja hasta el pueblo que…",
+          "link": "https://www.elotrolado.net/hilo_mutazione-estara-disponible-el-27-de-mayo-en-xbox-one-y-nintendo-switch_2423451",
+          "publishedOn": "2021-05-20T16:11:07.000Z",
+          "wordCount": 316,
+          "title": "Breve: Mutazione estará disponible el 27 de mayo en Xbox One y Nintendo Switch"
+        },
+        {
+          "id": "46092_v1",
+          "author": null,
+          "description": "Epic Games vuelve a regar con dinero a Take-Two para promocionar su evento anual Mega Sale (o Superofertas). El año pasado fueron Civilization VI, Borderlands: The Handsome Collection y Grand Theft Auto V y en 2021 el periodo de rebajas empieza con NBA 2K21, que desde hoy y hasta el 27 de mayo a las 17:00 horas se puede conseguir gratis. Con el título a buen resguardo en la biblioteca Epic Games espera que la gente compre algo en su tienda digital. Como cualquier otro periodo de ofertas el Mega Sale rebaja …",
+          "link": "https://www.elotrolado.net/noticias/juegos/epic-games-store-superofertas-nba-2k21-gratis",
+          "publishedOn": "2021-05-20T15:55:15.000Z",
+          "wordCount": 772,
+          "title": "Epic Games Store empieza su Mega Sale anual regalando NBA 2K21 y cupones de 10 euros"
+        },
+        {
+          "id": "46091_v1",
+          "author": null,
+          "description": "Cumpliendo su papel como editor, Warner Bros. Games sigue desgranando las novedades del shooter cooperativo Back 4 Blood. Después de conocer el sistema de cartas responsable de la rejugabilidad, es el turno de revelar con un nuevo tráiler todos los detalles de los Exterminadores (o Cleaners), nombre bajo el cual se conocen los personajes jugables en el título desarrollado por Turtle Rock Studios (Left 4 Dead). El metraje también ofrece información sobre algunos de los infectados. Empezamos con la narradora …",
+          "link": "https://www.elotrolado.net/noticias/juegos/back-4-blood-exterminadores",
+          "publishedOn": "2021-05-20T15:46:23.000Z",
+          "wordCount": 733,
+          "title": "Back 4 Blood presenta a sus ocho personajes jugables"
+        },
+        {
+          "id": "46090_v1",
+          "author": null,
+          "description": "Bandai Namco ha anunciado que Ni no Kuni II: El Renacer de un Reino tendrá una versión para Nintendo Switch que estará disponible el 17 de septiembre. Además de presentar el título y poner una fecha de lanzamiento, el editor japonés ha mostrado un tráiler donde podemos ver al título desarrollado por Level-5 en acción y comunicado que los jugadores de Switch recibirán la Prince’s Edition que incluye todo el contenido poslanzamiento de pago y gratuito. A lo largo de su trayectoria en PS4 y PC (Steam), Ni no K…",
+          "link": "https://www.elotrolado.net/noticias/juegos/ni-no-kuni-ii-fecha-lanzamiento",
+          "publishedOn": "2021-05-20T14:48:30.000Z",
+          "wordCount": 797,
+          "title": "Ni no Kuni II: El Renacer de un Reino para Nintendo Switch estará disponible el 17 de septiembre"
+        },
+        {
+          "id": "46089_v1",
+          "author": null,
+          "description": "El lanzamiento de Monster Hunter Stories 2: Wings of Ruin no está previsto hasta el 9 de julio y hasta entonces Capcom tiene mucho que decir sobre el juego en desarrollo para Nintendo Switch y PC (Steam). Como muestra de ello tenemos un nuevo tráiler donde se ofrecen detalles sobre la historia del juego y el anuncio de un nuevo evento digital, que se emitirá el 26 de mayo a las 16:00 CEST y servirá para hablar tanto de Monster Hunter Rise, ya disponible en Nintendo Switch, como de Monster Hunter Stories 2: …",
+          "link": "https://www.elotrolado.net/noticias/juegos/monster-hunter-stories-2-trailer-historia",
+          "publishedOn": "2021-05-20T14:21:48.000Z",
+          "wordCount": 638,
+          "title": "Monster Hunter Stories 2: Wings of Ruin muestra un nuevo tráiler centrado en la historia"
+        },
+        {
+          "id": "46088_v1",
+          "author": null,
+          "description": "Disponible en Stadia desde septiembre del año pasado, Super Bomberman R Online debutará en PlayStation 4, Nintendo Switch y PC (Steam) el 27 de mayo, según ha anunciado Konami. Más adelante el juego free-to-play llegará a Xbox One. Konami también ha revelado que Super Bomberman R Online tendrá nuevas temporadas, cada una de ellas durará tres meses y añadirá nuevos artículos, objetos cosméticos y héroes. La primera temporada liderada por Old Snake Bomber, ya se puede adquirir con Bomber Coins. Opcionalmente,…",
+          "link": "https://www.elotrolado.net/hilo_super-bomberman-r-online-para-ps4-switch-y-pc-estara-disponible-el-27-de-mayo_2423426",
+          "publishedOn": "2021-05-20T12:49:17.000Z",
+          "wordCount": 275,
+          "title": "Breve: Super Bomberman R Online para PS4, Switch y PC estará disponible el 27 de mayo"
+        },
+        {
+          "id": "46087_v1",
+          "author": null,
+          "description": "La voracidad de Embracer Group parece no tener fin. Y su cartera tampoco. Durante la presentación de sus últimos resultados financieros el holding sueco ha revelado que a lo largo del primer trimestre del año ha contactado con más de 150 compañías para abordar una posible adquisición. De todas estas conversaciones más de 20 se encuentran en una fase avanzada. Por dinero no será. Entre efectivo y líneas de crédito Embracer Group tiene a su disposición 1.600 millones de euros. “A lo largo del trimestre [que t…",
+          "link": "https://www.elotrolado.net/noticias/juegos/embracer-group-comprar-estudios",
+          "publishedOn": "2021-05-20T12:01:23.000Z",
+          "wordCount": 695,
+          "title": "Embracer Group negocia con más de 20 compañías su posible adquisición"
+        },
+        {
+          "id": "46086_v1",
+          "author": null,
+          "description": "Google Reader murió hace más de ocho años, pero muchos de sus antiguos usuarios aún siguen de duelo. La cancelación del otrora popular servicio de suscripción a fuentes RSS dejó a un gran número de personas sin otra opción que echarse en brazos de alternativas web como Feedly o clientes nativos, todo ello porque Google consideró que eso de las RSS era algo que estaba muy venido a menos y en lo que no merecía la pena invertir. Como de erradas serían sus predicciones que ahora Chrome tiene su propio lector in…",
+          "link": "https://www.elotrolado.net/noticias/internet/chrome-lector-rss",
+          "publishedOn": "2021-05-20T11:30:14.000Z",
+          "wordCount": 760,
+          "title": "Google redescubre su interés en las RSS e incluye un botón de suscripción en la última build de Chrome"
+        },
+        {
+          "id": "46084_v1",
+          "author": null,
+          "description": "Free Radical Design está de vuelta. El histórico estudio de desarrollo británico se reformará como un nuevo equipo bajo la dirección de Steve Ellis y David Doak, dos de sus fundadores originales, y formará parte de Deep Silver, una filial de Embracer Group. Actualmente el nuevo Free Radical Design trabaja en la construcción del estudio y en los próximos meses se pondrá manos a la obra con una nueva entrega de TimeSplitters. “Poder confirmar por fin que se ha formado el estudio y que tenemos un plan para el …",
+          "link": "https://www.elotrolado.net/noticias/juegos/free-radical-timesplitters-nuevo",
+          "publishedOn": "2021-05-20T10:05:29.000Z",
+          "wordCount": 780,
+          "title": "Free Radical Design vuelve a la vida y trabaja en un nuevo TimeSplitters"
+        },
+        {
+          "id": "46085_v1",
+          "author": null,
+          "description": "Rakuten sigue engrosando su ya considerable lista de alternativas a los lectores Kindle. Su gama de e-readers Kobo, que goza de muy buena aceptación entre los usuarios que han decidido no optar por el ecosistema de Amazon, suma hoy un integrante especialmente polivalente con la llegada del modelo Elipsa. Este lector de libros electrónicos destaca por proporcionar la capacidad para tomar notas usando un lápiz, igual que haríamos con un texto impreso en papel. El Kobo Elipsa posee una muy considerable pantall…",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/ereader-kobo-elipsa-stylus",
+          "publishedOn": "2021-05-20T09:56:16.000Z",
+          "wordCount": 733,
+          "title": "Kobo anuncia el lector de e-books Elipsa, con lápiz para realizar anotaciones sobre los textos"
+        },
+        {
+          "id": "46083_v1",
+          "author": null,
+          "description": "El encontronazo en los tribunales entre Epic y Apple nos está dejando algunos titulares bastante llamativos. Inesperados, incluso. Además de arrojar luz a sobre las finanzas y los acuerdos de ambas compañías, que de otra forma permanecerían opacos a los ojos de los consumidores, el juicio también está sirviendo para conocer la situación real de sus respectivos ecosistemas y servicios. Que en el caso de Apple, conlleva la lucha contra una cantidad de malware superior a la que podía creerse inicialmente. Segú…",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/apple-problema-malware-epic",
+          "publishedOn": "2021-05-20T08:49:53.000Z",
+          "wordCount": 845,
+          "title": "Apple afirma que no conviene abrir el iPhone a la Epic Store porque los Mac ya tienen niveles de malware inaceptables"
+        },
+        {
           "id": "46082_v1",
           "author": null,
           "description": "El equipo de desarrollado coreano Round8 Studio (Bless Unleashed) y el editor Neowiz han anunciado Lies of P, un juego de acción y rol (o ARPG) tipo Souls que se inspira en la universal y clásica historia de Pinocho, pero mezclada con oscuridad de Bloodborne y ambientado en un mundo oscuro y cruel de la Belle Époque. El título ha sido presentado junto a un tráiler cinemático de poco más de tres minutos, los primeros detalles y las plataformas de lanzamiento: PlayStation 5, Xbox Series y PC (Steam). La campa…",
           "link": "https://www.elotrolado.net/noticias/juegos/lies-of-p-anunciado",
           "publishedOn": "2021-05-19T23:49:08.000Z",
-          "wordCount": 590,
+          "wordCount": 732,
           "title": "Presentado Lies of P, un ARPG tipo Souls inspirado en la historia de Pinocho"
         },
         {
@@ -207,7 +324,7 @@
           "description": "Electronic Arts (EA) ha anunciado la formación de un nuevo equipo de desarrollo en Seattle (Washington) liderado por Kevin Stephens, antiguo vicepresidente de Monolith Productions. Durante su etapa en Monolith Productions, un equipo propiedad de Warner Bros., Stephens supervisó el desarrollo de La Tierra Media: Sombras de Mordor y La Tierra Media: Sombras de Guerra. El nuevo estudio de Electronic Arts aún no tiene nombre, pero ya sabemos que su primer proyecto consistirá en desarrollar un juego de acción y …",
           "link": "https://www.elotrolado.net/hilo_ea-abre-un-nuevo-estudio-que-trabajara-en-un-juego-de-accion-y-aventura-de-mundo-abierto_2423388",
           "publishedOn": "2021-05-19T22:11:31.000Z",
-          "wordCount": 304,
+          "wordCount": 435,
           "title": "Breve: EA abre un nuevo estudio que trabajará en un juego de acción y aventura de mundo abierto"
         },
         {
@@ -216,7 +333,7 @@
           "description": "El Parlamento Europeo ha pedido a la Comisión Europea que adapte la legislación vigente para endurecer la lucha contra la piratería en la transmisión de eventos deportivos (fútbol), y para ello propone cumplir con el sueño de los titulares de los derechos: clarificar y mejorar el actual marco legal para poder interrumpir las transmisiones ilegales en tiempo real o en un máximo de 30 minutos después de la notificación. Por ahora no queda demasiado claro si será necesaria una orden judicial. Según los eurodip…",
           "link": "https://www.elotrolado.net/noticias/internet/futbol-iptv-ilegal-retirada-inmediata",
           "publishedOn": "2021-05-19T21:54:43.000Z",
-          "wordCount": 849,
+          "wordCount": 847,
           "title": "El Parlamento Europeo pide una legislación para interrumpir transmisiones deportivas ilegales en tiempo real"
         },
         {
@@ -279,7 +396,7 @@
           "description": "Nintendo ha anunciado que el 26 de mayo el catálogo de Nintendo Switch Online incorporará cinco nuevos títulos, que sumados a los ya disponibles permitirán al servicio de pago sumar más de 100 juegos, 104 para ser exactos, entre los de NES y SNES. Las nuevas incorporaciones son: Joe & Mac: Caveman Ninja (SNES, 1991) - Los cavernícolas Joe y Mac deben rescatar a su pueblo después de que una tribu de neandertales destruyera su aldea Magical Drop II (SNES, 1996) - Juego de rompecabezas donde hay que alinear bo…",
           "link": "https://www.elotrolado.net/hilo_nintendo-switch-online-anade-cinco-nuevos-juegos-incluyendo-a-joe-mac-caveman-ninja_2423333",
           "publishedOn": "2021-05-19T12:42:40.000Z",
-          "wordCount": 745,
+          "wordCount": 1290,
           "title": "Breve: Nintendo Switch Online añade cinco nuevos juegos incluyendo a Joe & Mac: Caveman Ninja"
         },
         {
@@ -299,123 +416,6 @@
           "publishedOn": "2021-05-19T10:50:01.000Z",
           "wordCount": 805,
           "title": "Microsoft reconoce que Windows 10X, su rival de Chrome OS pensado para portátiles de doble pantalla, ha sido cancelado"
-        },
-        {
-          "id": "46069_v1",
-          "author": null,
-          "description": "Capcom y Netflix han mostrado un nuevo tráiler y puesto fecha a Resident Evil Oscuridad Infinita, la serie anime a cargo del estudio japonés Quebico que estará disponible en el servicio de streaming el 8 de julio. Por otro lado, la compañía nipona ha actualizado las ventas de sus juegos y revelado que durante los tres primeros meses del año Resident Evil 7: biohazard vendió 500.000 unidades que le han permitido superar los 9 millones de copias traspasadas. Además de ofrecer fecha y tráiler, Netflix ha revel…",
-          "link": "https://www.elotrolado.net/noticias/internet/resident-evil-oscuridad-infinita-netflix-fecha-trailer",
-          "publishedOn": "2021-05-19T09:50:30.000Z",
-          "wordCount": 827,
-          "title": "La serie de anime Resident Evil: Oscuridad Infinita estrena tráiler y anuncia su llegada para el 8 de julio en Netflix"
-        },
-        {
-          "id": "46068_v1",
-          "author": null,
-          "description": "Take-Two ha presentado los resultados financieros del cuarto y último trimestre del año fiscal 2021 y con ello ha descubierto que GTA Online sigue siendo una máquina de hacer dinero. Además, la compañía ha actualizado las ventas totales Grand Theft Auto V, que después de ocho años en el mercado acumula 145 millones de unidades vendidas, 5 millones más que hace tres meses. En total, la saga Grand Theft Auto suma 345 millones de copias despachadas. Durante el pasado año fiscal Take-Two ingresó la cifra récord…",
-          "link": "https://www.elotrolado.net/noticias/juegos/take-two-ventas-gta-saga",
-          "publishedOn": "2021-05-18T23:39:23.000Z",
-          "wordCount": 802,
-          "title": "GTA Online permite a Take-Two obtener unos resultados récord mientras GTA V alcanza los 145 millones de copias vendidas"
-        },
-        {
-          "id": "46067_v1",
-          "author": null,
-          "description": "Take-Two, el sello bajo el cual se resguardan Rockstar Games, 2K Games, Private Division y Social Point, ha presentado sus últimos resultados financieros y aprovechado la ocasión para actualizar los lanzamientos previstos hasta el año fiscal 2023/2024. En total, la compañía tiene en marcha 62 juegos y entre ellos se esconde una nueva propiedad intelectual de Gearbox Software, el desarrollador responsable de la saga Borderlands que desde hace poco tiempo forma parte de Embracer Group. Si entramos al detalle,…",
-          "link": "https://www.elotrolado.net/noticias/juegos/take-two-proximos-lanzamientos",
-          "publishedOn": "2021-05-18T22:51:05.000Z",
-          "wordCount": 855,
-          "title": "Take-Two actualiza su calendario de lanzamientos: 62 juegos en los próximos tres años y una nueva saga junto a Gearbox"
-        },
-        {
-          "id": "46066_v1",
-          "author": null,
-          "description": "Nvidia ha anunciado que los primeros juegos de realidad virtual o con soporte para esta tecnología que tendrán soporte para DLSS serán No Man’s Sky, Wrench y Into The Radius. Gracias a esta tecnología impulsada por la inteligencia artificial y presente en las tarjetas RTX con núcleos Tensor los mencionados títulos aumentarán tanto la calidad de imagen como la resolución del juego. Según Nvidia, “cuando juegas No Man’s Sky en modo VR, DLSS duplica el rendimiento con en el ajuste preestablecido de gráficos Ul…",
-          "link": "https://www.elotrolado.net/hilo_no-man-s-sky-sera-uno-de-los-primeros-juegos-de-realidad-virtual-con-soporte-para-dlss_2423278",
-          "publishedOn": "2021-05-18T21:37:55.000Z",
-          "wordCount": 531,
-          "title": "Breve: No Man’s Sky será uno de los primeros juegos de realidad virtual con soporte para DLSS"
-        },
-        {
-          "id": "46065_v1",
-          "author": null,
-          "description": "Después de un lanzamiento no demasiado afortunado en PlayStation 4, Xbox One, Nintendo Switch y PC, el juego de estrategia Empire of Sin desarrollado por Romero Games y editado por Paradox Interactive emprendió el camino de la redención con una serie de actualizaciones. Hoy esta senda llega a un “punto de inflexión” con la llegada de la actualización Gánster, mientras que al horizonte asoma una expansión gratuita llamada El Distrito que estará disponible a finales de año. La actualización Gánster añade las …",
-          "link": "https://www.elotrolado.net/noticias/juegos/empire-of-sin-expansion-el-distrito-anunciada",
-          "publishedOn": "2021-05-18T21:08:19.000Z",
-          "wordCount": 590,
-          "title": "Empire of Sin recibe la actualización Gánster y anuncia la expansión gratuita El Distrito para finales de año"
-        },
-        {
-          "id": "46064_v1",
-          "author": null,
-          "description": "CD Projekt Red ha revelado que el juego de rol Thronebreaker ambientado en el mundo de The Witcher estará disponible para Android mediante Google Play a partir del 17 de junio a cambio de 10,99 euros. Hasta ahora el título se podría encontrar en PlayStation 4, Xbox One, Nintendo Switch, PC (Steam, GOG) y iOS. Thronebreaker es un título combina la exploración enfocada en la narrativa con rompecabezas y mecánicas de batallas de cartas. Su historia de unas 30 horas de duración tiene como protagonista a Meve, l…",
-          "link": "https://www.elotrolado.net/hilo_the-witcher-tales-thronebreaker-para-android-estara-disponible-el-17-de-junio_2423270",
-          "publishedOn": "2021-05-18T20:26:19.000Z",
-          "wordCount": 398,
-          "title": "Breve: The Witcher Tales: Thronebreaker para Android estará disponible el 17 de junio"
-        },
-        {
-          "id": "46063_v1",
-          "author": null,
-          "description": "Después de dos años a la venta, Ancestors: The Humankind Odyssey ha conseguido superar el millón de copias vendidas, según han anunciado el desarrollador Panache Digital Games y el editor Private Division. A día de hoy el juego de supervivencia se encuentra disponible en PlayStation 4, Xbox One y PC (Steam, GOG, Epic Games Store). “Hemos emprendido un viaje para crear algo especial con Ancestors: The Humankind Odyssey y significa mucho para nosotros que más de un millón de jugadores nos hayan acompañado en …",
-          "link": "https://www.elotrolado.net/hilo_ancestors-the-humankind-odyssey-alcanza-el-millon-de-unidades-vendidas_2423268",
-          "publishedOn": "2021-05-18T20:15:34.000Z",
-          "wordCount": 417,
-          "title": "Breve: Ancestors: The Humankind Odyssey alcanza el millón de unidades vendidas"
-        },
-        {
-          "id": "46062_v1",
-          "author": null,
-          "description": "Los jugadores de PlayStation 4 y Xbox One con una copia de Maid of Sker tendrán disponible el 26 de mayo una actualización gratuita que permitirá al título desarrollado por Wales Interactive aprovechar el hardware de PlayStation 5 y Xbox Series. Ese mismo día y en todas las plataformas incluyendo PC se añadirá el contenido gratuito FPS Challenge Modes. Con la actualización instalada, los jugadores de Maid of Sker con una PS5 o Xbox Series X disfrutarán de unas texturas mejoradas, tiempos de carga más rápido…",
-          "link": "https://www.elotrolado.net/hilo_maid-of-sker-recibira-la-actualizacion-para-ps5-y-xbox-series-el-26-de-mayo_2423267",
-          "publishedOn": "2021-05-18T20:09:46.000Z",
-          "wordCount": 333,
-          "title": "Breve: Maid of Sker recibirá la actualización para PS5 y Xbox Series el 26 de mayo"
-        },
-        {
-          "id": "46061_v1",
-          "author": null,
-          "description": "El editor Deep Silver y el desarrollador Nine Dots Studio han anunciado que los jugadores de Outward en PlayStation 4 y Xbox One ya tiene disponible el contenido adicional de pago Los Tres Hermanos, que se despacha por 14,99 euros. En PC este complemento se encuentra a la venta desde diciembre de 2020. En The Three Brothers los jugadores de Outward participarán en la reconstrucción del campo de refugiados de Vieja Sirocco para que sus gentes tengan un nuevo hogar. A lo largo de esta aventura que permitirá c…",
-          "link": "https://www.elotrolado.net/hilo_outward-para-ps4-y-xbox-one-recibe-el-contenido-los-tres-hermanos_2423265",
-          "publishedOn": "2021-05-18T19:57:40.000Z",
-          "wordCount": 429,
-          "title": "Breve: Outward para PS4 y Xbox One recibe el contenido Los Tres Hermanos"
-        },
-        {
-          "id": "46060_v1",
-          "author": null,
-          "description": "Si hay una verdad inamovible en la industria de la electrónica personal, es que tres son multitud. No veremos mejor demostración de ello que la proporcionada por el mercado de la telefonía móvil, que poco a poco ha ido perdiendo cualquier posible competidor contra iOS y Android. Y algo parecido se estaba fraguando en el espacio de los wearables, si excluimos las pulseras inteligentes y algunas marcas (como Garmin) que juegan por libre. Tizen, apoyado en solitario por Samsung, estaba jugando al juego de las …",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/google-wearos-samsung-tizen-se-unen",
-          "publishedOn": "2021-05-18T19:55:11.000Z",
-          "wordCount": 782,
-          "title": "Google y Samsung se alían para unir Wear OS y Tizen en una nueva plataforma común: Wear"
-        },
-        {
-          "id": "46059_v1",
-          "author": null,
-          "description": "La conferencia para desarrolladores I/O ha regresado hoy tras un año de ausencia. En un formato virtual y tal vez reducida en lo que se refiere a unas novedades más centradas en la nube y la supercomputación que en ocasiones anteriores, pero no por ello Google se ha olvidado de Android y su ecosistema. De hecho, la cita ha servido para conocer los primeros detalles oficiales y formales de Android 12, que se construirá sobre dos pilares: la personalización y la privacidad. La primera beta de Android 12 servi…",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/android-12-novedades-cambios",
-          "publishedOn": "2021-05-18T19:25:22.000Z",
-          "wordCount": 890,
-          "title": "Google presenta Android 12, con una interfaz totalmente rediseñada y adaptable por el usuario"
-        },
-        {
-          "id": "46058_v1",
-          "author": null,
-          "description": "Microsoft ha revelado una generosa colección de juegos que durante la segunda quincena de mayo se unirán al catálogo de Xbox Game Pass. Entre los títulos seleccionados tenemos algunos day one como The Wild at Heart y Knockout City, así como nombres veteranos incluyendo a SnowRunner y Conan Exiles. Además, hay una serie de juegos que ganan soporte para los controles táctiles y una lista de títulos que se despiden como las dos primeras entregas de Kingdom Hearts y Assetto Corsa. Al final de la noticia tenéis …",
-          "link": "https://www.elotrolado.net/noticias/juegos/xbox-game-pass-mayo-2021-2",
-          "publishedOn": "2021-05-18T18:32:23.000Z",
-          "wordCount": 1005,
-          "title": "SnowRunner, Secret Neighbor, Knockout City, Maneater, Conan Exiles, MechWarrior 5 y más se unen a Xbox Game Pass"
-        },
-        {
-          "id": "46057_v1",
-          "author": null,
-          "description": "Frontier Developments ha mostrado el tráiler de lanzamiento de Elite Dangerous: Odyssey para demostrar que ya lo tiene todo a punto para que mañana 19 de mayo los jugadores de este título multijugador masivo espacial accedan al contenido y novedades de la nueva expansión. El complemento Odyssey tiene un precio de 34,99 euros y se encuentra disponible para PC mediante Steam y Epic Games Store. La versión para PlayStation 4 y Xbox One se pondrá a la venta en otoño de 2021. “Odyssey constituye la expansión más…",
-          "link": "https://www.elotrolado.net/noticias/juegos/elite-dangerous-odyssey-lanzamiento-pc",
-          "publishedOn": "2021-05-18T17:26:50.000Z",
-          "wordCount": 644,
-          "title": "Tráiler de lanzamiento de Elite Dangerous: Odyssey, la expansión que permite explorar los mundos a pie"
         }
       ]
     },
@@ -424,6 +424,33 @@
       "feedUrl": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
       "siteUrl": "https://www.allgamesdelta.net/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-7368142271399083649",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "Single/co-op action-shooter RPG The Ascent shoots its way on to Xbox consoles and PC on 29 July\n Video games publisher Curve Digital is delighted to announce that the highly anticipated debut title from Swedish indie studio Neon Giant, The Ascent will be released on 29 July 2021 on Xbox Series X|S, Xbox One and PC and be available on Xbox Game Pass.\n A solo and co-op action-shooter RPG set in a sci-fi cyberpunk world, The Ascent is the first title from Neon Giant, a new 12-person studio composed of games in…",
+          "link": "https://www.allgamesdelta.net/2021/05/the-ascent-launches-july-29.html",
+          "publishedOn": "2021-05-20T15:55:00.000Z",
+          "wordCount": 570,
+          "title": "The Ascent Launches July 29"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-2707109415380961597",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "Sker Tactics: Wales Interactive Unveils Launch Date for Enhanced Console Versions of First-Person Horror Game, Maid of Sker\n Multi-award-winning video games and interactive movie publisher & developer Wales Interactive is pleased to announce today that an abundance of first-person Challenge Modes will become available to console owners of unnerving survival horror game, Maid of Sker.\n The new modes showcase a brand-new set of game mechanics, with the introduction of first-person shooting amongst some new an…",
+          "link": "https://www.allgamesdelta.net/2021/05/maid-of-sker-coming-to-ps5-and-xbox.html",
+          "publishedOn": "2021-05-20T12:50:00.000Z",
+          "wordCount": 518,
+          "title": "Maid of Sker Coming to PS5 and Xbox Series on May 26 Alongside 'FPS Challenge Modes' Update"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-6018879111695559718",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "Chivalry 2 Cross-Play Open Beta Begins May 27 for PC, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X|S\n Developer Torn Banner Studios, publisher Tripwire Presents, and global retail publishing partner Deep Silver are excited to announce first details for the upcoming Chivalry 2 Cross-Play Open Beta program. Scheduled to begin on May 27, 2021 at 11:00am (EDT) and ending on June 1 at 11:00am (EDT), the Chivalry 2 Cross-Play Open Beta will be available for free to all players on PC (via Epic Games S…",
+          "link": "https://www.allgamesdelta.net/2021/05/chivalry-ii-cross-play-open-beta-test.html",
+          "publishedOn": "2021-05-20T07:05:00.000Z",
+          "wordCount": 884,
+          "title": "Chivalry II Cross-Play Open Beta Test Set for May 27 to June 1"
+        },
         {
           "id": "tag:blogger.com,1999:blog-6752074960104712501.post-5866477018964458491",
           "author": "noreply@blogger.com (AllGamesDelta)",
@@ -621,33 +648,6 @@
           "publishedOn": "2021-05-16T15:36:00.000Z",
           "wordCount": 203,
           "title": "Valthirian Arc: Hero School Story 2 Launches in Early Access this Summer"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-2689008422808562845",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "Photo: @stefanieGMJ   \n \n\nJoint venture with MercurySteam Entertainment\n Digital Bros announces the contract between its subsidiary 505 Games and MercurySteam Entertainment S.L. for development and the world-wide publishing of a brand-new videogame to be released on both PC and consoles.\n   MercurySteam Entertainment is the award-winning development studio behind the bestselling Castlevania: Lords of Shadowseries, the critically acclaimed Metroid: Samus Returns, and the self-published co-op shooter Spacelor…",
-          "link": "https://www.allgamesdelta.net/2021/05/505-games-will-publish-mercurysteams.html",
-          "publishedOn": "2021-05-11T09:04:00.000Z",
-          "wordCount": 108,
-          "title": "505 Games Will Publish MercurySteam's Next Game for Console and PC"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-6909617633659865124",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "About Shadow Warrior 3\nFallen corporate shogun Lo Wang and his former employer turned nemesis turned sidekick Orochi Zilla embark on an improbable mission to recapture an ancient dragon they unwillingly unleashed from its eternal prison. Armed with a punishing mix of blades and bullets, Lo Wang must traverse uncharted parts of the world to track down the dark beast and push the apocalypse back yet again. All it will take is the mask of a dead god, a dragon’s egg, a touch of magic, and enough firepower to ho…",
-          "link": "https://www.allgamesdelta.net/2021/05/shadow-warrior-3-that-damn-dam-mission.html",
-          "publishedOn": "2021-05-11T08:45:00.000Z",
-          "wordCount": 315,
-          "title": "Shadow Warrior 3 'That Damn Dam' Mission Trailer"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-1241577569821341368",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "Bring the Outdoors Inside With Open Country\n 505 Games is turning the great outdoors into the great indoors with Open Country, an arcade-style hunting game delivering an easily accessible and enjoyable open world outdoor adventure.\n   The Open Country launch trailer showcases an explorable environment where survival, sport hunting, and more are all at a players’ fingertips.\n   Developed by Funlabs, Open Country is trekking to the Epic Games Store and Steam for PC on May 18 for £12.99. Players can add Open C…",
-          "link": "https://www.allgamesdelta.net/2021/05/open-country-launches-june-3.html",
-          "publishedOn": "2021-05-11T08:39:00.000Z",
-          "wordCount": 308,
-          "title": "Open Country Launches June 3"
         }
       ]
     }
