@@ -2,21 +2,358 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T01:14:42.910Z</updated>
+    <updated>2021-05-22T01:13:48.348Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The Anus Is an Evolutionary Marvel]]></title>
-        <id>https://news.ycombinator.com/item?id=27228550</id>
-        <link href="https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/"/>
-        <updated>2021-05-20T23:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/
-Comments URL: https://news.ycombinator.com/item?id=27228550
-Points: 75
-# Comments: 46]]></summary>
+        <title type="html"><![CDATA[A new replication crisis: Research that is less likely to be true is cited more]]></title>
+        <id>https://news.ycombinator.com/item?id=27241715</id>
+        <link href="https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more"/>
+        <updated>2021-05-22T00:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more
+Comments URL: https://news.ycombinator.com/item?id=27241715
+Points: 24
+# Comments: 7]]></summary>
+        <author>
+            <name>hhs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco’s Shoplifting Surge]]></title>
+        <id>https://news.ycombinator.com/item?id=27241085</id>
+        <link href="https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html"/>
+        <updated>2021-05-21T23:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html
+Comments URL: https://news.ycombinator.com/item?id=27241085
+Points: 111
+# Comments: 91]]></summary>
+        <author>
+            <name>tagawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradox presenta el juego de gran estrategia Victoria 3]]></title>
+        <id>46104_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/victoria-3-anunciado"/>
+        <updated>2021-05-21T23:06:33.000Z</updated>
+        <summary type="html"><![CDATA[La apuesta de Paradox Interactive por los juegos de gran estrategia no tiene fin y como nueva muestra de ello tenemos a Victoria 3, la tercera entrega de una franquicia que permite a los jugadores crear una sociedad ideal durante el siglo XIX. El título para PC, que ha sido anunciado en el marco del evento digital PDXCON Remixed y cuyo desarrollo corre a cargo de Paradox Development Studio, estará disponible en Steam, Paradox Store y Xbox Game Pass. Victoria 3 es un simulador de sociedad que permitirá a los…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Algorithmic Beauty of Plants (1990) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27240927</id>
+        <link href="http://algorithmicbotany.org/papers/abop/abop.pdf"/>
+        <updated>2021-05-21T22:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://algorithmicbotany.org/papers/abop/abop.pdf
+Comments URL: https://news.ycombinator.com/item?id=27240927
+Points: 29
+# Comments: 1]]></summary>
+        <author>
+            <name>tomlagier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada declares plastics toxic, paving the way for restrictions]]></title>
+        <id>https://news.ycombinator.com/item?id=27240796</id>
+        <link href="https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/"/>
+        <updated>2021-05-21T22:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/
+Comments URL: https://news.ycombinator.com/item?id=27240796
+Points: 234
+# Comments: 104]]></summary>
+        <author>
+            <name>robin_reala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woke at Work: Why tech firms are trying to run away from politics and failing]]></title>
+        <id>https://news.ycombinator.com/item?id=27240688</id>
+        <link href="https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing"/>
+        <updated>2021-05-21T22:20:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing
+Comments URL: https://news.ycombinator.com/item?id=27240688
+Points: 106
+# Comments: 193]]></summary>
+        <author>
+            <name>furrowedbrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human Antibodies Target Many Parts of Coronavirus Spike Protein]]></title>
+        <id>https://news.ycombinator.com/item?id=27240659</id>
+        <link href="https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/"/>
+        <updated>2021-05-21T22:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/
+Comments URL: https://news.ycombinator.com/item?id=27240659
+Points: 30
+# Comments: 5]]></summary>
+        <author>
+            <name>danboarder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take-Two sostiene que el impulso que la pandemia ha dado a la industria del videojuego será permanente]]></title>
+        <id>46102_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/take-two-pandemia-industria-videojuegos"/>
+        <updated>2021-05-21T22:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Después de firmar unos resultados económicos récord, Strauss Zelnick, presidente y director ejecutivo de Take-Two, ha conversado con GamesIndustry sobre el estado de la industria del videojuego. En concreto, el directivo ha ampliado unas palabras que dijo la semana pasada, cuando ante los accionistas comentó que la pandemia había iniciado un “cambio transformador en el consumo del entretenimiento” que beneficiará a todos los desarrolladores de videojuegos. “El entretenimiento interactivo es el entretenimien…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 3.0 Final is out (1998)]]></title>
+        <id>https://news.ycombinator.com/item?id=27240416</id>
+        <link href="http://web.archive.org/web/19980701120538/http://www.php.net/"/>
+        <updated>2021-05-21T21:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://web.archive.org/web/19980701120538/http://www.php.net/
+Comments URL: https://news.ycombinator.com/item?id=27240416
+Points: 55
+# Comments: 59]]></summary>
+        <author>
+            <name>xd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradox anuncia nuevas expansiones para Crusader Kings III, Empire of Sin y Prison Architect]]></title>
+        <id>46103_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/crusader-kings-empire-sin-prision-architect-expansiones"/>
+        <updated>2021-05-21T21:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Paradox Interactive ha iniciado el evento virtual PDXCON Remixed anunciando una nueva expansión para tres de sus juegos: Crusader Kings III, Empire of Sin y Prison Architect. Todas las presentaciones han estado acompañadas de los primeros detalles del nuevo contenido, así como de tráiler que en ninguno de los casos muestra demasiado. Royal Court, así se llama la primera gran expansión de Crusader Kings III, se propone demostrar que la vida de un rey no es todo fiesta y lucha. Con este nuevo contenido los ju…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft and Apple wage war on gadget right-to-repair laws]]></title>
+        <id>https://news.ycombinator.com/item?id=27240008</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws"/>
+        <updated>2021-05-21T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws
+Comments URL: https://news.ycombinator.com/item?id=27240008
+Points: 178
+# Comments: 76]]></summary>
+        <author>
+            <name>holmesworcester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack (YC W18) is hiring technical recruiters to build the future of writing]]></title>
+        <id>https://news.ycombinator.com/item?id=27239912</id>
+        <link href="https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd"/>
+        <updated>2021-05-21T21:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd
+Comments URL: https://news.ycombinator.com/item?id=27239912
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jairajs89</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Put that in your pipe and smoke it”]]></title>
+        <id>https://news.ycombinator.com/item?id=27239129</id>
+        <link href="https://wordhistories.net/2020/01/06/put-pipe-and-smoke/"/>
+        <updated>2021-05-21T19:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wordhistories.net/2020/01/06/put-pipe-and-smoke/
+Comments URL: https://news.ycombinator.com/item?id=27239129
+Points: 65
+# Comments: 28]]></summary>
+        <author>
+            <name>doat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlutterFlow: Low-code Flutter apps]]></title>
+        <id>https://news.ycombinator.com/item?id=27238381</id>
+        <link href="https://flutterflow.io/launch"/>
+        <updated>2021-05-21T18:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://flutterflow.io/launch
+Comments URL: https://news.ycombinator.com/item?id=27238381
+Points: 158
+# Comments: 57]]></summary>
+        <author>
+            <name>dested</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Talk About Hot Tub Streams]]></title>
+        <id>https://news.ycombinator.com/item?id=27238317</id>
+        <link href="https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/"/>
+        <updated>2021-05-21T18:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/
+Comments URL: https://news.ycombinator.com/item?id=27238317
+Points: 111
+# Comments: 171]]></summary>
         <author>
             <name>danso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cicada's Love Affair with Prime Numbers (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=27238289</id>
+        <link href="https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers"/>
+        <updated>2021-05-21T18:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers
+Comments URL: https://news.ycombinator.com/item?id=27238289
+Points: 39
+# Comments: 11]]></summary>
+        <author>
+            <name>optimalsolver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: La demo de Scarlet Nexus llega a Xbox One y Xbox Series]]></title>
+        <id>46101_v1</id>
+        <link href="https://www.elotrolado.net/hilo_la-demo-de-scarlet-nexus-llega-a-xbox-one-y-xbox-series_2423556"/>
+        <updated>2021-05-21T18:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bandai Namco ha comunicado que desde hoy y hasta el 27 de mayo los jugadores de Xbox One y Xbox Series tienen acceso exclusivo a la demo de Scarlet Nexus. A partir del 28 de mayo los usuarios de PlayStation 4 y PlayStation 5 también podrán probar el nuevo juego de rol y acción desarrollado por el equipo responsable de Tales of Vesperia. La demo de Scarlet Nexus permite ponerse en la piel de cualquiera de los dos protagonistas, Yuito Sumeragi o Kasane Randall, durante sus primeros pasos en la historia que of…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaked emails show crime app Citizen is testing on-demand security force]]></title>
+        <id>https://news.ycombinator.com/item?id=27237520</id>
+        <link href="https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails"/>
+        <updated>2021-05-21T17:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails
+Comments URL: https://news.ycombinator.com/item?id=27237520
+Points: 261
+# Comments: 312]]></summary>
+        <author>
+            <name>codq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix estaría considerando ofrecer juegos mediante una suscripción como Apple Arcade]]></title>
+        <id>46100_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/netflix-apple-arcade"/>
+        <updated>2021-05-21T17:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Netflix ha contactado con varios ejecutivos con experiencia en la industria del videojuego con el objetivo de contratar a uno de ellos para que supervise su expansión hacia este sector, según The Information (muro de pago). De consumarse, este sería un paso muy importante para el servicio de streaming, cuya relación con los videojuegos se limita a ceder licencias de sus contenidos originales y distribuir series y películas basadas en juegos. El mencionado medio sostiene que Netflix estaría trabajando en ofr…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-performance speech recognition with no supervision at all]]></title>
+        <id>https://news.ycombinator.com/item?id=27236958</id>
+        <link href="https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/"/>
+        <updated>2021-05-21T17:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/
+Comments URL: https://news.ycombinator.com/item?id=27236958
+Points: 55
+# Comments: 9]]></summary>
+        <author>
+            <name>panabee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text editing hates you too (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27236874</id>
+        <link href="https://lord.io/text-editing-hates-you-too/"/>
+        <updated>2021-05-21T17:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lord.io/text-editing-hates-you-too/
+Comments URL: https://news.ycombinator.com/item?id=27236874
+Points: 241
+# Comments: 123]]></summary>
+        <author>
+            <name>tate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)]]></title>
+        <id>https://news.ycombinator.com/item?id=27236251</id>
+        <link href="https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/"/>
+        <updated>2021-05-21T16:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/
+Comments URL: https://news.ycombinator.com/item?id=27236251
+Points: 58
+# Comments: 46]]></summary>
+        <author>
+            <name>empressplay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Rust Console Edition, el popular título de supervivencia llega a PlayStation 4 y Xbox One]]></title>
+        <id>46099_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/rust-console-edition-disponible-consolas"/>
+        <updated>2021-05-21T16:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Durante los últimos años no han sido pocos los juegos de supervivencia que han llegado al mercado y de todos ellos el que ha logrado un éxito más duradero ha sido Rust, que a día de hoy y después de ocho años en el mercado aún consigue reunir diariamente cerca de 100.000 usuarios concurrentes en Steam. Después de todo este tiempo el título desarrollado por Facepunch Studios celebra con un tráiler de lanzamiento que ya se encuentra disponible en PlayStation 4 y Xbox One. Los jugadores de ambas consolas tiene…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice2json: Offline speech and intent recognition on Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=27235970</id>
+        <link href="https://voice2json.org/"/>
+        <updated>2021-05-21T16:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://voice2json.org/
+Comments URL: https://news.ycombinator.com/item?id=27235970
+Points: 362
+# Comments: 81]]></summary>
+        <author>
+            <name>easrng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ya disponible Knockout City, un multijugador por equipos basado en combates de balón prisionero]]></title>
+        <id>46098_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/knockout-city-lanzamiento"/>
+        <updated>2021-05-21T15:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Después de intentarlo (y fallar) con Rocket Arena, EA Originals vuelve a la carga con un nuevo título multijugador. En esta ocasión la apuesta se llama Knockout City, está desarrollada por Velan Studios (Mario Kart Live: Home Circuit) y su gameplay se basa en el juego balón prisionero. Desde hoy el título se encuentra disponible vía Xbox Game Pass y EA Play, así como a la venta por 19,99 euros en PS4, PS5, Xbox One, Xbox Series, Nintendo Switch y PC (Steam, Origin). El juego cruzado está activado desde el p…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MagicaCSG: A lightweight signed distance field editor and renderer]]></title>
+        <id>https://news.ycombinator.com/item?id=27234755</id>
+        <link href="https://ephtracy.github.io/index.html?page=magicacsg"/>
+        <updated>2021-05-21T14:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ephtracy.github.io/index.html?page=magicacsg
+Comments URL: https://news.ycombinator.com/item?id=27234755
+Points: 60
+# Comments: 8]]></summary>
+        <author>
+            <name>xemoka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Ford F-150 Lightning]]></title>
+        <id>https://news.ycombinator.com/item?id=27234039</id>
+        <link href="https://www.ford.com/trucks/f150/f150-lightning/2022/"/>
+        <updated>2021-05-21T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/
+Comments URL: https://news.ycombinator.com/item?id=27234039
+Points: 575
+# Comments: 1217]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Destiny 2 pondrá a prueba el juego cruzado la próxima semana]]></title>
+        <id>46097_v1</id>
+        <link href="https://www.elotrolado.net/hilo_destiny-2-pondra-a-prueba-el-juego-cruzado-la-proxima-semana_2423526"/>
+        <updated>2021-05-21T10:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Bungie ha anunciado que del 25 al 27 de mayo celebrará una beta que permitirá a los jugadores de Destiny 2 poner a prueba el juego cruzado. “Será un evento corto, pero intenso, que marcará un hito en el proceso de desarrollo de esta función”, dice el desarrollador. La beta consistirá en una lista de juego especial de asaltos de la Vanguardia. El juego cruzado estará disponible para todos los jugadores de Destiny 2. “Se os emparejará con guardianes que jueguen en PlayStation, Xbox, Steam y Stadia”, explica B…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devolver Digital presenta Phantom Abyss, un roguelike multijugador asíncrono en primera persona]]></title>
+        <id>46096_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/phantom-abyss-anunciado"/>
+        <updated>2021-05-21T09:58:30.000Z</updated>
+        <summary type="html"><![CDATA[El editor Devolver Digital ha anunciado y ofrecido los primeros detalles de Phantom Abyss, un juego que permite ponerse en la piel de Harrison Ford en Indiana Jones pero con habilidades de parkour. El título en manos del estudio australiano Team WIBY estará disponible para PC a lo largo de junio mediante el acceso anticipado de Steam, donde se mantendrá en desarrollo durante “al menos un año”. La literatura oficial describe a Phantom Abyss como un título multijugador asíncrono masivo, así como una experienc…]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -30,136 +367,6 @@ Points: 75
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SimuLand, a lab environment to simulate attacker tradecraft]]></title>
-        <id>https://news.ycombinator.com/item?id=27227751</id>
-        <link href="https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/"/>
-        <updated>2021-05-20T21:44:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/
-Comments URL: https://news.ycombinator.com/item?id=27227751
-Points: 50
-# Comments: 9]]></summary>
-        <author>
-            <name>rmason</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SimpleVisor – Intel VT-x hypervisor in 500 lines of C code]]></title>
-        <id>https://news.ycombinator.com/item?id=27227683</id>
-        <link href="https://ionescu007.github.io/SimpleVisor/"/>
-        <updated>2021-05-20T21:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ionescu007.github.io/SimpleVisor/
-Comments URL: https://news.ycombinator.com/item?id=27227683
-Points: 59
-# Comments: 5]]></summary>
-        <author>
-            <name>belter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunderbird stored OpenPGP secret keys without master password protection]]></title>
-        <id>https://news.ycombinator.com/item?id=27227498</id>
-        <link href="https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956"/>
-        <updated>2021-05-20T21:25:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956
-Comments URL: https://news.ycombinator.com/item?id=27227498
-Points: 49
-# Comments: 17]]></summary>
-        <author>
-            <name>mritzmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Cross honors Igiugig woman for helping light runway during nighttime medevac]]></title>
-        <id>https://news.ycombinator.com/item?id=27227492</id>
-        <link href="https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/"/>
-        <updated>2021-05-20T21:25:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/
-Comments URL: https://news.ycombinator.com/item?id=27227492
-Points: 76
-# Comments: 12]]></summary>
-        <author>
-            <name>DoreenMichele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM]]></title>
-        <id>https://news.ycombinator.com/item?id=27227180</id>
-        <link href="https://jobs.lever.co/rainforest?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
-        <updated>2021-05-20T21:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN
-Comments URL: https://news.ycombinator.com/item?id=27227180
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>ukd1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Face masks effectively limit the probability of SARS-CoV-2 transmission]]></title>
-        <id>https://news.ycombinator.com/item?id=27226751</id>
-        <link href="https://science.sciencemag.org/content/early/2021/05/19/science.abg6296"/>
-        <updated>2021-05-20T20:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/early/2021/05/19/science.abg6296
-Comments URL: https://news.ycombinator.com/item?id=27226751
-Points: 184
-# Comments: 144]]></summary>
-        <author>
-            <name>paultgriffiths</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why RISC-V doesn't yet support KVM]]></title>
-        <id>https://news.ycombinator.com/item?id=27226625</id>
-        <link href="https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/"/>
-        <updated>2021-05-20T20:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/
-Comments URL: https://news.ycombinator.com/item?id=27226625
-Points: 92
-# Comments: 8]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extreme HTTP Performance Tuning]]></title>
-        <id>https://news.ycombinator.com/item?id=27226382</id>
-        <link href="https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/"/>
-        <updated>2021-05-20T20:01:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/
-Comments URL: https://news.ycombinator.com/item?id=27226382
-Points: 358
-# Comments: 51]]></summary>
-        <author>
-            <name>talawahtech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting up a Raspberry Pi with 2 Network Interfaces as a simple router]]></title>
-        <id>https://news.ycombinator.com/item?id=27225789</id>
-        <link href="https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router"/>
-        <updated>2021-05-20T19:20:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router
-Comments URL: https://news.ycombinator.com/item?id=27225789
-Points: 39
-# Comments: 7]]></summary>
-        <author>
-            <name>geerlingguy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Oregon counties vote to leave state, create 'Greater Idaho']]></title>
-        <id>https://news.ycombinator.com/item?id=27225739</id>
-        <link href="https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/"/>
-        <updated>2021-05-20T19:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/
-Comments URL: https://news.ycombinator.com/item?id=27225739
-Points: 214
-# Comments: 480]]></summary>
-        <author>
-            <name>rmason</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Last Spell, un RPG de defensa táctica, llegará al acceso anticipado de Steam el 3 de junio]]></title>
         <id>46094_v2</id>
         <link href="https://www.elotrolado.net/noticias/juegos/the-last-spell-fecha-gampelay"/>
@@ -170,58 +377,6 @@ Points: 214
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Snap Spectacles Feature Augmented Reality Display]]></title>
-        <id>https://news.ycombinator.com/item?id=27224691</id>
-        <link href="https://www.spectacles.com/new-spectacles"/>
-        <updated>2021-05-20T18:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.spectacles.com/new-spectacles
-Comments URL: https://news.ycombinator.com/item?id=27224691
-Points: 96
-# Comments: 96]]></summary>
-        <author>
-            <name>upwardbound</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Tool that turns your images into plotter-like line drawings]]></title>
-        <id>https://news.ycombinator.com/item?id=27224094</id>
-        <link href="https://javier.xyz/pintr/"/>
-        <updated>2021-05-20T17:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://javier.xyz/pintr/
-Comments URL: https://news.ycombinator.com/item?id=27224094
-Points: 244
-# Comments: 42]]></summary>
-        <author>
-            <name>javierbyte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicists identify the engine powering black hole energy beams]]></title>
-        <id>https://news.ycombinator.com/item?id=27223520</id>
-        <link href="https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/"/>
-        <updated>2021-05-20T16:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/
-Comments URL: https://news.ycombinator.com/item?id=27223520
-Points: 113
-# Comments: 73]]></summary>
-        <author>
-            <name>theafh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRISPR Editing in Primates]]></title>
-        <id>https://news.ycombinator.com/item?id=27223340</id>
-        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates"/>
-        <updated>2021-05-20T16:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates
-Comments URL: https://news.ycombinator.com/item?id=27223340
-Points: 134
-# Comments: 46]]></summary>
-        <author>
-            <name>jwcooper</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: Mutazione estará disponible el 27 de mayo en Xbox One y Nintendo Switch]]></title>
         <id>46093_v1</id>
         <link href="https://www.elotrolado.net/hilo_mutazione-estara-disponible-el-27-de-mayo-en-xbox-one-y-nintendo-switch_2423451"/>
@@ -229,30 +384,6 @@ Points: 134
         <summary type="html"><![CDATA[El juego en forma de “telenovela mutante” Mutazione se pondrá a la venta con versión para Xbox One y Nintendo Switch el 27 de mayo, según ha anunciado el editor Akupara Games. La compañía también ha comunicado que la versión del título para Nintendo Switch y PS4, donde se encuentra disponible desde septiembre de 2019, tendrá una edición en formato físico de la mano de iam8bit. Desarrollado por Die Gute Fabrik, Mutazione es una aventura protagonizada por Kai, una niña de 15 años que viaja hasta el pueblo que…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebContainers: Run Node.js natively in the browser]]></title>
-        <id>https://news.ycombinator.com/item?id=27223012</id>
-        <link href="https://blog.stackblitz.com/posts/introducing-webcontainers/"/>
-        <updated>2021-05-20T16:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.stackblitz.com/posts/introducing-webcontainers/
-Comments URL: https://news.ycombinator.com/item?id=27223012
-Points: 253
-# Comments: 139]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: YSplit (YC W19) – Automatically split and pay any bill]]></title>
-        <id>https://news.ycombinator.com/item?id=27222985</id>
-        <link href="https://news.ycombinator.com/item?id=27222985"/>
-        <updated>2021-05-20T16:08:30.000Z</updated>
-        <summary type="html"><![CDATA[We're Tunde, Boateng, and Landon, the founders of YSplit (https://www.ysplit.com). We make it easy to share the cost of utility bills, subscriptions, phone plans & more. When your bill is due, we charge everyone their portion, and then we pay for it.
-While sharing an apartment with my co-founders during an internship, I was responsible for paying the gas, wifi & rent bills upfront and having everyone Venmo me back. Tracking how much I was owed and getting everyone to pay me back took up a fair amount of tim…]]></summary>
-        <author>
-            <name>tonikami</name>
         </author>
     </entry>
     <entry>
@@ -288,32 +419,6 @@ While sharing an apartment with my co-founders during an internship, I was respo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parcel 2 Beta 3 – improved build performance]]></title>
-        <id>https://news.ycombinator.com/item?id=27222460</id>
-        <link href="https://v2.parceljs.org/blog/beta3/"/>
-        <updated>2021-05-20T15:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://v2.parceljs.org/blog/beta3/
-Comments URL: https://news.ycombinator.com/item?id=27222460
-Points: 227
-# Comments: 61]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spintronics: Build Mechanical Circuits]]></title>
-        <id>https://news.ycombinator.com/item?id=27222457</id>
-        <link href="https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits"/>
-        <updated>2021-05-20T15:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits
-Comments URL: https://news.ycombinator.com/item?id=27222457
-Points: 258
-# Comments: 62]]></summary>
-        <author>
-            <name>mcp_</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ni no Kuni II: El Renacer de un Reino para Nintendo Switch estará disponible el 17 de septiembre]]></title>
         <id>46090_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/ni-no-kuni-ii-fecha-lanzamiento"/>
@@ -321,19 +426,6 @@ Points: 258
         <summary type="html"><![CDATA[Bandai Namco ha anunciado que Ni no Kuni II: El Renacer de un Reino tendrá una versión para Nintendo Switch que estará disponible el 17 de septiembre. Además de presentar el título y poner una fecha de lanzamiento, el editor japonés ha mostrado un tráiler donde podemos ver al título desarrollado por Level-5 en acción y comunicado que los jugadores de Switch recibirán la Prince’s Edition que incluye todo el contenido poslanzamiento de pago y gratuito. A lo largo de su trayectoria en PS4 y PC (Steam), Ni no K…]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undefined behavior in C is a reading error]]></title>
-        <id>https://news.ycombinator.com/item?id=27221552</id>
-        <link href="https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/"/>
-        <updated>2021-05-20T14:29:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/
-Comments URL: https://news.ycombinator.com/item?id=27221552
-Points: 140
-# Comments: 293]]></summary>
-        <author>
-            <name>zdw</name>
         </author>
     </entry>
     <entry>
@@ -460,66 +552,6 @@ Points: 140
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Outriders supera los 3,5 millones de jugadores únicos en su primer mes y abre la puerta a ampliar su contenido]]></title>
-        <id>46079_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/outriders-jugadores-unicos"/>
-        <updated>2021-05-19T18:53:16.000Z</updated>
-        <summary type="html"><![CDATA[El lanzamiento de Outriders, una nueva propiedad intelectual desarrollada por el estudio polaco People Can Fly (Bulletstorm, Gears of War: Judgment), ha sido un éxito, según ha revelado Square Enix. El editor ha comunicado que durante su primer mes, del 1 de abril al 1 de mayo, el juego registró 3,5 millones de jugadores únicos, una cifra que en opinión del sello japonés permite a Outriders encontrarse en el camino correcto para “convertirse en la próxima gran franquicia de la compañía”. También abre la opc…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deathloop se muestra con nuevos tráileres y ofrece detalles sobre sus mecánicas y combates]]></title>
-        <id>46078_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/deathloop-traileres-mecanicas-combate"/>
-        <updated>2021-05-19T18:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Hoy ha sido el día elegido por Bethesda Softworks para levantar el embargo sobre los avances de Deathloop, que debido a la pandemia se tienen que escribir después de ver vía streaming una sesión de gameplay. Gracias a esta nueva información, que ha estado acompañada de numerosos tráileres, hemos conocido más detalles sobre las mecánicas y el combate del juego desarrollado por Arkane Studios (Dishonored, Prey) para PS5 y PC. Deathloop es un juego protagonizado por Colt, un asesino que se encuentra atrapado e…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rustler, un juego inspirado en Grand Theft Auto y ambientado en el medievo, estará disponible el 31 de agosto]]></title>
-        <id>46077_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/rustler-fecha-lanzamiento"/>
-        <updated>2021-05-19T17:27:33.000Z</updated>
-        <summary type="html"><![CDATA[El editor Modus Games y el desarrollador Jutsu Games han anunciado que Rustler estará disponible en formato físico y digital para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y Nintendo Switch a partir del 31 de agosto a cambio de 29,99 euros. La campaña de reservas ya está activa. Ese mismo día la versión para PC, que actualmente se vende por 20,99 euros en Steam, abandonará el acceso anticipado en el que se encuentra desde el pasado 18 de febrero. El anuncio con la fecha de lanzamiento de Rustler e…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presentado el POCO M3 Pro 5G, con pantalla de 90 Hz, procesador MediaTek y batería de 5.000 mAh desde 179,99 euros]]></title>
-        <id>46076_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/poco-m3-pro-5g-precio-ficha-tecnica"/>
-        <updated>2021-05-19T16:37:04.000Z</updated>
-        <summary type="html"><![CDATA[A POCO se le está poniendo cada vez más cara de Xiaomi a juzgar por el creciente número de versiones que saca de sus teléfonos móviles. Hoy es el turno de visitar de nuevo la serie POCO 3 para sumar un quinto modelo al catálogo, el POCO M3 Pro 5G, que se pondrá a la venta el 20 de mayo desde 159,99 euros, un precio que se mantendrá hasta el 26 de mayo. A partir de esa fecha se deberán abonar 179,99 euros para hacerse con la versión básica de este terminal. Como indica su nombre, el POCO M3 Pro 5G presenta c…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last of Us Parte II se actualiza para llegar a 60 FPS en PlayStation 5]]></title>
-        <id>46075_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/the-last-of-us-parte-ii-60fps-ps5"/>
-        <updated>2021-05-19T15:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Medio año después del lanzamiento de PlayStation 5, el desarrollador Naughty Dog libera el parche 1.08 para The Last of Us Parte II que permite jugar a 60 FPS. Lo que en Xbox Series es algo cada vez más habitual gracias a la función FPS Boost, que a día de hoy permite a casi 100 juegos retrocompatibles pasar de 30 FPS a 60 FPS, en PS5 es una excepción, incluso cuando hablamos de títulos first-party como es el caso. Sea como fuere, más de uno se alegrará de poder ejecutar The Last of Us Parte II en PS5 a 60 …]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Game Fest 2021 empezará el 10 de junio con un evento que promete una docena de primicias mundiales]]></title>
-        <id>46073_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/summer-game-fest-anunciado"/>
-        <updated>2021-05-19T14:48:48.000Z</updated>
-        <summary type="html"><![CDATA[El productor y presentador Geoff Keighley ha puesto fecha y hora al evento digital Summer Game Fest 2021, que se pondrá en marcha el jueves 10 de junio a las 20:00 horas CEST con el especial Kickoff Live! Después de este primer contacto el Summer Game Fest 2021 ofrecerá otros contenidos que se irán sucediendo a medida que las diferentes compañías emitan sus conferencias en el marco (o no) de E3 2021, que tendrá lugar en formato digital del 12 al 15 de junio. En declaraciones a diferentes medios, Keighley ha…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mario Golf: Super Rush Overview Trailer]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-5866477018964458491</id>
         <link href="https://www.allgamesdelta.net/2021/05/mario-golf-super-rush-overview-trailer.html"/>
@@ -550,16 +582,6 @@ Points: 140
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breve: Nintendo Switch Online añade cinco nuevos juegos incluyendo a Joe & Mac: Caveman Ninja]]></title>
-        <id>46072_v1</id>
-        <link href="https://www.elotrolado.net/hilo_nintendo-switch-online-anade-cinco-nuevos-juegos-incluyendo-a-joe-mac-caveman-ninja_2423333"/>
-        <updated>2021-05-19T12:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo ha anunciado que el 26 de mayo el catálogo de Nintendo Switch Online incorporará cinco nuevos títulos, que sumados a los ya disponibles permitirán al servicio de pago sumar más de 100 juegos, 104 para ser exactos, entre los de NES y SNES. Las nuevas incorporaciones son: Joe & Mac: Caveman Ninja (SNES, 1991) - Los cavernícolas Joe y Mac deben rescatar a su pueblo después de que una tribu de neandertales destruyera su aldea Magical Drop II (SNES, 1996) - Juego de rompecabezas donde hay que alinear bo…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[La-Mulana 2 DLC 'The Tower of Oannes' Announced]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-4446173976713284855</id>
         <link href="https://www.allgamesdelta.net/2021/05/la-mulana-2-dlc-tower-of-oannes.html"/>
@@ -570,26 +592,6 @@ Points: 140
      Now, the ambitions of the 4th Children are about to come to l…]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghost Recon Breakpoint se actualizará el 25 de mayo para mejorar la experiencia de los compañeros IA]]></title>
-        <id>46071_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/ghost-recon-breakpoint-actualizacion-teammate-experience"/>
-        <updated>2021-05-19T11:24:16.000Z</updated>
-        <summary type="html"><![CDATA[Si algo no se le puede negar a Ubisoft es que no olvida a sus juegos independientemente del éxito comercial que hayan tenido. Uno de los últimos ejemplos de esta política es Ghost Recon Breakpoint, que después de un lanzamiento complicado en 2019 ha ido evolucionando a base de actualizaciones gratuitas. Para el 2021 hay dos contenidos previstos y el primero llamado Teammate Experience (Experiencia de compañeros) estará disponible el 25 de mayo. Según los detalles ofrecidos Ubisoft, la nueva actualización gr…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft reconoce que Windows 10X, su rival de Chrome OS pensado para portátiles de doble pantalla, ha sido cancelado]]></title>
-        <id>46070_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/windows-10x-cancelado-rival-chrome-os"/>
-        <updated>2021-05-19T10:50:01.000Z</updated>
-        <summary type="html"><![CDATA[No habrá Windows 10X. Y previsiblemente, tampoco Surface Neo. Microsoft ha dado por buenos los rumores de los últimos días al anunciar de la forma más encubierta posible (en plena Google I/O 2021 y casi como nota a pie de página) que su versión aligerada para Windows 10 y diseñada para dispositivos de doble pantalla no llegará al mercado. El susto es pequeño si se considera que el sistema operativo ya había perdido el soporte inicial para pantallas secundarias y acumulaba un retraso considerable. Windows 10…]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
