@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27241715",
-          "author": "hhs",
-          "description": "Article URL: https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more\nComments URL: https://news.ycombinator.com/item?id=27241715\nPoints: 24\n# Comments: 7",
-          "link": "https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more",
-          "publishedOn": "2021-05-22T00:14:53.000Z",
-          "wordCount": 1161,
-          "title": "A new replication crisis: Research that is less likely to be true is cited more"
+          "id": "https://news.ycombinator.com/item?id=27250619",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://prog21.dadgum.com/22.html\nComments URL: https://news.ycombinator.com/item?id=27250619\nPoints: 63\n# Comments: 6",
+          "link": "https://prog21.dadgum.com/22.html",
+          "publishedOn": "2021-05-22T21:56:52.000Z",
+          "wordCount": 1079,
+          "title": "My Road to Erlang (2008)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27241085",
-          "author": "tagawa",
-          "description": "Article URL: https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html\nComments URL: https://news.ycombinator.com/item?id=27241085\nPoints: 111\n# Comments: 91",
-          "link": "https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html",
-          "publishedOn": "2021-05-21T23:10:52.000Z",
-          "wordCount": 1026,
-          "title": "San Francisco’s Shoplifting Surge"
+          "id": "https://news.ycombinator.com/item?id=27250068",
+          "author": "WarOnPrivacy",
+          "description": "Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/\nComments URL: https://news.ycombinator.com/item?id=27250068\nPoints: 178\n# Comments: 104",
+          "link": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
+          "publishedOn": "2021-05-22T20:40:31.000Z",
+          "wordCount": 1445,
+          "title": "Sixth grader expelled after Zoom provided possibly inaccurate IP address"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27240927",
-          "author": "tomlagier",
-          "description": "Article URL: http://algorithmicbotany.org/papers/abop/abop.pdf\nComments URL: https://news.ycombinator.com/item?id=27240927\nPoints: 29\n# Comments: 1",
-          "link": "http://algorithmicbotany.org/papers/abop/abop.pdf",
-          "publishedOn": "2021-05-21T22:50:22.000Z",
-          "wordCount": 318004,
-          "title": "The Algorithmic Beauty of Plants (1990) [pdf]"
+          "id": "https://news.ycombinator.com/item?id=27249555",
+          "author": "Avamander",
+          "description": "Article URL: https://github.com/mikroskeem/tosh\nComments URL: https://news.ycombinator.com/item?id=27249555\nPoints: 130\n# Comments: 106",
+          "link": "https://github.com/mikroskeem/tosh",
+          "publishedOn": "2021-05-22T19:26:09.000Z",
+          "wordCount": 922,
+          "title": "Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27240796",
-          "author": "robin_reala",
-          "description": "Article URL: https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/\nComments URL: https://news.ycombinator.com/item?id=27240796\nPoints: 234\n# Comments: 104",
-          "link": "https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/",
-          "publishedOn": "2021-05-21T22:31:57.000Z",
-          "wordCount": 1707,
-          "title": "Canada declares plastics toxic, paving the way for restrictions"
+          "id": "https://news.ycombinator.com/item?id=27249413",
+          "author": "enatik",
+          "description": "Article URL: https://pakkly.com\nComments URL: https://news.ycombinator.com/item?id=27249413\nPoints: 75\n# Comments: 33",
+          "link": "https://pakkly.com",
+          "publishedOn": "2021-05-22T19:09:27.000Z",
+          "wordCount": 471,
+          "title": "Show HN: I hate adding updating to my apps, so I created Pakkly"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27240688",
-          "author": "furrowedbrow",
-          "description": "Article URL: https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing\nComments URL: https://news.ycombinator.com/item?id=27240688\nPoints: 106\n# Comments: 193",
-          "link": "https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing",
-          "publishedOn": "2021-05-21T22:20:15.000Z",
-          "wordCount": 772,
-          "title": "Woke at Work: Why tech firms are trying to run away from politics and failing"
+          "id": "https://news.ycombinator.com/item?id=27249082",
+          "author": "Aaronmacaron",
+          "description": "Article URL: https://instruments.digital/inflation-adjusted-hn/\nComments URL: https://news.ycombinator.com/item?id=27249082\nPoints: 326\n# Comments: 84",
+          "link": "https://instruments.digital/inflation-adjusted-hn/",
+          "publishedOn": "2021-05-22T18:30:57.000Z",
+          "wordCount": 382,
+          "title": "Show HN: Inflation-adjusted Hacker News"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27240659",
-          "author": "danboarder",
-          "description": "Article URL: https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/\nComments URL: https://news.ycombinator.com/item?id=27240659\nPoints: 30\n# Comments: 5",
-          "link": "https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/",
-          "publishedOn": "2021-05-21T22:17:02.000Z",
-          "wordCount": 2598,
-          "title": "Human Antibodies Target Many Parts of Coronavirus Spike Protein"
+          "id": "https://news.ycombinator.com/item?id=27249075",
+          "author": "luke2m",
+          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 186\n# Comments: 58",
+          "link": "http://www.kolibrios.org/en/",
+          "publishedOn": "2021-05-22T18:29:47.000Z",
+          "wordCount": 206,
+          "title": "KolibriOS"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27240416",
-          "author": "xd",
-          "description": "Article URL: http://web.archive.org/web/19980701120538/http://www.php.net/\nComments URL: https://news.ycombinator.com/item?id=27240416\nPoints: 55\n# Comments: 59",
-          "link": "http://web.archive.org/web/19980701120538/http://www.php.net/",
-          "publishedOn": "2021-05-21T21:51:20.000Z",
-          "wordCount": 474,
-          "title": "PHP 3.0 Final is out (1998)"
+          "id": "https://news.ycombinator.com/item?id=27248960",
+          "author": "frabert",
+          "description": "Article URL: https://github.com/frabert/ClangQL\nComments URL: https://news.ycombinator.com/item?id=27248960\nPoints: 46\n# Comments: 5",
+          "link": "https://github.com/frabert/ClangQL",
+          "publishedOn": "2021-05-22T18:15:22.000Z",
+          "wordCount": 1389,
+          "title": "Show HN: ClangQL – Query C++ codebases using SQLite"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27240008",
-          "author": "holmesworcester",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws\nComments URL: https://news.ycombinator.com/item?id=27240008\nPoints: 178\n# Comments: 76",
-          "link": "https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws",
-          "publishedOn": "2021-05-21T21:10:00.000Z",
-          "wordCount": 93,
-          "title": "Microsoft and Apple wage war on gadget right-to-repair laws"
+          "id": "https://news.ycombinator.com/item?id=27248747",
+          "author": "alok-g",
+          "description": "Article URL: https://nv-tlabs.github.io/datasetGAN/\nComments URL: https://news.ycombinator.com/item?id=27248747\nPoints: 55\n# Comments: 10",
+          "link": "https://nv-tlabs.github.io/datasetGAN/",
+          "publishedOn": "2021-05-22T17:49:32.000Z",
+          "wordCount": 441,
+          "title": "DatasetGAN: Efficient Labeled Data for AI Training"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27239912",
-          "author": "jairajs89",
-          "description": "Article URL: https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd\nComments URL: https://news.ycombinator.com/item?id=27239912\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
-          "publishedOn": "2021-05-21T21:00:33.000Z",
-          "wordCount": 746,
-          "title": "Substack (YC W18) is hiring technical recruiters to build the future of writing"
+          "id": "https://news.ycombinator.com/item?id=27248406",
+          "author": "georgecmu",
+          "description": "Article URL: https://www.nature.com/articles/s41591-021-01377-8\nComments URL: https://news.ycombinator.com/item?id=27248406\nPoints: 75\n# Comments: 52",
+          "link": "https://www.nature.com/articles/s41591-021-01377-8",
+          "publishedOn": "2021-05-22T17:11:13.000Z",
+          "wordCount": 10533,
+          "title": "Antibody levels highly predictive of immune protection from symptomatic Covid"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27239129",
-          "author": "doat",
-          "description": "Article URL: https://wordhistories.net/2020/01/06/put-pipe-and-smoke/\nComments URL: https://news.ycombinator.com/item?id=27239129\nPoints: 65\n# Comments: 28",
-          "link": "https://wordhistories.net/2020/01/06/put-pipe-and-smoke/",
-          "publishedOn": "2021-05-21T19:57:05.000Z",
-          "wordCount": 1713,
-          "title": "“Put that in your pipe and smoke it”"
+          "id": "https://news.ycombinator.com/item?id=27248383",
+          "author": "Tomte",
+          "description": "Article URL: https://www.romanzolotarev.com/rssg.html\nComments URL: https://news.ycombinator.com/item?id=27248383\nPoints: 58\n# Comments: 16",
+          "link": "https://www.romanzolotarev.com/rssg.html",
+          "publishedOn": "2021-05-22T17:09:17.000Z",
+          "wordCount": 271,
+          "title": "Generate RSS feeds with grep(1), sed(1), and Awk(1)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27238381",
-          "author": "dested",
-          "description": "Article URL: https://flutterflow.io/launch\nComments URL: https://news.ycombinator.com/item?id=27238381\nPoints: 158\n# Comments: 57",
-          "link": "https://flutterflow.io/launch",
-          "publishedOn": "2021-05-21T18:58:25.000Z",
-          "wordCount": 465,
-          "title": "FlutterFlow: Low-code Flutter apps"
+          "id": "https://news.ycombinator.com/item?id=27248318",
+          "author": "mkong1",
+          "description": "Article URL: https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915\nComments URL: https://news.ycombinator.com/item?id=27248318\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915",
+          "publishedOn": "2021-05-22T17:01:06.000Z",
+          "wordCount": 386,
+          "title": "GiveCampus (YC S15) is hiring remote senior engineers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27238317",
-          "author": "danso",
-          "description": "Article URL: https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/\nComments URL: https://news.ycombinator.com/item?id=27238317\nPoints: 111\n# Comments: 171",
-          "link": "https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/",
-          "publishedOn": "2021-05-21T18:53:56.000Z",
-          "wordCount": 1298,
-          "title": "Let’s Talk About Hot Tub Streams"
+          "id": "https://news.ycombinator.com/item?id=27248093",
+          "author": "ReginaDeiPirati",
+          "description": "Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html\nComments URL: https://news.ycombinator.com/item?id=27248093\nPoints: 103\n# Comments: 50",
+          "link": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
+          "publishedOn": "2021-05-22T16:34:56.000Z",
+          "wordCount": 1481,
+          "title": "Common data model mistakes made by startups"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27238289",
-          "author": "optimalsolver",
-          "description": "Article URL: https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers\nComments URL: https://news.ycombinator.com/item?id=27238289\nPoints: 39\n# Comments: 11",
-          "link": "https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers",
-          "publishedOn": "2021-05-21T18:52:21.000Z",
-          "wordCount": 1008,
-          "title": "The Cicada's Love Affair with Prime Numbers (2013)"
+          "id": "https://news.ycombinator.com/item?id=27247621",
+          "author": "bananaoomarang",
+          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 310\n# Comments: 155",
+          "link": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
+          "publishedOn": "2021-05-22T15:47:37.000Z",
+          "wordCount": 2370,
+          "title": "An early look at Postgres 14: Performance and monitoring Improvements"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27237520",
-          "author": "codq",
-          "description": "Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails\nComments URL: https://news.ycombinator.com/item?id=27237520\nPoints: 261\n# Comments: 312",
-          "link": "https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails",
-          "publishedOn": "2021-05-21T17:56:20.000Z",
-          "wordCount": 1004,
-          "title": "Leaked emails show crime app Citizen is testing on-demand security force"
+          "id": "https://news.ycombinator.com/item?id=27247612",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/\nComments URL: https://news.ycombinator.com/item?id=27247612\nPoints: 106\n# Comments: 48",
+          "link": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
+          "publishedOn": "2021-05-22T15:46:56.000Z",
+          "wordCount": 1548,
+          "title": "Floppinux – An Embedded Linux on a Single Floppy"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27236958",
-          "author": "panabee",
-          "description": "Article URL: https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/\nComments URL: https://news.ycombinator.com/item?id=27236958\nPoints: 55\n# Comments: 9",
-          "link": "https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/",
-          "publishedOn": "2021-05-21T17:18:23.000Z",
-          "wordCount": 1074,
-          "title": "High-performance speech recognition with no supervision at all"
+          "id": "https://news.ycombinator.com/item?id=27247605",
+          "author": "filoeleven",
+          "description": "Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution\nComments URL: https://news.ycombinator.com/item?id=27247605\nPoints: 132\n# Comments: 18",
+          "link": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
+          "publishedOn": "2021-05-22T15:46:33.000Z",
+          "wordCount": 985,
+          "title": "Cornell researchers see atoms at record resolution"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27236874",
-          "author": "tate",
-          "description": "Article URL: https://lord.io/text-editing-hates-you-too/\nComments URL: https://news.ycombinator.com/item?id=27236874\nPoints: 241\n# Comments: 123",
-          "link": "https://lord.io/text-editing-hates-you-too/",
-          "publishedOn": "2021-05-21T17:12:44.000Z",
-          "wordCount": 1713,
-          "title": "Text editing hates you too (2019)"
+          "id": "https://news.ycombinator.com/item?id=27247386",
+          "author": "philzook",
+          "description": "Article URL: https://www.philipzucker.com/minikanren-z3py/\nComments URL: https://news.ycombinator.com/item?id=27247386\nPoints: 52\n# Comments: 3",
+          "link": "https://www.philipzucker.com/minikanren-z3py/",
+          "publishedOn": "2021-05-22T15:22:49.000Z",
+          "wordCount": 1808,
+          "title": "Making a “MiniKanren” using Z3Py"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27236251",
-          "author": "empressplay",
-          "description": "Article URL: https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/\nComments URL: https://news.ycombinator.com/item?id=27236251\nPoints: 58\n# Comments: 46",
-          "link": "https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/",
-          "publishedOn": "2021-05-21T16:33:04.000Z",
-          "wordCount": 3186,
-          "title": "Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)"
+          "id": "https://news.ycombinator.com/item?id=27245696",
+          "author": "umangkeshri",
+          "description": "Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/\nComments URL: https://news.ycombinator.com/item?id=27245696\nPoints: 126\n# Comments: 33",
+          "link": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
+          "publishedOn": "2021-05-22T12:02:54.000Z",
+          "wordCount": 3858,
+          "title": "An Introduction to Knowledge Graphs"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27235970",
-          "author": "easrng",
-          "description": "Article URL: https://voice2json.org/\nComments URL: https://news.ycombinator.com/item?id=27235970\nPoints: 362\n# Comments: 81",
-          "link": "https://voice2json.org/",
-          "publishedOn": "2021-05-21T16:14:46.000Z",
-          "wordCount": 1925,
-          "title": "Voice2json: Offline speech and intent recognition on Linux"
+          "id": "https://news.ycombinator.com/item?id=27245680",
+          "author": "Jaxtek",
+          "description": "Article URL: https://nav.al/rich\nComments URL: https://news.ycombinator.com/item?id=27245680\nPoints: 220\n# Comments: 339",
+          "link": "https://nav.al/rich",
+          "publishedOn": "2021-05-22T12:00:49.000Z",
+          "wordCount": 43429,
+          "title": "How to get rich without being lucky (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27234755",
-          "author": "xemoka",
-          "description": "Article URL: https://ephtracy.github.io/index.html?page=magicacsg\nComments URL: https://news.ycombinator.com/item?id=27234755\nPoints: 60\n# Comments: 8",
-          "link": "https://ephtracy.github.io/index.html?page=magicacsg",
-          "publishedOn": "2021-05-21T14:51:16.000Z",
-          "wordCount": 18,
-          "title": "MagicaCSG: A lightweight signed distance field editor and renderer"
+          "id": "https://news.ycombinator.com/item?id=27245450",
+          "author": "richardw",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun\nComments URL: https://news.ycombinator.com/item?id=27245450\nPoints: 182\n# Comments: 131",
+          "link": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
+          "publishedOn": "2021-05-22T11:20:21.000Z",
+          "wordCount": 1801,
+          "title": "Initial Stress-Derived Noun"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27234039",
-          "author": "awb",
-          "description": "Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/\nComments URL: https://news.ycombinator.com/item?id=27234039\nPoints: 575\n# Comments: 1217",
-          "link": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
-          "publishedOn": "2021-05-21T13:57:56.000Z",
-          "wordCount": 5709,
-          "title": "2022 Ford F-150 Lightning"
+          "id": "https://news.ycombinator.com/item?id=27245310",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/p-e-w/plotinus\nComments URL: https://news.ycombinator.com/item?id=27245310\nPoints: 130\n# Comments: 35",
+          "link": "https://github.com/p-e-w/plotinus",
+          "publishedOn": "2021-05-22T10:52:00.000Z",
+          "wordCount": 1593,
+          "title": "Plotinus: A searchable command palette in every modern GTK+ application"
         }
       ]
     },
@@ -193,12 +193,21 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46105_v1",
+          "author": null,
+          "description": "Durante esta semana hemos dado la bienvenida a numerosos videojuegos, incluyendo a Knockout City, Rust: Console Edition, Elite Dangerous: Odyssey (PC), Days Gone (PC), SnowRunner (Switch) y Siege Survival: Gloria Victis. Además, hemos puesto fecha a los siguientes títulos: The Last Spell (3 de junio), The Ascent (29 de julio), Rustler (31 de agosto), Ni no Kuni II: El Renacer de un Reino (17 de septiembre en Switch), Grand Theft Auto V (11 de noviembre en PS5 y Xbox Series), Final Fantasy XIV: Endwalker (23…",
+          "link": "https://www.elotrolado.net/noticias/juegos/semana-15-22-mayo-2021",
+          "publishedOn": "2021-05-22T09:56:12.000Z",
+          "wordCount": 1491,
+          "title": "Las noticias de la semana (15 - 22 de mayo)"
+        },
+        {
           "id": "46104_v1",
           "author": null,
           "description": "La apuesta de Paradox Interactive por los juegos de gran estrategia no tiene fin y como nueva muestra de ello tenemos a Victoria 3, la tercera entrega de una franquicia que permite a los jugadores crear una sociedad ideal durante el siglo XIX. El título para PC, que ha sido anunciado en el marco del evento digital PDXCON Remixed y cuyo desarrollo corre a cargo de Paradox Development Studio, estará disponible en Steam, Paradox Store y Xbox Game Pass. Victoria 3 es un simulador de sociedad que permitirá a los…",
           "link": "https://www.elotrolado.net/noticias/juegos/victoria-3-anunciado",
           "publishedOn": "2021-05-21T23:06:33.000Z",
-          "wordCount": 575,
+          "wordCount": 734,
           "title": "Paradox presenta el juego de gran estrategia Victoria 3"
         },
         {
@@ -207,7 +216,7 @@
           "description": "Después de firmar unos resultados económicos récord, Strauss Zelnick, presidente y director ejecutivo de Take-Two, ha conversado con GamesIndustry sobre el estado de la industria del videojuego. En concreto, el directivo ha ampliado unas palabras que dijo la semana pasada, cuando ante los accionistas comentó que la pandemia había iniciado un “cambio transformador en el consumo del entretenimiento” que beneficiará a todos los desarrolladores de videojuegos. “El entretenimiento interactivo es el entretenimien…",
           "link": "https://www.elotrolado.net/noticias/juegos/take-two-pandemia-industria-videojuegos",
           "publishedOn": "2021-05-21T22:12:40.000Z",
-          "wordCount": 639,
+          "wordCount": 798,
           "title": "Take-Two sostiene que el impulso que la pandemia ha dado a la industria del videojuego será permanente"
         },
         {
@@ -225,7 +234,7 @@
           "description": "Bandai Namco ha comunicado que desde hoy y hasta el 27 de mayo los jugadores de Xbox One y Xbox Series tienen acceso exclusivo a la demo de Scarlet Nexus. A partir del 28 de mayo los usuarios de PlayStation 4 y PlayStation 5 también podrán probar el nuevo juego de rol y acción desarrollado por el equipo responsable de Tales of Vesperia. La demo de Scarlet Nexus permite ponerse en la piel de cualquiera de los dos protagonistas, Yuito Sumeragi o Kasane Randall, durante sus primeros pasos en la historia que of…",
           "link": "https://www.elotrolado.net/hilo_la-demo-de-scarlet-nexus-llega-a-xbox-one-y-xbox-series_2423556",
           "publishedOn": "2021-05-21T18:16:01.000Z",
-          "wordCount": 405,
+          "wordCount": 1099,
           "title": "Breve: La demo de Scarlet Nexus llega a Xbox One y Xbox Series"
         },
         {
@@ -234,7 +243,7 @@
           "description": "Netflix ha contactado con varios ejecutivos con experiencia en la industria del videojuego con el objetivo de contratar a uno de ellos para que supervise su expansión hacia este sector, según The Information (muro de pago). De consumarse, este sería un paso muy importante para el servicio de streaming, cuya relación con los videojuegos se limita a ceder licencias de sus contenidos originales y distribuir series y películas basadas en juegos. El mencionado medio sostiene que Netflix estaría trabajando en ofr…",
           "link": "https://www.elotrolado.net/noticias/juegos/netflix-apple-arcade",
           "publishedOn": "2021-05-21T17:55:01.000Z",
-          "wordCount": 831,
+          "wordCount": 837,
           "title": "Netflix estaría considerando ofrecer juegos mediante una suscripción como Apple Arcade"
         },
         {
@@ -252,7 +261,7 @@
           "description": "Después de intentarlo (y fallar) con Rocket Arena, EA Originals vuelve a la carga con un nuevo título multijugador. En esta ocasión la apuesta se llama Knockout City, está desarrollada por Velan Studios (Mario Kart Live: Home Circuit) y su gameplay se basa en el juego balón prisionero. Desde hoy el título se encuentra disponible vía Xbox Game Pass y EA Play, así como a la venta por 19,99 euros en PS4, PS5, Xbox One, Xbox Series, Nintendo Switch y PC (Steam, Origin). El juego cruzado está activado desde el p…",
           "link": "https://www.elotrolado.net/noticias/juegos/knockout-city-lanzamiento",
           "publishedOn": "2021-05-21T15:22:54.000Z",
-          "wordCount": 765,
+          "wordCount": 771,
           "title": "Ya disponible Knockout City, un multijugador por equipos basado en combates de balón prisionero"
         },
         {
@@ -261,7 +270,7 @@
           "description": "Bungie ha anunciado que del 25 al 27 de mayo celebrará una beta que permitirá a los jugadores de Destiny 2 poner a prueba el juego cruzado. “Será un evento corto, pero intenso, que marcará un hito en el proceso de desarrollo de esta función”, dice el desarrollador. La beta consistirá en una lista de juego especial de asaltos de la Vanguardia. El juego cruzado estará disponible para todos los jugadores de Destiny 2. “Se os emparejará con guardianes que jueguen en PlayStation, Xbox, Steam y Stadia”, explica B…",
           "link": "https://www.elotrolado.net/hilo_destiny-2-pondra-a-prueba-el-juego-cruzado-la-proxima-semana_2423526",
           "publishedOn": "2021-05-21T10:21:49.000Z",
-          "wordCount": 463,
+          "wordCount": 558,
           "title": "Breve: Destiny 2 pondrá a prueba el juego cruzado la próxima semana"
         },
         {
@@ -270,7 +279,7 @@
           "description": "El editor Devolver Digital ha anunciado y ofrecido los primeros detalles de Phantom Abyss, un juego que permite ponerse en la piel de Harrison Ford en Indiana Jones pero con habilidades de parkour. El título en manos del estudio australiano Team WIBY estará disponible para PC a lo largo de junio mediante el acceso anticipado de Steam, donde se mantendrá en desarrollo durante “al menos un año”. La literatura oficial describe a Phantom Abyss como un título multijugador asíncrono masivo, así como una experienc…",
           "link": "https://www.elotrolado.net/noticias/juegos/phantom-abyss-anunciado",
           "publishedOn": "2021-05-21T09:58:30.000Z",
-          "wordCount": 725,
+          "wordCount": 731,
           "title": "Devolver Digital presenta Phantom Abyss, un roguelike multijugador asíncrono en primera persona"
         },
         {
@@ -279,7 +288,7 @@
           "description": "Durante una transmisión en vivo dedicada a mostrar y descubrir nuevos detalles del PvP (jugador contra jugador) de Overwatch 2, Blizzard Entertainment ha anunciado un cambio en el tamaño de los equipos, que una vez esté disponible el juego pasarán a ser de cinco miembros (5c5) en lugar de los seis (6c6) actuales. Además, solo se podrá elegir un tanque por bando. El evento también ha servido para mostrar mediante partidas algunos de los nuevos mapas. “Hay muchas razones por las que queríamos hacer este cambi…",
           "link": "https://www.elotrolado.net/noticias/juegos/overwatch-2-pvp-5c5",
           "publishedOn": "2021-05-20T23:00:18.000Z",
-          "wordCount": 805,
+          "wordCount": 811,
           "title": "Los equipos de Overwatch 2 serán de cinco jugadores y con un solo tanque"
         },
         {
@@ -306,7 +315,7 @@
           "description": "Epic Games vuelve a regar con dinero a Take-Two para promocionar su evento anual Mega Sale (o Superofertas). El año pasado fueron Civilization VI, Borderlands: The Handsome Collection y Grand Theft Auto V y en 2021 el periodo de rebajas empieza con NBA 2K21, que desde hoy y hasta el 27 de mayo a las 17:00 horas se puede conseguir gratis. Con el título a buen resguardo en la biblioteca Epic Games espera que la gente compre algo en su tienda digital. Como cualquier otro periodo de ofertas el Mega Sale rebaja …",
           "link": "https://www.elotrolado.net/noticias/juegos/epic-games-store-superofertas-nba-2k21-gratis",
           "publishedOn": "2021-05-20T15:55:15.000Z",
-          "wordCount": 779,
+          "wordCount": 785,
           "title": "Epic Games Store empieza su Mega Sale anual regalando NBA 2K21 y cupones de 10 euros"
         },
         {
@@ -315,7 +324,7 @@
           "description": "Cumpliendo su papel como editor, Warner Bros. Games sigue desgranando las novedades del shooter cooperativo Back 4 Blood. Después de conocer el sistema de cartas responsable de la rejugabilidad, es el turno de revelar con un nuevo tráiler todos los detalles de los Exterminadores (o Cleaners), nombre bajo el cual se conocen los personajes jugables en el título desarrollado por Turtle Rock Studios (Left 4 Dead). El metraje también ofrece información sobre algunos de los infectados. Empezamos con la narradora …",
           "link": "https://www.elotrolado.net/noticias/juegos/back-4-blood-exterminadores",
           "publishedOn": "2021-05-20T15:46:23.000Z",
-          "wordCount": 742,
+          "wordCount": 748,
           "title": "Back 4 Blood presenta a sus ocho personajes jugables"
         },
         {
@@ -324,7 +333,7 @@
           "description": "Bandai Namco ha anunciado que Ni no Kuni II: El Renacer de un Reino tendrá una versión para Nintendo Switch que estará disponible el 17 de septiembre. Además de presentar el título y poner una fecha de lanzamiento, el editor japonés ha mostrado un tráiler donde podemos ver al título desarrollado por Level-5 en acción y comunicado que los jugadores de Switch recibirán la Prince’s Edition que incluye todo el contenido poslanzamiento de pago y gratuito. A lo largo de su trayectoria en PS4 y PC (Steam), Ni no K…",
           "link": "https://www.elotrolado.net/noticias/juegos/ni-no-kuni-ii-fecha-lanzamiento",
           "publishedOn": "2021-05-20T14:48:30.000Z",
-          "wordCount": 806,
+          "wordCount": 810,
           "title": "Ni no Kuni II: El Renacer de un Reino para Nintendo Switch estará disponible el 17 de septiembre"
         },
         {
@@ -360,7 +369,7 @@
           "description": "Google Reader murió hace más de ocho años, pero muchos de sus antiguos usuarios aún siguen de duelo. La cancelación del otrora popular servicio de suscripción a fuentes RSS dejó a un gran número de personas sin otra opción que echarse en brazos de alternativas web como Feedly o clientes nativos, todo ello porque Google consideró que eso de las RSS era algo que estaba muy venido a menos y en lo que no merecía la pena invertir. Como de erradas serían sus predicciones que ahora Chrome tiene su propio lector in…",
           "link": "https://www.elotrolado.net/noticias/internet/chrome-lector-rss",
           "publishedOn": "2021-05-20T11:30:14.000Z",
-          "wordCount": 769,
+          "wordCount": 775,
           "title": "Google redescubre su interés en las RSS e incluye un botón de suscripción en la última build de Chrome"
         },
         {
@@ -369,7 +378,7 @@
           "description": "Free Radical Design está de vuelta. El histórico estudio de desarrollo británico se reformará como un nuevo equipo bajo la dirección de Steve Ellis y David Doak, dos de sus fundadores originales, y formará parte de Deep Silver, una filial de Embracer Group. Actualmente el nuevo Free Radical Design trabaja en la construcción del estudio y en los próximos meses se pondrá manos a la obra con una nueva entrega de TimeSplitters. “Poder confirmar por fin que se ha formado el estudio y que tenemos un plan para el …",
           "link": "https://www.elotrolado.net/noticias/juegos/free-radical-timesplitters-nuevo",
           "publishedOn": "2021-05-20T10:05:29.000Z",
-          "wordCount": 789,
+          "wordCount": 795,
           "title": "Free Radical Design vuelve a la vida y trabaja en un nuevo TimeSplitters"
         },
         {
@@ -378,7 +387,7 @@
           "description": "Rakuten sigue engrosando su ya considerable lista de alternativas a los lectores Kindle. Su gama de e-readers Kobo, que goza de muy buena aceptación entre los usuarios que han decidido no optar por el ecosistema de Amazon, suma hoy un integrante especialmente polivalente con la llegada del modelo Elipsa. Este lector de libros electrónicos destaca por proporcionar la capacidad para tomar notas usando un lápiz, igual que haríamos con un texto impreso en papel. El Kobo Elipsa posee una muy considerable pantall…",
           "link": "https://www.elotrolado.net/noticias/tecnologia/ereader-kobo-elipsa-stylus",
           "publishedOn": "2021-05-20T09:56:16.000Z",
-          "wordCount": 742,
+          "wordCount": 748,
           "title": "Kobo anuncia el lector de e-books Elipsa, con lápiz para realizar anotaciones sobre los textos"
         },
         {
@@ -387,7 +396,7 @@
           "description": "El encontronazo en los tribunales entre Epic y Apple nos está dejando algunos titulares bastante llamativos. Inesperados, incluso. Además de arrojar luz a sobre las finanzas y los acuerdos de ambas compañías, que de otra forma permanecerían opacos a los ojos de los consumidores, el juicio también está sirviendo para conocer la situación real de sus respectivos ecosistemas y servicios. Que en el caso de Apple, conlleva la lucha contra una cantidad de malware superior a la que podía creerse inicialmente. Segú…",
           "link": "https://www.elotrolado.net/noticias/tecnologia/apple-problema-malware-epic",
           "publishedOn": "2021-05-20T08:49:53.000Z",
-          "wordCount": 852,
+          "wordCount": 858,
           "title": "Apple afirma que no conviene abrir el iPhone a la Epic Store porque los Mac ya tienen niveles de malware inaceptables"
         },
         {
@@ -396,7 +405,7 @@
           "description": "El equipo de desarrollado coreano Round8 Studio (Bless Unleashed) y el editor Neowiz han anunciado Lies of P, un juego de acción y rol (o ARPG) tipo Souls que se inspira en la universal y clásica historia de Pinocho, pero mezclada con oscuridad de Bloodborne y ambientado en un mundo oscuro y cruel de la Belle Époque. El título ha sido presentado junto a un tráiler cinemático de poco más de tres minutos, los primeros detalles y las plataformas de lanzamiento: PlayStation 5, Xbox Series y PC (Steam). La campa…",
           "link": "https://www.elotrolado.net/noticias/juegos/lies-of-p-anunciado",
           "publishedOn": "2021-05-19T23:49:08.000Z",
-          "wordCount": 741,
+          "wordCount": 747,
           "title": "Presentado Lies of P, un ARPG tipo Souls inspirado en la historia de Pinocho"
         },
         {
@@ -405,17 +414,8 @@
           "description": "Electronic Arts (EA) ha anunciado la formación de un nuevo equipo de desarrollo en Seattle (Washington) liderado por Kevin Stephens, antiguo vicepresidente de Monolith Productions. Durante su etapa en Monolith Productions, un equipo propiedad de Warner Bros., Stephens supervisó el desarrollo de La Tierra Media: Sombras de Mordor y La Tierra Media: Sombras de Guerra. El nuevo estudio de Electronic Arts aún no tiene nombre, pero ya sabemos que su primer proyecto consistirá en desarrollar un juego de acción y …",
           "link": "https://www.elotrolado.net/hilo_ea-abre-un-nuevo-estudio-que-trabajara-en-un-juego-de-accion-y-aventura-de-mundo-abierto_2423388",
           "publishedOn": "2021-05-19T22:11:31.000Z",
-          "wordCount": 455,
+          "wordCount": 507,
           "title": "Breve: EA abre un nuevo estudio que trabajará en un juego de acción y aventura de mundo abierto"
-        },
-        {
-          "id": "46080_v1",
-          "author": null,
-          "description": "El Parlamento Europeo ha pedido a la Comisión Europea que adapte la legislación vigente para endurecer la lucha contra la piratería en la transmisión de eventos deportivos (fútbol), y para ello propone cumplir con el sueño de los titulares de los derechos: clarificar y mejorar el actual marco legal para poder interrumpir las transmisiones ilegales en tiempo real o en un máximo de 30 minutos después de la notificación. Por ahora no queda demasiado claro si será necesaria una orden judicial. Según los eurodip…",
-          "link": "https://www.elotrolado.net/noticias/internet/futbol-iptv-ilegal-retirada-inmediata",
-          "publishedOn": "2021-05-19T21:54:43.000Z",
-          "wordCount": 856,
-          "title": "El Parlamento Europeo pide una legislación para interrumpir transmisiones deportivas ilegales en tiempo real"
         }
       ]
     },
@@ -424,6 +424,24 @@
       "feedUrl": "http://www.allgamesdelta.net/feeds/posts/default?alt=rss",
       "siteUrl": "https://www.allgamesdelta.net/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-617718873992964139",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "About the amiibo\n     The Zelda & Loftwing amiibo features two characters on a single base: Zelda as she appears in The Legend of Zelda: Skyward Sword HD, and her trusty Loftwing.\n     In The Legend of Zelda: Skyward Sword HD, Zelda is the hero Link’s childhood friend, and is always looking out for him. Loftwings are large birds living on the floating islands of Skyloft and are ridden by the people there to travel across the skies.\n     How to Use in the Game\n     In The Legend of Zelda: Skyward Sword HD, t…",
+          "link": "https://www.allgamesdelta.net/2021/05/the-legend-of-zelda-skyward-sword-hd.html",
+          "publishedOn": "2021-05-22T20:13:00.000Z",
+          "wordCount": 274,
+          "title": "The Legend of Zelda: Skyward Sword HD ~ Zelda & Loftwing amiibo Announced"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-87360948043887725",
+          "author": "noreply@blogger.com (AllGamesDelta)",
+          "description": "The planets you’ll explore in Ratchet & Clank: Rift Apart\n Hey there, creatures of destruction! I’m delighted to point out that in less than a month, you’ll be able to play Ratchet & Clank: Rift Apart on the PlayStation 5 console. To celebrate the occasion, the highly mischievous member of the Zurkons has appointed himself as the MC of our new episodic info bash showing you what’s in store when the game launches on June 11.\n In other words, you’re invited to Zurkon Jr.’s Almost Launch Party!\n   Planets & Ex…",
+          "link": "https://www.allgamesdelta.net/2021/05/ratchet-clank-rift-apart-new-gameplay.html",
+          "publishedOn": "2021-05-22T17:11:00.000Z",
+          "wordCount": 492,
+          "title": "Ratchet & Clank: Rift Apart New Gameplay Trailers Released"
+        },
         {
           "id": "tag:blogger.com,1999:blog-6752074960104712501.post-7368142271399083649",
           "author": "noreply@blogger.com (AllGamesDelta)",
@@ -630,24 +648,6 @@
           "publishedOn": "2021-05-16T16:36:00.000Z",
           "wordCount": 108,
           "title": "Digital-only QuakeCon 2021 Set for August 19 to 21"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-2204182557937058655",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "Action-adventure Trigger Witch Blasts onto Consoles\n We are pleased to announce that we have picked up publishing rights for Rainbite's upcoming top-down action-adventure Trigger Witch. In this worldwide partnership, eastasiasoft will publish Trigger Witch for release on Nintendo Switch, PS4, PS5, Xbox One and Xbox Series X|S in Summer 2021.\n Trigger Witch is a stylized 2D twin-stick action game from the creators of Reverie, set in an odd open world where magic is outdated and firearms are the new way of li…",
-          "link": "https://www.allgamesdelta.net/2021/05/trigger-witch-launches-this-summer-for.html",
-          "publishedOn": "2021-05-16T16:09:00.000Z",
-          "wordCount": 334,
-          "title": "Trigger Witch Launches this Summer for PS5, Xbox Series, PS4, Xbox One and Switch"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-4056734217346463728",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "School-Building RPG 'Valthirian Arc: Hero School Story 2' Coming to Steam Early Access this Summer!\n PQube and developer Agate are excited to reveal their partnership in bringing vibrant fantasy adventure Valthirian Arc: Hero School Story 2 to early access on Steam this summer!\n    •  Sequel to Valthirian Arc: Hero School Story rated 8/10* in 2018.\n   • Become the principal of a brand-new hero academy and run it your way.\n  •  Nurture brave young students to reach their heroic potential.\n  •  Challenging tu…",
-          "link": "https://www.allgamesdelta.net/2021/05/valthirian-arc-hero-school-story-2.html",
-          "publishedOn": "2021-05-16T15:36:00.000Z",
-          "wordCount": 203,
-          "title": "Valthirian Arc: Hero School Story 2 Launches in Early Access this Summer"
         }
       ]
     }
