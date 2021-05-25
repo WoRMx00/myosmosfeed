@@ -2,12 +2,340 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T01:21:23.347Z</updated>
+    <updated>2021-05-25T01:17:34.221Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Pinocchio-inspired Soulslike action RPG Lies of P Announced for PS5, Xbox Series & PC]]></title>
+        <title type="html"><![CDATA[Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27271555</id>
+        <link href="https://apply.workable.com/jerry/j/07E1D2B302/"/>
+        <updated>2021-05-25T01:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apply.workable.com/jerry/j/07E1D2B302/
+Comments URL: https://news.ycombinator.com/item?id=27271555
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>artag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Than Average]]></title>
+        <id>https://news.ycombinator.com/item?id=27270928</id>
+        <link href="https://thanaverage.xyz/"/>
+        <updated>2021-05-24T23:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thanaverage.xyz/
+Comments URL: https://news.ycombinator.com/item?id=27270928
+Points: 94
+# Comments: 78]]></summary>
+        <author>
+            <name>dvt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Having a successful career with depression, anxiety and imposter syndrome]]></title>
+        <id>https://news.ycombinator.com/item?id=27270662</id>
+        <link href="https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/"/>
+        <updated>2021-05-24T22:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/
+Comments URL: https://news.ycombinator.com/item?id=27270662
+Points: 53
+# Comments: 11]]></summary>
+        <author>
+            <name>lukefreeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.1]]></title>
+        <id>https://news.ycombinator.com/item?id=27270070</id>
+        <link href="https://inkscape.org/news/2021/05/24/welcome-inkscape-11/"/>
+        <updated>2021-05-24T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://inkscape.org/news/2021/05/24/welcome-inkscape-11/
+Comments URL: https://news.ycombinator.com/item?id=27270070
+Points: 218
+# Comments: 70]]></summary>
+        <author>
+            <name>RaitoBezarius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elk OS – Audio Operating System]]></title>
+        <id>https://news.ycombinator.com/item?id=27269589</id>
+        <link href="https://elk.audio/audio-os/"/>
+        <updated>2021-05-24T20:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elk.audio/audio-os/
+Comments URL: https://news.ycombinator.com/item?id=27269589
+Points: 114
+# Comments: 37]]></summary>
+        <author>
+            <name>ushakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need Something Sorted? Sleep on It]]></title>
+        <id>https://news.ycombinator.com/item?id=27269586</id>
+        <link href="https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914"/>
+        <updated>2021-05-24T20:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914
+Comments URL: https://news.ycombinator.com/item?id=27269586
+Points: 14
+# Comments: 6]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit now supports every programming language in Nix]]></title>
+        <id>https://news.ycombinator.com/item?id=27269292</id>
+        <link href="https://blog.replit.com/nix"/>
+        <updated>2021-05-24T20:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/nix
+Comments URL: https://news.ycombinator.com/item?id=27269292
+Points: 122
+# Comments: 29]]></summary>
+        <author>
+            <name>bobrenjc93</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists use optogenetics to help a blind patient see again]]></title>
+        <id>https://news.ycombinator.com/item?id=27268537</id>
+        <link href="https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/"/>
+        <updated>2021-05-24T19:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/
+Comments URL: https://news.ycombinator.com/item?id=27268537
+Points: 106
+# Comments: 8]]></summary>
+        <author>
+            <name>bmau5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urbit: The good, the bad, and the insane]]></title>
+        <id>https://news.ycombinator.com/item?id=27268462</id>
+        <link href="https://wejn.org/2021/02/urbit-good-bad-insane/"/>
+        <updated>2021-05-24T19:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/
+Comments URL: https://news.ycombinator.com/item?id=27268462
+Points: 170
+# Comments: 80]]></summary>
+        <author>
+            <name>deegles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wasteland 3: Welcome to Steeltown revela sus detalles con un nuevo tráiler]]></title>
+        <id>46110_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/wasteland-3-welcome-steeltown-trailer"/>
+        <updated>2021-05-24T18:20:28.000Z</updated>
+        <summary type="html"><![CDATA[A poco más de una semana de su lanzamiento, el editor Deep Silver y el desarrollador InXile Entertainment han mostrado un nuevo tráiler de Welcome to Steeltown, la primera expansión narrativa de Wasteland 3, donde se ofrecen los detalles sobre el complemento. Si todo va según lo previsto The Battle of Steeltown estará disponible como contenido descargable digital el 3 de junio en PS4, Xbox One y PC (Steam, GOG, Microsoft Store) por 13,99 euros. La historia de Welcome to Steeltown traslada la campaña de los Rangers hasta el suroeste de Colorado, donde se encuentra el complejo… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Pythonic Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27267066</id>
+        <link href="http://www.cmyr.net/blog/rust-python-learnings.html"/>
+        <updated>2021-05-24T17:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
+Comments URL: https://news.ycombinator.com/item?id=27267066
+Points: 168
+# Comments: 128]]></summary>
+        <author>
+            <name>zbentley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A journey to io_uring, AIO and modern storage devices]]></title>
+        <id>https://news.ycombinator.com/item?id=27267007</id>
+        <link href="https://clickhouse.tech/blog/en/2021/reading-from-external-memory/"/>
+        <updated>2021-05-24T17:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
+Comments URL: https://news.ycombinator.com/item?id=27267007
+Points: 84
+# Comments: 11]]></summary>
+        <author>
+            <name>digikata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square Enix y Team Ninja estarían trabajando en un ARPG de Final Fantasy para PS5 y PC]]></title>
+        <id>46109_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/final-fantasy-team-ninja"/>
+        <updated>2021-05-24T16:59:38.000Z</updated>
+        <summary type="html"><![CDATA[La saga Final Fantasy está más en forma que nunca. A Final Fantasy XVI, Final Fantasy VII Remake y Final Fantasy XIV parece que durante el próximo mes se le sumará una nueva entrega en manos del Team Ninja. Cierto es que las semanas anteriores al E3 son campo abonado para los rumores, pero en esta ocasión son hasta tres las fuentes que hablan sobre la existencia de un spin-off de Final Fantasy en forma de ARPG parecido a Nioh. El primer rumor sobre este nuevo juego, al que se le conoce bajo el nombre de Final Fantasy Origin, lo soltó durante el fin de semana SoulsHunt, un usuario que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evidence-based Software Engineering: based on the publicly available data]]></title>
+        <id>https://news.ycombinator.com/item?id=27266551</id>
+        <link href="http://www.knosof.co.uk/ESEUR/"/>
+        <updated>2021-05-24T16:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
+Comments URL: https://news.ycombinator.com/item?id=27266551
+Points: 121
+# Comments: 13]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complexity is a source of income in open source ecosystems (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27266485</id>
+        <link href="https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/"/>
+        <updated>2021-05-24T16:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
+Comments URL: https://news.ycombinator.com/item?id=27266485
+Points: 237
+# Comments: 148]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radioactivity may fuel life deep underground and inside other worlds]]></title>
+        <id>https://news.ycombinator.com/item?id=27265836</id>
+        <link href="https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/"/>
+        <updated>2021-05-24T15:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
+Comments URL: https://news.ycombinator.com/item?id=27265836
+Points: 96
+# Comments: 8]]></summary>
+        <author>
+            <name>theafh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did bar ends go away from mountain bikes?]]></title>
+        <id>https://news.ycombinator.com/item?id=27265645</id>
+        <link href="https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/"/>
+        <updated>2021-05-24T15:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/
+Comments URL: https://news.ycombinator.com/item?id=27265645
+Points: 139
+# Comments: 214]]></summary>
+        <author>
+            <name>de_keyboard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konami se abre a más colaboraciones externas como la de GetsuFumaDen]]></title>
+        <id>46108_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/konami-desarrollo-third-party"/>
+        <updated>2021-05-24T15:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Hace tiempo que Konami no desarrolla juegos más allá de PES (y gracias), pero su cartera de propiedades intelectuales cuenta con históricas franquicias de enorme valor que pueden ser aprovechadas más allá de para inspirar máquinas pachinko. Hasta ahora Konami ha sido muy reacia a la hora de ceder sus licencias, pero el sorprendente regreso de la serie GetsuFumaDen a manos del estudio independiente GuruGuru parece que es solo el inicio de una nueva política. Durante una entrevista a JPGames al productor de Konami, Shin Murato, se le pregunta cómo se inició la asociación con GuruGuru… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Curvenote (YC W21) – Collaborative writing tools for science]]></title>
+        <id>https://news.ycombinator.com/item?id=27265380</id>
+        <link href="https://news.ycombinator.com/item?id=27265380"/>
+        <updated>2021-05-24T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN! I’m Rowan and with my co-founder Steve we are building Curvenote (https://curvenote.com) — a technical writing tool for sharing data analysis and research from Jupyter with a wider audience.
+We are building Curvenote to get science communication out of PDFs and help researchers and data-scientists communicate interactive, reproducible results (graphs, figures, maps, etc.) that are linked to the actual data and computation. There are currently two parts to Curvenote: 1) a WYSIWYG collaborative writing environment for interactive, technical documents; and 2) a Jupyter integration that adds version control and commenting and can link interactive plots and outputs directly into Curvenote documents (including any new versions or comments on those outputs).
+Steve and I met in the open-sou…]]></summary>
+        <author>
+            <name>rowanc1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I/O Rings: When One I/O Operation is Not Enough]]></title>
+        <id>https://news.ycombinator.com/item?id=27265091</id>
+        <link href="https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/"/>
+        <updated>2021-05-24T14:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/
+Comments URL: https://news.ycombinator.com/item?id=27265091
+Points: 45
+# Comments: 8]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOOM Captcha]]></title>
+        <id>https://news.ycombinator.com/item?id=27264988</id>
+        <link href="https://vivirenremoto.github.io/doomcaptcha/"/>
+        <updated>2021-05-24T14:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
+Comments URL: https://news.ycombinator.com/item?id=27264988
+Points: 347
+# Comments: 108]]></summary>
+        <author>
+            <name>jukkakoskinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HeapSafe: Securing Unprotected Heaps in RISC-V [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27264585</id>
+        <link href="https://arxiv.org/abs/2105.08712"/>
+        <updated>2021-05-24T14:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.08712
+Comments URL: https://news.ycombinator.com/item?id=27264585
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>gbrown_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rf: an experimental refactoring tool for Go]]></title>
+        <id>https://news.ycombinator.com/item?id=27264542</id>
+        <link href="https://pkg.go.dev/rsc.io/rf"/>
+        <updated>2021-05-24T14:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pkg.go.dev/rsc.io/rf
+Comments URL: https://news.ycombinator.com/item?id=27264542
+Points: 60
+# Comments: 7]]></summary>
+        <author>
+            <name>robfig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Silver announces reformation of Free Radical Design to develop next TimeSplitters game]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7823084832112145693</id>
+        <link href="https://www.allgamesdelta.net/2021/05/deep-silver-announces-reformation-of.html"/>
+        <updated>2021-05-24T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Development Commencing on next TimeSplitters; Deep Silver confirmed as publisher
+ Deep Silver has announced the formation of a new studio that will bring the much-loved TimeSplitters brand back to life. Key original members of the Free Radical Design team, including founders Steve Ellis and David Doak, have reunited to reform Free Radical Design.
+  The highly regarded Free Radical Design team has a twenty-two year heritage under various guises and is responsible for some of the best loved, most iconic video games of the early 2000s, including TimeSplitters – the first title it released in 2000.  The critically acclaimed TimeSplitters series went on to include two further iterations, all of which were loaded with humorous pop culture references as players battle across various locations and historical periods.
+  “It’s this unique style that earned the TimeSplitters series a large and passionate following who will, without doubt, be excited by the formation of Deep Silver’s latest studio and will look forward to learning more as the franchise moves forward,” said Paul Nicholls, Global Brand and Marketing Director at Deep Silver.
+  “To finally be able to confirm that the studio has been formed and that we have a plan for the next TimeSplitters game is incredible,” commented Steve Ellis, Studio Development Director at Free Radical Design. “While we cannot tell you anything more at the moment, we look forward to sharing information in the future.”
+  The Free Radical Design team will commence development on the next TimeSplitters game in the coming months; for now they are concentrating on building the studio, which will be situated in the Nottingham area. Open positions within the studio will be advertised in due course.
+  Free Radical Design is a Deep Silver studio following the purchase of the TimeSplitters IP IP by Deep Silver owners Koch Media in 2018.]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The King of Fighters XV Ralf Jones and Clark Still Trailer and Screenshots]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-1734949059279327338</id>
+        <link href="https://www.allgamesdelta.net/2021/05/the-king-of-fighters-xv-ralf-jones-and.html"/>
+        <updated>2021-05-24T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Leona Heidern - Chris - Shermie - Mai Shiranui - Yashiro Nanakase - Yuri Sakazaki
+   Team Art of Fighting:     Ryo Sakazaki and Robert Garcia - King
+  Team Fatal Fury: Terry Bogard - Andy Bogard - Joe Higashi
+ Team Sacred Treasures: Kyo Kusanagi - Chizuru Kagura - Iori Yagami
+ Team Hero: Shun’ei - Meitenkun - Benimaru Nikaido]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project GAMM by Cygames First Screenshots and Artwork]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-8009314009227004739</id>
+        <link href="https://www.allgamesdelta.net/2021/05/project-gamm-by-cygames-first.html"/>
+        <updated>2021-05-24T09:04:00.000Z</updated>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinocchio-inspired Soulslike Action RPG Lies of P Announced for PS5, Xbox Series & PC]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-7096717664048932232</id>
         <link href="https://www.allgamesdelta.net/2021/05/pinocchio-inspired-soulslike-action-rpg.html"/>
         <updated>2021-05-24T01:05:00.000Z</updated>
@@ -23,19 +351,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plivo (YC S12) Is Hiring a VP of Engineering Based in India]]></title>
-        <id>https://news.ycombinator.com/item?id=27260129</id>
-        <link href="https://jobs.lever.co/plivo/35b5dd7e-8f4c-4a1f-bdee-9d4002645c24"/>
-        <updated>2021-05-24T01:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/plivo/35b5dd7e-8f4c-4a1f-bdee-9d4002645c24
-Comments URL: https://news.ycombinator.com/item?id=27260129
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>bevenky</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Dark Pictures Anthology: House of Ashes Teaser Trailer]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-2844974234725147447</id>
         <link href="https://www.allgamesdelta.net/2021/05/the-dark-pictures-anthology-house-of.html"/>
@@ -46,253 +361,6 @@ Points: 1
    The Dark Pictures Anthology: House of Ashes will be available this year on Xbox Series X|S, Xbox One, PlayStation 5, PlayStation 4 and PC.]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast & Open source metrics demo dashboard]]></title>
-        <id>https://news.ycombinator.com/item?id=27259594</id>
-        <link href="https://dashboard.speculare.cloud"/>
-        <updated>2021-05-23T23:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dashboard.speculare.cloud
-Comments URL: https://news.ycombinator.com/item?id=27259594
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>martichou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Decentralised Applications Don’t Work]]></title>
-        <id>https://news.ycombinator.com/item?id=27259321</id>
-        <link href="https://ingrids.space/posts/why-distributed-systems-dont-work/"/>
-        <updated>2021-05-23T22:44:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ingrids.space/posts/why-distributed-systems-dont-work/
-Comments URL: https://news.ycombinator.com/item?id=27259321
-Points: 63
-# Comments: 35]]></summary>
-        <author>
-            <name>intarga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switching from Mailchimp to open-source Mailtrain and AWS SES]]></title>
-        <id>https://news.ycombinator.com/item?id=27258502</id>
-        <link href="https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/"/>
-        <updated>2021-05-23T20:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/
-Comments URL: https://news.ycombinator.com/item?id=27258502
-Points: 117
-# Comments: 75]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cray-2 Memories [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27257924</id>
-        <link href="http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf"/>
-        <updated>2021-05-23T19:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf
-Comments URL: https://news.ycombinator.com/item?id=27257924
-Points: 42
-# Comments: 4]]></summary>
-        <author>
-            <name>pinewurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Network Enabled Filmmaking]]></title>
-        <id>https://news.ycombinator.com/item?id=27257658</id>
-        <link href="https://www.flawlessai.com/"/>
-        <updated>2021-05-23T19:11:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.flawlessai.com/
-Comments URL: https://news.ycombinator.com/item?id=27257658
-Points: 47
-# Comments: 25]]></summary>
-        <author>
-            <name>doener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Limits to Blockchain Scalability]]></title>
-        <id>https://news.ycombinator.com/item?id=27257641</id>
-        <link href="https://vitalik.ca/general/2021/05/23/scaling.html"/>
-        <updated>2021-05-23T19:09:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/05/23/scaling.html
-Comments URL: https://news.ycombinator.com/item?id=27257641
-Points: 236
-# Comments: 273]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I prefer making useless stuff]]></title>
-        <id>https://news.ycombinator.com/item?id=27256867</id>
-        <link href="https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html"/>
-        <updated>2021-05-23T17:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
-Comments URL: https://news.ycombinator.com/item?id=27256867
-Points: 270
-# Comments: 93]]></summary>
-        <author>
-            <name>azhenley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Direct manipulation flowchart editor without the mouse]]></title>
-        <id>https://news.ycombinator.com/item?id=27256861</id>
-        <link href="https://www.knotend.com"/>
-        <updated>2021-05-23T17:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.knotend.com
-Comments URL: https://news.ycombinator.com/item?id=27256861
-Points: 36
-# Comments: 15]]></summary>
-        <author>
-            <name>escot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CRM for Your Job Search]]></title>
-        <id>https://news.ycombinator.com/item?id=27256776</id>
-        <link href="https://www.kiter.app/#/"/>
-        <updated>2021-05-23T17:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kiter.app/#/
-Comments URL: https://news.ycombinator.com/item?id=27256776
-Points: 52
-# Comments: 38]]></summary>
-        <author>
-            <name>pbmango</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Tips to Writing RISC-V Assembly]]></title>
-        <id>https://news.ycombinator.com/item?id=27256690</id>
-        <link href="https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/"/>
-        <updated>2021-05-23T17:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/
-Comments URL: https://news.ycombinator.com/item?id=27256690
-Points: 42
-# Comments: 1]]></summary>
-        <author>
-            <name>azhenley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Workflow: C++ Parallel Computing and Asynchronous Networking Engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27256686</id>
-        <link href="https://github.com/sogou/workflow"/>
-        <updated>2021-05-23T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/sogou/workflow
-Comments URL: https://news.ycombinator.com/item?id=27256686
-Points: 61
-# Comments: 16]]></summary>
-        <author>
-            <name>Barenboim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teardown of a PC Power Supply]]></title>
-        <id>https://news.ycombinator.com/item?id=27256515</id>
-        <link href="https://www.righto.com/2021/05/teardown-of-pc-power-supply.html"/>
-        <updated>2021-05-23T16:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html
-Comments URL: https://news.ycombinator.com/item?id=27256515
-Points: 241
-# Comments: 156]]></summary>
-        <author>
-            <name>parsecs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CandyGraph, a flexible, fast-by-default WebGL plotting library]]></title>
-        <id>https://news.ycombinator.com/item?id=27256262</id>
-        <link href="https://github.com/wwwtyro/candygraph"/>
-        <updated>2021-05-23T16:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/wwwtyro/candygraph
-Comments URL: https://news.ycombinator.com/item?id=27256262
-Points: 61
-# Comments: 18]]></summary>
-        <author>
-            <name>wwwtyro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Wg-easy] Easy to setup, all-in-one WireGuard and Management Web UI]]></title>
-        <id>https://news.ycombinator.com/item?id=27256178</id>
-        <link href="https://github.com/WeeJeWel/wg-easy/blob/master/README.md"/>
-        <updated>2021-05-23T16:18:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md
-Comments URL: https://news.ycombinator.com/item?id=27256178
-Points: 84
-# Comments: 10]]></summary>
-        <author>
-            <name>weejewel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dorodango: the Japanese art of making shiny mud balls (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27255755</id>
-        <link href="https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/"/>
-        <updated>2021-05-23T15:37:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
-Comments URL: https://news.ycombinator.com/item?id=27255755
-Points: 228
-# Comments: 53]]></summary>
-        <author>
-            <name>mhb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saying Goodbye to Typo CI]]></title>
-        <id>https://news.ycombinator.com/item?id=27255727</id>
-        <link href="https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci"/>
-        <updated>2021-05-23T15:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci
-Comments URL: https://news.ycombinator.com/item?id=27255727
-Points: 105
-# Comments: 33]]></summary>
-        <author>
-            <name>robin_reala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belarus 'diverts Ryanair flight to arrest journalist', opposition says]]></title>
-        <id>https://news.ycombinator.com/item?id=27255561</id>
-        <link href="https://www.bbc.co.uk/news/world-europe-57219860"/>
-        <updated>2021-05-23T15:18:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57219860
-Comments URL: https://news.ycombinator.com/item?id=27255561
-Points: 728
-# Comments: 270]]></summary>
-        <author>
-            <name>cjnicholls</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESA advances its plan for satellites around the Moon]]></title>
-        <id>https://news.ycombinator.com/item?id=27255524</id>
-        <link href="https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html"/>
-        <updated>2021-05-23T15:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html
-Comments URL: https://news.ycombinator.com/item?id=27255524
-Points: 76
-# Comments: 38]]></summary>
-        <author>
-            <name>marsokod</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teach Yourself Demoscene in 14 Days]]></title>
-        <id>https://news.ycombinator.com/item?id=27254838</id>
-        <link href="https://github.com/psenough/teach_yourself_demoscene_in_14_days"/>
-        <updated>2021-05-23T13:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days
-Comments URL: https://news.ycombinator.com/item?id=27254838
-Points: 332
-# Comments: 34]]></summary>
-        <author>
-            <name>HugoDaniel</name>
         </author>
     </entry>
     <entry>
@@ -321,7 +389,7 @@ Points: 332
         <link href="https://www.allgamesdelta.net/2021/05/rustler-launches-august-31.html"/>
         <updated>2021-05-23T09:17:00.000Z</updated>
         <summary type="html"><![CDATA[Win The Grand Tournament and Commit all the Crimes in Rustler When it Launches August 31
- Modus Games today announced that you don’t have much longer to wait to blow up the townspeople’s hay bales for absolutely no other reason than choosing violence, because Rustler is launching on August 31 across PC, Xbox One, Xbox Series X|S, PS4, PS5 and Nintendo Switch. Pre-order the game here: rustlergame.com
+ Modus Games has announced that you don’t have much longer to wait to blow up the townspeople’s hay bales for absolutely no other reason than choosing violence, because Rustler is launching on August 31 across PC, Xbox One, Xbox Series X|S, PS4, PS5 and Nintendo Switch. Pre-order the game here: rustlergame.com
    The news was accompanied by a brand-new trailer that showcases horse larceny and other crimes that will be committed during Guy’s quest to win The Grand Tournament. When it isn’t crime, it’s generally being a problem for everyone around you in this ‘Grand Theft Horse’ display of mayhem.
    In Rustler, you’ll play as anti-hero Guy, a brigand determined to win The Grand Tournament for its illustrious prize. Saddle up and prepare to complete quests, terrorize townspeople, shoot cows into the sky, and cause absolute ruckus as a medieval marauder in Rustler. For those who can’t wait to get a taste of the action, you can try the game out on Steam Early Access now.
    For news on Rustler and Modus Games’ full lineup, head over to modusgames.com.]]></summary>
@@ -605,36 +673,6 @@ Points: 332
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Radical Design vuelve a la vida y trabaja en un nuevo TimeSplitters]]></title>
-        <id>46084_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/free-radical-timesplitters-nuevo"/>
-        <updated>2021-05-20T10:05:29.000Z</updated>
-        <summary type="html"><![CDATA[Free Radical Design está de vuelta. El histórico estudio de desarrollo británico se reformará como un nuevo equipo bajo la dirección de Steve Ellis y David Doak, dos de sus fundadores originales, y formará parte de Deep Silver, una filial de Embracer Group. Actualmente el nuevo Free Radical Design trabaja en la construcción del estudio y en los próximos meses se pondrá manos a la obra con una nueva entrega de TimeSplitters. “Poder confirmar por fin que se ha formado el estudio y que tenemos un plan para el próximo juego de TimeSpitters resulta increíble”, dice Steve Ellis, director de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kobo anuncia el lector de e-books Elipsa, con lápiz para realizar anotaciones sobre los textos]]></title>
-        <id>46085_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/ereader-kobo-elipsa-stylus"/>
-        <updated>2021-05-20T09:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Rakuten sigue engrosando su ya considerable lista de alternativas a los lectores Kindle. Su gama de e-readers Kobo, que goza de muy buena aceptación entre los usuarios que han decidido no optar por el ecosistema de Amazon, suma hoy un integrante especialmente polivalente con la llegada del modelo Elipsa. Este lector de libros electrónicos destaca por proporcionar la capacidad para tomar notas usando un lápiz, igual que haríamos con un texto impreso en papel. El Kobo Elipsa posee una muy considerable pantalla antirreflejos E Ink Carta 1200 de 10,3 pulgadas (como referencia, un Kindle… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple afirma que no conviene abrir el iPhone a la Epic Store porque los Mac ya tienen niveles de malware inaceptables]]></title>
-        <id>46083_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/apple-problema-malware-epic"/>
-        <updated>2021-05-20T08:49:53.000Z</updated>
-        <summary type="html"><![CDATA[El encontronazo en los tribunales entre Epic y Apple nos está dejando algunos titulares bastante llamativos. Inesperados, incluso. Además de arrojar luz a sobre las finanzas y los acuerdos de ambas compañías, que de otra forma permanecerían opacos a los ojos de los consumidores, el juicio también está sirviendo para conocer la situación real de sus respectivos ecosistemas y servicios. Que en el caso de Apple, conlleva la lucha contra una cantidad de malware superior a la que podía creerse inicialmente. Según declaró ayer Craig Federighi, líder de ingeniería de software de Apple, "Hoy… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chivalry II Cross-Play Open Beta Test Set for May 27 to June 1]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-6018879111695559718</id>
         <link href="https://www.allgamesdelta.net/2021/05/chivalry-ii-cross-play-open-beta-test.html"/>
@@ -823,41 +861,6 @@ Game Features
   •  Dozens of challenging mechanics.
   •  Continued development will add new features and mechanics via DLC.
  Glimmer Studio is packed to the brim with young developers whose average age is only 24. This young team is ready to shake up the gaming world with their creations starting, of course, with Lumione.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toy Soldiers HD Launches in August]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-6066253671712357660</id>
-        <link href="https://www.allgamesdelta.net/2021/05/toy-soldiers-hd-launches-in-august.html"/>
-        <updated>2021-05-17T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Toy Soldiers HD Coming August 2021 to Nintendo Switch, PC, PlayStation 4, and Xbox One
- We at Accelerate Games, along with the super creative folks at Signal Studios, are excited to announce that the overhauled, upgraded, and better-than-ever Toy Soldiers HD is coming August 2021 to Nintendo Switch, PC, PlayStation®4 and Xbox One.
-  What makes Toy Soldiers HD overhauled, upgraded, and better-than-ever you ask?
-   Well, besides improved single and multiplayer gameplay, which we look forward to revealing soon as we march toward a June release, the HD version will include never-before played content, enhanced HD graphics (hence the name), and improved camera and sound. All previously released DLC will be included in the campaign flow.
-    
- Let’s step back for a moment. The original Toy Soldi…]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sniper Ghost Warrior Contracts 2 Gameplay Overview Trailer]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-201891543684438273</id>
-        <link href="https://www.allgamesdelta.net/2021/05/sniper-ghost-warrior-contracts-2.html"/>
-        <updated>2021-05-17T04:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Gameplay Fully Unveiled in Latest Sniper Ghost Warrior Contracts 2 Trailer
- The latest entry in the best-selling first-person sniping franchise is less than one month away, and CI Games is excited to showcase the full gameplay experience on offer with its latest Gameplay Overview trailer. This new trailer provides a deepdive into the variety of gameplay available in Sniper Ghost Warrior Contracts 2, including sandbox-style maps, customisable weapons and equipment, and, of course, its shiny new feature — 1000m+ extreme-range sniping. But as well as new lengths, the title also promises to take the franchise to new heights as the most visually impressive entry yet, when it launches on June 4th, 2021 for Xbox Series X/S, Xbox One, PS4 and PC. All PS4 editions of the game will arrive with a fre…]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Several new SteamWorld Games in Development]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-3977159229699032433</id>
-        <link href="https://www.allgamesdelta.net/2021/05/several-new-steamworld-games-in.html"/>
-        <updated>2021-05-17T04:40:00.000Z</updated>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
