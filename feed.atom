@@ -2,297 +2,565 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T01:17:34.221Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T01:48:01.814Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27271555</id>
-        <link href="https://apply.workable.com/jerry/j/07E1D2B302/"/>
-        <updated>2021-05-25T01:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apply.workable.com/jerry/j/07E1D2B302/
-Comments URL: https://news.ycombinator.com/item?id=27271555
+        <title type="html"><![CDATA[Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM]]></title>
+        <id>https://news.ycombinator.com/item?id=27298127</id>
+        <link href="https://jobs.lever.co/rainforest?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
+        <updated>2021-05-27T01:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN
+Comments URL: https://news.ycombinator.com/item?id=27298127
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>artag</name>
+            <name>ukd1</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Than Average]]></title>
-        <id>https://news.ycombinator.com/item?id=27270928</id>
-        <link href="https://thanaverage.xyz/"/>
-        <updated>2021-05-24T23:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thanaverage.xyz/
-Comments URL: https://news.ycombinator.com/item?id=27270928
-Points: 94
-# Comments: 78]]></summary>
+        <title type="html"><![CDATA[LA pays $2600 per homeless tent, per month]]></title>
+        <id>https://news.ycombinator.com/item?id=27297971</id>
+        <link href="https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions"/>
+        <updated>2021-05-27T00:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions
+Comments URL: https://news.ycombinator.com/item?id=27297971
+Points: 20
+# Comments: 24]]></summary>
         <author>
-            <name>dvt</name>
+            <name>temp8964</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Having a successful career with depression, anxiety and imposter syndrome]]></title>
-        <id>https://news.ycombinator.com/item?id=27270662</id>
-        <link href="https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/"/>
-        <updated>2021-05-24T22:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/
-Comments URL: https://news.ycombinator.com/item?id=27270662
-Points: 53
-# Comments: 11]]></summary>
-        <author>
-            <name>lukefreeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inkscape 1.1]]></title>
-        <id>https://news.ycombinator.com/item?id=27270070</id>
-        <link href="https://inkscape.org/news/2021/05/24/welcome-inkscape-11/"/>
-        <updated>2021-05-24T21:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://inkscape.org/news/2021/05/24/welcome-inkscape-11/
-Comments URL: https://news.ycombinator.com/item?id=27270070
-Points: 218
-# Comments: 70]]></summary>
-        <author>
-            <name>RaitoBezarius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elk OS – Audio Operating System]]></title>
-        <id>https://news.ycombinator.com/item?id=27269589</id>
-        <link href="https://elk.audio/audio-os/"/>
-        <updated>2021-05-24T20:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elk.audio/audio-os/
-Comments URL: https://news.ycombinator.com/item?id=27269589
-Points: 114
-# Comments: 37]]></summary>
-        <author>
-            <name>ushakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need Something Sorted? Sleep on It]]></title>
-        <id>https://news.ycombinator.com/item?id=27269586</id>
-        <link href="https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914"/>
-        <updated>2021-05-24T20:54:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914
-Comments URL: https://news.ycombinator.com/item?id=27269586
-Points: 14
-# Comments: 6]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replit now supports every programming language in Nix]]></title>
-        <id>https://news.ycombinator.com/item?id=27269292</id>
-        <link href="https://blog.replit.com/nix"/>
-        <updated>2021-05-24T20:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/nix
-Comments URL: https://news.ycombinator.com/item?id=27269292
-Points: 122
-# Comments: 29]]></summary>
-        <author>
-            <name>bobrenjc93</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists use optogenetics to help a blind patient see again]]></title>
-        <id>https://news.ycombinator.com/item?id=27268537</id>
-        <link href="https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/"/>
-        <updated>2021-05-24T19:17:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/
-Comments URL: https://news.ycombinator.com/item?id=27268537
-Points: 106
-# Comments: 8]]></summary>
-        <author>
-            <name>bmau5</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urbit: The good, the bad, and the insane]]></title>
-        <id>https://news.ycombinator.com/item?id=27268462</id>
-        <link href="https://wejn.org/2021/02/urbit-good-bad-insane/"/>
-        <updated>2021-05-24T19:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/
-Comments URL: https://news.ycombinator.com/item?id=27268462
-Points: 170
-# Comments: 80]]></summary>
-        <author>
-            <name>deegles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wasteland 3: Welcome to Steeltown revela sus detalles con un nuevo tráiler]]></title>
-        <id>46110_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/wasteland-3-welcome-steeltown-trailer"/>
-        <updated>2021-05-24T18:20:28.000Z</updated>
-        <summary type="html"><![CDATA[A poco más de una semana de su lanzamiento, el editor Deep Silver y el desarrollador InXile Entertainment han mostrado un nuevo tráiler de Welcome to Steeltown, la primera expansión narrativa de Wasteland 3, donde se ofrecen los detalles sobre el complemento. Si todo va según lo previsto The Battle of Steeltown estará disponible como contenido descargable digital el 3 de junio en PS4, Xbox One y PC (Steam, GOG, Microsoft Store) por 13,99 euros. La historia de Welcome to Steeltown traslada la campaña de los Rangers hasta el suroeste de Colorado, donde se encuentra el complejo… Leer noticia completa y comentarios »]]></summary>
+        <title type="html"><![CDATA[Un documento de Sony revela una versión de Uncharted 4 para PC y que PS5 será rentable en junio]]></title>
+        <id>46143_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/uncharted-pc-ps5-rentable"/>
+        <updated>2021-05-27T00:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Como parte de una presentación realizada en el marco del Sony Group’s Investor Relations Day, Sony Interactive Entertainment ha dejado escapar que Uncharted 4: El desenlace del ladrón tendrá una versión para PC y que la edición estándar de PlayStation 5 empezará a ser rentable tan pronto como el mes de junio. En el documento la división gaming de Sony también saca pecho sobre la marcha de su nueva consola, que tanto en ventas como en juegos supera el lanzamiento de su predecesora. La versión de Uncharted 4 para PC no ha sido explícitamente anunciada por Sony ni por PlayStation… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing Pythonic Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=27267066</id>
-        <link href="http://www.cmyr.net/blog/rust-python-learnings.html"/>
-        <updated>2021-05-24T17:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
-Comments URL: https://news.ycombinator.com/item?id=27267066
-Points: 168
+        <title type="html"><![CDATA[When scientific orthodoxy resembles religious dogma]]></title>
+        <id>https://news.ycombinator.com/item?id=27296958</id>
+        <link href="https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/"/>
+        <updated>2021-05-26T22:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/
+Comments URL: https://news.ycombinator.com/item?id=27296958
+Points: 78
+# Comments: 81]]></summary>
+        <author>
+            <name>version_five</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graven, un FPS de acción y aventura inspirado en Hexen, inicia su acceso anticipado]]></title>
+        <id>46142_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/graven-disponible-acceso-anticipado"/>
+        <updated>2021-05-26T22:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Los jugadores que busquen un título de acción en primera persona que por su estética los traslade a la segunda mitad de los 90, ya tienen disponible a Graven en el acceso anticipado de Steam, Epic Games y GOG a cambio de 20,99 euros. El juego está siendo desarrollado por el estudio danés Slipgate Ironworks, tiene una fuerte inspiración en el clásico Hexen de la que no se esconde y ha sido publicado bajo los sellos de 3D Realms y 1C Entertainment. Graven es un FPS de acción y aventura ambientado en un mundo oscuro de fantasía, que tiene como protagonista a un deshonrado cura de la… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKreen: Human Centric Smartphones for Everyone]]></title>
+        <id>https://news.ycombinator.com/item?id=27296514</id>
+        <link href="https://skreen.site/"/>
+        <updated>2021-05-26T21:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://skreen.site/
+Comments URL: https://news.ycombinator.com/item?id=27296514
+Points: 16
+# Comments: 19]]></summary>
+        <author>
+            <name>fabrice_d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can't have too many angels]]></title>
+        <id>https://news.ycombinator.com/item?id=27296330</id>
+        <link href="https://waseem.substack.com/p/you-cant-have-too-many-angels"/>
+        <updated>2021-05-26T21:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels
+Comments URL: https://news.ycombinator.com/item?id=27296330
+Points: 76
+# Comments: 48]]></summary>
+        <author>
+            <name>wdaher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monster Hunter Rise recibe la actualización 3.0 y Monster Hunter Stories 2 se deja ver con un nuevo tráiler]]></title>
+        <id>46141_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/monster-hunter-rise-actualizacion-stories-trailer"/>
+        <updated>2021-05-26T20:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Capcom no deja descansar a los jugadores de Monster Hunter Rise, que a lo largo del 27 de mayo recibirán la actualización 3.0 con contenido en forma de monstruos, misiones y un nuevo inédito. Tampoco hay reposo para aquellos que esperan el lanzamiento de Monster Hunter Stories 2: Wings of Ruin, del que hoy Capcom ha mostrado el enésimo tráiler con detalles sobre la historia y la conexión del protagonista con Razewing Ratha. A los jugadores de Nintendo Switch con una copia de Monster Hunter Rise les espera una descarga de 1,4 GB para hacerse con la actualización 3.0. Su contenido está… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collusion rings threaten the integrity of computer science research]]></title>
+        <id>https://news.ycombinator.com/item?id=27295906</id>
+        <link href="https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext"/>
+        <updated>2021-05-26T20:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
+Comments URL: https://news.ycombinator.com/item?id=27295906
+Points: 286
+# Comments: 169]]></summary>
+        <author>
+            <name>djoldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life after an internet mob attack]]></title>
+        <id>https://news.ycombinator.com/item?id=27295320</id>
+        <link href="https://pasquale.cool/internet-mob"/>
+        <updated>2021-05-26T19:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pasquale.cool/internet-mob
+Comments URL: https://news.ycombinator.com/item?id=27295320
+Points: 406
+# Comments: 291]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why and how GitHub is adopting OpenTelemetry]]></title>
+        <id>https://news.ycombinator.com/item?id=27294890</id>
+        <link href="https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/"/>
+        <updated>2021-05-26T19:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
+Comments URL: https://news.ycombinator.com/item?id=27294890
+Points: 193
+# Comments: 58]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El Xbox & Bethesda Games Showcase se celebrará el 13 de junio a las 19:00 horas]]></title>
+        <id>46140_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/microsoft-bethesda-xbox-evento-e3-2021"/>
+        <updated>2021-05-26T19:15:55.000Z</updated>
+        <summary type="html"><![CDATA[Este año ha costado, pero finalmente Microsoft ha anunciado que el 13 de junio a las 19:00 hora peninsular española tendrá lugar el Xbox & Bethesda Games Showcase. El evento, que pasa por ser una de las transmisiones más importantes del año para la compañía, se celebra en el marco del E3 2021, durará 90 minutos y servirá para conocer las próximas novedades de Xbox Game Studios, Bethesda Softworks y algunos estudios first-party. “Sabemos cuánto te emocionó dar la bienvenida a Bethesda Softworks a la familia Xbox, así que también sabemos que querrás estar en primera fila durante el Xbox… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy – A curated list of services and alternatives that respect privacy]]></title>
+        <id>https://news.ycombinator.com/item?id=27294703</id>
+        <link href="https://github.com/pluja/awesome-privacy"/>
+        <updated>2021-05-26T19:04:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/pluja/awesome-privacy
+Comments URL: https://news.ycombinator.com/item?id=27294703
+Points: 109
+# Comments: 18]]></summary>
+        <author>
+            <name>sharjeelsayed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servers as they should be – shipping early 2022]]></title>
+        <id>https://news.ycombinator.com/item?id=27294471</id>
+        <link href="https://oxide.computer"/>
+        <updated>2021-05-26T18:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://oxide.computer
+Comments URL: https://news.ycombinator.com/item?id=27294471
+Points: 589
+# Comments: 182]]></summary>
+        <author>
+            <name>ykl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new algorithm for graph crossings, hiding in plain sight (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27294401</id>
+        <link href="https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly"/>
+        <updated>2021-05-26T18:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
+Comments URL: https://news.ycombinator.com/item?id=27294401
+Points: 117
+# Comments: 24]]></summary>
+        <author>
+            <name>panabee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Blizzard decide no celebrar la BlizzCon 2021]]></title>
+        <id>46139_v1</id>
+        <link href="https://www.elotrolado.net/hilo_blizzard-decide-no-celebrar-la-blizzcon-2021_2423999"/>
+        <updated>2021-05-26T18:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Por segundo año consecutivo Blizzard Entertainment no celebrará la BlizzCon en su formato tradicional, es decir, de forma masiva y con gente. La compañía sostiene que las “dificultades e incertidumbres de la pandemia” ha afectado a su capacidad de planear un evento de estas dimensiones, así que han preferido actuar con cautela. Para sustituir la BlizzCon, Blizzard organizará “un evento global para principios del año que viene en el que combinaremos un espectáculo online parecido a la reciente BlizzConline con reuniones en persona más reducidas”. Ahí se conocerán las últimas novedades… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the “X-AMZN-Trace-Id” Header for Request Tracing Through AWS Load Balancer]]></title>
+        <id>https://news.ycombinator.com/item?id=27294355</id>
+        <link href="https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm"/>
+        <updated>2021-05-26T18:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm
+Comments URL: https://news.ycombinator.com/item?id=27294355
+Points: 53
+# Comments: 3]]></summary>
+        <author>
+            <name>rmason</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: El juego de rompecabezas Labyrinth City: Pierre the Maze Detective estará disponible el 22 de junio]]></title>
+        <id>46138_v1</id>
+        <link href="https://www.elotrolado.net/hilo_el-juego-de-rompecabezas-labyrinth-city-pierre-the-maze-detective-estara-disponible-el-22-de-junio_2423997"/>
+        <updated>2021-05-26T18:25:24.000Z</updated>
+        <summary type="html"><![CDATA[El editor Pixmain y el estudio independiente de animación y desarrollo Darjeeling han anunciado que el juego de rompecabezas Labyrinth City: Pierre the Maze Detective se estrenará en PC mediante Steam el 22 de junio y llegará a Nintendo Switch, Android y iOS durante el próximo verano. Como indica su nombre, el título está basado en los libros/cómic de Pierre the Maze Detective del artista japonés Hirofumi Kamigaki. Cada nivel de Labyrinth City: Pierre the Maze Detective está basado en un dibujo hecho a mano por Hirofumi Kamigaki y el estudio de ilustración IC4DESIGN, mientras que el… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: El título oficial de los Juegos Olímpicos Tokio 2020 llegará el 22 de junio a Occidente]]></title>
+        <id>46137_v1</id>
+        <link href="https://www.elotrolado.net/hilo_el-titulo-oficial-de-los-juegos-olimpicos-tokio-2020-llegara-el-22-de-junio-a-occidente_2423995"/>
+        <updated>2021-05-26T18:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Los Juegos Olímpicos Tokio 2020 se celebrarán sí o sí. Como mínimo en casa de la gente que se haga con el juego oficial que se pondrá a la venta el 22 de junio con versión para PlayStation 4, Xbox One, Nintendo Switch, PC Steam y Google Stadia. El título en manos de Sega permitirá participar de los siguientes 18 eventos olímpicos ya sea en solitario o en el modo multijugador: 100m lisos Relevos 4x100m 110m vallas Lanzamiento de martillo Salto de longitud Béisbol Baloncesto Vóley playa BMX (Ciclismo) Boxeo Judo Rugby 7 Fútbol 100m estilo libre (natación) 200m estilos individual… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Iron Harvest 1920+ presenta la facción Unión Americana de Usonia]]></title>
+        <id>46136_v1</id>
+        <link href="https://www.elotrolado.net/hilo_iron-harvest-1920-presenta-la-faccion-union-americana-de-usonia_2423994"/>
+        <updated>2021-05-26T18:06:38.000Z</updated>
+        <summary type="html"><![CDATA[El desarrollador King Art Game ha mostrado un nuevo y generoso tráiler de Iron Harvest 1920+ destinado a revelar todos los detalles de la facción Unión Americana de Usonia, que pasa por ser una de las mayores novedades del contenido adicional Operación Águila que estará disponible el 27 de mayo. En concreto, el metraje presenta sus tropas y sus motivaciones secretas. La facción Unión Americana de Usonia se mantuvo al margen de la Gran Guerra y se convirtió en una potencia económica y militar que pasó desapercibida para las antiguas élites europeas. Ahora ha decidido entrar en el gran… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Find Subreddits for Your Niche]]></title>
+        <id>https://news.ycombinator.com/item?id=27293902</id>
+        <link href="https://www.findareddit.com/"/>
+        <updated>2021-05-26T17:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
+Comments URL: https://news.ycombinator.com/item?id=27293902
+Points: 229
 # Comments: 128]]></summary>
         <author>
-            <name>zbentley</name>
+            <name>thisissidhant</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A journey to io_uring, AIO and modern storage devices]]></title>
-        <id>https://news.ycombinator.com/item?id=27267007</id>
-        <link href="https://clickhouse.tech/blog/en/2021/reading-from-external-memory/"/>
-        <updated>2021-05-24T17:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
-Comments URL: https://news.ycombinator.com/item?id=27267007
-Points: 84
-# Comments: 11]]></summary>
-        <author>
-            <name>digikata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Square Enix y Team Ninja estarían trabajando en un ARPG de Final Fantasy para PS5 y PC]]></title>
-        <id>46109_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/final-fantasy-team-ninja"/>
-        <updated>2021-05-24T16:59:38.000Z</updated>
-        <summary type="html"><![CDATA[La saga Final Fantasy está más en forma que nunca. A Final Fantasy XVI, Final Fantasy VII Remake y Final Fantasy XIV parece que durante el próximo mes se le sumará una nueva entrega en manos del Team Ninja. Cierto es que las semanas anteriores al E3 son campo abonado para los rumores, pero en esta ocasión son hasta tres las fuentes que hablan sobre la existencia de un spin-off de Final Fantasy en forma de ARPG parecido a Nioh. El primer rumor sobre este nuevo juego, al que se le conoce bajo el nombre de Final Fantasy Origin, lo soltó durante el fin de semana SoulsHunt, un usuario que… Leer noticia completa y comentarios »]]></summary>
+        <title type="html"><![CDATA[Unreal Engine 5 inicia su acceso anticipado y presenta una técnica que promete calidad cercana al 4K al coste de 1080p]]></title>
+        <id>46135_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/unreal-engine-5-acceso-anticipado"/>
+        <updated>2021-05-26T17:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Un año después de presentarlo, Epic Games ha realizado una nueva demostración de Unreal Engine 5 y anunciado que la solución gráfica ya se encuentra al alcance de cualquiera mediante un acceso anticipado. Las dos grandes características de esta nueva versión del motor gráfico son Lumen y Nanite que hoy han repetido protagonismo, pero también se ha descubierto una técnica no menos interesante llamada Temporal Super Resolution (TSR). Explicado de forma somera, Temporal Super Resolution es una técnica de upscaling que nace para que los ordenadores y consolas se puedan mantener al día con… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evidence-based Software Engineering: based on the publicly available data]]></title>
-        <id>https://news.ycombinator.com/item?id=27266551</id>
-        <link href="http://www.knosof.co.uk/ESEUR/"/>
-        <updated>2021-05-24T16:43:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
-Comments URL: https://news.ycombinator.com/item?id=27266551
-Points: 121
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[OpenAI Announces Funding for Startups]]></title>
+        <id>https://news.ycombinator.com/item?id=27293676</id>
+        <link href="https://openai.com/fund/"/>
+        <updated>2021-05-26T17:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
+Comments URL: https://news.ycombinator.com/item?id=27293676
+Points: 149
+# Comments: 67]]></summary>
         <author>
-            <name>teleforce</name>
+            <name>cl42</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Complexity is a source of income in open source ecosystems (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27266485</id>
-        <link href="https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/"/>
-        <updated>2021-05-24T16:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
-Comments URL: https://news.ycombinator.com/item?id=27266485
-Points: 237
-# Comments: 148]]></summary>
+        <title type="html"><![CDATA[Different browsers see different colors]]></title>
+        <id>https://news.ycombinator.com/item?id=27293266</id>
+        <link href="https://mux.com/blog/your-browser-and-my-browser-see-different-colors/"/>
+        <updated>2021-05-26T17:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
+Comments URL: https://news.ycombinator.com/item?id=27293266
+Points: 157
+# Comments: 66]]></summary>
         <author>
-            <name>teleforce</name>
+            <name>slimscsi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Radioactivity may fuel life deep underground and inside other worlds]]></title>
-        <id>https://news.ycombinator.com/item?id=27265836</id>
-        <link href="https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/"/>
-        <updated>2021-05-24T15:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
-Comments URL: https://news.ycombinator.com/item?id=27265836
-Points: 96
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[Using NetBSD’s pkgsrc everywhere I can]]></title>
+        <id>https://news.ycombinator.com/item?id=27293108</id>
+        <link href="https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/"/>
+        <updated>2021-05-26T17:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
+Comments URL: https://news.ycombinator.com/item?id=27293108
+Points: 64
+# Comments: 36]]></summary>
         <author>
-            <name>theafh</name>
+            <name>jayp1418</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why did bar ends go away from mountain bikes?]]></title>
-        <id>https://news.ycombinator.com/item?id=27265645</id>
-        <link href="https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/"/>
-        <updated>2021-05-24T15:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/
-Comments URL: https://news.ycombinator.com/item?id=27265645
-Points: 139
-# Comments: 214]]></summary>
-        <author>
-            <name>de_keyboard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konami se abre a más colaboraciones externas como la de GetsuFumaDen]]></title>
-        <id>46108_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/konami-desarrollo-third-party"/>
-        <updated>2021-05-24T15:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Hace tiempo que Konami no desarrolla juegos más allá de PES (y gracias), pero su cartera de propiedades intelectuales cuenta con históricas franquicias de enorme valor que pueden ser aprovechadas más allá de para inspirar máquinas pachinko. Hasta ahora Konami ha sido muy reacia a la hora de ceder sus licencias, pero el sorprendente regreso de la serie GetsuFumaDen a manos del estudio independiente GuruGuru parece que es solo el inicio de una nueva política. Durante una entrevista a JPGames al productor de Konami, Shin Murato, se le pregunta cómo se inició la asociación con GuruGuru… Leer noticia completa y comentarios »]]></summary>
+        <title type="html"><![CDATA[PUBG remasterizará Miramar y añadirá dos nuevos mapas 8x8]]></title>
+        <id>46134_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/pubg-nuevos-mapas-2021"/>
+        <updated>2021-05-26T16:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Krafton sigue peleando para que PlayerUnknown's Battlegrounds pueda hacer frente a la competencia que suponen otros battle royale como Fortnite, Apex Legends o Warzone. Para mantener su parte del pastel, el equipo de desarrollo se encuentra trabajando en un plan de desarrollo para 2021 que incluye una remasterización del Miramar y dos nuevos mapas de grandes dimensiones conocidos bajo el nombre en clave Tiger y Kiki. Además, pronto tendremos novedades sobre cambios en las mecánicas de juego. La primera novedad que recibirán los jugadores de PUBG será la remasterización de Miramar, que… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Curvenote (YC W21) – Collaborative writing tools for science]]></title>
-        <id>https://news.ycombinator.com/item?id=27265380</id>
-        <link href="https://news.ycombinator.com/item?id=27265380"/>
-        <updated>2021-05-24T15:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN! I’m Rowan and with my co-founder Steve we are building Curvenote (https://curvenote.com) — a technical writing tool for sharing data analysis and research from Jupyter with a wider audience.
-We are building Curvenote to get science communication out of PDFs and help researchers and data-scientists communicate interactive, reproducible results (graphs, figures, maps, etc.) that are linked to the actual data and computation. There are currently two parts to Curvenote: 1) a WYSIWYG collaborative writing environment for interactive, technical documents; and 2) a Jupyter integration that adds version control and commenting and can link interactive plots and outputs directly into Curvenote documents (including any new versions or comments on those outputs).
-Steve and I met in the open-sou…]]></summary>
-        <author>
-            <name>rowanc1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I/O Rings: When One I/O Operation is Not Enough]]></title>
-        <id>https://news.ycombinator.com/item?id=27265091</id>
-        <link href="https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/"/>
-        <updated>2021-05-24T14:56:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/
-Comments URL: https://news.ycombinator.com/item?id=27265091
-Points: 45
-# Comments: 8]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOOM Captcha]]></title>
-        <id>https://news.ycombinator.com/item?id=27264988</id>
-        <link href="https://vivirenremoto.github.io/doomcaptcha/"/>
-        <updated>2021-05-24T14:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
-Comments URL: https://news.ycombinator.com/item?id=27264988
-Points: 347
-# Comments: 108]]></summary>
-        <author>
-            <name>jukkakoskinen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HeapSafe: Securing Unprotected Heaps in RISC-V [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27264585</id>
-        <link href="https://arxiv.org/abs/2105.08712"/>
-        <updated>2021-05-24T14:13:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.08712
-Comments URL: https://news.ycombinator.com/item?id=27264585
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>gbrown_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rf: an experimental refactoring tool for Go]]></title>
-        <id>https://news.ycombinator.com/item?id=27264542</id>
-        <link href="https://pkg.go.dev/rsc.io/rf"/>
-        <updated>2021-05-24T14:09:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pkg.go.dev/rsc.io/rf
-Comments URL: https://news.ycombinator.com/item?id=27264542
+        <title type="html"><![CDATA[Have you ever hurt yourself from your own code?]]></title>
+        <id>https://news.ycombinator.com/item?id=27292219</id>
+        <link href="https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code"/>
+        <updated>2021-05-26T16:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code
+Comments URL: https://news.ycombinator.com/item?id=27292219
 Points: 60
-# Comments: 7]]></summary>
+# Comments: 26]]></summary>
         <author>
-            <name>robfig</name>
+            <name>its_nikita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operation: Tango, Virtua Fighter 5: Ultimate Showdown y Star Wars: Squadrons son los juegos PS Plus de junio]]></title>
+        <id>46133_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/ps-plus-junio-ps4-ps5-2021"/>
+        <updated>2021-05-26T15:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Sony mantiene el ritmo y el postín de los juegos que ofrece sin coste adicional cada mes mediante PlayStation Plus. Para junio el menú lo componen dos nuevos lanzamientos, Operation: Tango y Virtua Fighter 5: Ultimate Showdown para PS5 y PS4, respectivamente, y Star Wars: Squadrons, un título al que se puede jugar con PlayStation VR. Todos ellos estarán disponibles a partir del 1 de junio. Operation: Tango es una aventura cooperativa de espionaje en la que dos jugadores deben completar misiones por todo el planeta en un futuro cercano de alta tecnología. Uno de los jugadores adoptará… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An In-Depth Look at What/How/Why Books Sell (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27291848</id>
+        <link href="https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/"/>
+        <updated>2021-05-26T15:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/
+Comments URL: https://news.ycombinator.com/item?id=27291848
+Points: 67
+# Comments: 36]]></summary>
+        <author>
+            <name>pepys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The King’s Bird, Shadows: Awakening, NeoGeo Battle Coliseum y Injustice: Gods Among Us son los Juegos con Gold de junio]]></title>
+        <id>46132_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/games-with-gold-xbox-junio-2021"/>
+        <updated>2021-05-26T15:30:35.000Z</updated>
+        <summary type="html"><![CDATA[En junio, Microsoft mantendrá su tradición de ofrecer títulos de bajo perfil para Xbox One mediante la iniciativa Juegos con Gold como demuestran los nombres de The King’s Bird, Shadows: Awakening. Por su parte, en los retrocompatibles de Xbox 360 tenemos a restos de guerra como Injustice: Gods Among Us y NeoGeo Battle Coliseum. Desarrollado por el estudio independiente Serenity Forge, The King's Bird se describe como “un juego artístico, basado en la aceleración, que combina con fluidez las plataformas de precisión y el planeo basado en propiedades físicas”. El título también destaca… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim 0.5 is overpowering]]></title>
+        <id>https://news.ycombinator.com/item?id=27291302</id>
+        <link href="https://crispgm.com/page/neovim-is-overpowering.html"/>
+        <updated>2021-05-26T14:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
+Comments URL: https://news.ycombinator.com/item?id=27291302
+Points: 580
+# Comments: 328]]></summary>
+        <author>
+            <name>imbnwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leyendas Pokémon: Arceus, Pokémon Diamante Brillante y Perla Reluciente reciben una fecha de lanzamiento]]></title>
+        <id>46131_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/leyendas-pokemon-arceus-fecha-lanzamiento"/>
+        <updated>2021-05-26T14:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Sin evento de por medio y de una forma bastante fría, The Pokémon Company ha revelado la fecha de lanzamiento de Leyendas Pokémon: Arceus, que se pondrá a la venta el 28 de enero de 2022 en exclusiva para Nintendo Switch. También hemos conocido que Pokémon Diamante Brillante y Pokémon Perla Reluciente llegarán un poco antes, el 19 de noviembre de 2021, también como una exclusiva de Nintendo Switch. Leyendas Pokémon: Arceus es una nueva entrega de mundo abierto que mezcla las bases de los títulos de Pokémon anteriores con elementos propios de los juegos de acción y RPG. Su acción se… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon confirma la compra del estudio cinematográfico MGM por 8.450 millones de dólares]]></title>
+        <id>46130_v1</id>
+        <link href="https://www.elotrolado.net/noticias/internet/amazon-compra-mgm"/>
+        <updated>2021-05-26T13:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Ya es oficial. La megacorporación Amazon ha anunciado haber llegado a un acuerdo para comprar MGM a cambio de 8.450 millones de dólares. De esta forma el vasto catálogo del histórico estudio cinematográfico de Hollywood pasará a manos de la compañía liderada por Jeff Bezos, que con este movimiento impulsa el servicio de streaming Prime Video y lo posiciona como un auténtico competidor y amenaza para Netflix, HBO y Disney+. Como parte del acuerdo de compra, Amazon tendrá el control total de MGM y sus activos. Esto incluye una biblioteca con más de 4.000 películas y 17.000 horas de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon acquires MGM for $8.5B]]></title>
+        <id>https://news.ycombinator.com/item?id=27289924</id>
+        <link href="https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/"/>
+        <updated>2021-05-26T13:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/
+Comments URL: https://news.ycombinator.com/item?id=27289924
+Points: 724
+# Comments: 745]]></summary>
+        <author>
+            <name>helsinkiandrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt Red aún no sabe cuándo volverá Cyberpunk 2077 a la PlayStation Store]]></title>
+        <id>46129_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/cyberpunk-2077-regreso-playstation-store"/>
+        <updated>2021-05-26T12:32:15.000Z</updated>
+        <summary type="html"><![CDATA[¿Cuándo regresará Cyberpunk 2077 a la PlayStation Store? Esa misma pregunta se está haciendo CD Projekt Red, que medio año después de ver a Sony retirar su juego de la mencionada tienda por los numerosos problemas técnicos que tenía, sigue esperando la aprobación para poder volver a vender el título en formato digital para PlayStation 4. En una reunión con accionistas, el estudio polaco ha reconocido conversaciones con Sony, pero en ninguna de ellas se ha ofrecido una fecha de regreso. “Desafortunadamente, no tengo nueva información al respecto”, dice Adam Kiciński, director ejecutivo… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echtra Games abandona el desarrollo de Torchlight III]]></title>
+        <id>46128_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/echtra-games-deja-torchlight-iii"/>
+        <updated>2021-05-26T11:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Torchlight III se queda sin desarrollador. Así lo ha anunciado Echtra Games, el equipo hasta ahora responsable del juego disponible en PS4, Xbox One, Nintendo Switch y PC, que en un mensaje publicado en la web oficial del título afirma que una de las consecuencias de la compra por parte de Zynga es tener que avanzar hacia otros proyectos entre los que no se encuentra Torchlight III. La buena noticia es que el equipo de desarrollo deja el juego lanzando una actualización con numerosas novedades entre las que se incluye la clase Cursed Captain. “Como habrás escuchado en las noticias,… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El conector USB-C se actualizará para soportar carga a 240 W]]></title>
+        <id>46127_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/cables-usb-c-carga-rapida-240-w"/>
+        <updated>2021-05-26T10:55:16.000Z</updated>
+        <summary type="html"><![CDATA[La llegada del estándar USB4 parecía que iba a poner algo de orden en la ensalada de especificaciones de esta tecnología de conectividad con carácter supuestamente universal. La última revisión adopta el formato USB-C (también conocido como Type-C) como única interfaz física, pero eso no quiere decir que todos los cables USB-C vayan a ser iguales, en parte porque el propio estándar USB-C es un guirigai tecnológico de primer orden que se desarrolla en paralelo. Al mismo tiempo, las necesidades del hardware actual y de próxima generación implican la necesidad de seguir evolucionando el… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation quiere complementar sus juegos AAA llevándolos al móvil y expandir su audiencia con series y películas]]></title>
+        <id>46125_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/playstation-aaa-movil-series-peliculas"/>
+        <updated>2021-05-26T09:55:06.000Z</updated>
+        <summary type="html"><![CDATA[Sony ha celebrado una reunión de estrategia corporativa en la que Kenichiro Yoshida, director ejecutivo de la compañía, ha trazado las líneas que seguirá la multinacional japonesa de cara al futuro. Para la división PlayStation se han detectado tres áreas para expandir su alcance: móvil, la colaboración interna con Sony Pictures para sacar adelante series y películas basadas en licencias de PlayStation y social. También se pone sobre la mesa una cooperación entre Sony IA y PlayStation para mejorar la inteligencia artificial en los juegos. “El móvil es solo una de las áreas que estamos… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satya Nadella avanza un Windows de "próxima generación" con las novedades más importantes en una década]]></title>
+        <id>46126_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/microsoft-windows-proxima-generacion"/>
+        <updated>2021-05-26T09:47:38.000Z</updated>
+        <summary type="html"><![CDATA[La conferencia Build 2021 ha pasado un poco de puntillas. La edición de este año se ha centrado en las herramientas para desarrolladores y productos como Microsoft 365, dejando muy atrás cualquier novedad relevante relacionada con Windows. Lo cual tampoco es muy sorprendente si se considera que la firma de Redmond cambió hace poco (y una vez más) su ritmo de actualizaciones, dejando los cambios menores para la primera mitad del año y la cumulativa de mayor volumen para el segundo semestre. Pero falta de información no implica falta de trabajo. Durante su intervención en la… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve trabaja en un PC portátil similar a Nintendo Switch, según Arstechnica]]></title>
+        <id>46124_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/valve-portatil-switch-steam"/>
+        <updated>2021-05-25T20:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Valve vuelve a la carga con más hardware. Después del Steam Controller, Steam Link, Valve Index y las fallidas Steam Machines, llega el turno de un PC portátil con Linux similar a Switch y diseñado para ejecutar la inmensa biblioteca de juegos disponibles en Steam. La información proviene de Arstechnica, una veterana web con un solvente historial que afirma haber podido contactar con “varias fuentes” conocedoras de los planes de Valve. El dispositivo podría estar disponible a finales de año, siempre y cuando la crisis de semiconductores lo permita. Según esta información, Valve se… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: El beat ’em up Mayhem Brawler se pondrá a la venta el 18 de agosto]]></title>
+        <id>46123_v1</id>
+        <link href="https://www.elotrolado.net/hilo_el-beat-em-up-mayhem-brawler-se-pondra-a-la-venta-el-18-de-agosto_2423868"/>
+        <updated>2021-05-25T18:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Mayhem Brawler, un beat'em up de fantasía urbana inspirado en los arcade de los 90, estará disponible el 18 de agosto con versión para PlayStation 4, Xbox One, Nintendo Switch y PC (Steam). El desarrollo del título corre a cargo del estudio turco Hero Concept y aún no tiene precio de venta. La historia de Mayhem Brawler está protagonizada por Dolphin, Star y Trouble, agentes de la policía de Stronghold con superpoderes que se ven involucrados en una serie de acontecimientos que marcarán el futuro de la ciudad. Para salvar a Stronghold, los tres agentes deberán recorrer diferentes… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Disponible la demo de Disgaea 6: Defiance of Destiny para Switch]]></title>
+        <id>46122_v1</id>
+        <link href="https://www.elotrolado.net/hilo_disponible-la-demo-de-disgaea-6-defiance-of-destiny-para-switch_2423864"/>
+        <updated>2021-05-25T17:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Los jugadores de Nintendo Switch interesados en probar Disgaea 6: Defiance of Destiny ya pueden pasar por la eShop y descargar una demo del título, según ha anunciado NIS América. La demo permite completar los dos primeros capítulos y transferir los datos guardados al juego cuando este se ponga a la venta en Occidente el 29 de junio. Disgaea 6: Defiance of Destiny es el primer juego de la saga Disgaea en seis años y tiene como protagonista a Zed, un zombi que ha revivido y ahora debe enfrentarse al God of Destruction. Entre las novedades de esta entrega tenemos unos gráficos en 3D.… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anunciado el survival horror Daymare: 1994 Sandcastle]]></title>
+        <id>46121_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/daymare-1994-sandcastle-anunciado"/>
+        <updated>2021-05-25T17:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Daymare: 1998, un survival horror en tercera persona centrado en la historia e inspirado en los clásicos del género de los 90, tendrá una precuela llamada Daymare: 1994 Sandcastle que estará disponible a lo largo de 2022 para PS4, PS5, Xbox One, Xbox Series y PC (Steam), según ha anunciado el desarrollador italiano Invader Studios y el editor Leonardo Interactive. El título ha sido presentado junto a los primeros detalles sobre la historia, novedades y un tráiler cinemático que hace honor a su nombre y no incluye gameplay. Daymare: 1994 Sandcastle tiene como protagonista a la agente… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Axiom Verge 2 se retrasa al tercer trimestre de 2021]]></title>
+        <id>46120_v1</id>
+        <link href="https://www.elotrolado.net/hilo_axiom-verge-2-se-retrasa-al-tercer-trimestre-de-2021_2423851"/>
+        <updated>2021-05-25T15:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Axiom Verge 2 sufre un nuevo retraso que sitúa el lanzamiento del título para Nintendo Switch y PC (Epic Games Store) durante el tercer trimestre de 2021. Esta es la segunda vez que el juego desarrollado por Thomas Happ Games cambia de fecha. Primero estaba previsto para otoño de 2020 y posteriormente se cambió a la primera mitad de 2021. La nueva ventana de lanzamiento de Axiom Verge 2 sitúa la llegada del juego a las tiendas entre julio y septiembre. Este tiempo adicional servirá para que Thomas Happ, que se encarga del desarrollo del toto el juego (incluyendo la música), pueda… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Biomutant, un ARPG de kung-fu ambientado en un mundo posapocalíptico]]></title>
+        <id>46119_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/biomutant-trailer-lanzamiento"/>
+        <updated>2021-05-25T15:28:12.000Z</updated>
+        <summary type="html"><![CDATA[En 2017 THQ Nordic anunció Biomutant con la intención de poner a la venta el juego en 2018. No fue así. El lanzamiento del título se fue retrasando hasta que a principios de 2021 el editor anunció que el juego estaría disponible el 25 de mayo para PlayStation 4, Xbox One y PC (Steam). Completar el desarrollo de un juego no es sencillo, menos aún cuando el equipo responsable, Experiment 101, cuenta con unos 20 empleados. Biomutant se describe como una fábula de kung-fu en un mundo abierto posapocalíptico de 8x8 km, que según Stefan Ljungqvist, director creativo de Experiment 101,… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rogue Lords 'Disciples' Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-5686916792620964060</id>
+        <link href="https://www.allgamesdelta.net/2021/05/rogue-lords-disciples-trailer.html"/>
+        <updated>2021-05-25T13:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Join the Forces of Evil in Rogue Lords!
+ Nacon, Cyanide and Leikir Studio are pleased to announce that Rogue Lords will be playable as part of a closed beta on 1 June for those who register. To accompany this news, Rogue Lords is unveiling a new video that introduces the evil Disciples: legendary characters that possess unique skills and a deliciously macabre art style.
+   At the start of each run, you create a team of three Disciples. The characters have unique attacking and defensive skills, and none of them are limited to a single role. Choose your team based on your play style and adapt your Disciples' arsenal of skills to in-game events to defeat the most powerful enemies. Each Disciple has their own special skills. You will need to choose different combinations of spells and curses to create diabolical team synergies.
+    
+ You will love exploring your dark side and playing iconic evil geniuses, such as the White Lady, Dr Frankenstein and his creature, and Dracula.
+   Want to participate in the closed beta? Follow closely our social networks to be informed of the opening date of the registration.
+  The game will be available in 2021 on PC, PlayStation 4, Xbox One and Nintendo Switch.]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back 4 Blood 'Meet the Cleaners' Trailer]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-3554647683472803264</id>
+        <link href="https://www.allgamesdelta.net/2021/05/back-4-blood-meet-cleaners-trailer.html"/>
+        <updated>2021-05-25T12:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Get to Know “The Cleaners” in New Back 4 Blood Trailer
+ Warner Bros. Games and Turtle Rock Studios today released a new Back 4 Blood trailer spotlighting the diverse characters and personalities that make up the Ridden slaying crew known as “The Cleaners.” The video introduces each of the eight playable Cleaners – Holly, Walker, Doc, Karlee, Jim, Hoffman, Evangelo, and Mom – and expands on their background, characteristics, and in-game abilities. The trailer also provides a glimpse into the range of Ridden variants players will take on, including beastly Breakers, grotesque Ogres, screeching Snitchers, ravenous Hags, and more.
+   The complete team of Cleaners in Back 4 Blood includes:
+      Holly – After losing her family to the Devil Worm, Holly Forrester learned to channel all her energy…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aksys Games and RareBreed Makes Games Announce 2D Fighting Game Blazing Strike for PS5, PS4, Switch and PC]]></title>
+        <id>tag:blogger.com,1999:blog-6752074960104712501.post-5472484453590162152</id>
+        <link href="https://www.allgamesdelta.net/2021/05/aksys-games-and-rarebreed-makes-games.html"/>
+        <updated>2021-05-25T12:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Aksys Games Announces Blazing Strike 
+ Aksys Games announced today that Blazing Strike, the 2D fighting game from developer RareBreed Makes Games, is coming to consoles and PC in spring 2022. Inspired by classic arcade fighting game series from industry greats such as Capcom and SNK, Blazing Strike evokes the excitement and nostalgia of 2D pixel art genre pioneers while incorporating a unique games system with modern mechanics.
+   
+   “As the interest in fighting games continues to grow, we’re excited to see a title that explores new ideas in fun and creative ways while tipping its hat to grandfathers of the genre,” said Akibo Shieh, founder and CEO of Aksys Games.
+ “I was always fond of classic fighting games and I wanted to make a fun fighting game with an emphasis on mobility,” said Mark Chung, founder of RareBreed Makes Games. “Our goal is to create an homage to the classic pixel art-based 2D fighters, but with updated game mechanics that not only will bring nostalgia to 90’s arcade kids but will offer something new and entertaining to all gamers, regardless of whether they have played fighting games before.”
+     
+   Blazing Strike features a 4-button system with six normal attacks: light, medium and heavy punches and kicks, as well as three defense moves: block, guard and parry. A Rush Trigger enables fighters to execute fast-paced attacks and movements, but using it will slowly drain the Rush Meter, sending the character into a temporary groggy state. This allows players to execute exciting combos while having to manage the Rush Meter. The game will include three play modes: Story Mode, Arcade Mode and VS Mode, with training, sparring and online match via Persona AI, and online play powered by GGPO.
+   
+ Blazing Strike has not yet been rated by the ESRB. To stay up to date on all the news, follow Aksys Games on Twitter and Instagram at @AksysGames, and join our Thursday livestreams on Twitch at aksysgames, with stream highlights and trailers on our YouTube channel.]]></summary>
+        <author>
+            <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
     </entry>
     <entry>
@@ -364,26 +632,6 @@ Points: 60
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch Dogs: Legion actualiza su hoja de ruta: 60 FPS el 1 de junio y la expansión Bloodline a principios de julio]]></title>
-        <id>46107_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/watch-dogs-legion-hoja-ruta-60-fps"/>
-        <updated>2021-05-23T11:59:42.000Z</updated>
-        <summary type="html"><![CDATA[Después de algún que otro retraso en la entrega de contenido, Ubisoft ha actualizado la hoja de ruta de Watch Dogs: Legion para que los jugadores sepan qué esperar durante los próximos tres meses. En el horizonte tenemos dos grandes actualizaciones con contenido y características gratuitas y Bloodlines, una expansión incluida en el pase de temporada que traerá de vuelta a Aiden Pearce, el protagonista del primer Watch Dogs. La actualización 4.5 para Watch Dogs: Legion estará disponible el 1 de junio y su principal novedad es introducir un modo rendimiento que permitirá jugar a 60 FPS… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Metro Exodus para PC ofrece soporte para todas las funciones del mando DualSense]]></title>
-        <id>46106_v1</id>
-        <link href="https://www.elotrolado.net/hilo_metro-exodus-para-pc-ofrece-soporte-para-todas-las-funciones-del-mando-dualsense_2423664"/>
-        <updated>2021-05-23T10:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Los jugadores de Metro Exodus para PC (Steam) han recibido una pequeña actualización que permite jugar con el mando DualSense acompañado de todas sus funciones, incluyendo la retroalimentación háptica y los gatillos adaptativos. El 4A Games es el primer juego de gran presupuesto que ofrece soporte para estas dos funciones. Gracias a la retroalimentación háptica, la vibración puede simular cosas como el retroceso de diferentes armas, mientras que los gatillos adaptativos permiten experimentar distintos niveles de fuerza y tensión. Veremos si con el tiempo más desarrolladores se suben… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rustler Launches August 31]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-965285272023836216</id>
         <link href="https://www.allgamesdelta.net/2021/05/rustler-launches-august-31.html"/>
@@ -444,146 +692,6 @@ Points: 60
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Las noticias de la semana (15 - 22 de mayo)]]></title>
-        <id>46105_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/semana-15-22-mayo-2021"/>
-        <updated>2021-05-22T09:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Durante esta semana hemos dado la bienvenida a numerosos videojuegos, incluyendo a Knockout City, Rust: Console Edition, Elite Dangerous: Odyssey (PC), Days Gone (PC), SnowRunner (Switch) y Siege Survival: Gloria Victis. Además, hemos puesto fecha a los siguientes títulos: The Last Spell (3 de junio), The Ascent (29 de julio), Rustler (31 de agosto), Ni no Kuni II: El Renacer de un Reino (17 de septiembre en Switch), Grand Theft Auto V (11 de noviembre en PS5 y Xbox Series), Final Fantasy XIV: Endwalker (23 de noviembre). Por otro lado, tenemos juegos recién anunciados que aún no… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradox presenta el juego de gran estrategia Victoria 3]]></title>
-        <id>46104_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/victoria-3-anunciado"/>
-        <updated>2021-05-21T23:06:33.000Z</updated>
-        <summary type="html"><![CDATA[La apuesta de Paradox Interactive por los juegos de gran estrategia no tiene fin y como nueva muestra de ello tenemos a Victoria 3, la tercera entrega de una franquicia que permite a los jugadores crear una sociedad ideal durante el siglo XIX. El título para PC, que ha sido anunciado en el marco del evento digital PDXCON Remixed y cuyo desarrollo corre a cargo de Paradox Development Studio, estará disponible en Steam, Paradox Store y Xbox Game Pass. Victoria 3 es un simulador de sociedad que permitirá a los jugadores liderar a “docenas” de naciones (agrícola, industrial, tradicional,… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take-Two sostiene que el impulso que la pandemia ha dado a la industria del videojuego será permanente]]></title>
-        <id>46102_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/take-two-pandemia-industria-videojuegos"/>
-        <updated>2021-05-21T22:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Después de firmar unos resultados económicos récord, Strauss Zelnick, presidente y director ejecutivo de Take-Two, ha conversado con GamesIndustry sobre el estado de la industria del videojuego. En concreto, el directivo ha ampliado unas palabras que dijo la semana pasada, cuando ante los accionistas comentó que la pandemia había iniciado un “cambio transformador en el consumo del entretenimiento” que beneficiará a todos los desarrolladores de videojuegos. “El entretenimiento interactivo es el entretenimiento líder en cuanto a ingresos, y creo que la gente aún no lo ha terminado de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradox anuncia nuevas expansiones para Crusader Kings III, Empire of Sin y Prison Architect]]></title>
-        <id>46103_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/crusader-kings-empire-sin-prision-architect-expansiones"/>
-        <updated>2021-05-21T21:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Paradox Interactive ha iniciado el evento virtual PDXCON Remixed anunciando una nueva expansión para tres de sus juegos: Crusader Kings III, Empire of Sin y Prison Architect. Todas las presentaciones han estado acompañadas de los primeros detalles del nuevo contenido, así como de tráiler que en ninguno de los casos muestra demasiado. Royal Court, así se llama la primera gran expansión de Crusader Kings III, se propone demostrar que la vida de un rey no es todo fiesta y lucha. Con este nuevo contenido los jugadores deberán prestar más atención a la vida de la corte y las exigencias que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: La demo de Scarlet Nexus llega a Xbox One y Xbox Series]]></title>
-        <id>46101_v1</id>
-        <link href="https://www.elotrolado.net/hilo_la-demo-de-scarlet-nexus-llega-a-xbox-one-y-xbox-series_2423556"/>
-        <updated>2021-05-21T18:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Bandai Namco ha comunicado que desde hoy y hasta el 27 de mayo los jugadores de Xbox One y Xbox Series tienen acceso exclusivo a la demo de Scarlet Nexus. A partir del 28 de mayo los usuarios de PlayStation 4 y PlayStation 5 también podrán probar el nuevo juego de rol y acción desarrollado por el equipo responsable de Tales of Vesperia. La demo de Scarlet Nexus permite ponerse en la piel de cualquiera de los dos protagonistas, Yuito Sumeragi o Kasane Randall, durante sus primeros pasos en la historia que ofrecerá el juego. En caso de experimentar ambos caminos y guardar la partida se… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix estaría considerando ofrecer juegos mediante una suscripción como Apple Arcade]]></title>
-        <id>46100_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/netflix-apple-arcade"/>
-        <updated>2021-05-21T17:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Netflix ha contactado con varios ejecutivos con experiencia en la industria del videojuego con el objetivo de contratar a uno de ellos para que supervise su expansión hacia este sector, según The Information (muro de pago). De consumarse, este sería un paso muy importante para el servicio de streaming, cuya relación con los videojuegos se limita a ceder licencias de sus contenidos originales y distribuir series y películas basadas en juegos. El mencionado medio sostiene que Netflix estaría trabajando en ofrecer un bundle de juegos disponibles mediante un servicio de suscripción… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Rust Console Edition, el popular título de supervivencia llega a PlayStation 4 y Xbox One]]></title>
-        <id>46099_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/rust-console-edition-disponible-consolas"/>
-        <updated>2021-05-21T16:28:53.000Z</updated>
-        <summary type="html"><![CDATA[Durante los últimos años no han sido pocos los juegos de supervivencia que han llegado al mercado y de todos ellos el que ha logrado un éxito más duradero ha sido Rust, que a día de hoy y después de ocho años en el mercado aún consigue reunir diariamente cerca de 100.000 usuarios concurrentes en Steam. Después de todo este tiempo el título desarrollado por Facepunch Studios celebra con un tráiler de lanzamiento que ya se encuentra disponible en PlayStation 4 y Xbox One. Los jugadores de ambas consolas tienen a su disposición Rust Console Edition, que ofrece un juego basado en la… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ya disponible Knockout City, un multijugador por equipos basado en combates de balón prisionero]]></title>
-        <id>46098_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/knockout-city-lanzamiento"/>
-        <updated>2021-05-21T15:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Después de intentarlo (y fallar) con Rocket Arena, EA Originals vuelve a la carga con un nuevo título multijugador. En esta ocasión la apuesta se llama Knockout City, está desarrollada por Velan Studios (Mario Kart Live: Home Circuit) y su gameplay se basa en el juego balón prisionero. Desde hoy el título se encuentra disponible vía Xbox Game Pass y EA Play, así como a la venta por 19,99 euros en PS4, PS5, Xbox One, Xbox Series, Nintendo Switch y PC (Steam, Origin). El juego cruzado está activado desde el primer día. Knockout City un título multijugador por equipos (3c3 y 4c4) o todos… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Destiny 2 pondrá a prueba el juego cruzado la próxima semana]]></title>
-        <id>46097_v1</id>
-        <link href="https://www.elotrolado.net/hilo_destiny-2-pondra-a-prueba-el-juego-cruzado-la-proxima-semana_2423526"/>
-        <updated>2021-05-21T10:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Bungie ha anunciado que del 25 al 27 de mayo celebrará una beta que permitirá a los jugadores de Destiny 2 poner a prueba el juego cruzado. “Será un evento corto, pero intenso, que marcará un hito en el proceso de desarrollo de esta función”, dice el desarrollador. La beta consistirá en una lista de juego especial de asaltos de la Vanguardia. El juego cruzado estará disponible para todos los jugadores de Destiny 2. “Se os emparejará con guardianes que jueguen en PlayStation, Xbox, Steam y Stadia”, explica Bungie, que durante el evento recogerá datos y realizará pruebas relacionadas… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devolver Digital presenta Phantom Abyss, un roguelike multijugador asíncrono en primera persona]]></title>
-        <id>46096_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/phantom-abyss-anunciado"/>
-        <updated>2021-05-21T09:58:30.000Z</updated>
-        <summary type="html"><![CDATA[El editor Devolver Digital ha anunciado y ofrecido los primeros detalles de Phantom Abyss, un juego que permite ponerse en la piel de Harrison Ford en Indiana Jones pero con habilidades de parkour. El título en manos del estudio australiano Team WIBY estará disponible para PC a lo largo de junio mediante el acceso anticipado de Steam, donde se mantendrá en desarrollo durante “al menos un año”. La literatura oficial describe a Phantom Abyss como un título multijugador asíncrono masivo, así como una experiencia de exploración de mazmorras o roguelike. Al inicio de las partidas los… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Los equipos de Overwatch 2 serán de cinco jugadores y con un solo tanque]]></title>
-        <id>46095_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/overwatch-2-pvp-5c5"/>
-        <updated>2021-05-20T23:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Durante una transmisión en vivo dedicada a mostrar y descubrir nuevos detalles del PvP (jugador contra jugador) de Overwatch 2, Blizzard Entertainment ha anunciado un cambio en el tamaño de los equipos, que una vez esté disponible el juego pasarán a ser de cinco miembros (5c5) en lugar de los seis (6c6) actuales. Además, solo se podrá elegir un tanque por bando. El evento también ha servido para mostrar mediante partidas algunos de los nuevos mapas. “Hay muchas razones por las que queríamos hacer este cambio”, dice Aaron Keller, director de Overwatch, sobre los equipos de cinco… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last Spell, un RPG de defensa táctica, llegará al acceso anticipado de Steam el 3 de junio]]></title>
-        <id>46094_v2</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/the-last-spell-fecha-gampelay"/>
-        <updated>2021-05-20T18:01:39.000Z</updated>
-        <summary type="html"><![CDATA[La editora especializada en juegos indie The Arcade Crew propiedad de DotEmu (Streets of Rage 4, Wonder Boy: The Dragon's Trap), ha anunciado que The Last Spell debutará en el acceso anticipado de Steam el 3 de junio por 19,99 euros. Junto a la fecha de lanzamiento se ha distribuido un generoso tráiler donde se desgranan todos los detalles sobre el gameplay del título desarrollado por Ishtar Games, un estudio francés antes conocido como CCCP. The Last Spell se describe como un RPG de defensa táctica cuya acción se desarrolla en una región asolada por décadas de guerra. En un intento… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Mutazione estará disponible el 27 de mayo en Xbox One y Nintendo Switch]]></title>
-        <id>46093_v1</id>
-        <link href="https://www.elotrolado.net/hilo_mutazione-estara-disponible-el-27-de-mayo-en-xbox-one-y-nintendo-switch_2423451"/>
-        <updated>2021-05-20T16:11:07.000Z</updated>
-        <summary type="html"><![CDATA[El juego en forma de “telenovela mutante” Mutazione se pondrá a la venta con versión para Xbox One y Nintendo Switch el 27 de mayo, según ha anunciado el editor Akupara Games. La compañía también ha comunicado que la versión del título para Nintendo Switch y PS4, donde se encuentra disponible desde septiembre de 2019, tendrá una edición en formato físico de la mano de iam8bit. Desarrollado por Die Gute Fabrik, Mutazione es una aventura protagonizada por Kai, una niña de 15 años que viaja hasta el pueblo que da nombre al juego para cuidar de su abuelo enfermo. Pero no todo será tan… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games Store empieza su Mega Sale anual regalando NBA 2K21 y cupones de 10 euros]]></title>
-        <id>46092_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/epic-games-store-superofertas-nba-2k21-gratis"/>
-        <updated>2021-05-20T15:55:15.000Z</updated>
-        <summary type="html"><![CDATA[Epic Games vuelve a regar con dinero a Take-Two para promocionar su evento anual Mega Sale (o Superofertas). El año pasado fueron Civilization VI, Borderlands: The Handsome Collection y Grand Theft Auto V y en 2021 el periodo de rebajas empieza con NBA 2K21, que desde hoy y hasta el 27 de mayo a las 17:00 horas se puede conseguir gratis. Con el título a buen resguardo en la biblioteca Epic Games espera que la gente compre algo en su tienda digital. Como cualquier otro periodo de ofertas el Mega Sale rebaja gran parte del catálogo de juegos disponible en la Epic Games Store con… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Ascent Launches July 29]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-7368142271399083649</id>
         <link href="https://www.allgamesdelta.net/2021/05/the-ascent-launches-july-29.html"/>
@@ -594,36 +702,6 @@ Points: 60
    “W…]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back 4 Blood presenta a sus ocho personajes jugables]]></title>
-        <id>46091_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/back-4-blood-exterminadores"/>
-        <updated>2021-05-20T15:46:23.000Z</updated>
-        <summary type="html"><![CDATA[Cumpliendo su papel como editor, Warner Bros. Games sigue desgranando las novedades del shooter cooperativo Back 4 Blood. Después de conocer el sistema de cartas responsable de la rejugabilidad, es el turno de revelar con un nuevo tráiler todos los detalles de los Exterminadores (o Cleaners), nombre bajo el cual se conocen los personajes jugables en el título desarrollado por Turtle Rock Studios (Left 4 Dead). El metraje también ofrece información sobre algunos de los infectados. Empezamos con la narradora del tráiler, Holly, que tras perder a su familia por el brote se centró en… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ni no Kuni II: El Renacer de un Reino para Nintendo Switch estará disponible el 17 de septiembre]]></title>
-        <id>46090_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/ni-no-kuni-ii-fecha-lanzamiento"/>
-        <updated>2021-05-20T14:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Bandai Namco ha anunciado que Ni no Kuni II: El Renacer de un Reino tendrá una versión para Nintendo Switch que estará disponible el 17 de septiembre. Además de presentar el título y poner una fecha de lanzamiento, el editor japonés ha mostrado un tráiler donde podemos ver al título desarrollado por Level-5 en acción y comunicado que los jugadores de Switch recibirán la Prince’s Edition que incluye todo el contenido poslanzamiento de pago y gratuito. A lo largo de su trayectoria en PS4 y PC (Steam), Ni no Kuni II: El Renacer de un Reino ha recibido dos grandes contenidos de pago… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monster Hunter Stories 2: Wings of Ruin muestra un nuevo tráiler centrado en la historia]]></title>
-        <id>46089_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/monster-hunter-stories-2-trailer-historia"/>
-        <updated>2021-05-20T14:21:48.000Z</updated>
-        <summary type="html"><![CDATA[El lanzamiento de Monster Hunter Stories 2: Wings of Ruin no está previsto hasta el 9 de julio y hasta entonces Capcom tiene mucho que decir sobre el juego en desarrollo para Nintendo Switch y PC (Steam). Como muestra de ello tenemos un nuevo tráiler donde se ofrecen detalles sobre la historia del juego y el anuncio de un nuevo evento digital, que se emitirá el 26 de mayo a las 16:00 CEST y servirá para hablar tanto de Monster Hunter Rise, ya disponible en Nintendo Switch, como de Monster Hunter Stories 2: Wings of Ruin. La historia de Monster Hunter Stories 2: Wings of Ruin tiene… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -640,36 +718,6 @@ Points: 60
    • …]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Super Bomberman R Online para PS4, Switch y PC estará disponible el 27 de mayo]]></title>
-        <id>46088_v1</id>
-        <link href="https://www.elotrolado.net/hilo_super-bomberman-r-online-para-ps4-switch-y-pc-estara-disponible-el-27-de-mayo_2423426"/>
-        <updated>2021-05-20T12:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Disponible en Stadia desde septiembre del año pasado, Super Bomberman R Online debutará en PlayStation 4, Nintendo Switch y PC (Steam) el 27 de mayo, según ha anunciado Konami. Más adelante el juego free-to-play llegará a Xbox One. Konami también ha revelado que Super Bomberman R Online tendrá nuevas temporadas, cada una de ellas durará tres meses y añadirá nuevos artículos, objetos cosméticos y héroes. La primera temporada liderada por Old Snake Bomber, ya se puede adquirir con Bomber Coins. Opcionalmente, los jugadores también pueden comprar un pase de batalla.… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embracer Group negocia con más de 20 compañías su posible adquisición]]></title>
-        <id>46087_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/embracer-group-comprar-estudios"/>
-        <updated>2021-05-20T12:01:23.000Z</updated>
-        <summary type="html"><![CDATA[La voracidad de Embracer Group parece no tener fin. Y su cartera tampoco. Durante la presentación de sus últimos resultados financieros el holding sueco ha revelado que a lo largo del primer trimestre del año ha contactado con más de 150 compañías para abordar una posible adquisición. De todas estas conversaciones más de 20 se encuentran en una fase avanzada. Por dinero no será. Entre efectivo y líneas de crédito Embracer Group tiene a su disposición 1.600 millones de euros. “A lo largo del trimestre [que terminó en marzo] hemos contactado con más de 150 compañías para que se unan a… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google redescubre su interés en las RSS e incluye un botón de suscripción en la última build de Chrome]]></title>
-        <id>46086_v1</id>
-        <link href="https://www.elotrolado.net/noticias/internet/chrome-lector-rss"/>
-        <updated>2021-05-20T11:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Google Reader murió hace más de ocho años, pero muchos de sus antiguos usuarios aún siguen de duelo. La cancelación del otrora popular servicio de suscripción a fuentes RSS dejó a un gran número de personas sin otra opción que echarse en brazos de alternativas web como Feedly o clientes nativos, todo ello porque Google consideró que eso de las RSS era algo que estaba muy venido a menos y en lo que no merecía la pena invertir. Como de erradas serían sus predicciones que ahora Chrome tiene su propio lector integrado en fase de pruebas. Según podemos leer en el blog oficial del proyecto… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -812,55 +860,6 @@ Key Features
  Ghostrunner is a first-person cyberpunk action video game set in a grim, dystopian future. Since its launch in October 2020, it has sold over 600,000 copies proving to be a very successful video game, appreciated by players all around the world. By the end of 2021, Ghostrunner will also be available on next-gen consoles.
   “We are particularly excited about the future release of Ghostrunner 2. Together with One More Level, we have created a thrilling and engaging video game.” comments Raffaele Galante, co-CEO of Digital Bros with his brother Rami. “This new collaboration deepens 505 Games presence within the Polish videogame market, a reality now among the firsts in Europe for the development of video games, new projects and talents. We will continue to pay close attention to the Polish market to constantly improve and expand our product portfolio with video games capable of satisfying the tastes of the entire gaming community."
   For more information about Ghostrunner please visit ghostrunnergame.com.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon Quest 35th Anniversary Special Live Stream Set for May 27]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-3249470804272472058</id>
-        <link href="https://www.allgamesdelta.net/2021/05/dragon-quest-35th-anniversary-special.html"/>
-        <updated>2021-05-17T09:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Dragon Quest 35th Anniversary Special Live Stream
- May 27th is Dragon Quest Day, and to celebrate the 35th anniversary of the series, we’re bringing you a special broadcast to showcase all of the latest information about what’s going on — and what’s yet to come — in the world of Dragon Quest.
- For the first time in Dragon Quest history, the show will feature live English interpretation from Japanese, so that our international fans can stay up-to-date with developments in the Dragon Quest series, too. Don’t miss it, or you’ll miss out!
- *Livestream start time subject to change.
-   dragonquest.square-enix-games.com/dq35]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The King of Fighters XV Leona Heidern Trailer and Screenshots]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-3167569426514375009</id>
-        <link href="https://www.allgamesdelta.net/2021/05/the-king-of-fighters-xv-leona-heidern.html"/>
-        <updated>2021-05-17T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Chris - Shermie - Mai Shiranui - Yashiro Nanakase - Yuri Sakazaki
-   Team Art of Fighting:     Ryo Sakazaki and Robert Garcia - King
-  Team Fatal Fury: Terry Bogard - Andy Bogard - Joe Higashi
- Team Sacred Treasures: Kyo Kusanagi - Chizuru Kagura - Iori Yagami
- Team Hero: Shun’ei - Meitenkun - Benimaru Nikaido]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Side-scrolling Platformer Lumione Announced for Switch and PC]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-765539325214964950</id>
-        <link href="https://www.allgamesdelta.net/2021/05/side-scrolling-platformer-lumione.html"/>
-        <updated>2021-05-17T06:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Perfect World Entertainment Announces Lumione
- Perfect World Entertainment and Glimmer Studio are delighted to announce the newest title in its growing stable of games. Lumione is a beautiful and healing journey filled with horizontal jumping action where players literally bring light into darkness. The Lumione Steam page is now live and fans can add the game to their wishlist now. Lumione will also be coming to the Nintendo Switch at a later day. More information will be available soon.
- Lumione is set in a deep-sea world that is shrouded in darkness. The people of the sea struggle in fear for all they have lost. A light appears in the darkness that sends the tiny elves in search of its source as they seek to bring light into the long night.
-   
-Game Features
-    • A gorgeously rendered game world built using the power of Unreal Engine 4.
-  •  Technology is focused on portraying a dynamic, ever-changing deep-sea landscape.
- •   Players will encounter deadly traps and puzzles that must be overcome in the search for light.
-  •  Four chapters and hundreds of levels.
-  •  Dozens of challenging mechanics.
-  •  Continued development will add new features and mechanics via DLC.
- Glimmer Studio is packed to the brim with young developers whose average age is only 24. This young team is ready to shake up the gaming world with their creations starting, of course, with Lumione.]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
