@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27310586",
-          "author": "romming",
-          "description": "We are looking for a technical writer to take our technical product documentation to the next level, and help us maintain it on an ongoing basis.\nThe project is 2-3 months half-time to start, and then a few hours a week following that.\nWhat you are going to do:\n- Build out large sections of our end user documentation, making the site comprehensive and intuitive.\n- Work closely with our engineering team to become an expert user of our product and extract insights\n- Interview our engineers and users in order to create tutorials for appropriate topics\nWhat we want to see in you:\n- Experience writing end user documentation sites that include UI how-tos, at least one, ideally two or more.\n- Experience writing and understanding for highly technical software products.\n- High degree of user empathy - our docs will take hard technical concepts and translate to language that is a pleasure to read.\nTo apply, send your resume to jobs@etleap.com.\nComments URL: https://news.ycombinator.com/item?id=27310586\nPoints: 1\n# Comments: 0",
-          "link": "https://news.ycombinator.com/item?id=27310586",
-          "publishedOn": "2021-05-28T01:00:14.000Z",
-          "wordCount": 224,
-          "title": "Etleap (YC W13) Is Hiring a Technical End User Documentation Writer"
+          "id": "https://news.ycombinator.com/item?id=27322233",
+          "author": "hrishi",
+          "description": "Article URL: https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead\nComments URL: https://news.ycombinator.com/item?id=27322233\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead",
+          "publishedOn": "2021-05-29T01:00:15.000Z",
+          "wordCount": 939,
+          "title": "Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27310349",
-          "author": "blucell",
-          "description": "Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000\nComments URL: https://news.ycombinator.com/item?id=27310349\nPoints: 89\n# Comments: 13",
-          "link": "https://www.fastly.com/blog/quic-is-now-rfc-9000",
-          "publishedOn": "2021-05-28T00:25:49.000Z",
-          "wordCount": 709,
-          "title": "QUIC is now RFC 9000"
+          "id": "https://news.ycombinator.com/item?id=27321780",
+          "author": "infodocket",
+          "description": "Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/\nComments URL: https://news.ycombinator.com/item?id=27321780\nPoints: 37\n# Comments: 19",
+          "link": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
+          "publishedOn": "2021-05-28T23:39:34.000Z",
+          "wordCount": 3433,
+          "title": "Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27310343",
-          "author": "sergeant3",
-          "description": "Article URL: https://twitter.com/nateliason/status/1397719837204418561\nComments URL: https://news.ycombinator.com/item?id=27310343\nPoints: 29\n# Comments: 9",
-          "link": "https://twitter.com/nateliason/status/1397719837204418561",
-          "publishedOn": "2021-05-28T00:25:13.000Z",
-          "wordCount": 196,
-          "title": "A six figure meme making job at a legit company"
+          "id": "https://news.ycombinator.com/item?id=27321754",
+          "author": "jffry",
+          "description": "Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/\nComments URL: https://news.ycombinator.com/item?id=27321754\nPoints: 97\n# Comments: 9",
+          "link": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
+          "publishedOn": "2021-05-28T23:35:29.000Z",
+          "wordCount": 2161,
+          "title": "Pwned passwords, open source in the .NET foundation and working with the FBI"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27310247",
-          "author": "tosh",
-          "description": "Article URL: https://github.com/ClickHouse/ClickHouse\nComments URL: https://news.ycombinator.com/item?id=27310247\nPoints: 5\n# Comments: 0",
-          "link": "https://github.com/ClickHouse/ClickHouse",
-          "publishedOn": "2021-05-28T00:12:48.000Z",
-          "wordCount": 963,
-          "title": "ClickHouse: An open-source column-oriented database management system"
+          "id": "https://news.ycombinator.com/item?id=27321387",
+          "author": "kulpreet",
+          "description": "Article URL: https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables\nComments URL: https://news.ycombinator.com/item?id=27321387\nPoints: 78\n# Comments: 92",
+          "link": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
+          "publishedOn": "2021-05-28T22:43:25.000Z",
+          "wordCount": 2251,
+          "title": "Apple has a decade-long lead in wearables"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27310179",
-          "author": "diodorus",
-          "description": "Article URL: https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html\nComments URL: https://news.ycombinator.com/item?id=27310179\nPoints: 7\n# Comments: 4",
-          "link": "https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html",
-          "publishedOn": "2021-05-28T00:05:28.000Z",
-          "wordCount": 1225,
-          "title": "Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)"
+          "id": "https://news.ycombinator.com/item?id=27319923",
+          "author": "arcanus",
+          "description": "Article URL: https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent\nComments URL: https://news.ycombinator.com/item?id=27319923\nPoints: 139\n# Comments: 112",
+          "link": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
+          "publishedOn": "2021-05-28T20:14:00.000Z",
+          "wordCount": 4079,
+          "title": "Never mind the 1 percent: Let's talk about the 0.01 percent"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27308982",
-          "author": "tosh",
-          "description": "Article URL: https://macwright.com/2020/05/10/spa-fatigue.html\nComments URL: https://news.ycombinator.com/item?id=27308982\nPoints: 155\n# Comments: 108",
-          "link": "https://macwright.com/2020/05/10/spa-fatigue.html",
-          "publishedOn": "2021-05-27T21:48:11.000Z",
-          "wordCount": 1966,
-          "title": "Second-guessing the modern web (2020)"
+          "id": "https://news.ycombinator.com/item?id=27319540",
+          "author": "salgernon",
+          "description": "Article URL: https://unixgame.io/unix50\nComments URL: https://news.ycombinator.com/item?id=27319540\nPoints: 119\n# Comments: 16",
+          "link": "https://unixgame.io/unix50",
+          "publishedOn": "2021-05-28T19:31:02.000Z",
+          "wordCount": 264,
+          "title": "The Unix Game"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27307388",
-          "author": "codetrotter",
-          "description": "Article URL: https://stopa.io/post/265?repost=true\nComments URL: https://news.ycombinator.com/item?id=27307388\nPoints: 58\n# Comments: 17",
-          "link": "https://stopa.io/post/265?repost=true",
-          "publishedOn": "2021-05-27T19:50:33.000Z",
-          "wordCount": 2907,
-          "title": "An Intuition for Lisp Syntax"
+          "id": "https://news.ycombinator.com/item?id=27319457",
+          "author": "astlouis44",
+          "description": "Article URL: https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/\nComments URL: https://news.ycombinator.com/item?id=27319457\nPoints: 262\n# Comments: 143",
+          "link": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
+          "publishedOn": "2021-05-28T19:23:34.000Z",
+          "wordCount": 3482,
+          "title": "Y Combinator backed MMO metaverse game is a blatant scam"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27307175",
-          "author": "ksec",
-          "description": "Article URL: https://www.slowboring.com/p/the-medias-lab-leak-fiasco\nComments URL: https://news.ycombinator.com/item?id=27307175\nPoints: 283\n# Comments: 402",
-          "link": "https://www.slowboring.com/p/the-medias-lab-leak-fiasco",
-          "publishedOn": "2021-05-27T19:34:05.000Z",
-          "wordCount": 4863,
-          "title": "The media's lab leak fiasco"
+          "id": "https://news.ycombinator.com/item?id=27319099",
+          "author": "spenvo",
+          "description": "Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/\nComments URL: https://news.ycombinator.com/item?id=27319099\nPoints: 407\n# Comments: 183",
+          "link": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
+          "publishedOn": "2021-05-28T18:48:34.000Z",
+          "wordCount": 1488,
+          "title": "It's virtually impossible to read old iMessages and they take up tons of storage"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27306263",
-          "author": "sebmellen",
-          "description": "Article URL: https://jsonlogic.com/\nComments URL: https://news.ycombinator.com/item?id=27306263\nPoints: 199\n# Comments: 189",
-          "link": "https://jsonlogic.com/",
-          "publishedOn": "2021-05-27T18:16:58.000Z",
-          "wordCount": 601,
-          "title": "JsonLogic"
+          "id": "https://news.ycombinator.com/item?id=27319070",
+          "author": "user_235711",
+          "description": "Article URL: https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds\nComments URL: https://news.ycombinator.com/item?id=27319070\nPoints: 222\n# Comments: 142",
+          "link": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
+          "publishedOn": "2021-05-28T18:46:39.000Z",
+          "wordCount": 911,
+          "title": "Overwork killed more than 745k people in a year, WHO study finds"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27305666",
-          "author": "tooltower",
-          "description": "Article URL: https://www.bbc.com/news/science-environment-57244708\nComments URL: https://news.ycombinator.com/item?id=27305666\nPoints: 79\n# Comments: 76",
-          "link": "https://www.bbc.com/news/science-environment-57244708",
-          "publishedOn": "2021-05-27T17:29:00.000Z",
-          "wordCount": 1338,
-          "title": "New dark matter map reveals cosmic mystery"
+          "id": "https://news.ycombinator.com/item?id=27318942",
+          "author": "vackosar",
+          "description": "Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism\nComments URL: https://news.ycombinator.com/item?id=27318942\nPoints: 50\n# Comments: 13",
+          "link": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
+          "publishedOn": "2021-05-28T18:34:51.000Z",
+          "wordCount": 360,
+          "title": "PID Controller: A Simple Control Loop Mechanism"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27305521",
-          "author": "pcr910303",
-          "description": "Article URL: https://stacked-git.github.io/\nComments URL: https://news.ycombinator.com/item?id=27305521\nPoints: 104\n# Comments: 53",
-          "link": "https://stacked-git.github.io/",
-          "publishedOn": "2021-05-27T17:17:51.000Z",
-          "wordCount": 843,
-          "title": "Stacked Git – manage commits as a stack of patches"
+          "id": "https://news.ycombinator.com/item?id=27318153",
+          "author": "vulkd",
+          "description": "Article URL: https://www.anthropic.com/\nComments URL: https://news.ycombinator.com/item?id=27318153\nPoints: 84\n# Comments: 23",
+          "link": "https://www.anthropic.com/",
+          "publishedOn": "2021-05-28T17:25:17.000Z",
+          "wordCount": 9,
+          "title": "Anthropic AI"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27305127",
-          "author": "TangerineDream",
-          "description": "Article URL: https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/\nComments URL: https://news.ycombinator.com/item?id=27305127\nPoints: 134\n# Comments: 53",
-          "link": "https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/",
-          "publishedOn": "2021-05-27T16:47:03.000Z",
-          "wordCount": 1093,
-          "title": "Manifest v3 Update"
+          "id": "https://news.ycombinator.com/item?id=27317859",
+          "author": "1experience",
+          "description": "Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/\nComments URL: https://news.ycombinator.com/item?id=27317859\nPoints: 259\n# Comments: 197",
+          "link": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
+          "publishedOn": "2021-05-28T17:02:28.000Z",
+          "wordCount": 1644,
+          "title": "Why Russians do not smile (2002)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27305022",
-          "author": "KhoomeiK",
-          "description": "Article URL: https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/\nComments URL: https://news.ycombinator.com/item?id=27305022\nPoints: 175\n# Comments: 105",
-          "link": "https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/",
-          "publishedOn": "2021-05-27T16:37:04.000Z",
-          "wordCount": 1395,
-          "title": "Egyptian Circumnavigation of Africa ~600 BC"
+          "id": "https://news.ycombinator.com/item?id=27317709",
+          "author": "jka",
+          "description": "Article URL: https://librefoodpantry.org/\nComments URL: https://news.ycombinator.com/item?id=27317709\nPoints: 52\n# Comments: 19",
+          "link": "https://librefoodpantry.org/",
+          "publishedOn": "2021-05-28T16:51:34.000Z",
+          "wordCount": 263,
+          "title": "LibreFoodPantry – a community building FOSS for food pantries"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27304808",
-          "author": "tosh",
-          "description": "Article URL: https://v8.dev/blog/sparkplug\nComments URL: https://news.ycombinator.com/item?id=27304808\nPoints: 226\n# Comments: 95",
-          "link": "https://v8.dev/blog/sparkplug",
-          "publishedOn": "2021-05-27T16:19:02.000Z",
-          "wordCount": 2398,
-          "title": "V8 Sparkplug – A non-optimizing JavaScript compiler"
+          "id": "https://news.ycombinator.com/item?id=27317655",
+          "author": "there",
+          "description": "Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/\nComments URL: https://news.ycombinator.com/item?id=27317655\nPoints: 963\n# Comments: 168",
+          "link": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
+          "publishedOn": "2021-05-28T16:47:35.000Z",
+          "wordCount": 745,
+          "title": "I quit my job to focus on SerenityOS full time"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27303881",
-          "author": "js2",
-          "description": "Article URL: https://antiqueradio.org/welcome.htm\nComments URL: https://news.ycombinator.com/item?id=27303881\nPoints: 94\n# Comments: 24",
-          "link": "https://antiqueradio.org/welcome.htm",
-          "publishedOn": "2021-05-27T14:54:37.000Z",
-          "wordCount": 156,
-          "title": "Phil's Old Radios"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27303783",
-          "author": "nocodb",
-          "description": "Article URL: https://github.com/nocodb/nocodb\nComments URL: https://news.ycombinator.com/item?id=27303783\nPoints: 357\n# Comments: 116",
-          "link": "https://github.com/nocodb/nocodb",
-          "publishedOn": "2021-05-27T14:47:14.000Z",
-          "wordCount": 1243,
-          "title": "Show HN: NocoDB – The Open Source Airtable Alternative"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27303690",
-          "author": "sameerank",
-          "description": "Article URL: https://convect.ml\nComments URL: https://news.ycombinator.com/item?id=27303690\nPoints: 68\n# Comments: 18",
-          "link": "https://convect.ml",
-          "publishedOn": "2021-05-27T14:39:28.000Z",
-          "wordCount": 17,
-          "title": "Show HN: Convect – Instant Serverless Deployment of ML Models"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27303227",
-          "author": "ksec",
-          "description": "Article URL: https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers\nComments URL: https://news.ycombinator.com/item?id=27303227\nPoints: 226\n# Comments: 102",
-          "link": "https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers",
-          "publishedOn": "2021-05-27T14:01:04.000Z",
+          "id": "https://news.ycombinator.com/item?id=27317635",
+          "author": "coyleandrew",
+          "description": "Hey HN! I'm Andrew, a solo founder building a free, easy-to-use visual editing app called NextUX (https://nextuxdesign.com/).\nNextUX makes it easy to design your website or web app collaboratively with your team. Hacking a design together in the browser can be a much faster way to do this than making changes to a pixel-perfect file using professional design applications.\nWith NextUX, you work on your design in your browser, then share feedback and sketch options by capturing screenshots and adding comments and markup on top. You then share your iterations through a direct link. It is entirely browser-based, including an extension that does the screen capturing: https://nextuxdesign.com/screen-capture/. There's a video on that page showing some examples.\nNextUX works with any existing websi…",
+          "link": "https://news.ycombinator.com/item?id=27317635",
+          "publishedOn": "2021-05-28T16:46:24.000Z",
           "wordCount": 1964,
-          "title": "Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S"
+          "title": "Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27302702",
-          "author": "bpierre",
-          "description": "Article URL: https://developer.mozilla.org/en/plus\nComments URL: https://news.ycombinator.com/item?id=27302702\nPoints: 487\n# Comments: 193",
-          "link": "https://developer.mozilla.org/en/plus",
-          "publishedOn": "2021-05-27T13:16:50.000Z",
-          "wordCount": 54,
-          "title": "MDN Plus"
+          "id": "https://news.ycombinator.com/item?id=27317024",
+          "author": "PhilipTrauner",
+          "description": "Article URL: https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/\nComments URL: https://news.ycombinator.com/item?id=27317024\nPoints: 157\n# Comments: 19",
+          "link": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
+          "publishedOn": "2021-05-28T16:01:01.000Z",
+          "wordCount": 2430,
+          "title": "PostgreSQL EXPLAIN Output Explained"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27302195",
-          "author": "zffr",
-          "description": "What are your favorite blogs run by individual people?\nFor example, some of the ones I like are:\n- https://jvns.ca/\n- https://www.joshwcomeau.com/\n- https://ciechanow.ski/\nComments URL: https://news.ycombinator.com/item?id=27302195\nPoints: 660\n# Comments: 231",
-          "link": "https://news.ycombinator.com/item?id=27302195",
-          "publishedOn": "2021-05-27T12:29:09.000Z",
-          "wordCount": 7843,
-          "title": "Ask HN: Favorite Blogs by Individuals?"
+          "id": "https://news.ycombinator.com/item?id=27316752",
+          "author": "zeeshanqureshi",
+          "description": "Article URL: https://ninfex.com/hello\nComments URL: https://news.ycombinator.com/item?id=27316752\nPoints: 120\n# Comments: 35",
+          "link": "https://ninfex.com/hello",
+          "publishedOn": "2021-05-28T15:42:21.000Z",
+          "wordCount": 194,
+          "title": "Show HN: An experimental, people-powered search engine"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27316115",
+          "author": "0xedb",
+          "description": "Article URL: https://twitter.com/wongmjane/status/1398022730553860102\nComments URL: https://news.ycombinator.com/item?id=27316115\nPoints: 371\n# Comments: 613",
+          "link": "https://twitter.com/wongmjane/status/1398022730553860102",
+          "publishedOn": "2021-05-28T14:57:19.000Z",
+          "wordCount": 196,
+          "title": "Twitter confirms Twitter Blue"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27315074",
+          "author": "azth",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01442-9\nComments URL: https://news.ycombinator.com/item?id=27315074\nPoints: 133\n# Comments: 248",
+          "link": "https://www.nature.com/articles/d41586-021-01442-9",
+          "publishedOn": "2021-05-28T13:27:47.000Z",
+          "wordCount": 1517,
+          "title": "Had Covid? You’ll probably make antibodies for a lifetime"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27314827",
+          "author": "phonebucket",
+          "description": "Article URL: https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e\nComments URL: https://news.ycombinator.com/item?id=27314827\nPoints: 116\n# Comments: 83",
+          "link": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
+          "publishedOn": "2021-05-28T12:58:08.000Z",
+          "wordCount": null,
+          "title": "Physical Warp Drives"
         }
       ]
     },
@@ -193,12 +193,66 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46163_v1",
+          "author": null,
+          "description": "Después de la tradicional filtración, una consecuencia de mostrar el juego a influencers antes que a todo el mundo, Ubisoft ha presentado oficialmente el primer tráiler con gameplay de Far Cry 6 acompañado de nuevos detalles y una fecha que sitúa la llegada del juego a las tiendas para el 7 de octubre en PS4, PS5, Xbox One, Xbox Series, Stadia y PC (Epic Games Store, Ubisoft Connect). El título fue presentado hace casi un año y la intención de la compañía era ponerlo a la venta el pasado febrero, pero el impacto de la COVID-19 retrasó su lanzamiento. Desarrollado por Ubisoft Toronto… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/far-cry-6-gameplay-fecha",
+          "publishedOn": "2021-05-28T17:14:49.000Z",
+          "wordCount": 900,
+          "title": "Primer gameplay de Far Cry 6, que estará disponible el 7 de octubre"
+        },
+        {
+          "id": "46162_v1",
+          "author": null,
+          "description": "Una vez más, la comunidad acude al rescate de un juego no traducido por una gran editora. En esta ocasión ha sido la gente congregada alrededor de TraduSquare, que después de no poco trabajo ha publicado una traducción al español para Okami HD, un título que llegó a Nintendo Switch y PC (Steam) totalmente en inglés. TraduSquare ha aprovechado el trabajo previamente hecho por Reservoir Wolves, cuya traducción para PS2 no fue nada sencilla de extraer y tratar, para sacar adelante este nuevo proyecto y dar la oportunidad a los jugadores de Nintendo Switch y PC de jugar en español.… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_okami-hd-para-switch-y-pc-recibe-una-traduccion-al-espanol-hecha-por-la-comunidad_2424424",
+          "publishedOn": "2021-05-28T14:55:51.000Z",
+          "wordCount": 2071,
+          "title": "Breve: Okami HD para Switch y PC recibe una traducción al español hecha por la comunidad"
+        },
+        {
+          "id": "46161_v1",
+          "author": null,
+          "description": "Dotemu ha revelado que Shiva, uno de los jefes finales de Streets of Rage 4, pasa a ser el tercer y último personaje adicional que añadirá el beat ‘em up con el complemento de pago Mr. X Nightmare. Los otros dos son Estel Aguirre y Max Thunder. Por ahora el DLC no tiene precio ni fecha de lanzamiento, pero la previsión es que se ponga a la venta para PlayStation 4, Xbox One, Nintendo Switch y PC (Steam, GOG) a lo largo de 2021. Shiva es un enemigo recurrente en la saga Streets of Rage que ya hemos podido ver en la segunda, tercera y cuarta entrega. También es el guardaespaldas… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/streets-of-rage-4-shiva-trailer",
+          "publishedOn": "2021-05-28T14:39:00.000Z",
+          "wordCount": 785,
+          "title": "Shiva es el tercer y último personaje que Streets of Rage 4 recibirá mediante el contenido adicional Mr. X Nightmare"
+        },
+        {
+          "id": "46160_v1",
+          "author": null,
+          "description": "Have I been Pwned es posiblemente uno de los sitios más útiles y al mismo tiempo más infrautilizados de Internet en relación a su utilidad. En parte porque el desconocimiento general sobre cómo funciona hace que algunas personas recelen de él. Desde su creación allá por 2013, millones y millones internautas han podido utilizar su repositorio para comprobar si alguna de sus cuentas de usuario o contraseñas ha sido vulnerada debido a ataques o filtraciones, y ahora, tras más de siete años de actividad, da un nuevo paso que le permitirá ser más útil que nunca. Varios meses después de su… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/internet/have-i-been-pwned-open-source-contrasenas-fbi",
+          "publishedOn": "2021-05-28T10:39:46.000Z",
+          "wordCount": 888,
+          "title": "Have I been Pwned abre el código de Pwned Passwords y recibirá del FBI contraseñas robadas en ataques"
+        },
+        {
+          "id": "46159_v1",
+          "author": null,
+          "description": "Sega ha anunciado que los jugadores de Steam pueden reclamar de forma gratuita y para siempre una copia de Company of Heroes 2 desde hoy y hasta el 3 de junio. También se puede conseguir sin coste alguno el complemento independiente Ardennes Assault, mientras que el resto de contenidos adicionales se ofrecen con descuento por tiempo limitado. Company of Heroes 2 es un juego de estrategia en tiempo real ambientado en la Segunda Guerra Mundial que permite combatir tanto en el Frente Oriental como en el Occidental. El título desarrollado por Relic Entertainment cuenta con campaña y modo… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_company-of-heroes-2-gratis-en-steam-hasta-el-3-de-junio_2424393",
+          "publishedOn": "2021-05-28T10:05:56.000Z",
+          "wordCount": 495,
+          "title": "Breve: Company of Heroes 2 gratis en Steam hasta el 3 de junio"
+        },
+        {
+          "id": "46158_v1",
+          "author": null,
+          "description": "Un tuit le ha bastado a Capcom para anunciar que Monster Hunter Rise para Nintendo Switch ha conseguido superar los 7 millones de copias despachadas entre la distribución física y la venta digital. El juego alcanza esta cifra dos meses después de ponerse a la venta. En comparación, Monster Hunter: World para PS4 y Xbox One debutó con 5 millones de unidades y en dos meses ya había logrado alcanzar los 7,5 millones de copias. Veremos si con el tiempo y la versión para PC prevista para 2022 Monster Hunter Rise logra acercarse a las 17,1 millones de copias que acumula Monster Hunter: World. Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_monster-hunter-rise-supera-los-7-millones-de-unidades_2424383",
+          "publishedOn": "2021-05-28T08:41:22.000Z",
+          "wordCount": 361,
+          "title": "Breve: Monster Hunter Rise supera los 7 millones de unidades"
+        },
+        {
           "id": "46157_v1",
           "author": null,
           "description": "Hace unas semanas PlayStation Studios dedicó un State of Play a Ratchet & Clank: Una Dimensión Aparte y hoy ha hecho lo propio con Horizon Forbidden West. La diferencia es que el juego desarrollado por Guerrilla Games no se había mostrado hasta ahora, así que el evento digital ha servido para ver por primera vez y mediante un gameplay de 14 minutos la fidelidad visual y las novedades en la jugabilidad, el combate y la historia que presenta la nueva aventura protagonizada por Aloy. El lanzamiento del juego está previsto para el 2021 en PS4 y PS5. Más allá de por su factura gráfica, el… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/horizon-forbidden-west-trailer-gameplay",
           "publishedOn": "2021-05-27T21:21:54.000Z",
-          "wordCount": 855,
+          "wordCount": 866,
           "title": "Horizon Forbidden West se presenta con un primer gameplay de 14 minutos en PS5"
         },
         {
@@ -207,7 +261,7 @@
           "description": "La “aventura pintoresca” Chicory: A Colorful Tale desarrollada por algunos de los creadores de Wandersong y Celeste, estará disponible el 10 de junio para PlayStation 5, PlayStation 4 y PC (Steam). Este colorido título de vista superior presenta un mundo lleno de personajes pintorescos que parece sacado de un libro para colorear. En Chicory: A Colorful Tale los jugadores deberán ocupar el puesto de la desaparecida Chicory, la artista superestrella encargada de manejar el Pincel Mágico. Para completar los diferentes escenarios que propone el juego, será necesario resolver rompecabezas… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_chicory-a-colorful-tale-se-pondra-a-la-venta-el-10-de-junio_2424349",
           "publishedOn": "2021-05-27T19:37:07.000Z",
-          "wordCount": 330,
+          "wordCount": 334,
           "title": "Breve: Chicory: A Colorful Tale se pondrá a la venta el 10 de junio"
         },
         {
@@ -216,7 +270,7 @@
           "description": "El camino de Dying Light 2 ha sido largo, difícil y en ocasiones oscuro, pero finalmente la luz aparece al final del túnel. Así ha quedado demostrado por parte de Techland, que meses después de retrasar el juego hasta dejarlo sin fecha ni ventana de lanzamiento ha celebrado un evento en línea para relanzar Dying Light 2, mostrar un nuevo tráiler con gameplay, ofrecer nuevos detalles y anunciar que el juego estará disponible el 7 de diciembre en PS4, PS5, Xbox One, Xbox Series y PC (Steam, Epic Games Store). La historia de Dying Light 2 tiene lugar 15 años después de los eventos… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/dying-light-2-fecha-lanzamiento",
           "publishedOn": "2021-05-27T19:30:43.000Z",
-          "wordCount": 892,
+          "wordCount": 901,
           "title": "Dying Light 2 revela un nuevo gameplay de 8 minutos, detalles sobre la jugabilidad y una fecha: 7 de diciembre"
         },
         {
@@ -234,7 +288,7 @@
           "description": "Creative Assembly ha anunciado que sus planes de contenido adicional para Total War: Three Kingdoms han llegado a su fin, así que el equipo se encuentra trabajando en un nuevo proyecto. Este cambio no evitará que el estudio propiedad de Sega abandone la novela china, ya que su próximo título también está basado en el Romance de los Tres Reinos. Antes de despedirse de Total War: Three Kingdoms, que se puso a la venta para PC hace tres años, Creative Assembly ha lanzado una actualización con múltiples mejoras y anunciado un pack que incluye el juego junto a todo el contenido adicional… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_creative-assembly-desarrolla-un-nuevo-juego-basado-en-la-novela-romance-de-los-tres-reinos_2424313",
           "publishedOn": "2021-05-27T18:03:07.000Z",
-          "wordCount": 293,
+          "wordCount": 430,
           "title": "Breve: Creative Assembly desarrolla un nuevo juego basado en la novela Romance de los Tres Reinos"
         },
         {
@@ -243,7 +297,7 @@
           "description": "House of Ashes, la tercera entrega de la antología de acción, aventura y terror The Dark Pictures desarrollada por Supermassive Games, se ha mostrado hoy mediante un tráiler con gameplay de ocho minutos que ha estado acompañado de nuevos detalles sobre la historia y novedades sobre la jugabilidad. El título será editado por Bandai Namco y estará disponible en 2021 para PS4, PS5, Xbox One, Xbox Series y PC (Steam). La historia de House of Ashes tiene lugar en 2003 durante los últimos compases de la Guerra de Irak. Sus protagonistas, un equipo de fuerzas especiales estadounidenses que… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/house-of-ashes-trailer-gameplay",
           "publishedOn": "2021-05-27T17:39:42.000Z",
-          "wordCount": 777,
+          "wordCount": 788,
           "title": "The Dark Pictures: House of Ashes se muestra por primera vez con un gameplay de 8 minutos"
         },
         {
@@ -252,7 +306,7 @@
           "description": "Sega ha celebrado el evento Sonic Central con el objetivo de desgranar los proyectos que la compañía tiene en marcha para celebrar el 30 aniversario del famoso erizo azul. En cuanto a software, tenemos por delante una nueva entrega desarrollada por el Team Sonic que estará disponible en 2022, un remaster de Sonic Colors que estará disponible el 7 de septiembre y la colección Sonic Origins con cuatro entregas de la época de 16 bits La nueva entrega de Sonic está en manos del Sonic Team, aún no tiene nombre oficial y su lanzamiento está previsto para el próximo año en PlayStation 4,… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/nuevo-sonic-origins-colors-remaster-anunciado",
           "publishedOn": "2021-05-27T16:25:16.000Z",
-          "wordCount": 744,
+          "wordCount": 755,
           "title": "Sega anuncia un nuevo Sonic para 2022, un remaster de Sonic Colors y la colección Sonic Origins"
         },
         {
@@ -261,7 +315,7 @@
           "description": "Además de monitores (y ratones, y puntos de acceso 5G, y pantallas 3D para diseñadores...) Acer ha presentado nuevos portátiles gaming en su conferencia Next 2021. Menos que en ocasiones anteriores, cabe decir, tal vez porque las circunstancias de este año son las que son. En cualquier caso, la firma taiwanesa no tiene intención de que otras como Asus le roben su parte del pastel, optando por renovar dos de sus modelos más populares. https://youtu.be/W5U2DPNL7Bs El Predator Triton 500 SE es una pequeña revisión del ya sobradamente conocido Triton 500 base. Descrito como una especie de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/portatiles-gaming-acer-predator-helios-triton",
           "publishedOn": "2021-05-27T15:59:22.000Z",
-          "wordCount": 725,
+          "wordCount": 891,
           "title": "Acer desvela nuevos portátiles Predator con gráficos RTX 3080 y pantallas Mini LED"
         },
         {
@@ -270,7 +324,7 @@
           "description": "La segunda semana de la Superoferta de la Epic Games Store empieza con la posibilidad de conseguir Among Us de forma completamente gratuita. El juego se ofrece sin coste alguno en iOS y Android, pero en PC tiene un precio de 3,99 euros. Este es el dinero que se ahorrarán los jugadores que hasta el 3 de junio a las 17:00 horas reclamen el juego mediante la Epic Games Store. Among Us es un juego multiplataforma de deducción social donde hasta diez participantes deben completar tareas en un escenario a la vez que intentan identificar al impostor. En caso de ejercer este último rol, el… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_among-us-gratis-en-la-epic-games-store-hasta-el-3-de-junio_2424227",
           "publishedOn": "2021-05-27T15:25:55.000Z",
-          "wordCount": 877,
+          "wordCount": 1049,
           "title": "Breve: Among Us gratis en la Epic Games Store hasta el 3 de junio"
         },
         {
@@ -288,7 +342,7 @@
           "description": "Las circunstancias han querido que el número de anuncios realizados en la conferencia Next@Acer de este año haya sido más pequeño que en ocasiones anteriores (pequeñeces; solo cerca de 20 productos incluyendo nuevos Swift, ConceptD, portátiles gaming, torres y hardware diverso), lo que nos permite centrarnos con mayor interés en una oferta gaming que se renueva con tres monitores de prestaciones y precios muy considerables, tocando techo en un modelo de 42,5 pulgadas para consolas. Comenzando por este último, el Predator CG437K S es un monitor de gran envergadura diseñado en gran… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/monitores-gaming-acer-precios-especificaciones",
           "publishedOn": "2021-05-27T14:49:09.000Z",
-          "wordCount": 831,
+          "wordCount": 842,
           "title": "Acer anuncia tres nuevos monitores con HDR, incluyendo una pantalla 4K de 42 pulgadas para consolas de nueva generación"
         },
         {
@@ -297,7 +351,7 @@
           "description": "Capcom ha anunciado que Resident Evil Village ha conseguido superar los 4 millones de unidades entre las copias distribuidas en formato físico y la venta digital. En comparación, Resident Evil 7 cosechó unas ventas de 3,5 millones de unidades en nueve semanas, mientras que los remakes de Resident Evil 2 y Resident Evil 2 despacharon 4 millones de copias en un mes y 2,7 millones en tres meses, respectivamente. A pesar de este buen comienzo, Resident Evil Village no consigue superar las 4,5 millones de unidades que Resident Evil 6 consiguió distribuir en un día. El tiempo dirá si… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_resident-evil-village-alcanza-los-4-millones-de-unidades_2424083",
           "publishedOn": "2021-05-27T13:03:27.000Z",
-          "wordCount": 1364,
+          "wordCount": 1536,
           "title": "Breve: Resident Evil Village alcanza los 4 millones de unidades"
         },
         {
@@ -306,7 +360,7 @@
           "description": "Square Enix celebra los 35 años de la franquicia Dragon Quest anunciando cinco nuevas entregas de la saga creada por Yuji Horii. La principal apuesta de la compañía es Dragon Quest XII: The Flames of Fate, Dragon Quest III HD-2D Remake y el spin-off Dragon Quest Treasures, que aún no tienen plataformas ni fecha de lanzamiento, pero estarán disponibles en todo el mundo de forma simultánea. También hay en camino Dragon Quest Keshi Keshi para móviles y una expansión de Dragon Quest X Online (solo para Japón). La información sobre Dragon Quest XII: The Flames of Fate, así como el resto de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/dragon-quest-xii-iii-remake-anunciado",
           "publishedOn": "2021-05-27T11:03:25.000Z",
-          "wordCount": 809,
+          "wordCount": 820,
           "title": "Square Enix anuncia Dragon Quest XII y Dragon Quest III HD-2D Remake"
         },
         {
@@ -315,7 +369,7 @@
           "description": "Los rumores que desde hace tiempo hablan sobre la existencia de un nuevo y más potente modelo de Nintendo Switch son tantos que parece imposible que la consola no exista. Lo cierto es que aún no ha sido anunciada de forma oficial, pero según informa Bloomberg (muro de pago) y corrobora EuroGamer esto podría cambiar en las próximas semanas, ya que fuentes de ambos medios afirman que la presentación de Switch Pro (o como se termine llamando) está prevista para antes del E3 2021, que abrirá sus puertas el 12 de junio. Bloomberg sostiene que Nintendo tiene la intención de usar el nuevo… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/consolas/nueva-nintendo-switch-anuncio",
           "publishedOn": "2021-05-27T09:54:05.000Z",
-          "wordCount": 760,
+          "wordCount": 771,
           "title": "El nuevo modelo de Switch con panel OLED y salida 4K podría reemplazar al original y anunciarse pronto"
         },
         {
@@ -324,7 +378,7 @@
           "description": "Como parte de una presentación realizada en el marco del Sony Group’s Investor Relations Day, Sony Interactive Entertainment ha dejado escapar que Uncharted 4: El desenlace del ladrón tendrá una versión para PC y que la edición estándar de PlayStation 5 empezará a ser rentable tan pronto como el mes de junio. En el documento la división gaming de Sony también saca pecho sobre la marcha de su nueva consola, que tanto en ventas como en juegos supera el lanzamiento de su predecesora. La versión de Uncharted 4 para PC no ha sido explícitamente anunciada por Sony ni por PlayStation… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/uncharted-pc-ps5-rentable",
           "publishedOn": "2021-05-27T00:23:19.000Z",
-          "wordCount": 821,
+          "wordCount": 832,
           "title": "Un documento de Sony revela una versión de Uncharted 4 para PC y que PS5 será rentable en junio"
         },
         {
@@ -333,7 +387,7 @@
           "description": "Los jugadores que busquen un título de acción en primera persona que por su estética los traslade a la segunda mitad de los 90, ya tienen disponible a Graven en el acceso anticipado de Steam, Epic Games y GOG a cambio de 20,99 euros. El juego está siendo desarrollado por el estudio danés Slipgate Ironworks, tiene una fuerte inspiración en el clásico Hexen de la que no se esconde y ha sido publicado bajo los sellos de 3D Realms y 1C Entertainment. Graven es un FPS de acción y aventura ambientado en un mundo oscuro de fantasía, que tiene como protagonista a un deshonrado cura de la… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/graven-disponible-acceso-anticipado",
           "publishedOn": "2021-05-26T22:05:44.000Z",
-          "wordCount": 700,
+          "wordCount": 711,
           "title": "Graven, un FPS de acción y aventura inspirado en Hexen, inicia su acceso anticipado"
         },
         {
@@ -351,7 +405,7 @@
           "description": "Este año ha costado, pero finalmente Microsoft ha anunciado que el 13 de junio a las 19:00 hora peninsular española tendrá lugar el Xbox & Bethesda Games Showcase. El evento, que pasa por ser una de las transmisiones más importantes del año para la compañía, se celebra en el marco del E3 2021, durará 90 minutos y servirá para conocer las próximas novedades de Xbox Game Studios, Bethesda Softworks y algunos estudios first-party. “Sabemos cuánto te emocionó dar la bienvenida a Bethesda Softworks a la familia Xbox, así que también sabemos que querrás estar en primera fila durante el Xbox… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/microsoft-bethesda-xbox-evento-e3-2021",
           "publishedOn": "2021-05-26T19:15:55.000Z",
-          "wordCount": 797,
+          "wordCount": 808,
           "title": "El Xbox & Bethesda Games Showcase se celebrará el 13 de junio a las 19:00 horas"
         },
         {
@@ -360,62 +414,8 @@
           "description": "Por segundo año consecutivo Blizzard Entertainment no celebrará la BlizzCon en su formato tradicional, es decir, de forma masiva y con gente. La compañía sostiene que las “dificultades e incertidumbres de la pandemia” ha afectado a su capacidad de planear un evento de estas dimensiones, así que han preferido actuar con cautela. Para sustituir la BlizzCon, Blizzard organizará “un evento global para principios del año que viene en el que combinaremos un espectáculo online parecido a la reciente BlizzConline con reuniones en persona más reducidas”. Ahí se conocerán las últimas novedades… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_blizzard-renuncia-a-la-blizzcon-2021-y-celebrara-un-evento-online_2423999",
           "publishedOn": "2021-05-26T18:36:32.000Z",
-          "wordCount": 570,
+          "wordCount": 633,
           "title": "Breve: Blizzard renuncia a la BlizzCon 2021 y celebrará un evento online"
-        },
-        {
-          "id": "46138_v1",
-          "author": null,
-          "description": "El editor Pixmain y el estudio independiente de animación y desarrollo Darjeeling han anunciado que el juego de rompecabezas Labyrinth City: Pierre the Maze Detective se estrenará en PC mediante Steam el 22 de junio y llegará a Nintendo Switch, Android y iOS durante el próximo verano. Como indica su nombre, el título está basado en los libros/cómic de Pierre the Maze Detective del artista japonés Hirofumi Kamigaki. Cada nivel de Labyrinth City: Pierre the Maze Detective está basado en un dibujo hecho a mano por Hirofumi Kamigaki y el estudio de ilustración IC4DESIGN, mientras que el… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_el-juego-de-rompecabezas-labyrinth-city-pierre-the-maze-detective-estara-disponible-el-22-de-junio_2423997",
-          "publishedOn": "2021-05-26T18:25:24.000Z",
-          "wordCount": 324,
-          "title": "Breve: El juego de rompecabezas Labyrinth City: Pierre the Maze Detective estará disponible el 22 de junio"
-        },
-        {
-          "id": "46137_v1",
-          "author": null,
-          "description": "Los Juegos Olímpicos Tokio 2020 se celebrarán sí o sí. Como mínimo en casa de la gente que se haga con el juego oficial que se pondrá a la venta el 22 de junio con versión para PlayStation 4, Xbox One, Nintendo Switch, PC Steam y Google Stadia. El título en manos de Sega permitirá participar de los siguientes 18 eventos olímpicos ya sea en solitario o en el modo multijugador: 100m lisos Relevos 4x100m 110m vallas Lanzamiento de martillo Salto de longitud Béisbol Baloncesto Vóley playa BMX (Ciclismo) Boxeo Judo Rugby 7 Fútbol 100m estilo libre (natación) 200m estilos individual… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_el-titulo-oficial-de-los-juegos-olimpicos-tokio-2020-llegara-el-22-de-junio-a-occidente_2423995",
-          "publishedOn": "2021-05-26T18:15:37.000Z",
-          "wordCount": 786,
-          "title": "Breve: El título oficial de los Juegos Olímpicos Tokio 2020 llegará el 22 de junio a Occidente"
-        },
-        {
-          "id": "46136_v1",
-          "author": null,
-          "description": "El desarrollador King Art Game ha mostrado un nuevo y generoso tráiler de Iron Harvest 1920+ destinado a revelar todos los detalles de la facción Unión Americana de Usonia, que pasa por ser una de las mayores novedades del contenido adicional Operación Águila que estará disponible el 27 de mayo. En concreto, el metraje presenta sus tropas y sus motivaciones secretas. La facción Unión Americana de Usonia se mantuvo al margen de la Gran Guerra y se convirtió en una potencia económica y militar que pasó desapercibida para las antiguas élites europeas. Ahora ha decidido entrar en el gran… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_iron-harvest-1920-presenta-la-faccion-union-americana-de-usonia_2423994",
-          "publishedOn": "2021-05-26T18:06:38.000Z",
-          "wordCount": 305,
-          "title": "Breve: Iron Harvest 1920+ presenta la facción Unión Americana de Usonia"
-        },
-        {
-          "id": "46135_v1",
-          "author": null,
-          "description": "Un año después de presentarlo, Epic Games ha realizado una nueva demostración de Unreal Engine 5 y anunciado que la solución gráfica ya se encuentra al alcance de cualquiera mediante un acceso anticipado. Las dos grandes características de esta nueva versión del motor gráfico son Lumen y Nanite que hoy han repetido protagonismo, pero también se ha descubierto una técnica no menos interesante llamada Temporal Super Resolution (TSR). Explicado de forma somera, Temporal Super Resolution es una técnica de upscaling que nace para que los ordenadores y consolas se puedan mantener al día con… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/unreal-engine-5-acceso-anticipado",
-          "publishedOn": "2021-05-26T17:54:44.000Z",
-          "wordCount": 818,
-          "title": "Unreal Engine 5 inicia su acceso anticipado y presenta una técnica que promete calidad cercana al 4K al coste de 1080p"
-        },
-        {
-          "id": "46134_v1",
-          "author": null,
-          "description": "Krafton sigue peleando para que PlayerUnknown's Battlegrounds pueda hacer frente a la competencia que suponen otros battle royale como Fortnite, Apex Legends o Warzone. Para mantener su parte del pastel, el equipo de desarrollo se encuentra trabajando en un plan de desarrollo para 2021 que incluye una remasterización del Miramar y dos nuevos mapas de grandes dimensiones conocidos bajo el nombre en clave Tiger y Kiki. Además, pronto tendremos novedades sobre cambios en las mecánicas de juego. La primera novedad que recibirán los jugadores de PUBG será la remasterización de Miramar, que… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/pubg-nuevos-mapas-2021",
-          "publishedOn": "2021-05-26T16:51:15.000Z",
-          "wordCount": 606,
-          "title": "PUBG remasterizará Miramar y añadirá dos nuevos mapas 8x8"
-        },
-        {
-          "id": "46133_v1",
-          "author": null,
-          "description": "Sony mantiene el ritmo y el postín de los juegos que ofrece sin coste adicional cada mes mediante PlayStation Plus. Para junio el menú lo componen dos nuevos lanzamientos, Operation: Tango y Virtua Fighter 5: Ultimate Showdown para PS5 y PS4, respectivamente, y Star Wars: Squadrons, un título al que se puede jugar con PlayStation VR. Todos ellos estarán disponibles a partir del 1 de junio. Operation: Tango es una aventura cooperativa de espionaje en la que dos jugadores deben completar misiones por todo el planeta en un futuro cercano de alta tecnología. Uno de los jugadores adoptará… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/ps-plus-junio-ps4-ps5-2021",
-          "publishedOn": "2021-05-26T15:54:35.000Z",
-          "wordCount": 813,
-          "title": "Operation: Tango, Virtua Fighter 5: Ultimate Showdown y Star Wars: Squadrons son los juegos PS Plus de junio"
         }
       ]
     },

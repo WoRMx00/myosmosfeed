@@ -2,96 +2,328 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T01:57:11.018Z</updated>
+    <updated>2021-05-29T02:13:26.191Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Etleap (YC W13) Is Hiring a Technical End User Documentation Writer]]></title>
-        <id>https://news.ycombinator.com/item?id=27310586</id>
-        <link href="https://news.ycombinator.com/item?id=27310586"/>
-        <updated>2021-05-28T01:00:14.000Z</updated>
-        <summary type="html"><![CDATA[We are looking for a technical writer to take our technical product documentation to the next level, and help us maintain it on an ongoing basis.
-The project is 2-3 months half-time to start, and then a few hours a week following that.
-What you are going to do:
-- Build out large sections of our end user documentation, making the site comprehensive and intuitive.
-- Work closely with our engineering team to become an expert user of our product and extract insights
-- Interview our engineers and users in order to create tutorials for appropriate topics
-What we want to see in you:
-- Experience writing end user documentation sites that include UI how-tos, at least one, ideally two or more.
-- Experience writing and understanding for highly technical software products.
-- High degree of user empathy - our docs will take hard technical concepts and translate to language that is a pleasure to read.
-To apply, send your resume to jobs@etleap.com.
-Comments URL: https://news.ycombinator.com/item?id=27310586
+        <title type="html"><![CDATA[Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27322233</id>
+        <link href="https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead"/>
+        <updated>2021-05-29T01:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead
+Comments URL: https://news.ycombinator.com/item?id=27322233
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>romming</name>
+            <name>hrishi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[QUIC is now RFC 9000]]></title>
-        <id>https://news.ycombinator.com/item?id=27310349</id>
-        <link href="https://www.fastly.com/blog/quic-is-now-rfc-9000"/>
-        <updated>2021-05-28T00:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000
-Comments URL: https://news.ycombinator.com/item?id=27310349
-Points: 89
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer]]></title>
+        <id>https://news.ycombinator.com/item?id=27321780</id>
+        <link href="https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/"/>
+        <updated>2021-05-28T23:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/
+Comments URL: https://news.ycombinator.com/item?id=27321780
+Points: 37
+# Comments: 19]]></summary>
         <author>
-            <name>blucell</name>
+            <name>infodocket</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A six figure meme making job at a legit company]]></title>
-        <id>https://news.ycombinator.com/item?id=27310343</id>
-        <link href="https://twitter.com/nateliason/status/1397719837204418561"/>
-        <updated>2021-05-28T00:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/nateliason/status/1397719837204418561
-Comments URL: https://news.ycombinator.com/item?id=27310343
-Points: 29
+        <title type="html"><![CDATA[Pwned passwords, open source in the .NET foundation and working with the FBI]]></title>
+        <id>https://news.ycombinator.com/item?id=27321754</id>
+        <link href="https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/"/>
+        <updated>2021-05-28T23:35:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/
+Comments URL: https://news.ycombinator.com/item?id=27321754
+Points: 97
 # Comments: 9]]></summary>
         <author>
-            <name>sergeant3</name>
+            <name>jffry</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ClickHouse: An open-source column-oriented database management system]]></title>
-        <id>https://news.ycombinator.com/item?id=27310247</id>
-        <link href="https://github.com/ClickHouse/ClickHouse"/>
-        <updated>2021-05-28T00:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ClickHouse/ClickHouse
-Comments URL: https://news.ycombinator.com/item?id=27310247
-Points: 5
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Apple has a decade-long lead in wearables]]></title>
+        <id>https://news.ycombinator.com/item?id=27321387</id>
+        <link href="https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables"/>
+        <updated>2021-05-28T22:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables
+Comments URL: https://news.ycombinator.com/item?id=27321387
+Points: 78
+# Comments: 92]]></summary>
         <author>
-            <name>tosh</name>
+            <name>kulpreet</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27310179</id>
-        <link href="https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html"/>
-        <updated>2021-05-28T00:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html
-Comments URL: https://news.ycombinator.com/item?id=27310179
-Points: 7
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Never mind the 1 percent: Let's talk about the 0.01 percent]]></title>
+        <id>https://news.ycombinator.com/item?id=27319923</id>
+        <link href="https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent"/>
+        <updated>2021-05-28T20:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent
+Comments URL: https://news.ycombinator.com/item?id=27319923
+Points: 139
+# Comments: 112]]></summary>
         <author>
-            <name>diodorus</name>
+            <name>arcanus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Second-guessing the modern web (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27308982</id>
-        <link href="https://macwright.com/2020/05/10/spa-fatigue.html"/>
-        <updated>2021-05-27T21:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://macwright.com/2020/05/10/spa-fatigue.html
-Comments URL: https://news.ycombinator.com/item?id=27308982
-Points: 155
-# Comments: 108]]></summary>
+        <title type="html"><![CDATA[The Unix Game]]></title>
+        <id>https://news.ycombinator.com/item?id=27319540</id>
+        <link href="https://unixgame.io/unix50"/>
+        <updated>2021-05-28T19:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unixgame.io/unix50
+Comments URL: https://news.ycombinator.com/item?id=27319540
+Points: 119
+# Comments: 16]]></summary>
         <author>
-            <name>tosh</name>
+            <name>salgernon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator backed MMO metaverse game is a blatant scam]]></title>
+        <id>https://news.ycombinator.com/item?id=27319457</id>
+        <link href="https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/"/>
+        <updated>2021-05-28T19:23:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/
+Comments URL: https://news.ycombinator.com/item?id=27319457
+Points: 262
+# Comments: 143]]></summary>
+        <author>
+            <name>astlouis44</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's virtually impossible to read old iMessages and they take up tons of storage]]></title>
+        <id>https://news.ycombinator.com/item?id=27319099</id>
+        <link href="https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/"/>
+        <updated>2021-05-28T18:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/
+Comments URL: https://news.ycombinator.com/item?id=27319099
+Points: 407
+# Comments: 183]]></summary>
+        <author>
+            <name>spenvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwork killed more than 745k people in a year, WHO study finds]]></title>
+        <id>https://news.ycombinator.com/item?id=27319070</id>
+        <link href="https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds"/>
+        <updated>2021-05-28T18:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds
+Comments URL: https://news.ycombinator.com/item?id=27319070
+Points: 222
+# Comments: 142]]></summary>
+        <author>
+            <name>user_235711</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PID Controller: A Simple Control Loop Mechanism]]></title>
+        <id>https://news.ycombinator.com/item?id=27318942</id>
+        <link href="https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism"/>
+        <updated>2021-05-28T18:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
+Comments URL: https://news.ycombinator.com/item?id=27318942
+Points: 50
+# Comments: 13]]></summary>
+        <author>
+            <name>vackosar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic AI]]></title>
+        <id>https://news.ycombinator.com/item?id=27318153</id>
+        <link href="https://www.anthropic.com/"/>
+        <updated>2021-05-28T17:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/
+Comments URL: https://news.ycombinator.com/item?id=27318153
+Points: 84
+# Comments: 23]]></summary>
+        <author>
+            <name>vulkd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primer gameplay de Far Cry 6, que estará disponible el 7 de octubre]]></title>
+        <id>46163_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/far-cry-6-gameplay-fecha"/>
+        <updated>2021-05-28T17:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Después de la tradicional filtración, una consecuencia de mostrar el juego a influencers antes que a todo el mundo, Ubisoft ha presentado oficialmente el primer tráiler con gameplay de Far Cry 6 acompañado de nuevos detalles y una fecha que sitúa la llegada del juego a las tiendas para el 7 de octubre en PS4, PS5, Xbox One, Xbox Series, Stadia y PC (Epic Games Store, Ubisoft Connect). El título fue presentado hace casi un año y la intención de la compañía era ponerlo a la venta el pasado febrero, pero el impacto de la COVID-19 retrasó su lanzamiento. Desarrollado por Ubisoft Toronto… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Russians do not smile (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=27317859</id>
+        <link href="https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/"/>
+        <updated>2021-05-28T17:02:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/
+Comments URL: https://news.ycombinator.com/item?id=27317859
+Points: 259
+# Comments: 197]]></summary>
+        <author>
+            <name>1experience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreFoodPantry – a community building FOSS for food pantries]]></title>
+        <id>https://news.ycombinator.com/item?id=27317709</id>
+        <link href="https://librefoodpantry.org/"/>
+        <updated>2021-05-28T16:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://librefoodpantry.org/
+Comments URL: https://news.ycombinator.com/item?id=27317709
+Points: 52
+# Comments: 19]]></summary>
+        <author>
+            <name>jka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I quit my job to focus on SerenityOS full time]]></title>
+        <id>https://news.ycombinator.com/item?id=27317655</id>
+        <link href="https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/"/>
+        <updated>2021-05-28T16:47:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/
+Comments URL: https://news.ycombinator.com/item?id=27317655
+Points: 963
+# Comments: 168]]></summary>
+        <author>
+            <name>there</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams]]></title>
+        <id>https://news.ycombinator.com/item?id=27317635</id>
+        <link href="https://news.ycombinator.com/item?id=27317635"/>
+        <updated>2021-05-28T16:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN! I'm Andrew, a solo founder building a free, easy-to-use visual editing app called NextUX (https://nextuxdesign.com/).
+NextUX makes it easy to design your website or web app collaboratively with your team. Hacking a design together in the browser can be a much faster way to do this than making changes to a pixel-perfect file using professional design applications.
+With NextUX, you work on your design in your browser, then share feedback and sketch options by capturing screenshots and adding comments and markup on top. You then share your iterations through a direct link. It is entirely browser-based, including an extension that does the screen capturing: https://nextuxdesign.com/screen-capture/. There's a video on that page showing some examples.
+NextUX works with any existing websi…]]></summary>
+        <author>
+            <name>coyleandrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL EXPLAIN Output Explained]]></title>
+        <id>https://news.ycombinator.com/item?id=27317024</id>
+        <link href="https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/"/>
+        <updated>2021-05-28T16:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/
+Comments URL: https://news.ycombinator.com/item?id=27317024
+Points: 157
+# Comments: 19]]></summary>
+        <author>
+            <name>PhilipTrauner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: An experimental, people-powered search engine]]></title>
+        <id>https://news.ycombinator.com/item?id=27316752</id>
+        <link href="https://ninfex.com/hello"/>
+        <updated>2021-05-28T15:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ninfex.com/hello
+Comments URL: https://news.ycombinator.com/item?id=27316752
+Points: 120
+# Comments: 35]]></summary>
+        <author>
+            <name>zeeshanqureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter confirms Twitter Blue]]></title>
+        <id>https://news.ycombinator.com/item?id=27316115</id>
+        <link href="https://twitter.com/wongmjane/status/1398022730553860102"/>
+        <updated>2021-05-28T14:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/wongmjane/status/1398022730553860102
+Comments URL: https://news.ycombinator.com/item?id=27316115
+Points: 371
+# Comments: 613]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Okami HD para Switch y PC recibe una traducción al español hecha por la comunidad]]></title>
+        <id>46162_v1</id>
+        <link href="https://www.elotrolado.net/hilo_okami-hd-para-switch-y-pc-recibe-una-traduccion-al-espanol-hecha-por-la-comunidad_2424424"/>
+        <updated>2021-05-28T14:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Una vez más, la comunidad acude al rescate de un juego no traducido por una gran editora. En esta ocasión ha sido la gente congregada alrededor de TraduSquare, que después de no poco trabajo ha publicado una traducción al español para Okami HD, un título que llegó a Nintendo Switch y PC (Steam) totalmente en inglés. TraduSquare ha aprovechado el trabajo previamente hecho por Reservoir Wolves, cuya traducción para PS2 no fue nada sencilla de extraer y tratar, para sacar adelante este nuevo proyecto y dar la oportunidad a los jugadores de Nintendo Switch y PC de jugar en español.… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shiva es el tercer y último personaje que Streets of Rage 4 recibirá mediante el contenido adicional Mr. X Nightmare]]></title>
+        <id>46161_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/streets-of-rage-4-shiva-trailer"/>
+        <updated>2021-05-28T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Dotemu ha revelado que Shiva, uno de los jefes finales de Streets of Rage 4, pasa a ser el tercer y último personaje adicional que añadirá el beat ‘em up con el complemento de pago Mr. X Nightmare. Los otros dos son Estel Aguirre y Max Thunder. Por ahora el DLC no tiene precio ni fecha de lanzamiento, pero la previsión es que se ponga a la venta para PlayStation 4, Xbox One, Nintendo Switch y PC (Steam, GOG) a lo largo de 2021. Shiva es un enemigo recurrente en la saga Streets of Rage que ya hemos podido ver en la segunda, tercera y cuarta entrega. También es el guardaespaldas… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Had Covid? You’ll probably make antibodies for a lifetime]]></title>
+        <id>https://news.ycombinator.com/item?id=27315074</id>
+        <link href="https://www.nature.com/articles/d41586-021-01442-9"/>
+        <updated>2021-05-28T13:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01442-9
+Comments URL: https://news.ycombinator.com/item?id=27315074
+Points: 133
+# Comments: 248]]></summary>
+        <author>
+            <name>azth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical Warp Drives]]></title>
+        <id>https://news.ycombinator.com/item?id=27314827</id>
+        <link href="https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e"/>
+        <updated>2021-05-28T12:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e
+Comments URL: https://news.ycombinator.com/item?id=27314827
+Points: 116
+# Comments: 83]]></summary>
+        <author>
+            <name>phonebucket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have I been Pwned abre el código de Pwned Passwords y recibirá del FBI contraseñas robadas en ataques]]></title>
+        <id>46160_v1</id>
+        <link href="https://www.elotrolado.net/noticias/internet/have-i-been-pwned-open-source-contrasenas-fbi"/>
+        <updated>2021-05-28T10:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Have I been Pwned es posiblemente uno de los sitios más útiles y al mismo tiempo más infrautilizados de Internet en relación a su utilidad. En parte porque el desconocimiento general sobre cómo funciona hace que algunas personas recelen de él. Desde su creación allá por 2013, millones y millones internautas han podido utilizar su repositorio para comprobar si alguna de sus cuentas de usuario o contraseñas ha sido vulnerada debido a ataques o filtraciones, y ahora, tras más de siete años de actividad, da un nuevo paso que le permitirá ser más útil que nunca. Varios meses después de su… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Company of Heroes 2 gratis en Steam hasta el 3 de junio]]></title>
+        <id>46159_v1</id>
+        <link href="https://www.elotrolado.net/hilo_company-of-heroes-2-gratis-en-steam-hasta-el-3-de-junio_2424393"/>
+        <updated>2021-05-28T10:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Sega ha anunciado que los jugadores de Steam pueden reclamar de forma gratuita y para siempre una copia de Company of Heroes 2 desde hoy y hasta el 3 de junio. También se puede conseguir sin coste alguno el complemento independiente Ardennes Assault, mientras que el resto de contenidos adicionales se ofrecen con descuento por tiempo limitado. Company of Heroes 2 es un juego de estrategia en tiempo real ambientado en la Segunda Guerra Mundial que permite combatir tanto en el Frente Oriental como en el Occidental. El título desarrollado por Relic Entertainment cuenta con campaña y modo… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Monster Hunter Rise supera los 7 millones de unidades]]></title>
+        <id>46158_v1</id>
+        <link href="https://www.elotrolado.net/hilo_monster-hunter-rise-supera-los-7-millones-de-unidades_2424383"/>
+        <updated>2021-05-28T08:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Un tuit le ha bastado a Capcom para anunciar que Monster Hunter Rise para Nintendo Switch ha conseguido superar los 7 millones de copias despachadas entre la distribución física y la venta digital. El juego alcanza esta cifra dos meses después de ponerse a la venta. En comparación, Monster Hunter: World para PS4 y Xbox One debutó con 5 millones de unidades y en dos meses ya había logrado alcanzar los 7,5 millones de copias. Veremos si con el tiempo y la versión para PC prevista para 2022 Monster Hunter Rise logra acercarse a las 17,1 millones de copias que acumula Monster Hunter: World. Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -105,19 +337,6 @@ Points: 155
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Intuition for Lisp Syntax]]></title>
-        <id>https://news.ycombinator.com/item?id=27307388</id>
-        <link href="https://stopa.io/post/265?repost=true"/>
-        <updated>2021-05-27T19:50:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stopa.io/post/265?repost=true
-Comments URL: https://news.ycombinator.com/item?id=27307388
-Points: 58
-# Comments: 17]]></summary>
-        <author>
-            <name>codetrotter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: Chicory: A Colorful Tale se pondrá a la venta el 10 de junio]]></title>
         <id>46156_v1</id>
         <link href="https://www.elotrolado.net/hilo_chicory-a-colorful-tale-se-pondra-a-la-venta-el-10-de-junio_2424349"/>
@@ -125,19 +344,6 @@ Points: 58
         <summary type="html"><![CDATA[La “aventura pintoresca” Chicory: A Colorful Tale desarrollada por algunos de los creadores de Wandersong y Celeste, estará disponible el 10 de junio para PlayStation 5, PlayStation 4 y PC (Steam). Este colorido título de vista superior presenta un mundo lleno de personajes pintorescos que parece sacado de un libro para colorear. En Chicory: A Colorful Tale los jugadores deberán ocupar el puesto de la desaparecida Chicory, la artista superestrella encargada de manejar el Pincel Mágico. Para completar los diferentes escenarios que propone el juego, será necesario resolver rompecabezas… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The media's lab leak fiasco]]></title>
-        <id>https://news.ycombinator.com/item?id=27307175</id>
-        <link href="https://www.slowboring.com/p/the-medias-lab-leak-fiasco"/>
-        <updated>2021-05-27T19:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/the-medias-lab-leak-fiasco
-Comments URL: https://news.ycombinator.com/item?id=27307175
-Points: 283
-# Comments: 402]]></summary>
-        <author>
-            <name>ksec</name>
         </author>
     </entry>
     <entry>
@@ -161,19 +367,6 @@ Points: 283
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JsonLogic]]></title>
-        <id>https://news.ycombinator.com/item?id=27306263</id>
-        <link href="https://jsonlogic.com/"/>
-        <updated>2021-05-27T18:16:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jsonlogic.com/
-Comments URL: https://news.ycombinator.com/item?id=27306263
-Points: 199
-# Comments: 189]]></summary>
-        <author>
-            <name>sebmellen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: Creative Assembly desarrolla un nuevo juego basado en la novela Romance de los Tres Reinos]]></title>
         <id>46153_v1</id>
         <link href="https://www.elotrolado.net/hilo_creative-assembly-desarrolla-un-nuevo-juego-basado-en-la-novela-romance-de-los-tres-reinos_2424313"/>
@@ -194,58 +387,6 @@ Points: 199
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New dark matter map reveals cosmic mystery]]></title>
-        <id>https://news.ycombinator.com/item?id=27305666</id>
-        <link href="https://www.bbc.com/news/science-environment-57244708"/>
-        <updated>2021-05-27T17:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57244708
-Comments URL: https://news.ycombinator.com/item?id=27305666
-Points: 79
-# Comments: 76]]></summary>
-        <author>
-            <name>tooltower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacked Git – manage commits as a stack of patches]]></title>
-        <id>https://news.ycombinator.com/item?id=27305521</id>
-        <link href="https://stacked-git.github.io/"/>
-        <updated>2021-05-27T17:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stacked-git.github.io/
-Comments URL: https://news.ycombinator.com/item?id=27305521
-Points: 104
-# Comments: 53]]></summary>
-        <author>
-            <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manifest v3 Update]]></title>
-        <id>https://news.ycombinator.com/item?id=27305127</id>
-        <link href="https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/"/>
-        <updated>2021-05-27T16:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/
-Comments URL: https://news.ycombinator.com/item?id=27305127
-Points: 134
-# Comments: 53]]></summary>
-        <author>
-            <name>TangerineDream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Egyptian Circumnavigation of Africa ~600 BC]]></title>
-        <id>https://news.ycombinator.com/item?id=27305022</id>
-        <link href="https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/"/>
-        <updated>2021-05-27T16:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/
-Comments URL: https://news.ycombinator.com/item?id=27305022
-Points: 175
-# Comments: 105]]></summary>
-        <author>
-            <name>KhoomeiK</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sega anuncia un nuevo Sonic para 2022, un remaster de Sonic Colors y la colección Sonic Origins]]></title>
         <id>46151_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/nuevo-sonic-origins-colors-remaster-anunciado"/>
@@ -253,19 +394,6 @@ Points: 175
         <summary type="html"><![CDATA[Sega ha celebrado el evento Sonic Central con el objetivo de desgranar los proyectos que la compañía tiene en marcha para celebrar el 30 aniversario del famoso erizo azul. En cuanto a software, tenemos por delante una nueva entrega desarrollada por el Team Sonic que estará disponible en 2022, un remaster de Sonic Colors que estará disponible el 7 de septiembre y la colección Sonic Origins con cuatro entregas de la época de 16 bits La nueva entrega de Sonic está en manos del Sonic Team, aún no tiene nombre oficial y su lanzamiento está previsto para el próximo año en PlayStation 4,… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V8 Sparkplug – A non-optimizing JavaScript compiler]]></title>
-        <id>https://news.ycombinator.com/item?id=27304808</id>
-        <link href="https://v8.dev/blog/sparkplug"/>
-        <updated>2021-05-27T16:19:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://v8.dev/blog/sparkplug
-Comments URL: https://news.ycombinator.com/item?id=27304808
-Points: 226
-# Comments: 95]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -299,19 +427,6 @@ Points: 226
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phil's Old Radios]]></title>
-        <id>https://news.ycombinator.com/item?id=27303881</id>
-        <link href="https://antiqueradio.org/welcome.htm"/>
-        <updated>2021-05-27T14:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://antiqueradio.org/welcome.htm
-Comments URL: https://news.ycombinator.com/item?id=27303881
-Points: 94
-# Comments: 24]]></summary>
-        <author>
-            <name>js2</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Acer anuncia tres nuevos monitores con HDR, incluyendo una pantalla 4K de 42 pulgadas para consolas de nueva generación]]></title>
         <id>46147_v1</id>
         <link href="https://www.elotrolado.net/noticias/tecnologia/monitores-gaming-acer-precios-especificaciones"/>
@@ -322,58 +437,6 @@ Points: 94
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: NocoDB – The Open Source Airtable Alternative]]></title>
-        <id>https://news.ycombinator.com/item?id=27303783</id>
-        <link href="https://github.com/nocodb/nocodb"/>
-        <updated>2021-05-27T14:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/nocodb/nocodb
-Comments URL: https://news.ycombinator.com/item?id=27303783
-Points: 357
-# Comments: 116]]></summary>
-        <author>
-            <name>nocodb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Convect – Instant Serverless Deployment of ML Models]]></title>
-        <id>https://news.ycombinator.com/item?id=27303690</id>
-        <link href="https://convect.ml"/>
-        <updated>2021-05-27T14:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://convect.ml
-Comments URL: https://news.ycombinator.com/item?id=27303690
-Points: 68
-# Comments: 18]]></summary>
-        <author>
-            <name>sameerank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S]]></title>
-        <id>https://news.ycombinator.com/item?id=27303227</id>
-        <link href="https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers"/>
-        <updated>2021-05-27T14:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers
-Comments URL: https://news.ycombinator.com/item?id=27303227
-Points: 226
-# Comments: 102]]></summary>
-        <author>
-            <name>ksec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDN Plus]]></title>
-        <id>https://news.ycombinator.com/item?id=27302702</id>
-        <link href="https://developer.mozilla.org/en/plus"/>
-        <updated>2021-05-27T13:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en/plus
-Comments URL: https://news.ycombinator.com/item?id=27302702
-Points: 487
-# Comments: 193]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: Resident Evil Village alcanza los 4 millones de unidades]]></title>
         <id>46146_v1</id>
         <link href="https://www.elotrolado.net/hilo_resident-evil-village-alcanza-los-4-millones-de-unidades_2424083"/>
@@ -381,23 +444,6 @@ Points: 487
         <summary type="html"><![CDATA[Capcom ha anunciado que Resident Evil Village ha conseguido superar los 4 millones de unidades entre las copias distribuidas en formato físico y la venta digital. En comparación, Resident Evil 7 cosechó unas ventas de 3,5 millones de unidades en nueve semanas, mientras que los remakes de Resident Evil 2 y Resident Evil 2 despacharon 4 millones de copias en un mes y 2,7 millones en tres meses, respectivamente. A pesar de este buen comienzo, Resident Evil Village no consigue superar las 4,5 millones de unidades que Resident Evil 6 consiguió distribuir en un día. El tiempo dirá si… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Favorite Blogs by Individuals?]]></title>
-        <id>https://news.ycombinator.com/item?id=27302195</id>
-        <link href="https://news.ycombinator.com/item?id=27302195"/>
-        <updated>2021-05-27T12:29:09.000Z</updated>
-        <summary type="html"><![CDATA[What are your favorite blogs run by individual people?
-For example, some of the ones I like are:
-- https://jvns.ca/
-- https://www.joshwcomeau.com/
-- https://ciechanow.ski/
-Comments URL: https://news.ycombinator.com/item?id=27302195
-Points: 660
-# Comments: 231]]></summary>
-        <author>
-            <name>zffr</name>
         </author>
     </entry>
     <entry>
@@ -466,66 +512,6 @@ Points: 660
         <link href="https://www.elotrolado.net/hilo_blizzard-renuncia-a-la-blizzcon-2021-y-celebrara-un-evento-online_2423999"/>
         <updated>2021-05-26T18:36:32.000Z</updated>
         <summary type="html"><![CDATA[Por segundo año consecutivo Blizzard Entertainment no celebrará la BlizzCon en su formato tradicional, es decir, de forma masiva y con gente. La compañía sostiene que las “dificultades e incertidumbres de la pandemia” ha afectado a su capacidad de planear un evento de estas dimensiones, así que han preferido actuar con cautela. Para sustituir la BlizzCon, Blizzard organizará “un evento global para principios del año que viene en el que combinaremos un espectáculo online parecido a la reciente BlizzConline con reuniones en persona más reducidas”. Ahí se conocerán las últimas novedades… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: El juego de rompecabezas Labyrinth City: Pierre the Maze Detective estará disponible el 22 de junio]]></title>
-        <id>46138_v1</id>
-        <link href="https://www.elotrolado.net/hilo_el-juego-de-rompecabezas-labyrinth-city-pierre-the-maze-detective-estara-disponible-el-22-de-junio_2423997"/>
-        <updated>2021-05-26T18:25:24.000Z</updated>
-        <summary type="html"><![CDATA[El editor Pixmain y el estudio independiente de animación y desarrollo Darjeeling han anunciado que el juego de rompecabezas Labyrinth City: Pierre the Maze Detective se estrenará en PC mediante Steam el 22 de junio y llegará a Nintendo Switch, Android y iOS durante el próximo verano. Como indica su nombre, el título está basado en los libros/cómic de Pierre the Maze Detective del artista japonés Hirofumi Kamigaki. Cada nivel de Labyrinth City: Pierre the Maze Detective está basado en un dibujo hecho a mano por Hirofumi Kamigaki y el estudio de ilustración IC4DESIGN, mientras que el… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: El título oficial de los Juegos Olímpicos Tokio 2020 llegará el 22 de junio a Occidente]]></title>
-        <id>46137_v1</id>
-        <link href="https://www.elotrolado.net/hilo_el-titulo-oficial-de-los-juegos-olimpicos-tokio-2020-llegara-el-22-de-junio-a-occidente_2423995"/>
-        <updated>2021-05-26T18:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Los Juegos Olímpicos Tokio 2020 se celebrarán sí o sí. Como mínimo en casa de la gente que se haga con el juego oficial que se pondrá a la venta el 22 de junio con versión para PlayStation 4, Xbox One, Nintendo Switch, PC Steam y Google Stadia. El título en manos de Sega permitirá participar de los siguientes 18 eventos olímpicos ya sea en solitario o en el modo multijugador: 100m lisos Relevos 4x100m 110m vallas Lanzamiento de martillo Salto de longitud Béisbol Baloncesto Vóley playa BMX (Ciclismo) Boxeo Judo Rugby 7 Fútbol 100m estilo libre (natación) 200m estilos individual… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Iron Harvest 1920+ presenta la facción Unión Americana de Usonia]]></title>
-        <id>46136_v1</id>
-        <link href="https://www.elotrolado.net/hilo_iron-harvest-1920-presenta-la-faccion-union-americana-de-usonia_2423994"/>
-        <updated>2021-05-26T18:06:38.000Z</updated>
-        <summary type="html"><![CDATA[El desarrollador King Art Game ha mostrado un nuevo y generoso tráiler de Iron Harvest 1920+ destinado a revelar todos los detalles de la facción Unión Americana de Usonia, que pasa por ser una de las mayores novedades del contenido adicional Operación Águila que estará disponible el 27 de mayo. En concreto, el metraje presenta sus tropas y sus motivaciones secretas. La facción Unión Americana de Usonia se mantuvo al margen de la Gran Guerra y se convirtió en una potencia económica y militar que pasó desapercibida para las antiguas élites europeas. Ahora ha decidido entrar en el gran… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5 inicia su acceso anticipado y presenta una técnica que promete calidad cercana al 4K al coste de 1080p]]></title>
-        <id>46135_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/unreal-engine-5-acceso-anticipado"/>
-        <updated>2021-05-26T17:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Un año después de presentarlo, Epic Games ha realizado una nueva demostración de Unreal Engine 5 y anunciado que la solución gráfica ya se encuentra al alcance de cualquiera mediante un acceso anticipado. Las dos grandes características de esta nueva versión del motor gráfico son Lumen y Nanite que hoy han repetido protagonismo, pero también se ha descubierto una técnica no menos interesante llamada Temporal Super Resolution (TSR). Explicado de forma somera, Temporal Super Resolution es una técnica de upscaling que nace para que los ordenadores y consolas se puedan mantener al día con… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUBG remasterizará Miramar y añadirá dos nuevos mapas 8x8]]></title>
-        <id>46134_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/pubg-nuevos-mapas-2021"/>
-        <updated>2021-05-26T16:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Krafton sigue peleando para que PlayerUnknown's Battlegrounds pueda hacer frente a la competencia que suponen otros battle royale como Fortnite, Apex Legends o Warzone. Para mantener su parte del pastel, el equipo de desarrollo se encuentra trabajando en un plan de desarrollo para 2021 que incluye una remasterización del Miramar y dos nuevos mapas de grandes dimensiones conocidos bajo el nombre en clave Tiger y Kiki. Además, pronto tendremos novedades sobre cambios en las mecánicas de juego. La primera novedad que recibirán los jugadores de PUBG será la remasterización de Miramar, que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operation: Tango, Virtua Fighter 5: Ultimate Showdown y Star Wars: Squadrons son los juegos PS Plus de junio]]></title>
-        <id>46133_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/ps-plus-junio-ps4-ps5-2021"/>
-        <updated>2021-05-26T15:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Sony mantiene el ritmo y el postín de los juegos que ofrece sin coste adicional cada mes mediante PlayStation Plus. Para junio el menú lo componen dos nuevos lanzamientos, Operation: Tango y Virtua Fighter 5: Ultimate Showdown para PS5 y PS4, respectivamente, y Star Wars: Squadrons, un título al que se puede jugar con PlayStation VR. Todos ellos estarán disponibles a partir del 1 de junio. Operation: Tango es una aventura cooperativa de espionaje en la que dos jugadores deben completar misiones por todo el planeta en un futuro cercano de alta tecnología. Uno de los jugadores adoptará… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
