@@ -2,151 +2,308 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T02:13:26.191Z</updated>
+    <updated>2021-05-30T02:28:36.170Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27322233</id>
-        <link href="https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead"/>
-        <updated>2021-05-29T01:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead
-Comments URL: https://news.ycombinator.com/item?id=27322233
+        <title type="html"><![CDATA[Vulnerabilities in billions of Wi-Fi devices let hackers bypass firewalls]]></title>
+        <id>https://news.ycombinator.com/item?id=27329678</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/"/>
+        <updated>2021-05-30T01:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/
+Comments URL: https://news.ycombinator.com/item?id=27329678
+Points: 18
+# Comments: 1]]></summary>
+        <author>
+            <name>dataflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPG-Tui, a Terminal User Interface for GnuPG]]></title>
+        <id>https://news.ycombinator.com/item?id=27329598</id>
+        <link href="https://orhun.dev/blog/introducing-gpg-tui/"/>
+        <updated>2021-05-30T00:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://orhun.dev/blog/introducing-gpg-tui/
+Comments URL: https://news.ycombinator.com/item?id=27329598
+Points: 32
+# Comments: 8]]></summary>
+        <author>
+            <name>sbt567</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Fourth Dimension? (1884)]]></title>
+        <id>https://news.ycombinator.com/item?id=27329211</id>
+        <link href="https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F"/>
+        <updated>2021-05-29T23:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F
+Comments URL: https://news.ycombinator.com/item?id=27329211
+Points: 14
+# Comments: 11]]></summary>
+        <author>
+            <name>tintinnabula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Café]]></title>
+        <id>https://news.ycombinator.com/item?id=27329131</id>
+        <link href="https://en.wikipedia.org/wiki/Scottish_Café"/>
+        <updated>2021-05-29T23:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Scottish_Café
+Comments URL: https://news.ycombinator.com/item?id=27329131
+Points: 22
+# Comments: 6]]></summary>
+        <author>
+            <name>benbreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Patterns Hall of Shame]]></title>
+        <id>https://news.ycombinator.com/item?id=27328863</id>
+        <link href="https://www.darkpatterns.org/hall-of-shame"/>
+        <updated>2021-05-29T22:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.darkpatterns.org/hall-of-shame
+Comments URL: https://news.ycombinator.com/item?id=27328863
+Points: 21
+# Comments: 1]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trials begin on lozenge that rebuilds tooth enamel]]></title>
+        <id>https://news.ycombinator.com/item?id=27328663</id>
+        <link href="https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/"/>
+        <updated>2021-05-29T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/
+Comments URL: https://news.ycombinator.com/item?id=27328663
+Points: 359
+# Comments: 167]]></summary>
+        <author>
+            <name>beefman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phacility is winding down, Phabricator no longer actively maintained]]></title>
+        <id>https://news.ycombinator.com/item?id=27328404</id>
+        <link href="https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/"/>
+        <updated>2021-05-29T21:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/
+Comments URL: https://news.ycombinator.com/item?id=27328404
+Points: 143
+# Comments: 66]]></summary>
+        <author>
+            <name>carwyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waking up one hour earlier can lower chance of major depression]]></title>
+        <id>https://news.ycombinator.com/item?id=27328290</id>
+        <link href="https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/"/>
+        <updated>2021-05-29T21:18:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/
+Comments URL: https://news.ycombinator.com/item?id=27328290
+Points: 84
+# Comments: 76]]></summary>
+        <author>
+            <name>intellaughs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create AI videos by simply typing in text]]></title>
+        <id>https://news.ycombinator.com/item?id=27328205</id>
+        <link href="https://www.synthesia.io/"/>
+        <updated>2021-05-29T21:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.synthesia.io/
+Comments URL: https://news.ycombinator.com/item?id=27328205
+Points: 115
+# Comments: 45]]></summary>
+        <author>
+            <name>vladoh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack (YC W18) is hiring technical recruiters to build the future of writing]]></title>
+        <id>https://news.ycombinator.com/item?id=27328197</id>
+        <link href="https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd"/>
+        <updated>2021-05-29T21:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd
+Comments URL: https://news.ycombinator.com/item?id=27328197
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>hrishi</name>
+            <name>jairajs89</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer]]></title>
-        <id>https://news.ycombinator.com/item?id=27321780</id>
-        <link href="https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/"/>
-        <updated>2021-05-28T23:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/
-Comments URL: https://news.ycombinator.com/item?id=27321780
-Points: 37
-# Comments: 19]]></summary>
+        <title type="html"><![CDATA[Abolish High School (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27328111</id>
+        <link href="https://harpers.org/archive/2015/04/abolish-high-school/"/>
+        <updated>2021-05-29T20:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://harpers.org/archive/2015/04/abolish-high-school/
+Comments URL: https://news.ycombinator.com/item?id=27328111
+Points: 105
+# Comments: 178]]></summary>
         <author>
-            <name>infodocket</name>
+            <name>johntfella</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pwned passwords, open source in the .NET foundation and working with the FBI]]></title>
-        <id>https://news.ycombinator.com/item?id=27321754</id>
-        <link href="https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/"/>
-        <updated>2021-05-28T23:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/
-Comments URL: https://news.ycombinator.com/item?id=27321754
-Points: 97
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Amazon devices will soon automatically share your Internet with neighbors]]></title>
+        <id>https://news.ycombinator.com/item?id=27328087</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/"/>
+        <updated>2021-05-29T20:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/
+Comments URL: https://news.ycombinator.com/item?id=27328087
+Points: 188
+# Comments: 119]]></summary>
         <author>
-            <name>jffry</name>
+            <name>throwaway888abc</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple has a decade-long lead in wearables]]></title>
-        <id>https://news.ycombinator.com/item?id=27321387</id>
-        <link href="https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables"/>
-        <updated>2021-05-28T22:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables
-Comments URL: https://news.ycombinator.com/item?id=27321387
-Points: 78
-# Comments: 92]]></summary>
+        <title type="html"><![CDATA[“Faraday Wax” – recreating old school high-vacuum epoxy]]></title>
+        <id>https://news.ycombinator.com/item?id=27327871</id>
+        <link href="https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/"/>
+        <updated>2021-05-29T20:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/
+Comments URL: https://news.ycombinator.com/item?id=27327871
+Points: 45
+# Comments: 11]]></summary>
         <author>
-            <name>kulpreet</name>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Never mind the 1 percent: Let's talk about the 0.01 percent]]></title>
-        <id>https://news.ycombinator.com/item?id=27319923</id>
-        <link href="https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent"/>
-        <updated>2021-05-28T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent
-Comments URL: https://news.ycombinator.com/item?id=27319923
-Points: 139
-# Comments: 112]]></summary>
+        <title type="html"><![CDATA[Philip K. Dick: A Visionary Among the Charlatans (1975)]]></title>
+        <id>https://news.ycombinator.com/item?id=27327755</id>
+        <link href="https://www.depauw.edu/sfs/backissues/5/lem5art.htm"/>
+        <updated>2021-05-29T19:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.depauw.edu/sfs/backissues/5/lem5art.htm
+Comments URL: https://news.ycombinator.com/item?id=27327755
+Points: 85
+# Comments: 52]]></summary>
         <author>
-            <name>arcanus</name>
+            <name>pmoriarty</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Unix Game]]></title>
-        <id>https://news.ycombinator.com/item?id=27319540</id>
-        <link href="https://unixgame.io/unix50"/>
-        <updated>2021-05-28T19:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://unixgame.io/unix50
-Comments URL: https://news.ycombinator.com/item?id=27319540
-Points: 119
-# Comments: 16]]></summary>
+        <title type="html"><![CDATA[Breve: Destruction AllStars añadirá bots para reducir los tiempos de espera]]></title>
+        <id>46167_v1</id>
+        <link href="https://www.elotrolado.net/hilo_destruction-allstars-anadira-bots-para-reducir-los-tiempos-de-espera_2424551"/>
+        <updated>2021-05-29T19:42:09.000Z</updated>
+        <summary type="html"><![CDATA[Lucid Games ha anunciado que su hoja de ruta para Destruction AllStars incluye introducir bots para rellenar las partidas cuando cueste encontrar jugadores. Todos los modos de juego podrán añadir bots a excepción de Blitz, una opción donde compiten cuatro equipos. El equipo de desarrollo espera que los bots alivien los tiempos de espera, especialmente en las horas cuando hay menos jugadores. La falta de usuarios en Destruction AllStars se produce a pesar de que el juego, disponible en exclusiva para PS5, se ofreció durante dos meses como parte de la iniciativa PS Plus. Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>salgernon</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y Combinator backed MMO metaverse game is a blatant scam]]></title>
-        <id>https://news.ycombinator.com/item?id=27319457</id>
-        <link href="https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/"/>
-        <updated>2021-05-28T19:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/
-Comments URL: https://news.ycombinator.com/item?id=27319457
-Points: 262
-# Comments: 143]]></summary>
-        <author>
-            <name>astlouis44</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's virtually impossible to read old iMessages and they take up tons of storage]]></title>
-        <id>https://news.ycombinator.com/item?id=27319099</id>
-        <link href="https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/"/>
-        <updated>2021-05-28T18:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/
-Comments URL: https://news.ycombinator.com/item?id=27319099
-Points: 407
-# Comments: 183]]></summary>
-        <author>
-            <name>spenvo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwork killed more than 745k people in a year, WHO study finds]]></title>
-        <id>https://news.ycombinator.com/item?id=27319070</id>
-        <link href="https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds"/>
-        <updated>2021-05-28T18:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds
-Comments URL: https://news.ycombinator.com/item?id=27319070
-Points: 222
-# Comments: 142]]></summary>
-        <author>
-            <name>user_235711</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PID Controller: A Simple Control Loop Mechanism]]></title>
-        <id>https://news.ycombinator.com/item?id=27318942</id>
-        <link href="https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism"/>
-        <updated>2021-05-28T18:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
-Comments URL: https://news.ycombinator.com/item?id=27318942
-Points: 50
-# Comments: 13]]></summary>
-        <author>
-            <name>vackosar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic AI]]></title>
-        <id>https://news.ycombinator.com/item?id=27318153</id>
-        <link href="https://www.anthropic.com/"/>
-        <updated>2021-05-28T17:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/
-Comments URL: https://news.ycombinator.com/item?id=27318153
-Points: 84
+        <title type="html"><![CDATA[Writing a game from first principles in 65c02  – Part One]]></title>
+        <id>https://news.ycombinator.com/item?id=27326837</id>
+        <link href="http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html"/>
+        <updated>2021-05-29T17:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html
+Comments URL: https://news.ycombinator.com/item?id=27326837
+Points: 66
 # Comments: 23]]></summary>
         <author>
-            <name>vulkd</name>
+            <name>homarp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: BBC Basic on the ZX Spectrum Next]]></title>
+        <id>https://news.ycombinator.com/item?id=27326712</id>
+        <link href="http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction"/>
+        <updated>2021-05-29T17:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction
+Comments URL: https://news.ycombinator.com/item?id=27326712
+Points: 26
+# Comments: 4]]></summary>
+        <author>
+            <name>breakintoprog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York’s Hyphenated History]]></title>
+        <id>https://news.ycombinator.com/item?id=27326270</id>
+        <link href="https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/"/>
+        <updated>2021-05-29T16:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/
+Comments URL: https://news.ycombinator.com/item?id=27326270
+Points: 17
+# Comments: 1]]></summary>
+        <author>
+            <name>overwhelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using fake reviews to find dangerous extensions]]></title>
+        <id>https://news.ycombinator.com/item?id=27326268</id>
+        <link href="https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/"/>
+        <updated>2021-05-29T16:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/
+Comments URL: https://news.ycombinator.com/item?id=27326268
+Points: 194
+# Comments: 89]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking the Silvercrest (Lidl) Smart Home Gateway]]></title>
+        <id>https://news.ycombinator.com/item?id=27326183</id>
+        <link href="https://paulbanks.org/projects/lidl-zigbee/"/>
+        <updated>2021-05-29T16:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://paulbanks.org/projects/lidl-zigbee/
+Comments URL: https://news.ycombinator.com/item?id=27326183
+Points: 71
+# Comments: 14]]></summary>
+        <author>
+            <name>homarp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tcl Calling Parallel C++ Code Using OpenMP]]></title>
+        <id>https://news.ycombinator.com/item?id=27326003</id>
+        <link href="https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP"/>
+        <updated>2021-05-29T15:48:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP
+Comments URL: https://news.ycombinator.com/item?id=27326003
+Points: 84
+# Comments: 8]]></summary>
+        <author>
+            <name>blacksqr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Muere Benoît Sokal, creador de la saga Syberia]]></title>
+        <id>46166_v1</id>
+        <link href="https://www.elotrolado.net/hilo_muere-benoit-sokal-creador-de-la-saga-syberia_2424525"/>
+        <updated>2021-05-29T14:15:08.000Z</updated>
+        <summary type="html"><![CDATA[La compañía francesa Microids ha anunciado que ayer 28 de mayo falleció Benoît Sokal a los 66 años de edad y “después de luchar contra una larga enfermedad”. Nacido en Bélgica, Sokal pasará a la historia como un historietista y diseñador de videojuegos cuya obra más notable y reconocida fue la franquicia Syberia. Su trabajo en cómics y videojuegos permitieron a Sokal ser merecedor de distinciones como la Orden de las Artes y las Letras (Francia) y la Orden de Leopoldo (Bélgica). Además de Syberia, Sokal también fue el diseñador de la aventura gráfica Amerzone y durante los últimos… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loki llega a Disney+, Paraíso debuta en Movistar, Sweet Tooth aterriza en Netflix y Prime Video estrena Dom]]></title>
+        <id>46165_v1</id>
+        <link href="https://www.elotrolado.net/noticias/internet/series-netflix-disney-amazon-apple-movistar-junio-2021"/>
+        <updated>2021-05-29T13:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Mayo fue un mes con numerosos estrenos y junio no será menos. Durante las próximas cuatro semanas tenemos el inicio de Loki, una nueva serie de Disney+ que forma parte de la fase cuatro del universo cinematográfico de Marvel, en Movistar viajan a los años 90 con un drama llamado Paraíso inspirado por las obras de Steven Spielberg, mientras que en Amazon debuta Dom, un drama criminal que pasa por ser su primera producción original brasileña. En Netflix nos espera el estreno de Sweet Tooth, una serie basada en la historieta de Jeff Lemire de Vertigo, un antiguo sello editorial de DC… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las noticias de la semana (22 - 29 de mayo)]]></title>
+        <id>46164_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/semana-22-29-mayo-2021"/>
+        <updated>2021-05-29T10:28:07.000Z</updated>
+        <summary type="html"><![CDATA[El E3 2021 aún no ha empezado, pero su cercanía se deja notar. Por un lado tenemos los primeros tráileres con gameplay de juegos como Horizon Forbidden West, Far Cry 6 y The Dark Pictures: House of Ashes, así como el anuncio de un nuevo proyecto de Sonic, Virtua Fighter 5: Ultimate Showdown y hasta cinco Dragon Quest entre los que se incluyen Dragon Quest XII y Dragon Quest III HD-2D Remake. Sony también ha sido noticia por su interés en llevar algunas de sus sagas al móvil y situar Uncharted 4 como un lanzamiento en PC. Por otro lado, tenemos nuevas fechas de lanzamiento incluyendo… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -157,97 +314,6 @@ Points: 84
         <summary type="html"><![CDATA[Después de la tradicional filtración, una consecuencia de mostrar el juego a influencers antes que a todo el mundo, Ubisoft ha presentado oficialmente el primer tráiler con gameplay de Far Cry 6 acompañado de nuevos detalles y una fecha que sitúa la llegada del juego a las tiendas para el 7 de octubre en PS4, PS5, Xbox One, Xbox Series, Stadia y PC (Epic Games Store, Ubisoft Connect). El título fue presentado hace casi un año y la intención de la compañía era ponerlo a la venta el pasado febrero, pero el impacto de la COVID-19 retrasó su lanzamiento. Desarrollado por Ubisoft Toronto… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Russians do not smile (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=27317859</id>
-        <link href="https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/"/>
-        <updated>2021-05-28T17:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/
-Comments URL: https://news.ycombinator.com/item?id=27317859
-Points: 259
-# Comments: 197]]></summary>
-        <author>
-            <name>1experience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreFoodPantry – a community building FOSS for food pantries]]></title>
-        <id>https://news.ycombinator.com/item?id=27317709</id>
-        <link href="https://librefoodpantry.org/"/>
-        <updated>2021-05-28T16:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://librefoodpantry.org/
-Comments URL: https://news.ycombinator.com/item?id=27317709
-Points: 52
-# Comments: 19]]></summary>
-        <author>
-            <name>jka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I quit my job to focus on SerenityOS full time]]></title>
-        <id>https://news.ycombinator.com/item?id=27317655</id>
-        <link href="https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/"/>
-        <updated>2021-05-28T16:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/
-Comments URL: https://news.ycombinator.com/item?id=27317655
-Points: 963
-# Comments: 168]]></summary>
-        <author>
-            <name>there</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams]]></title>
-        <id>https://news.ycombinator.com/item?id=27317635</id>
-        <link href="https://news.ycombinator.com/item?id=27317635"/>
-        <updated>2021-05-28T16:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN! I'm Andrew, a solo founder building a free, easy-to-use visual editing app called NextUX (https://nextuxdesign.com/).
-NextUX makes it easy to design your website or web app collaboratively with your team. Hacking a design together in the browser can be a much faster way to do this than making changes to a pixel-perfect file using professional design applications.
-With NextUX, you work on your design in your browser, then share feedback and sketch options by capturing screenshots and adding comments and markup on top. You then share your iterations through a direct link. It is entirely browser-based, including an extension that does the screen capturing: https://nextuxdesign.com/screen-capture/. There's a video on that page showing some examples.
-NextUX works with any existing websi…]]></summary>
-        <author>
-            <name>coyleandrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL EXPLAIN Output Explained]]></title>
-        <id>https://news.ycombinator.com/item?id=27317024</id>
-        <link href="https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/"/>
-        <updated>2021-05-28T16:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/
-Comments URL: https://news.ycombinator.com/item?id=27317024
-Points: 157
-# Comments: 19]]></summary>
-        <author>
-            <name>PhilipTrauner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: An experimental, people-powered search engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27316752</id>
-        <link href="https://ninfex.com/hello"/>
-        <updated>2021-05-28T15:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ninfex.com/hello
-Comments URL: https://news.ycombinator.com/item?id=27316752
-Points: 120
-# Comments: 35]]></summary>
-        <author>
-            <name>zeeshanqureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter confirms Twitter Blue]]></title>
-        <id>https://news.ycombinator.com/item?id=27316115</id>
-        <link href="https://twitter.com/wongmjane/status/1398022730553860102"/>
-        <updated>2021-05-28T14:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/wongmjane/status/1398022730553860102
-Comments URL: https://news.ycombinator.com/item?id=27316115
-Points: 371
-# Comments: 613]]></summary>
-        <author>
-            <name>0xedb</name>
         </author>
     </entry>
     <entry>
@@ -268,32 +334,6 @@ Points: 371
         <summary type="html"><![CDATA[Dotemu ha revelado que Shiva, uno de los jefes finales de Streets of Rage 4, pasa a ser el tercer y último personaje adicional que añadirá el beat ‘em up con el complemento de pago Mr. X Nightmare. Los otros dos son Estel Aguirre y Max Thunder. Por ahora el DLC no tiene precio ni fecha de lanzamiento, pero la previsión es que se ponga a la venta para PlayStation 4, Xbox One, Nintendo Switch y PC (Steam, GOG) a lo largo de 2021. Shiva es un enemigo recurrente en la saga Streets of Rage que ya hemos podido ver en la segunda, tercera y cuarta entrega. También es el guardaespaldas… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Had Covid? You’ll probably make antibodies for a lifetime]]></title>
-        <id>https://news.ycombinator.com/item?id=27315074</id>
-        <link href="https://www.nature.com/articles/d41586-021-01442-9"/>
-        <updated>2021-05-28T13:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01442-9
-Comments URL: https://news.ycombinator.com/item?id=27315074
-Points: 133
-# Comments: 248]]></summary>
-        <author>
-            <name>azth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physical Warp Drives]]></title>
-        <id>https://news.ycombinator.com/item?id=27314827</id>
-        <link href="https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e"/>
-        <updated>2021-05-28T12:58:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e
-Comments URL: https://news.ycombinator.com/item?id=27314827
-Points: 116
-# Comments: 83]]></summary>
-        <author>
-            <name>phonebucket</name>
         </author>
     </entry>
     <entry>
@@ -472,46 +512,6 @@ Points: 116
         <link href="https://www.elotrolado.net/noticias/juegos/uncharted-pc-ps5-rentable"/>
         <updated>2021-05-27T00:23:19.000Z</updated>
         <summary type="html"><![CDATA[Como parte de una presentación realizada en el marco del Sony Group’s Investor Relations Day, Sony Interactive Entertainment ha dejado escapar que Uncharted 4: El desenlace del ladrón tendrá una versión para PC y que la edición estándar de PlayStation 5 empezará a ser rentable tan pronto como el mes de junio. En el documento la división gaming de Sony también saca pecho sobre la marcha de su nueva consola, que tanto en ventas como en juegos supera el lanzamiento de su predecesora. La versión de Uncharted 4 para PC no ha sido explícitamente anunciada por Sony ni por PlayStation… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graven, un FPS de acción y aventura inspirado en Hexen, inicia su acceso anticipado]]></title>
-        <id>46142_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/graven-disponible-acceso-anticipado"/>
-        <updated>2021-05-26T22:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Los jugadores que busquen un título de acción en primera persona que por su estética los traslade a la segunda mitad de los 90, ya tienen disponible a Graven en el acceso anticipado de Steam, Epic Games y GOG a cambio de 20,99 euros. El juego está siendo desarrollado por el estudio danés Slipgate Ironworks, tiene una fuerte inspiración en el clásico Hexen de la que no se esconde y ha sido publicado bajo los sellos de 3D Realms y 1C Entertainment. Graven es un FPS de acción y aventura ambientado en un mundo oscuro de fantasía, que tiene como protagonista a un deshonrado cura de la… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monster Hunter Rise recibe la actualización 3.0 y Monster Hunter Stories 2 se deja ver con un nuevo tráiler]]></title>
-        <id>46141_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/monster-hunter-rise-actualizacion-stories-trailer"/>
-        <updated>2021-05-26T20:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Capcom no deja descansar a los jugadores de Monster Hunter Rise, que a lo largo del 27 de mayo recibirán la actualización 3.0 con contenido en forma de monstruos, misiones y un nuevo inédito. Tampoco hay reposo para aquellos que esperan el lanzamiento de Monster Hunter Stories 2: Wings of Ruin, del que hoy Capcom ha mostrado el enésimo tráiler con detalles sobre la historia y la conexión del protagonista con Razewing Ratha. A los jugadores de Nintendo Switch con una copia de Monster Hunter Rise les espera una descarga de 1,4 GB para hacerse con la actualización 3.0. Su contenido está… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Xbox & Bethesda Games Showcase se celebrará el 13 de junio a las 19:00 horas]]></title>
-        <id>46140_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/microsoft-bethesda-xbox-evento-e3-2021"/>
-        <updated>2021-05-26T19:15:55.000Z</updated>
-        <summary type="html"><![CDATA[Este año ha costado, pero finalmente Microsoft ha anunciado que el 13 de junio a las 19:00 hora peninsular española tendrá lugar el Xbox & Bethesda Games Showcase. El evento, que pasa por ser una de las transmisiones más importantes del año para la compañía, se celebra en el marco del E3 2021, durará 90 minutos y servirá para conocer las próximas novedades de Xbox Game Studios, Bethesda Softworks y algunos estudios first-party. “Sabemos cuánto te emocionó dar la bienvenida a Bethesda Softworks a la familia Xbox, así que también sabemos que querrás estar en primera fila durante el Xbox… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Blizzard renuncia a la BlizzCon 2021 y celebrará un evento online]]></title>
-        <id>46139_v1</id>
-        <link href="https://www.elotrolado.net/hilo_blizzard-renuncia-a-la-blizzcon-2021-y-celebrara-un-evento-online_2423999"/>
-        <updated>2021-05-26T18:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Por segundo año consecutivo Blizzard Entertainment no celebrará la BlizzCon en su formato tradicional, es decir, de forma masiva y con gente. La compañía sostiene que las “dificultades e incertidumbres de la pandemia” ha afectado a su capacidad de planear un evento de estas dimensiones, así que han preferido actuar con cautela. Para sustituir la BlizzCon, Blizzard organizará “un evento global para principios del año que viene en el que combinaremos un espectáculo online parecido a la reciente BlizzConline con reuniones en persona más reducidas”. Ahí se conocerán las últimas novedades… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
