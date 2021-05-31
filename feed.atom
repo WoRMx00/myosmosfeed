@@ -2,190 +2,270 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T02:28:36.170Z</updated>
+    <updated>2021-05-31T02:40:14.940Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Vulnerabilities in billions of Wi-Fi devices let hackers bypass firewalls]]></title>
-        <id>https://news.ycombinator.com/item?id=27329678</id>
-        <link href="https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/"/>
-        <updated>2021-05-30T01:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/
-Comments URL: https://news.ycombinator.com/item?id=27329678
-Points: 18
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Why Corporations Won’t Hire Remote Workers in Colorado]]></title>
+        <id>https://news.ycombinator.com/item?id=27338931</id>
+        <link href="https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado"/>
+        <updated>2021-05-31T01:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado
+Comments URL: https://news.ycombinator.com/item?id=27338931
+Points: 20
+# Comments: 15]]></summary>
         <author>
-            <name>dataflow</name>
+            <name>mooreds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPG-Tui, a Terminal User Interface for GnuPG]]></title>
-        <id>https://news.ycombinator.com/item?id=27329598</id>
-        <link href="https://orhun.dev/blog/introducing-gpg-tui/"/>
-        <updated>2021-05-30T00:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://orhun.dev/blog/introducing-gpg-tui/
-Comments URL: https://news.ycombinator.com/item?id=27329598
-Points: 32
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[I Was Paralyzed by Severe Depression. Then Came Ketamine]]></title>
+        <id>https://news.ycombinator.com/item?id=27338596</id>
+        <link href="https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html"/>
+        <updated>2021-05-31T00:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html
+Comments URL: https://news.ycombinator.com/item?id=27338596
+Points: 26
+# Comments: 2]]></summary>
         <author>
-            <name>sbt567</name>
+            <name>WarOnPrivacy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is the Fourth Dimension? (1884)]]></title>
-        <id>https://news.ycombinator.com/item?id=27329211</id>
-        <link href="https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F"/>
-        <updated>2021-05-29T23:35:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F
-Comments URL: https://news.ycombinator.com/item?id=27329211
-Points: 14
+        <title type="html"><![CDATA[NSA spying row: Denmark helped US gather data on European officials, says report]]></title>
+        <id>https://news.ycombinator.com/item?id=27338555</id>
+        <link href="https://www.bbc.com/news/world-europe-57302806"/>
+        <updated>2021-05-31T00:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57302806
+Comments URL: https://news.ycombinator.com/item?id=27338555
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>Black101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption]]></title>
+        <id>https://news.ycombinator.com/item?id=27338479</id>
+        <link href="https://github.com/cs01/termpair"/>
+        <updated>2021-05-31T00:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/cs01/termpair
+Comments URL: https://news.ycombinator.com/item?id=27338479
+Points: 37
+# Comments: 15]]></summary>
+        <author>
+            <name>illuminated</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New York Times uses the dark patterns it derides]]></title>
+        <id>https://news.ycombinator.com/item?id=27338157</id>
+        <link href="https://www.nirandfar.com/cancel-new-york-times/"/>
+        <updated>2021-05-30T23:43:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nirandfar.com/cancel-new-york-times/
+Comments URL: https://news.ycombinator.com/item?id=27338157
+Points: 114
+# Comments: 52]]></summary>
+        <author>
+            <name>nireyal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber charges driver for completing a 13-mile fare]]></title>
+        <id>https://news.ycombinator.com/item?id=27338098</id>
+        <link href="https://twitter.com/TheSofaaa/status/1398990015611473927"/>
+        <updated>2021-05-30T23:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/TheSofaaa/status/1398990015611473927
+Comments URL: https://news.ycombinator.com/item?id=27338098
+Points: 117
+# Comments: 58]]></summary>
+        <author>
+            <name>bbatsell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Alternatives to Google Photos?]]></title>
+        <id>https://news.ycombinator.com/item?id=27338008</id>
+        <link href="https://news.ycombinator.com/item?id=27338008"/>
+        <updated>2021-05-30T23:26:44.000Z</updated>
+        <summary type="html"><![CDATA[With Google ending its free photo storage policy in a few days[0], I'm considering switching to another service. I've poked around a few recommendation sites[1], but am curious to know if anyone has suggestions for new and/or under-the-radar services they would recommend?
+[0] https://blog.google/products/photos/storage-changes/
+[1] https://www.techradar.com/how-to/best-google-photos-alternat...
+Comments URL: https://news.ycombinator.com/item?id=27338008
+Points: 73
+# Comments: 52]]></summary>
+        <author>
+            <name>LifeIsBio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 nagging users with Bing advertisements (push alerts)]]></title>
+        <id>https://news.ycombinator.com/item?id=27337382</id>
+        <link href="https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/"/>
+        <updated>2021-05-30T22:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/
+Comments URL: https://news.ycombinator.com/item?id=27337382
+Points: 83
+# Comments: 30]]></summary>
+        <author>
+            <name>minama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shortest Possible Game of Monopoly (2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=27337171</id>
+        <link href="https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/"/>
+        <updated>2021-05-30T21:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/
+Comments URL: https://news.ycombinator.com/item?id=27337171
+Points: 128
+# Comments: 105]]></summary>
+        <author>
+            <name>ksangeelee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naomi Osaka faces default from Grand Slam for refusing to speak to media]]></title>
+        <id>https://news.ycombinator.com/item?id=27337044</id>
+        <link href="https://www.bbc.com/sport/tennis/57301475"/>
+        <updated>2021-05-30T21:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/sport/tennis/57301475
+Comments URL: https://news.ycombinator.com/item?id=27337044
+Points: 52
+# Comments: 69]]></summary>
+        <author>
+            <name>e2e4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Returns to Scale in Broken Windows]]></title>
+        <id>https://news.ycombinator.com/item?id=27336826</id>
+        <link href="https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/"/>
+        <updated>2021-05-30T21:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/
+Comments URL: https://news.ycombinator.com/item?id=27336826
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>apophatic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you frame it like that (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27336815</id>
+        <link href="https://theamericanscholar.org/if-you-frame-it-like-that/"/>
+        <updated>2021-05-30T21:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theamericanscholar.org/if-you-frame-it-like-that/
+Comments URL: https://news.ycombinator.com/item?id=27336815
+Points: 17
+# Comments: 0]]></summary>
+        <author>
+            <name>killittosaveit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving ventilation will help curb SARS-CoV-2]]></title>
+        <id>https://news.ycombinator.com/item?id=27336808</id>
+        <link href="https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2"/>
+        <updated>2021-05-30T21:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2
+Comments URL: https://news.ycombinator.com/item?id=27336808
+Points: 99
+# Comments: 67]]></summary>
+        <author>
+            <name>martincmartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC.fyi: Browse RFCs by keywords, id or collection]]></title>
+        <id>https://news.ycombinator.com/item?id=27336584</id>
+        <link href="https://rfc.fyi/"/>
+        <updated>2021-05-30T20:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rfc.fyi/
+Comments URL: https://news.ycombinator.com/item?id=27336584
+Points: 69
 # Comments: 11]]></summary>
         <author>
-            <name>tintinnabula</name>
+            <name>amjd</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scottish Café]]></title>
-        <id>https://news.ycombinator.com/item?id=27329131</id>
-        <link href="https://en.wikipedia.org/wiki/Scottish_Café"/>
-        <updated>2021-05-29T23:24:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Scottish_Café
-Comments URL: https://news.ycombinator.com/item?id=27329131
-Points: 22
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[It's time for us in the tech world to speak out about cryptocurrency]]></title>
+        <id>https://news.ycombinator.com/item?id=27335574</id>
+        <link href="https://twitter.com/Pinboard/status/1399058952336277505"/>
+        <updated>2021-05-30T18:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/Pinboard/status/1399058952336277505
+Comments URL: https://news.ycombinator.com/item?id=27335574
+Points: 654
+# Comments: 481]]></summary>
         <author>
-            <name>benbreen</name>
+            <name>cratermoon</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dark Patterns Hall of Shame]]></title>
-        <id>https://news.ycombinator.com/item?id=27328863</id>
-        <link href="https://www.darkpatterns.org/hall-of-shame"/>
-        <updated>2021-05-29T22:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.darkpatterns.org/hall-of-shame
-Comments URL: https://news.ycombinator.com/item?id=27328863
-Points: 21
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[How counting neutrons explains nuclear waste]]></title>
+        <id>https://news.ycombinator.com/item?id=27335114</id>
+        <link href="https://rootsofprogress.org/nuclear-physics"/>
+        <updated>2021-05-30T18:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rootsofprogress.org/nuclear-physics
+Comments URL: https://news.ycombinator.com/item?id=27335114
+Points: 46
+# Comments: 17]]></summary>
         <author>
-            <name>bookofjoe</name>
+            <name>jasoncrawford</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trials begin on lozenge that rebuilds tooth enamel]]></title>
-        <id>https://news.ycombinator.com/item?id=27328663</id>
-        <link href="https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/"/>
-        <updated>2021-05-29T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/
-Comments URL: https://news.ycombinator.com/item?id=27328663
-Points: 359
-# Comments: 167]]></summary>
-        <author>
-            <name>beefman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phacility is winding down, Phabricator no longer actively maintained]]></title>
-        <id>https://news.ycombinator.com/item?id=27328404</id>
-        <link href="https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/"/>
-        <updated>2021-05-29T21:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/
-Comments URL: https://news.ycombinator.com/item?id=27328404
-Points: 143
-# Comments: 66]]></summary>
-        <author>
-            <name>carwyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waking up one hour earlier can lower chance of major depression]]></title>
-        <id>https://news.ycombinator.com/item?id=27328290</id>
-        <link href="https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/"/>
-        <updated>2021-05-29T21:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/
-Comments URL: https://news.ycombinator.com/item?id=27328290
-Points: 84
-# Comments: 76]]></summary>
-        <author>
-            <name>intellaughs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create AI videos by simply typing in text]]></title>
-        <id>https://news.ycombinator.com/item?id=27328205</id>
-        <link href="https://www.synthesia.io/"/>
-        <updated>2021-05-29T21:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.synthesia.io/
-Comments URL: https://news.ycombinator.com/item?id=27328205
-Points: 115
-# Comments: 45]]></summary>
-        <author>
-            <name>vladoh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substack (YC W18) is hiring technical recruiters to build the future of writing]]></title>
-        <id>https://news.ycombinator.com/item?id=27328197</id>
-        <link href="https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd"/>
-        <updated>2021-05-29T21:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd
-Comments URL: https://news.ycombinator.com/item?id=27328197
+        <title type="html"><![CDATA[ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience]]></title>
+        <id>https://news.ycombinator.com/item?id=27334621</id>
+        <link href="https://readme.com/careers#head-of-product-management"/>
+        <updated>2021-05-30T17:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://readme.com/careers#head-of-product-management
+Comments URL: https://news.ycombinator.com/item?id=27334621
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>jairajs89</name>
+            <name>gkoberger</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abolish High School (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27328111</id>
-        <link href="https://harpers.org/archive/2015/04/abolish-high-school/"/>
-        <updated>2021-05-29T20:44:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://harpers.org/archive/2015/04/abolish-high-school/
-Comments URL: https://news.ycombinator.com/item?id=27328111
-Points: 105
-# Comments: 178]]></summary>
+        <title type="html"><![CDATA[A minimalistic Python wrapper to AWS DynamoDB]]></title>
+        <id>https://news.ycombinator.com/item?id=27334430</id>
+        <link href="https://github.com/dineshsonachalam/Lucid-Dynamodb"/>
+        <updated>2021-05-30T16:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/dineshsonachalam/Lucid-Dynamodb
+Comments URL: https://news.ycombinator.com/item?id=27334430
+Points: 38
+# Comments: 28]]></summary>
         <author>
-            <name>johntfella</name>
+            <name>nsonachalam</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon devices will soon automatically share your Internet with neighbors]]></title>
-        <id>https://news.ycombinator.com/item?id=27328087</id>
-        <link href="https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/"/>
-        <updated>2021-05-29T20:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/
-Comments URL: https://news.ycombinator.com/item?id=27328087
-Points: 188
-# Comments: 119]]></summary>
+        <title type="html"><![CDATA[Overkill objects for everyday life]]></title>
+        <id>https://news.ycombinator.com/item?id=27334223</id>
+        <link href="https://neil.computer/notes/overkill-objects-for-everyday-life/"/>
+        <updated>2021-05-30T16:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neil.computer/notes/overkill-objects-for-everyday-life/
+Comments URL: https://news.ycombinator.com/item?id=27334223
+Points: 675
+# Comments: 499]]></summary>
         <author>
-            <name>throwaway888abc</name>
+            <name>mrzool</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Faraday Wax” – recreating old school high-vacuum epoxy]]></title>
-        <id>https://news.ycombinator.com/item?id=27327871</id>
-        <link href="https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/"/>
-        <updated>2021-05-29T20:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/
-Comments URL: https://news.ycombinator.com/item?id=27327871
-Points: 45
-# Comments: 11]]></summary>
+        <title type="html"><![CDATA[Terra: Low-level system programming language meta-programmed from Lua]]></title>
+        <id>https://news.ycombinator.com/item?id=27334065</id>
+        <link href="https://terralang.org/"/>
+        <updated>2021-05-30T15:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://terralang.org/
+Comments URL: https://news.ycombinator.com/item?id=27334065
+Points: 108
+# Comments: 23]]></summary>
         <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Philip K. Dick: A Visionary Among the Charlatans (1975)]]></title>
-        <id>https://news.ycombinator.com/item?id=27327755</id>
-        <link href="https://www.depauw.edu/sfs/backissues/5/lem5art.htm"/>
-        <updated>2021-05-29T19:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.depauw.edu/sfs/backissues/5/lem5art.htm
-Comments URL: https://news.ycombinator.com/item?id=27327755
-Points: 85
-# Comments: 52]]></summary>
-        <author>
-            <name>pmoriarty</name>
+            <name>teleforce</name>
         </author>
     </entry>
     <entry>
@@ -196,84 +276,6 @@ Points: 85
         <summary type="html"><![CDATA[Lucid Games ha anunciado que su hoja de ruta para Destruction AllStars incluye introducir bots para rellenar las partidas cuando cueste encontrar jugadores. Todos los modos de juego podrán añadir bots a excepción de Blitz, una opción donde compiten cuatro equipos. El equipo de desarrollo espera que los bots alivien los tiempos de espera, especialmente en las horas cuando hay menos jugadores. La falta de usuarios en Destruction AllStars se produce a pesar de que el juego, disponible en exclusiva para PS5, se ofreció durante dos meses como parte de la iniciativa PS Plus. Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing a game from first principles in 65c02  – Part One]]></title>
-        <id>https://news.ycombinator.com/item?id=27326837</id>
-        <link href="http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html"/>
-        <updated>2021-05-29T17:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html
-Comments URL: https://news.ycombinator.com/item?id=27326837
-Points: 66
-# Comments: 23]]></summary>
-        <author>
-            <name>homarp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: BBC Basic on the ZX Spectrum Next]]></title>
-        <id>https://news.ycombinator.com/item?id=27326712</id>
-        <link href="http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction"/>
-        <updated>2021-05-29T17:19:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction
-Comments URL: https://news.ycombinator.com/item?id=27326712
-Points: 26
-# Comments: 4]]></summary>
-        <author>
-            <name>breakintoprog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York’s Hyphenated History]]></title>
-        <id>https://news.ycombinator.com/item?id=27326270</id>
-        <link href="https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/"/>
-        <updated>2021-05-29T16:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/
-Comments URL: https://news.ycombinator.com/item?id=27326270
-Points: 17
-# Comments: 1]]></summary>
-        <author>
-            <name>overwhelm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using fake reviews to find dangerous extensions]]></title>
-        <id>https://news.ycombinator.com/item?id=27326268</id>
-        <link href="https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/"/>
-        <updated>2021-05-29T16:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/
-Comments URL: https://news.ycombinator.com/item?id=27326268
-Points: 194
-# Comments: 89]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking the Silvercrest (Lidl) Smart Home Gateway]]></title>
-        <id>https://news.ycombinator.com/item?id=27326183</id>
-        <link href="https://paulbanks.org/projects/lidl-zigbee/"/>
-        <updated>2021-05-29T16:13:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://paulbanks.org/projects/lidl-zigbee/
-Comments URL: https://news.ycombinator.com/item?id=27326183
-Points: 71
-# Comments: 14]]></summary>
-        <author>
-            <name>homarp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tcl Calling Parallel C++ Code Using OpenMP]]></title>
-        <id>https://news.ycombinator.com/item?id=27326003</id>
-        <link href="https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP"/>
-        <updated>2021-05-29T15:48:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP
-Comments URL: https://news.ycombinator.com/item?id=27326003
-Points: 84
-# Comments: 8]]></summary>
-        <author>
-            <name>blacksqr</name>
         </author>
     </entry>
     <entry>

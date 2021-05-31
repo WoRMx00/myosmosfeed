@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27329678",
-          "author": "dataflow",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/\nComments URL: https://news.ycombinator.com/item?id=27329678\nPoints: 18\n# Comments: 1",
-          "link": "https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/",
-          "publishedOn": "2021-05-30T01:01:05.000Z",
-          "wordCount": 2416,
-          "title": "Vulnerabilities in billions of Wi-Fi devices let hackers bypass firewalls"
+          "id": "https://news.ycombinator.com/item?id=27338931",
+          "author": "mooreds",
+          "description": "Article URL: https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado\nComments URL: https://news.ycombinator.com/item?id=27338931\nPoints: 20\n# Comments: 15",
+          "link": "https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado",
+          "publishedOn": "2021-05-31T01:29:46.000Z",
+          "wordCount": 942,
+          "title": "Why Corporations Won’t Hire Remote Workers in Colorado"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27329598",
-          "author": "sbt567",
-          "description": "Article URL: https://orhun.dev/blog/introducing-gpg-tui/\nComments URL: https://news.ycombinator.com/item?id=27329598\nPoints: 32\n# Comments: 8",
-          "link": "https://orhun.dev/blog/introducing-gpg-tui/",
-          "publishedOn": "2021-05-30T00:43:26.000Z",
-          "wordCount": 1019,
-          "title": "GPG-Tui, a Terminal User Interface for GnuPG"
+          "id": "https://news.ycombinator.com/item?id=27338596",
+          "author": "WarOnPrivacy",
+          "description": "Article URL: https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html\nComments URL: https://news.ycombinator.com/item?id=27338596\nPoints: 26\n# Comments: 2",
+          "link": "https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html",
+          "publishedOn": "2021-05-31T00:45:34.000Z",
+          "wordCount": 1060,
+          "title": "I Was Paralyzed by Severe Depression. Then Came Ketamine"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27329211",
-          "author": "tintinnabula",
-          "description": "Article URL: https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F\nComments URL: https://news.ycombinator.com/item?id=27329211\nPoints: 14\n# Comments: 11",
-          "link": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F",
-          "publishedOn": "2021-05-29T23:35:37.000Z",
-          "wordCount": 9838,
-          "title": "What is the Fourth Dimension? (1884)"
+          "id": "https://news.ycombinator.com/item?id=27338555",
+          "author": "Black101",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57302806\nComments URL: https://news.ycombinator.com/item?id=27338555\nPoints: 12\n# Comments: 0",
+          "link": "https://www.bbc.com/news/world-europe-57302806",
+          "publishedOn": "2021-05-31T00:39:01.000Z",
+          "wordCount": 964,
+          "title": "NSA spying row: Denmark helped US gather data on European officials, says report"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27329131",
-          "author": "benbreen",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Scottish_Café\nComments URL: https://news.ycombinator.com/item?id=27329131\nPoints: 22\n# Comments: 6",
-          "link": "https://en.wikipedia.org/wiki/Scottish_Café",
-          "publishedOn": "2021-05-29T23:24:40.000Z",
-          "wordCount": null,
-          "title": "Scottish Café"
+          "id": "https://news.ycombinator.com/item?id=27338479",
+          "author": "illuminated",
+          "description": "Article URL: https://github.com/cs01/termpair\nComments URL: https://news.ycombinator.com/item?id=27338479\nPoints: 37\n# Comments: 15",
+          "link": "https://github.com/cs01/termpair",
+          "publishedOn": "2021-05-31T00:25:05.000Z",
+          "wordCount": 1014,
+          "title": "TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27328863",
-          "author": "bookofjoe",
-          "description": "Article URL: https://www.darkpatterns.org/hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=27328863\nPoints: 21\n# Comments: 1",
-          "link": "https://www.darkpatterns.org/hall-of-shame",
-          "publishedOn": "2021-05-29T22:45:47.000Z",
-          "wordCount": 74,
-          "title": "Dark Patterns Hall of Shame"
+          "id": "https://news.ycombinator.com/item?id=27338157",
+          "author": "nireyal",
+          "description": "Article URL: https://www.nirandfar.com/cancel-new-york-times/\nComments URL: https://news.ycombinator.com/item?id=27338157\nPoints: 114\n# Comments: 52",
+          "link": "https://www.nirandfar.com/cancel-new-york-times/",
+          "publishedOn": "2021-05-30T23:43:16.000Z",
+          "wordCount": 1658,
+          "title": "The New York Times uses the dark patterns it derides"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27328663",
-          "author": "beefman",
-          "description": "Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/\nComments URL: https://news.ycombinator.com/item?id=27328663\nPoints: 359\n# Comments: 167",
-          "link": "https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/",
-          "publishedOn": "2021-05-29T22:15:00.000Z",
-          "wordCount": 1154,
-          "title": "Trials begin on lozenge that rebuilds tooth enamel"
+          "id": "https://news.ycombinator.com/item?id=27338098",
+          "author": "bbatsell",
+          "description": "Article URL: https://twitter.com/TheSofaaa/status/1398990015611473927\nComments URL: https://news.ycombinator.com/item?id=27338098\nPoints: 117\n# Comments: 58",
+          "link": "https://twitter.com/TheSofaaa/status/1398990015611473927",
+          "publishedOn": "2021-05-30T23:37:08.000Z",
+          "wordCount": 196,
+          "title": "Uber charges driver for completing a 13-mile fare"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27328404",
-          "author": "carwyn",
-          "description": "Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/\nComments URL: https://news.ycombinator.com/item?id=27328404\nPoints: 143\n# Comments: 66",
-          "link": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
-          "publishedOn": "2021-05-29T21:35:14.000Z",
-          "wordCount": 185,
-          "title": "Phacility is winding down, Phabricator no longer actively maintained"
+          "id": "https://news.ycombinator.com/item?id=27338008",
+          "author": "LifeIsBio",
+          "description": "With Google ending its free photo storage policy in a few days[0], I'm considering switching to another service. I've poked around a few recommendation sites[1], but am curious to know if anyone has suggestions for new and/or under-the-radar services they would recommend?\n[0] https://blog.google/products/photos/storage-changes/\n[1] https://www.techradar.com/how-to/best-google-photos-alternat...\nComments URL: https://news.ycombinator.com/item?id=27338008\nPoints: 73\n# Comments: 52",
+          "link": "https://news.ycombinator.com/item?id=27338008",
+          "publishedOn": "2021-05-30T23:26:44.000Z",
+          "wordCount": 2764,
+          "title": "Ask HN: Alternatives to Google Photos?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27328290",
-          "author": "intellaughs",
-          "description": "Article URL: https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/\nComments URL: https://news.ycombinator.com/item?id=27328290\nPoints: 84\n# Comments: 76",
-          "link": "https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/",
-          "publishedOn": "2021-05-29T21:18:54.000Z",
-          "wordCount": 1945,
-          "title": "Waking up one hour earlier can lower chance of major depression"
+          "id": "https://news.ycombinator.com/item?id=27337382",
+          "author": "minama",
+          "description": "Article URL: https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/\nComments URL: https://news.ycombinator.com/item?id=27337382\nPoints: 83\n# Comments: 30",
+          "link": "https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/",
+          "publishedOn": "2021-05-30T22:12:30.000Z",
+          "wordCount": 828,
+          "title": "Windows 10 nagging users with Bing advertisements (push alerts)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27328205",
-          "author": "vladoh",
-          "description": "Article URL: https://www.synthesia.io/\nComments URL: https://news.ycombinator.com/item?id=27328205\nPoints: 115\n# Comments: 45",
-          "link": "https://www.synthesia.io/",
-          "publishedOn": "2021-05-29T21:02:26.000Z",
-          "wordCount": 917,
-          "title": "Create AI videos by simply typing in text"
+          "id": "https://news.ycombinator.com/item?id=27337171",
+          "author": "ksangeelee",
+          "description": "Article URL: https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/\nComments URL: https://news.ycombinator.com/item?id=27337171\nPoints: 128\n# Comments: 105",
+          "link": "https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/",
+          "publishedOn": "2021-05-30T21:46:31.000Z",
+          "wordCount": 5082,
+          "title": "The Shortest Possible Game of Monopoly (2010)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27328197",
-          "author": "jairajs89",
-          "description": "Article URL: https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd\nComments URL: https://news.ycombinator.com/item?id=27328197\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
-          "publishedOn": "2021-05-29T21:01:11.000Z",
-          "wordCount": 746,
-          "title": "Substack (YC W18) is hiring technical recruiters to build the future of writing"
+          "id": "https://news.ycombinator.com/item?id=27337044",
+          "author": "e2e4",
+          "description": "Article URL: https://www.bbc.com/sport/tennis/57301475\nComments URL: https://news.ycombinator.com/item?id=27337044\nPoints: 52\n# Comments: 69",
+          "link": "https://www.bbc.com/sport/tennis/57301475",
+          "publishedOn": "2021-05-30T21:33:03.000Z",
+          "wordCount": 2916,
+          "title": "Naomi Osaka faces default from Grand Slam for refusing to speak to media"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27328111",
-          "author": "johntfella",
-          "description": "Article URL: https://harpers.org/archive/2015/04/abolish-high-school/\nComments URL: https://news.ycombinator.com/item?id=27328111\nPoints: 105\n# Comments: 178",
-          "link": "https://harpers.org/archive/2015/04/abolish-high-school/",
-          "publishedOn": "2021-05-29T20:44:30.000Z",
-          "wordCount": 2814,
-          "title": "Abolish High School (2015)"
+          "id": "https://news.ycombinator.com/item?id=27336826",
+          "author": "apophatic",
+          "description": "Article URL: https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/\nComments URL: https://news.ycombinator.com/item?id=27336826\nPoints: 4\n# Comments: 0",
+          "link": "https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/",
+          "publishedOn": "2021-05-30T21:11:21.000Z",
+          "wordCount": 3067,
+          "title": "Returns to Scale in Broken Windows"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27328087",
-          "author": "throwaway888abc",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/\nComments URL: https://news.ycombinator.com/item?id=27328087\nPoints: 188\n# Comments: 119",
-          "link": "https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/",
-          "publishedOn": "2021-05-29T20:39:34.000Z",
-          "wordCount": 1271,
-          "title": "Amazon devices will soon automatically share your Internet with neighbors"
+          "id": "https://news.ycombinator.com/item?id=27336815",
+          "author": "killittosaveit",
+          "description": "Article URL: https://theamericanscholar.org/if-you-frame-it-like-that/\nComments URL: https://news.ycombinator.com/item?id=27336815\nPoints: 17\n# Comments: 0",
+          "link": "https://theamericanscholar.org/if-you-frame-it-like-that/",
+          "publishedOn": "2021-05-30T21:10:22.000Z",
+          "wordCount": 2811,
+          "title": "If you frame it like that (2020)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27327871",
-          "author": "zdw",
-          "description": "Article URL: https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/\nComments URL: https://news.ycombinator.com/item?id=27327871\nPoints: 45\n# Comments: 11",
-          "link": "https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/",
-          "publishedOn": "2021-05-29T20:03:39.000Z",
-          "wordCount": 1380,
-          "title": "“Faraday Wax” – recreating old school high-vacuum epoxy"
+          "id": "https://news.ycombinator.com/item?id=27336808",
+          "author": "martincmartin",
+          "description": "Article URL: https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2\nComments URL: https://news.ycombinator.com/item?id=27336808\nPoints: 99\n# Comments: 67",
+          "link": "https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2",
+          "publishedOn": "2021-05-30T21:09:43.000Z",
+          "wordCount": 2817,
+          "title": "Improving ventilation will help curb SARS-CoV-2"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27327755",
-          "author": "pmoriarty",
-          "description": "Article URL: https://www.depauw.edu/sfs/backissues/5/lem5art.htm\nComments URL: https://news.ycombinator.com/item?id=27327755\nPoints: 85\n# Comments: 52",
-          "link": "https://www.depauw.edu/sfs/backissues/5/lem5art.htm",
-          "publishedOn": "2021-05-29T19:44:52.000Z",
-          "wordCount": 8795,
-          "title": "Philip K. Dick: A Visionary Among the Charlatans (1975)"
+          "id": "https://news.ycombinator.com/item?id=27336584",
+          "author": "amjd",
+          "description": "Article URL: https://rfc.fyi/\nComments URL: https://news.ycombinator.com/item?id=27336584\nPoints: 69\n# Comments: 11",
+          "link": "https://rfc.fyi/",
+          "publishedOn": "2021-05-30T20:47:16.000Z",
+          "wordCount": 28,
+          "title": "RFC.fyi: Browse RFCs by keywords, id or collection"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27326837",
-          "author": "homarp",
-          "description": "Article URL: http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html\nComments URL: https://news.ycombinator.com/item?id=27326837\nPoints: 66\n# Comments: 23",
-          "link": "http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html",
-          "publishedOn": "2021-05-29T17:35:55.000Z",
-          "wordCount": 2741,
-          "title": "Writing a game from first principles in 65c02  – Part One"
+          "id": "https://news.ycombinator.com/item?id=27335574",
+          "author": "cratermoon",
+          "description": "Article URL: https://twitter.com/Pinboard/status/1399058952336277505\nComments URL: https://news.ycombinator.com/item?id=27335574\nPoints: 654\n# Comments: 481",
+          "link": "https://twitter.com/Pinboard/status/1399058952336277505",
+          "publishedOn": "2021-05-30T18:55:41.000Z",
+          "wordCount": 196,
+          "title": "It's time for us in the tech world to speak out about cryptocurrency"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27326712",
-          "author": "breakintoprog",
-          "description": "Article URL: http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction\nComments URL: https://news.ycombinator.com/item?id=27326712\nPoints: 26\n# Comments: 4",
-          "link": "http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction",
-          "publishedOn": "2021-05-29T17:19:38.000Z",
-          "wordCount": 1053,
-          "title": "Show HN: BBC Basic on the ZX Spectrum Next"
+          "id": "https://news.ycombinator.com/item?id=27335114",
+          "author": "jasoncrawford",
+          "description": "Article URL: https://rootsofprogress.org/nuclear-physics\nComments URL: https://news.ycombinator.com/item?id=27335114\nPoints: 46\n# Comments: 17",
+          "link": "https://rootsofprogress.org/nuclear-physics",
+          "publishedOn": "2021-05-30T18:02:25.000Z",
+          "wordCount": 4327,
+          "title": "How counting neutrons explains nuclear waste"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27326270",
-          "author": "overwhelm",
-          "description": "Article URL: https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/\nComments URL: https://news.ycombinator.com/item?id=27326270\nPoints: 17\n# Comments: 1",
-          "link": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
-          "publishedOn": "2021-05-29T16:25:40.000Z",
-          "wordCount": 1740,
-          "title": "New York’s Hyphenated History"
+          "id": "https://news.ycombinator.com/item?id=27334621",
+          "author": "gkoberger",
+          "description": "Article URL: https://readme.com/careers#head-of-product-management\nComments URL: https://news.ycombinator.com/item?id=27334621\nPoints: 1\n# Comments: 0",
+          "link": "https://readme.com/careers#head-of-product-management",
+          "publishedOn": "2021-05-30T17:00:55.000Z",
+          "wordCount": 1517,
+          "title": "ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27326268",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/\nComments URL: https://news.ycombinator.com/item?id=27326268\nPoints: 194\n# Comments: 89",
-          "link": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
-          "publishedOn": "2021-05-29T16:25:31.000Z",
-          "wordCount": 2152,
-          "title": "Using fake reviews to find dangerous extensions"
+          "id": "https://news.ycombinator.com/item?id=27334430",
+          "author": "nsonachalam",
+          "description": "Article URL: https://github.com/dineshsonachalam/Lucid-Dynamodb\nComments URL: https://news.ycombinator.com/item?id=27334430\nPoints: 38\n# Comments: 28",
+          "link": "https://github.com/dineshsonachalam/Lucid-Dynamodb",
+          "publishedOn": "2021-05-30T16:36:38.000Z",
+          "wordCount": 2158,
+          "title": "A minimalistic Python wrapper to AWS DynamoDB"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27326183",
-          "author": "homarp",
-          "description": "Article URL: https://paulbanks.org/projects/lidl-zigbee/\nComments URL: https://news.ycombinator.com/item?id=27326183\nPoints: 71\n# Comments: 14",
-          "link": "https://paulbanks.org/projects/lidl-zigbee/",
-          "publishedOn": "2021-05-29T16:13:17.000Z",
-          "wordCount": 1120,
-          "title": "Hacking the Silvercrest (Lidl) Smart Home Gateway"
+          "id": "https://news.ycombinator.com/item?id=27334223",
+          "author": "mrzool",
+          "description": "Article URL: https://neil.computer/notes/overkill-objects-for-everyday-life/\nComments URL: https://news.ycombinator.com/item?id=27334223\nPoints: 675\n# Comments: 499",
+          "link": "https://neil.computer/notes/overkill-objects-for-everyday-life/",
+          "publishedOn": "2021-05-30T16:10:20.000Z",
+          "wordCount": 876,
+          "title": "Overkill objects for everyday life"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27326003",
-          "author": "blacksqr",
-          "description": "Article URL: https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP\nComments URL: https://news.ycombinator.com/item?id=27326003\nPoints: 84\n# Comments: 8",
-          "link": "https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP",
-          "publishedOn": "2021-05-29T15:48:18.000Z",
-          "wordCount": 360,
-          "title": "Tcl Calling Parallel C++ Code Using OpenMP"
+          "id": "https://news.ycombinator.com/item?id=27334065",
+          "author": "teleforce",
+          "description": "Article URL: https://terralang.org/\nComments URL: https://news.ycombinator.com/item?id=27334065\nPoints: 108\n# Comments: 23",
+          "link": "https://terralang.org/",
+          "publishedOn": "2021-05-30T15:49:19.000Z",
+          "wordCount": 3219,
+          "title": "Terra: Low-level system programming language meta-programmed from Lua"
         }
       ]
     },
@@ -198,7 +198,7 @@
           "description": "Lucid Games ha anunciado que su hoja de ruta para Destruction AllStars incluye introducir bots para rellenar las partidas cuando cueste encontrar jugadores. Todos los modos de juego podrán añadir bots a excepción de Blitz, una opción donde compiten cuatro equipos. El equipo de desarrollo espera que los bots alivien los tiempos de espera, especialmente en las horas cuando hay menos jugadores. La falta de usuarios en Destruction AllStars se produce a pesar de que el juego, disponible en exclusiva para PS5, se ofreció durante dos meses como parte de la iniciativa PS Plus. Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_destruction-allstars-anadira-bots-para-reducir-los-tiempos-de-espera_2424551",
           "publishedOn": "2021-05-29T19:42:09.000Z",
-          "wordCount": 489,
+          "wordCount": 935,
           "title": "Breve: Destruction AllStars añadirá bots para reducir los tiempos de espera"
         },
         {
@@ -207,7 +207,7 @@
           "description": "La compañía francesa Microids ha anunciado que ayer 28 de mayo falleció Benoît Sokal a los 66 años de edad y “después de luchar contra una larga enfermedad”. Nacido en Bélgica, Sokal pasará a la historia como un historietista y diseñador de videojuegos cuya obra más notable y reconocida fue la franquicia Syberia. Su trabajo en cómics y videojuegos permitieron a Sokal ser merecedor de distinciones como la Orden de las Artes y las Letras (Francia) y la Orden de Leopoldo (Bélgica). Además de Syberia, Sokal también fue el diseñador de la aventura gráfica Amerzone y durante los últimos… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_muere-benoit-sokal-creador-de-la-saga-syberia_2424525",
           "publishedOn": "2021-05-29T14:15:08.000Z",
-          "wordCount": 475,
+          "wordCount": 873,
           "title": "Breve: Muere Benoît Sokal, creador de la saga Syberia"
         },
         {
@@ -216,7 +216,7 @@
           "description": "Mayo fue un mes con numerosos estrenos y junio no será menos. Durante las próximas cuatro semanas tenemos el inicio de Loki, una nueva serie de Disney+ que forma parte de la fase cuatro del universo cinematográfico de Marvel, en Movistar viajan a los años 90 con un drama llamado Paraíso inspirado por las obras de Steven Spielberg, mientras que en Amazon debuta Dom, un drama criminal que pasa por ser su primera producción original brasileña. En Netflix nos espera el estreno de Sweet Tooth, una serie basada en la historieta de Jeff Lemire de Vertigo, un antiguo sello editorial de DC… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/internet/series-netflix-disney-amazon-apple-movistar-junio-2021",
           "publishedOn": "2021-05-29T13:36:15.000Z",
-          "wordCount": 2759,
+          "wordCount": 2756,
           "title": "Loki llega a Disney+, Paraíso debuta en Movistar, Sweet Tooth aterriza en Netflix y Prime Video estrena Dom"
         },
         {
@@ -234,7 +234,7 @@
           "description": "Después de la tradicional filtración, una consecuencia de mostrar el juego a influencers antes que a todo el mundo, Ubisoft ha presentado oficialmente el primer tráiler con gameplay de Far Cry 6 acompañado de nuevos detalles y una fecha que sitúa la llegada del juego a las tiendas para el 7 de octubre en PS4, PS5, Xbox One, Xbox Series, Stadia y PC (Epic Games Store, Ubisoft Connect). El título fue presentado hace casi un año y la intención de la compañía era ponerlo a la venta el pasado febrero, pero el impacto de la COVID-19 retrasó su lanzamiento. Desarrollado por Ubisoft Toronto… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/far-cry-6-gameplay-fecha",
           "publishedOn": "2021-05-28T17:14:49.000Z",
-          "wordCount": 906,
+          "wordCount": 903,
           "title": "Primer gameplay de Far Cry 6, que estará disponible el 7 de octubre"
         },
         {
@@ -243,7 +243,7 @@
           "description": "Una vez más, la comunidad acude al rescate de un juego no traducido por una gran editora. En esta ocasión ha sido la gente congregada alrededor de TraduSquare, que después de no poco trabajo ha publicado una traducción al español para Okami HD, un título que llegó a Nintendo Switch y PC (Steam) totalmente en inglés. TraduSquare ha aprovechado el trabajo previamente hecho por Reservoir Wolves, cuya traducción para PS2 no fue nada sencilla de extraer y tratar, para sacar adelante este nuevo proyecto y dar la oportunidad a los jugadores de Nintendo Switch y PC de jugar en español.… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_okami-hd-para-switch-y-pc-recibe-una-traduccion-al-espanol-hecha-por-la-comunidad_2424424",
           "publishedOn": "2021-05-28T14:55:51.000Z",
-          "wordCount": 2393,
+          "wordCount": 2734,
           "title": "Breve: Okami HD para Switch y PC recibe una traducción al español hecha por la comunidad"
         },
         {
@@ -252,7 +252,7 @@
           "description": "Dotemu ha revelado que Shiva, uno de los jefes finales de Streets of Rage 4, pasa a ser el tercer y último personaje adicional que añadirá el beat ‘em up con el complemento de pago Mr. X Nightmare. Los otros dos son Estel Aguirre y Max Thunder. Por ahora el DLC no tiene precio ni fecha de lanzamiento, pero la previsión es que se ponga a la venta para PlayStation 4, Xbox One, Nintendo Switch y PC (Steam, GOG) a lo largo de 2021. Shiva es un enemigo recurrente en la saga Streets of Rage que ya hemos podido ver en la segunda, tercera y cuarta entrega. También es el guardaespaldas… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/streets-of-rage-4-shiva-trailer",
           "publishedOn": "2021-05-28T14:39:00.000Z",
-          "wordCount": 791,
+          "wordCount": 788,
           "title": "Shiva es el tercer y último personaje que Streets of Rage 4 recibirá mediante el contenido adicional Mr. X Nightmare"
         },
         {
@@ -261,7 +261,7 @@
           "description": "Have I been Pwned es posiblemente uno de los sitios más útiles y al mismo tiempo más infrautilizados de Internet en relación a su utilidad. En parte porque el desconocimiento general sobre cómo funciona hace que algunas personas recelen de él. Desde su creación allá por 2013, millones y millones internautas han podido utilizar su repositorio para comprobar si alguna de sus cuentas de usuario o contraseñas ha sido vulnerada debido a ataques o filtraciones, y ahora, tras más de siete años de actividad, da un nuevo paso que le permitirá ser más útil que nunca. Varios meses después de su… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/internet/have-i-been-pwned-open-source-contrasenas-fbi",
           "publishedOn": "2021-05-28T10:39:46.000Z",
-          "wordCount": 892,
+          "wordCount": 889,
           "title": "Have I been Pwned abre el código de Pwned Passwords y recibirá del FBI contraseñas robadas en ataques"
         },
         {
@@ -288,7 +288,7 @@
           "description": "Hace unas semanas PlayStation Studios dedicó un State of Play a Ratchet & Clank: Una Dimensión Aparte y hoy ha hecho lo propio con Horizon Forbidden West. La diferencia es que el juego desarrollado por Guerrilla Games no se había mostrado hasta ahora, así que el evento digital ha servido para ver por primera vez y mediante un gameplay de 14 minutos la fidelidad visual y las novedades en la jugabilidad, el combate y la historia que presenta la nueva aventura protagonizada por Aloy. El lanzamiento del juego está previsto para el 2021 en PS4 y PS5. Más allá de por su factura gráfica, el… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/horizon-forbidden-west-trailer-gameplay",
           "publishedOn": "2021-05-27T21:21:54.000Z",
-          "wordCount": 872,
+          "wordCount": 869,
           "title": "Horizon Forbidden West se presenta con un primer gameplay de 14 minutos en PS5"
         },
         {
@@ -306,7 +306,7 @@
           "description": "El camino de Dying Light 2 ha sido largo, difícil y en ocasiones oscuro, pero finalmente la luz aparece al final del túnel. Así ha quedado demostrado por parte de Techland, que meses después de retrasar el juego hasta dejarlo sin fecha ni ventana de lanzamiento ha celebrado un evento en línea para relanzar Dying Light 2, mostrar un nuevo tráiler con gameplay, ofrecer nuevos detalles y anunciar que el juego estará disponible el 7 de diciembre en PS4, PS5, Xbox One, Xbox Series y PC (Steam, Epic Games Store). La historia de Dying Light 2 tiene lugar 15 años después de los eventos… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/dying-light-2-fecha-lanzamiento",
           "publishedOn": "2021-05-27T19:30:43.000Z",
-          "wordCount": 907,
+          "wordCount": 904,
           "title": "Dying Light 2 revela un nuevo gameplay de 8 minutos, detalles sobre la jugabilidad y una fecha: 7 de diciembre"
         },
         {
@@ -333,7 +333,7 @@
           "description": "House of Ashes, la tercera entrega de la antología de acción, aventura y terror The Dark Pictures desarrollada por Supermassive Games, se ha mostrado hoy mediante un tráiler con gameplay de ocho minutos que ha estado acompañado de nuevos detalles sobre la historia y novedades sobre la jugabilidad. El título será editado por Bandai Namco y estará disponible en 2021 para PS4, PS5, Xbox One, Xbox Series y PC (Steam). La historia de House of Ashes tiene lugar en 2003 durante los últimos compases de la Guerra de Irak. Sus protagonistas, un equipo de fuerzas especiales estadounidenses que… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/house-of-ashes-trailer-gameplay",
           "publishedOn": "2021-05-27T17:39:42.000Z",
-          "wordCount": 794,
+          "wordCount": 791,
           "title": "The Dark Pictures: House of Ashes se muestra por primera vez con un gameplay de 8 minutos"
         },
         {
@@ -342,7 +342,7 @@
           "description": "Sega ha celebrado el evento Sonic Central con el objetivo de desgranar los proyectos que la compañía tiene en marcha para celebrar el 30 aniversario del famoso erizo azul. En cuanto a software, tenemos por delante una nueva entrega desarrollada por el Team Sonic que estará disponible en 2022, un remaster de Sonic Colors que estará disponible el 7 de septiembre y la colección Sonic Origins con cuatro entregas de la época de 16 bits La nueva entrega de Sonic está en manos del Sonic Team, aún no tiene nombre oficial y su lanzamiento está previsto para el próximo año en PlayStation 4,… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/nuevo-sonic-origins-colors-remaster-anunciado",
           "publishedOn": "2021-05-27T16:25:16.000Z",
-          "wordCount": 761,
+          "wordCount": 758,
           "title": "Sega anuncia un nuevo Sonic para 2022, un remaster de Sonic Colors y la colección Sonic Origins"
         },
         {
@@ -351,7 +351,7 @@
           "description": "Además de monitores (y ratones, y puntos de acceso 5G, y pantallas 3D para diseñadores...) Acer ha presentado nuevos portátiles gaming en su conferencia Next 2021. Menos que en ocasiones anteriores, cabe decir, tal vez porque las circunstancias de este año son las que son. En cualquier caso, la firma taiwanesa no tiene intención de que otras como Asus le roben su parte del pastel, optando por renovar dos de sus modelos más populares. https://youtu.be/W5U2DPNL7Bs El Predator Triton 500 SE es una pequeña revisión del ya sobradamente conocido Triton 500 base. Descrito como una especie de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/portatiles-gaming-acer-predator-helios-triton",
           "publishedOn": "2021-05-27T15:59:22.000Z",
-          "wordCount": 897,
+          "wordCount": 894,
           "title": "Acer desvela nuevos portátiles Predator con gráficos RTX 3080 y pantallas Mini LED"
         },
         {
@@ -360,7 +360,7 @@
           "description": "La segunda semana de la Superoferta de la Epic Games Store empieza con la posibilidad de conseguir Among Us de forma completamente gratuita. El juego se ofrece sin coste alguno en iOS y Android, pero en PC tiene un precio de 3,99 euros. Este es el dinero que se ahorrarán los jugadores que hasta el 3 de junio a las 17:00 horas reclamen el juego mediante la Epic Games Store. Among Us es un juego multiplataforma de deducción social donde hasta diez participantes deben completar tareas en un escenario a la vez que intentan identificar al impostor. En caso de ejercer este último rol, el… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_among-us-gratis-en-la-epic-games-store-hasta-el-3-de-junio_2424227",
           "publishedOn": "2021-05-27T15:25:55.000Z",
-          "wordCount": 1134,
+          "wordCount": 1246,
           "title": "Breve: Among Us gratis en la Epic Games Store hasta el 3 de junio"
         },
         {
@@ -378,7 +378,7 @@
           "description": "Las circunstancias han querido que el número de anuncios realizados en la conferencia Next@Acer de este año haya sido más pequeño que en ocasiones anteriores (pequeñeces; solo cerca de 20 productos incluyendo nuevos Swift, ConceptD, portátiles gaming, torres y hardware diverso), lo que nos permite centrarnos con mayor interés en una oferta gaming que se renueva con tres monitores de prestaciones y precios muy considerables, tocando techo en un modelo de 42,5 pulgadas para consolas. Comenzando por este último, el Predator CG437K S es un monitor de gran envergadura diseñado en gran… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/monitores-gaming-acer-precios-especificaciones",
           "publishedOn": "2021-05-27T14:49:09.000Z",
-          "wordCount": 848,
+          "wordCount": 845,
           "title": "Acer anuncia tres nuevos monitores con HDR, incluyendo una pantalla 4K de 42 pulgadas para consolas de nueva generación"
         },
         {
@@ -396,7 +396,7 @@
           "description": "Square Enix celebra los 35 años de la franquicia Dragon Quest anunciando cinco nuevas entregas de la saga creada por Yuji Horii. La principal apuesta de la compañía es Dragon Quest XII: The Flames of Fate, Dragon Quest III HD-2D Remake y el spin-off Dragon Quest Treasures, que aún no tienen plataformas ni fecha de lanzamiento, pero estarán disponibles en todo el mundo de forma simultánea. También hay en camino Dragon Quest Keshi Keshi para móviles y una expansión de Dragon Quest X Online (solo para Japón). La información sobre Dragon Quest XII: The Flames of Fate, así como el resto de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/dragon-quest-xii-iii-remake-anunciado",
           "publishedOn": "2021-05-27T11:03:25.000Z",
-          "wordCount": 826,
+          "wordCount": 823,
           "title": "Square Enix anuncia Dragon Quest XII y Dragon Quest III HD-2D Remake"
         },
         {
@@ -405,7 +405,7 @@
           "description": "Los rumores que desde hace tiempo hablan sobre la existencia de un nuevo y más potente modelo de Nintendo Switch son tantos que parece imposible que la consola no exista. Lo cierto es que aún no ha sido anunciada de forma oficial, pero según informa Bloomberg (muro de pago) y corrobora EuroGamer esto podría cambiar en las próximas semanas, ya que fuentes de ambos medios afirman que la presentación de Switch Pro (o como se termine llamando) está prevista para antes del E3 2021, que abrirá sus puertas el 12 de junio. Bloomberg sostiene que Nintendo tiene la intención de usar el nuevo… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/consolas/nueva-nintendo-switch-anuncio",
           "publishedOn": "2021-05-27T09:54:05.000Z",
-          "wordCount": 777,
+          "wordCount": 774,
           "title": "El nuevo modelo de Switch con panel OLED y salida 4K podría reemplazar al original y anunciarse pronto"
         },
         {
@@ -414,7 +414,7 @@
           "description": "Como parte de una presentación realizada en el marco del Sony Group’s Investor Relations Day, Sony Interactive Entertainment ha dejado escapar que Uncharted 4: El desenlace del ladrón tendrá una versión para PC y que la edición estándar de PlayStation 5 empezará a ser rentable tan pronto como el mes de junio. En el documento la división gaming de Sony también saca pecho sobre la marcha de su nueva consola, que tanto en ventas como en juegos supera el lanzamiento de su predecesora. La versión de Uncharted 4 para PC no ha sido explícitamente anunciada por Sony ni por PlayStation… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/uncharted-pc-ps5-rentable",
           "publishedOn": "2021-05-27T00:23:19.000Z",
-          "wordCount": 838,
+          "wordCount": 835,
           "title": "Un documento de Sony revela una versión de Uncharted 4 para PC y que PS5 será rentable en junio"
         }
       ]
