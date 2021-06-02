@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27349755",
-          "author": "acabal",
-          "description": "Article URL: https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/\nComments URL: https://news.ycombinator.com/item?id=27349755\nPoints: 69\n# Comments: 46",
-          "link": "https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/",
-          "publishedOn": "2021-06-01T01:03:43.000Z",
-          "wordCount": 8836,
-          "title": "The Anxiety of Influencers"
+          "id": "https://news.ycombinator.com/item?id=27363813",
+          "author": "rockwotj",
+          "description": "Article URL: https://www.w3.org/\nComments URL: https://news.ycombinator.com/item?id=27363813\nPoints: 40\n# Comments: 6",
+          "link": "https://www.w3.org/",
+          "publishedOn": "2021-06-02T01:41:26.000Z",
+          "wordCount": null,
+          "title": "W3.org Cert Expired"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27349469",
-          "author": "pier25",
-          "description": "Article URL: https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time\nComments URL: https://news.ycombinator.com/item?id=27349469\nPoints: 29\n# Comments: 11",
-          "link": "https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time",
-          "publishedOn": "2021-06-01T00:11:51.000Z",
-          "wordCount": 1114,
-          "title": "Chinese ‘Artificial Sun’ experimental fusion reactor sets world record"
+          "id": "https://news.ycombinator.com/item?id=27362388",
+          "author": "nomoreplease",
+          "description": "Article URL: https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/\nComments URL: https://news.ycombinator.com/item?id=27362388\nPoints: 90\n# Comments: 30",
+          "link": "https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/",
+          "publishedOn": "2021-06-01T22:39:30.000Z",
+          "wordCount": 1872,
+          "title": "DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27347983",
-          "author": "the_economist",
-          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=27347983\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/buildzoom",
-          "publishedOn": "2021-05-31T21:00:26.000Z",
-          "wordCount": 127,
-          "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer"
+          "id": "https://news.ycombinator.com/item?id=27361815",
+          "author": "bcaa7f3a8bbc",
+          "description": "Article URL: https://www.diybookscanner.org/\nComments URL: https://news.ycombinator.com/item?id=27361815\nPoints: 146\n# Comments: 43",
+          "link": "https://www.diybookscanner.org/",
+          "publishedOn": "2021-06-01T21:47:46.000Z",
+          "wordCount": 526,
+          "title": "DIY Book Scanner"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27347818",
-          "author": "ve55",
-          "description": "Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/\nComments URL: https://news.ycombinator.com/item?id=27347818\nPoints: 124\n# Comments: 70",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/33555034/",
-          "publishedOn": "2021-05-31T20:35:20.000Z",
-          "wordCount": 1693,
-          "title": "Sodium rutin extends lifespan and health span in mice by 10%"
+          "id": "https://news.ycombinator.com/item?id=27361584",
+          "author": "theshirin",
+          "description": "Article URL: https://floptimal.com\nComments URL: https://news.ycombinator.com/item?id=27361584\nPoints: 104\n# Comments: 43",
+          "link": "https://floptimal.com",
+          "publishedOn": "2021-06-01T21:28:40.000Z",
+          "wordCount": 14,
+          "title": "Show HN: Floptimal – Preflop ranges reimagined"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27347272",
-          "author": "Lammy",
-          "description": "Article URL: https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html\nComments URL: https://news.ycombinator.com/item?id=27347272\nPoints: 48\n# Comments: 36",
-          "link": "https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html",
-          "publishedOn": "2021-05-31T19:16:54.000Z",
-          "wordCount": 1789,
-          "title": "The Digital Wallet of the Future (1996)"
+          "id": "https://news.ycombinator.com/item?id=27361225",
+          "author": "jaguar75",
+          "description": "Article URL: https://www.workatastartup.com/jobs/42298\nComments URL: https://news.ycombinator.com/item?id=27361225\nPoints: 1\n# Comments: 0",
+          "link": "https://www.workatastartup.com/jobs/42298",
+          "publishedOn": "2021-06-01T21:00:29.000Z",
+          "wordCount": 460,
+          "title": "Signadot (YC W20) Is Hiring Founding Engineers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27347039",
-          "author": "exolymph",
-          "description": "Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1\nComments URL: https://news.ycombinator.com/item?id=27347039\nPoints: 163\n# Comments: 58",
-          "link": "https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1",
-          "publishedOn": "2021-05-31T18:50:23.000Z",
-          "wordCount": 38340,
-          "title": "The May 18 Gwangju Uprising"
+          "id": "https://news.ycombinator.com/item?id=27360600",
+          "author": "tmfi",
+          "description": "Article URL: http://nieh.net/pubs/ieeesp2021_kvm.pdf\nComments URL: https://news.ycombinator.com/item?id=27360600\nPoints: 57\n# Comments: 2",
+          "link": "http://nieh.net/pubs/ieeesp2021_kvm.pdf",
+          "publishedOn": "2021-06-01T20:10:18.000Z",
+          "wordCount": 98985,
+          "title": "A Secure and Formally Verified Linux KVM Hypervisor [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27347035",
-          "author": "exolymph",
-          "description": "Article URL: https://annagat.substack.com/p/on-smoking\nComments URL: https://news.ycombinator.com/item?id=27347035\nPoints: 203\n# Comments: 186",
-          "link": "https://annagat.substack.com/p/on-smoking",
-          "publishedOn": "2021-05-31T18:50:07.000Z",
-          "wordCount": 637,
-          "title": "On Smoking"
+          "id": "https://news.ycombinator.com/item?id=27360141",
+          "author": "TangerineDream",
+          "description": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/27.0.0\nComments URL: https://news.ycombinator.com/item?id=27360141\nPoints: 352\n# Comments: 81",
+          "link": "https://github.com/obsproject/obs-studio/releases/tag/27.0.0",
+          "publishedOn": "2021-06-01T19:38:47.000Z",
+          "wordCount": 1051,
+          "title": "OBS Studio 27.0"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27347026",
-          "author": "exolymph",
-          "description": "Article URL: https://tomcritchlow.com/2018/02/23/small-b-blogging/\nComments URL: https://news.ycombinator.com/item?id=27347026\nPoints: 53\n# Comments: 8",
-          "link": "https://tomcritchlow.com/2018/02/23/small-b-blogging/",
-          "publishedOn": "2021-05-31T18:49:31.000Z",
-          "wordCount": 1544,
-          "title": "Small B Blogging (2018)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27346655",
-          "author": "andersource",
-          "description": "Article URL: https://andersource.dev/2021/04/29/faulty_digital_clock.html\nComments URL: https://news.ycombinator.com/item?id=27346655\nPoints: 67\n# Comments: 7",
-          "link": "https://andersource.dev/2021/04/29/faulty_digital_clock.html",
-          "publishedOn": "2021-05-31T18:02:17.000Z",
-          "wordCount": 1149,
-          "title": "The faulty digital clock problem"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27346464",
+          "id": "https://news.ycombinator.com/item?id=27359963",
           "author": "Tomte",
-          "description": "Article URL: https://www.dragongoserver.net/\nComments URL: https://news.ycombinator.com/item?id=27346464\nPoints: 73\n# Comments: 29",
-          "link": "https://www.dragongoserver.net/",
-          "publishedOn": "2021-05-31T17:42:05.000Z",
-          "wordCount": 68,
-          "title": "Dragon Go Server"
+          "description": "Article URL: https://www.infoq.com/interviews/byrd-relational-programming-minikanren/\nComments URL: https://news.ycombinator.com/item?id=27359963\nPoints: 71\n# Comments: 11",
+          "link": "https://www.infoq.com/interviews/byrd-relational-programming-minikanren/",
+          "publishedOn": "2021-06-01T19:25:36.000Z",
+          "wordCount": 7155,
+          "title": "William Byrd on logic and relational programming, miniKanren (2014)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27345837",
-          "author": "lhenk",
-          "description": "Article URL: https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/\nComments URL: https://news.ycombinator.com/item?id=27345837\nPoints: 155\n# Comments: 101",
-          "link": "https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/",
-          "publishedOn": "2021-05-31T16:38:04.000Z",
-          "wordCount": 2192,
-          "title": "UUID, serial or identity columns for PostgreSQL auto-generated primary keys?"
+          "id": "https://news.ycombinator.com/item?id=27359515",
+          "author": "davidw",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs\nComments URL: https://news.ycombinator.com/item?id=27359515\nPoints: 226\n# Comments: 298",
+          "link": "https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs",
+          "publishedOn": "2021-06-01T18:53:48.000Z",
+          "wordCount": 93,
+          "title": "One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27345784",
-          "author": "as89",
-          "description": "Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering\nComments URL: https://news.ycombinator.com/item?id=27345784\nPoints: 353\n# Comments: 124",
-          "link": "https://surjan.substack.com/p/the-most-expensive-number-in-engineering",
-          "publishedOn": "2021-05-31T16:34:16.000Z",
-          "wordCount": 2828,
-          "title": "The most expensive number in engineering"
+          "id": "https://news.ycombinator.com/item?id=27359203",
+          "author": "lisper",
+          "description": "Article URL: http://thebigalientheory.com/\nComments URL: https://news.ycombinator.com/item?id=27359203\nPoints: 67\n# Comments: 64",
+          "link": "http://thebigalientheory.com/",
+          "publishedOn": "2021-06-01T18:33:19.000Z",
+          "wordCount": 6330,
+          "title": "The Big Alien Theory"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27345411",
-          "author": "haxiomic",
-          "description": "Article URL: https://www.elopezr.com/a-macro-view-of-nanite/\nComments URL: https://news.ycombinator.com/item?id=27345411\nPoints: 96\n# Comments: 17",
-          "link": "https://www.elopezr.com/a-macro-view-of-nanite/",
-          "publishedOn": "2021-05-31T16:04:36.000Z",
-          "wordCount": 2489,
-          "title": "A Macro View of Nanite"
+          "id": "https://news.ycombinator.com/item?id=27359081",
+          "author": "nickjj",
+          "description": "Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose\nComments URL: https://news.ycombinator.com/item?id=27359081\nPoints: 260\n# Comments: 64",
+          "link": "https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose",
+          "publishedOn": "2021-06-01T18:25:11.000Z",
+          "wordCount": 7003,
+          "title": "Best practices around creating production ready web apps with Docker Compose"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27345075",
-          "author": "stanrivers",
-          "description": "Article URL: https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/\nComments URL: https://news.ycombinator.com/item?id=27345075\nPoints: 268\n# Comments: 138",
-          "link": "https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/",
-          "publishedOn": "2021-05-31T15:35:18.000Z",
-          "wordCount": 1505,
-          "title": "We only ever talk about the third attack on Pearl Harbor"
+          "id": "https://news.ycombinator.com/item?id=27358692",
+          "author": "thedday",
+          "description": "Article URL: https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html\nComments URL: https://news.ycombinator.com/item?id=27358692\nPoints: 101\n# Comments: 25",
+          "link": "https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html",
+          "publishedOn": "2021-06-01T18:01:41.000Z",
+          "wordCount": 1671,
+          "title": "Light-shrinking material lets ordinary microscope see in super resolution"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27345059",
-          "author": "HiroProtagonist",
-          "description": "Article URL: https://jalopnik.com/woman-catches-louisiana-state-police-attaching-tracker-1846738167\nComments URL: https://news.ycombinator.com/item?id=27345059\nPoints: 240\n# Comments: 156",
-          "link": "https://jalopnik.com/woman-catches-louisiana-state-police-attaching-tracker-1846738167",
-          "publishedOn": "2021-05-31T15:33:41.000Z",
-          "wordCount": 758,
-          "title": "Woman catches state police attaching tracker to her car, now they want it back"
+          "id": "https://news.ycombinator.com/item?id=27358479",
+          "author": "bpierre",
+          "description": "Article URL: https://helix-editor.com/\nComments URL: https://news.ycombinator.com/item?id=27358479\nPoints: 442\n# Comments: 208",
+          "link": "https://helix-editor.com/",
+          "publishedOn": "2021-06-01T17:48:20.000Z",
+          "wordCount": 225,
+          "title": "Helix: a post-modern modal text editor"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27344992",
-          "author": "tosh",
-          "description": "Article URL: https://stevelosh.com/blog/2016/12/chip8-cpu/\nComments URL: https://news.ycombinator.com/item?id=27344992\nPoints: 49\n# Comments: 3",
-          "link": "https://stevelosh.com/blog/2016/12/chip8-cpu/",
-          "publishedOn": "2021-05-31T15:27:08.000Z",
-          "wordCount": 6306,
-          "title": "Chip-8 in Common Lisp: The CPU (2016)"
+          "id": "https://news.ycombinator.com/item?id=27357646",
+          "author": "evo_9",
+          "description": "Article URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl\nComments URL: https://news.ycombinator.com/item?id=27357646\nPoints: 176\n# Comments: 43",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl",
+          "publishedOn": "2021-06-01T16:57:42.000Z",
+          "wordCount": 1249,
+          "title": "Intl"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27344978",
-          "author": "yarapavan",
-          "description": "Article URL: https://blog.pragmaticengineer.com/quit-mentoring-at-plato/\nComments URL: https://news.ycombinator.com/item?id=27344978\nPoints: 162\n# Comments: 34",
-          "link": "https://blog.pragmaticengineer.com/quit-mentoring-at-plato/",
-          "publishedOn": "2021-05-31T15:25:59.000Z",
-          "wordCount": 2013,
-          "title": "Donating my time to grow a VC-funded company: why I quit mentoring at Plato"
+          "id": "https://news.ycombinator.com/item?id=27357592",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/\nComments URL: https://news.ycombinator.com/item?id=27357592\nPoints: 306\n# Comments: 471",
+          "link": "https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/",
+          "publishedOn": "2021-06-01T16:54:27.000Z",
+          "wordCount": 5978,
+          "title": "America has a drinking problem"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27344639",
-          "author": "jkatz05",
-          "description": "Article URL: http://blog.cleverelephant.ca/2021/05/postgis-20-years.html\nComments URL: https://news.ycombinator.com/item?id=27344639\nPoints: 248\n# Comments: 27",
-          "link": "http://blog.cleverelephant.ca/2021/05/postgis-20-years.html",
-          "publishedOn": "2021-05-31T14:53:15.000Z",
-          "wordCount": 1436,
-          "title": "PostGIS at 20, the Beginning"
+          "id": "https://news.ycombinator.com/item?id=27355789",
+          "author": "haasted",
+          "description": "Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing\nComments URL: https://news.ycombinator.com/item?id=27355789\nPoints: 429\n# Comments: 251",
+          "link": "https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing",
+          "publishedOn": "2021-06-01T15:20:42.000Z",
+          "wordCount": 699,
+          "title": "Amazon US customers given one week to opt out of mass wireless sharing"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27344617",
-          "author": "devnerd239",
-          "description": "Article URL: https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken\nComments URL: https://news.ycombinator.com/item?id=27344617\nPoints: 180\n# Comments: 182",
-          "link": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken",
-          "publishedOn": "2021-05-31T14:50:03.000Z",
-          "wordCount": 1050,
-          "title": "Google’s new popup will further weaken Facebook’s advertisement business"
+          "id": "https://news.ycombinator.com/item?id=27355690",
+          "author": "beermonster",
+          "description": "Article URL: https://playingcards.io/\nComments URL: https://news.ycombinator.com/item?id=27355690\nPoints: 243\n# Comments: 59",
+          "link": "https://playingcards.io/",
+          "publishedOn": "2021-06-01T15:16:24.000Z",
+          "wordCount": 103,
+          "title": "Virtual deck of cards using just a browser"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27344426",
-          "author": "rhabarba",
-          "description": "Article URL: http://wordtsar.ca/\nComments URL: https://news.ycombinator.com/item?id=27344426\nPoints: 170\n# Comments: 95",
-          "link": "http://wordtsar.ca/",
-          "publishedOn": "2021-05-31T14:32:16.000Z",
-          "wordCount": 1342,
-          "title": "WordTsar, a WordStar Clone"
+          "id": "https://news.ycombinator.com/item?id=27355604",
+          "author": "swyx",
+          "description": "Article URL: https://blog.cloudera.com/turning-the-page/\nComments URL: https://news.ycombinator.com/item?id=27355604\nPoints: 138\n# Comments: 85",
+          "link": "https://blog.cloudera.com/turning-the-page/",
+          "publishedOn": "2021-06-01T15:12:36.000Z",
+          "wordCount": 2193,
+          "title": "Cloudera taken private for $5.3B, acquires Datacoral and Cazena"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27355392",
+          "author": "whoishiring",
+          "description": "Please state the location and include REMOTE, INTERNS and/or VISA\nwhen that sort of candidate is welcome. When remote work is not an option,\ninclude ONSITE.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. Only one post per company. If it isn't a household name,\nplease explain what your company does.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try https://findwork.dev/?source=hn, https://kennytilton.github.io/whoishiring/,\nhttps://hnhired.com/, https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.\nDon't miss these other fine threads:\nWho wants to be hired? https://news.ycombinator.com/item?id=27355390\nFreelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27355391\nComments URL: https://news.ycombinator.com/item?id=27355392\nPoints: 288\n# Comments: 678",
+          "link": "https://news.ycombinator.com/item?id=27355392",
+          "publishedOn": "2021-06-01T15:01:25.000Z",
+          "wordCount": 36966,
+          "title": "Ask HN: Who is hiring? (June 2021)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27355391",
+          "author": "whoishiring",
+          "description": "Please lead with either SEEKING WORK or SEEKING FREELANCER,\nyour location, and whether remote work is a possibility.\nBonsai (YC W16) (https://www.hellobonsai.com) offers freelance contracts, proposals, invoices, etc.\nComments URL: https://news.ycombinator.com/item?id=27355391\nPoints: 78\n# Comments: 78",
+          "link": "https://news.ycombinator.com/item?id=27355391",
+          "publishedOn": "2021-06-01T15:01:25.000Z",
+          "wordCount": 8655,
+          "title": "Ask HN: Freelancer? Seeking freelancer? (June 2021)"
         }
       ]
     },
@@ -193,12 +193,156 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46188_v1",
+          "author": null,
+          "description": "En 2007 los jugadores de World of Warcraft viajaron más allá el Portal Oscuro y se adentraron en el mundo destrozado de Terrallende gracias al lanzamiento de The Burning Crusade, la primera y para muchos mejor expansión del MMO hasta la fecha. Esta medianoche la historia se repetirá con la llegada de Burning Crusade Classic, una fiel recreación del veterano contenido que permitirá a los usuarios de World of Warcraft Classic avanzar en su aventura retro concebida por Blizzard Entertainment. Cuando los jugadores de World of Warcraft Classic crucen el Portal Oscuro se encontrarán en… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/world-of-warcraft-classic-burning-crusade",
+          "publishedOn": "2021-06-01T20:48:27.000Z",
+          "wordCount": 700,
+          "title": "World of Warcraft Classic se aventura más allá del Portal Oscuro con la llegada de Burning Crusade"
+        },
+        {
+          "id": "46189_v1",
+          "author": null,
+          "description": "El editor The Irregular Corporation ha mostrado el tráiler de lanzamiento de Going Medieval para recordar que desde hoy este simulador de supervivencia y gestión de colonias en manos del equipo independiente serbio Foxy Voxel se encuentra disponible para PC mediante Steam, Epic Games Store y GOG en formato de acceso anticipado a cambio de 22,99 euros. El título se mantendrá en desarrollo y bajo la protección del mencionado programa “durante al menos un año”. Going Medieval transporta a los jugadores hasta 1346, cuando el mundo empezaba a recuperarse de la devastadora pandemia… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/going-medieval-acceso-anticipado",
+          "publishedOn": "2021-06-01T20:16:18.000Z",
+          "wordCount": 535,
+          "title": "Going Medieval, un simulador de supervivencia y gestión de colonias, inicia su acceso anticipado"
+        },
+        {
+          "id": "46187_v1",
+          "author": null,
+          "description": "Finalmente Electronic Arts ha puesto fecha y hora a la presentación del nuevo Battlefield. La cita será el miércoles 9 de junio a las 16:00 hora peninsular española en YouTube, justo antes de que empiece toda la actividad que rodea el E3 2021. Quizás el próximo Battlefield forma parte de alguno de los eventos y hay que anunciarlo antes. Más allá de las tradicionales promesas de ofrecer la mejor y más grande entrega de la saga posible, el editor estadounidense ha dicho muy poco sobre el nuevo Battlefield. Oskar Gabrielson, gerente de DICE, ha comentado que el juego supone un paso… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_el-nuevo-battlefield-se-presentara-el-9-de-junio_2424827",
+          "publishedOn": "2021-06-01T18:00:36.000Z",
+          "wordCount": 928,
+          "title": "Breve: El nuevo Battlefield se presentará el 9 de junio"
+        },
+        {
+          "id": "46186_v1",
+          "author": null,
+          "description": "Bethesda Softworks y Zenimax Online Studios han celebrado con una cinemática que los jugadores de The Elder Scrolls Online (TESO) en PC ya tienen disponible la expansión o capítulo Blackwood, que destaca por sumar ubicaciones que recordarán aquellos que hayan jugado a The Elder Scrolls IV: Oblivion. Los jugadores de PlayStation 4 y Xbox One recibirán el nuevo contenido el 8 de junio. Blackwood es la parte central de la aventura anual Gates of Oblivion y en ella los jugadores entrarán en una nueva zona de Tamriel con el objetivo de descubrir los planes del príncipe daédrico Mehrunes… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/elder-scrolls-online-blackwook-lanzamiento",
+          "publishedOn": "2021-06-01T17:50:35.000Z",
+          "wordCount": 834,
+          "title": "The Elder Scrolls Online vuelve a Oblivion con el lanzamiento de Blackwood"
+        },
+        {
+          "id": "46185_v1",
+          "author": null,
+          "description": "Junio es el mes de historia LGBT y para celebrarlo Microsoft y el desarrollador Dontnod Entertainment (Life is Strange) ofrecen de forma gratuita los tres capítulos que componen la aventura narrativa Tell Me Why. El título, que cuenta con un protagonista transgénero, se puede conseguir en consolas Xbox, Microsoft Store y Steam. Tell Me Why explica la historia de los gemelos Tyler y Alyson Ronan, que con motivo de la muerte de su madre se reúnen por primera vez después de 10 años separados. Cuando se encuentran en el pequeño pueblo de Alaska donde pasaron sus primeros años de vida, los… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_tell-me-why-se-ofrece-gratis-durante-junio_2424814",
+          "publishedOn": "2021-06-01T16:38:42.000Z",
+          "wordCount": 893,
+          "title": "Breve: Tell Me Why se ofrece gratis durante junio"
+        },
+        {
+          "id": "46184_v1",
+          "author": null,
+          "description": "Después de soltar un par de pistas en Twitter, Crytek ha confirmado la existencia de Crysis 2 Remastered y Crysis 3 Remastered, dos remasterizaciones que se unirán a la ya disponible del primer juego para formar Crysis Remastered Trilogy. La colección, que estará disponible en otoño para PlayStation 4, Xbox One, Nintendo Switch y PC, se ha presentado junto a un tráiler donde podemos ver el primer gameplay de los gráficamente renovados Crysis 2 y Crysis 3. Los tres títulos incluidos en Crysis Remastered Trilogy incluyen únicamente la campaña para un jugador y han sido desarrollados por… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/crysis-remastered-trilogy-anunciado",
+          "publishedOn": "2021-06-01T15:20:53.000Z",
+          "wordCount": 793,
+          "title": "Crytek anuncia Crysis Remastered Trilogy"
+        },
+        {
+          "id": "46183_v1",
+          "author": null,
+          "description": "La desarrolladora independiente DreamSmith Studios y el editor Ukuza han comunicado que Monobot, un juego de plataformas en 2D protagonizado por un robot llamado Mono, se pondrá a la venta el 18 de junio para PC mediante Steam. Los interesados tienen disponible en Steam una demo que permite probar el juego. Monobot es un título de plataformas en 2D con rompecabezas basados en la física en el que se toma el control de Mono, un pequeño ente robótico atrapado en un mundo hostil ubicado en un futuro oscuro y lejano. Los jugadores deberán guiar a Mono a lo largo de un viaje para descubrir… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_el-juego-de-plataformas-en-2d-monobot-estara-disponible-el-18-de-junio_2424804",
+          "publishedOn": "2021-06-01T15:09:33.000Z",
+          "wordCount": 312,
+          "title": "Breve: El juego de plataformas en 2D Monobot estará disponible el 18 de junio"
+        },
+        {
+          "id": "46182_v1",
+          "author": null,
+          "description": "El desarrollador ustwo games (Monument Valley) ha anunciado que Alba: A Wildlife Adventure, un juego protagonizado por una joven que emprende una cruzada por salvar a los animales de una isla mediterránea, se pondrá a la venta el 9 de junio en PS4, PS5, Xbox One, Xbox Series y Nintendo Switch. Hasta ahora el título estaba disponible en PC y Apple Arcade. En Alba: A Wildlife Adventure los jugadores deberán acompañar a Alba, que durante una visita a sus abuelos en una isla del Mediterráneo decide junto a su amiga Inés crea la LRFAI, una organización cuyo objetivo es salvar la isla. Si… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_alba-a-wildlife-adventure-llegara-a-todas-las-consolas-el-9-de-junio_2424800",
+          "publishedOn": "2021-06-01T14:48:16.000Z",
+          "wordCount": 304,
+          "title": "Breve: Alba: A Wildlife Adventure llegará a todas las consolas el 9 de junio"
+        },
+        {
+          "id": "46181_v1",
+          "author": null,
+          "description": "Microsoft ha revelado una pequeña alineación de juegos que durante la primera quincena de junio pasarán a formar parte de Xbox Game Pass. Esta timidez posiblemente se deba a que el 13 de junio está programada la Xbox & Bethesda Games Showcase, evento que la compañía tiene marcado a fuego en el calendario y durante el cual deberían anunciarse nuevas y más potentes incorporaciones al servicio de suscripción. Al final de la noticia encontraréis una lista con los juegos que dicen adiós. Backbone debuta directamente en Xbox Game Pass para PC y estará disponible el 8 de junio, el mismo día… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/xbox-game-pass-junio-2021-backbone",
+          "publishedOn": "2021-06-01T14:17:26.000Z",
+          "wordCount": 881,
+          "title": "Backbone, Darkest Dungeon y For Honor llegan a Xbox Game Pass"
+        },
+        {
+          "id": "46180_v1",
+          "author": null,
+          "description": "El desarrollador Innersloth ha revelado que durante el fin de semana la versión de Among Us para PC consiguió superar los 2 millones de usuarios, gracias a que el juego se ofrece desde el pasado jueves de forma gratuita mediante la Epic Games Store. Habitualmente esta versión del título suma unos 300.000 usuarios diarios. Innersloth explica que no todos los jugadores de Among Us son nuevos, ya que muchos de ellos han aprovechado que el juego se ofrece de forma gratuita en PC para probar esta versión. También hay que tener en cuenta que el pasado lunes era fiesta en Estados Unidos, así… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_among-us-supera-los-2-millones-de-jugadores-diarios-en-pc-tras-ofrecerse-gratis-en-la-epic-games-store_2424785",
+          "publishedOn": "2021-06-01T13:20:31.000Z",
+          "wordCount": 466,
+          "title": "Breve: Among Us supera los 2 millones de jugadores diarios en PC tras ofrecerse gratis en la Epic Games Store"
+        },
+        {
+          "id": "46178_v1",
+          "author": null,
+          "description": "Fue anunciado el 18 de marzo y como indica su tráiler de lanzamiento ya está disponible. Hablamos de Necromunda: Hired Gun, un nuevo shooter en primera persona editado por Focus Home Interactive, desarrollado por el equipo francés Streum On Studio y ambientado en el universo Warhammer 40,000. Desde hoy el título se encuentra a la venta en formato digital para PS4, PS5, Xbox One, Xbox Series y PC (Steam), mientras que a las tiendas tradicionales llegará el 30 de junio a cambio de 39,99 euros. Necromunda: Hired Gun tiene como protagonista a un cazarrecompensas, que acompañado de su… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/necromunda-hired-gun-trailer-lanzamiento",
+          "publishedOn": "2021-06-01T12:10:40.000Z",
+          "wordCount": 803,
+          "title": "Tráiler de lanzamiento de Necromunda: Hired Gun, un shooter ambientado en el universo Warhammer 40,000"
+        },
+        {
+          "id": "46179_v1",
+          "author": null,
+          "description": "La conferencia de AMD en la Computex 2021 ha estado llena de sorpresas. Tal vez la más importante sea el lanzamiento de su esperado rival de código abierto para DLSS, acortando la distancia con Nvidia, pero el conocido como \"Equipo Rojo\" también ha desvelado nuevas GPU para portátiles y realizado anuncios técnicos de cierto calibre. Comenzando por las GPU para portátiles, tras una espera que se hacía ya interminable AMD ha dado a conocer los detalles de la familia Radeon RX 6000M. Basada en la arquitectura RDNA2 y apuntalados en diseños Navi 22 y Navi 23, estas tres primeras tarjetas… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/amd-gpu-radeon-rx-6000m-portatiles-samsung-exynos",
+          "publishedOn": "2021-06-01T11:51:43.000Z",
+          "wordCount": 927,
+          "title": "AMD anuncia las GPU Radeon RX 6000M para portátiles y avanza que el próximo Samsung Exynos tendrá RDNA2 y ray-tracing"
+        },
+        {
+          "id": "46177_v1",
+          "author": null,
+          "description": "Hace años que Ubisoft niega la mayor cuando afirma que sus juegos no son políticos. Con Far Cry 6 la compañía intentó hacer lo mismo mediante el director narrativo Navid Khavari, que en una entrevista a TheGamer dijo que Far Cry 6 “no pretende hacer una declaración política sobre lo que está ocurriendo en Cuba”. Esta explicación que parecía rechazar cualquier tema político en Far Cry 6, levantó el suficiente revuelo como para que Khavari haya tenido que aclarar sus palabras y afirmar que definitivamente tienen entre manos un juego político. “Nuestra historia es política. Una historia… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/far-cry-6-politica",
+          "publishedOn": "2021-06-01T11:26:12.000Z",
+          "wordCount": 778,
+          "title": "“Nuestra historia es política”, dice el director narrativo de Far Cry 6"
+        },
+        {
+          "id": "46176_v1",
+          "author": null,
+          "description": "Allá por noviembre de 2020 AMD anunció la gama Radeon RX 6000, una familia de tarjetas gráficas que, sin cambiar la situación de dominio casi absoluto de Nvidia, estaban mejor situadas que productos anteriores para competir con las GeForce RTX de última generación. El problema que tenían, aparte de su bajo rendimiento con ray tracing, es que carecían de una tecnología análoga al supersampling por IA propuesto por sus rivales, aunque durante el evento de presentación de las GPU se dio a entender que ya estaba en camino. Y aquí lo tenemos. Durante su evento en la Computex 2021 AMD ha… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/amd-fidelityfx-super-resolution-respuesta-nvidia-dlss",
+          "publishedOn": "2021-06-01T08:54:25.000Z",
+          "wordCount": 824,
+          "title": "AMD desvela FidelityFX Super Resolution, su respuesta de código abierto a Nvidia DLSS"
+        },
+        {
+          "id": "46175_v1",
+          "author": null,
+          "description": "Ghosts ‘n Goblins Resurrection sigue los pasos de Capcom Arcade Stadium y después de una exclusividad temporal en Nintendo Switch, este “moderno reinicio” de la serie Ghosts ‘n Goblins muestra su tráiler de lanzamiento para indicar que ya se encuentra disponible en PS4, Xbox One y PC (Steam) en formato digital a cambio de 29,99 euros. Por ahora Capcom no ha descartado ni confirmado que Sir Arthur vaya a tener futuro más allá de esta aventura inspirada en Ghosts ‘n Goblins y la secuela Ghouls ‘n Ghosts. Al igual que en todas las entregas de la saga, Ghosts ‘n Goblins Resurrection tiene… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/ghosts-goblins-resurrection-disponible-ps4-xbox-one-pc",
+          "publishedOn": "2021-06-01T08:42:51.000Z",
+          "wordCount": 826,
+          "title": "Ghosts ‘n Goblins Resurrection llega a PlayStation 4, Xbox One y PC"
+        },
+        {
+          "id": "46174_v1",
+          "author": null,
+          "description": "Tras el paréntesis del año pasado, Taiwán vuelve a acoger la Computex, posiblemente el evento más importante en lo que se refiere al universo gaming para PC. Las novedades que se descubrirán en los pasillos de la feria de Taipéi serán numerosas, y Nvidia ha querido ser una de las firmas más madrugadoras con el debut de dos nuevas tarjetas gráficas de alto rendimiento: la largamente esperada RTX 3080 Ti y la más también muy potente (aunque menos exagerada) RTX 3070 Ti. Comenzando por la primera, la RTX 3080 Ti es una evolución técnica de la 3080 base. Su número de núcleos CUDA asciende… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/nvidia-geforce-3080-ti-3070-ti",
+          "publishedOn": "2021-06-01T08:09:54.000Z",
+          "wordCount": 842,
+          "title": "Nvidia remata su gama con la RTX 3080 Ti, a la venta por 1.199 euros"
+        },
+        {
           "id": "46173_v1",
           "author": null,
           "description": "CD Projekt Red ha presentado los resultados financieros del primer trimestre del actual año fiscal. Los números no han cumplido con las expectativas de los analistas y en ellos queda reflejado el impacto económico que han tenido los gastos de desarrollo de Cyberpunk 2077, un juego que ha necesitado de numeroso trabajo adicional debido a los problemas con los que se puso a la venta. También hay que tener en cuenta que el estudio polaco ha subido la inversión en I+D para cambiar su proceso de desarrollo. En concreto, entre enero y marzo de 2021 CD Projekt Red registró un beneficio… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/gastos-desarrollo-cyberpunk-2077",
           "publishedOn": "2021-05-31T22:50:03.000Z",
-          "wordCount": 857,
+          "wordCount": 863,
           "title": "Los gastos de desarrollo de Cyberpunk 2077 lastran el beneficio trimestral de CD Projekt Red"
         },
         {
@@ -207,16 +351,16 @@
           "description": "Electronic Arts ha anunciado vía Reddit que una serie de antiguas entregas de la franquicia Need for Speed han sido retiradas (o lo serán en las próximas horas) de las plataformas de distribución digital y sus tiendas in-game cerradas. Se trata de un movimiento previo a la clausura de los servidores online que se producirá el 31 de agosto, momento a partir del cual los modos multijugador en línea dejarán de funcionar. La campaña seguirá siendo accesible. Todos los títulos afectados por esta decisión tienen diez o más años de existencia y son los siguientes: Need for Speed Carbon… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/viejos-need-for-speed-retirados",
           "publishedOn": "2021-05-31T20:39:28.000Z",
-          "wordCount": 748,
+          "wordCount": 754,
           "title": "EA retira de las tiendas antiguas entregas de Need for Speed y en verano cerrará sus servidores"
         },
         {
           "id": "46171_v1",
           "author": null,
-          "description": "Para sorpresa de más de uno Ubisoft ha anunciado que la actualización gratuita que el 1 de junio recibirá Watch Dogs: Legion incluye un modo JcE (Jugador contra Entorno) con una experiencia roguelike (sin muerte permanente) donde los jugadores deberán hacer frente a una invasión zombi. Esta misma actualización (4.5) es la que introducirá la opción de jugar a 60 FPS en PlayStation 5 y Xbox Series y el juego cruzado entre la misma familia de consolas. Watch Dogs: Legion of the Dead, así se llama el nuevo contenido descubierto por IGN junto a un tráiler y unos pocos detalles, ofrece un… Leer noticia completa y comentarios »",
+          "description": "Actualización: Legion of the Dead ya se encuentra disponible, pero solo con versión para PC. Noticia original: Para sorpresa de más de uno Ubisoft ha anunciado que la actualización gratuita que el 1 de junio recibirá Watch Dogs: Legion incluye un modo JcE (Jugador contra Entorno) con una experiencia roguelike (sin muerte permanente) donde los jugadores deberán hacer frente a una invasión zombi. Esta misma actualización (4.5) es la que introducirá la opción de jugar a 60 FPS en PlayStation 5 y Xbox Series y el juego cruzado entre la misma familia de consolas. Watch Dogs: Legion of the… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/watch-dogs-legion-of-the-dead-anunciado",
           "publishedOn": "2021-05-31T18:24:13.000Z",
-          "wordCount": 862,
+          "wordCount": 886,
           "title": "Watch Dogs: Legion recibe una experiencia roguelike con zombis"
         },
         {
@@ -225,7 +369,7 @@
           "description": "Sony Interactive Entertainment ha comunicado la alineación de juegos que en junio pasarán a engrosar el catálogo del servicio en streaming PS Now disponible en PS4, PS5 y PC. En esta ocasión tenemos a The Witcher 3: Wild Hunt - Game of the Year Edition, Virtua Fighter 5: Ultimate Showdown y Slay the Spire, que llegan acompañados de varias entregas de la franquicia Sonic incluyendo a Sonic Forces, Sonic Mania y Team Sonic Racing. The Witcher 3: Wild Hunt, un juego de rol desarrollado por CD Projekt Red que necesita pocas presentaciones, estará disponible en PlayStation Now desde hoy y… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/playstation-now-junio-2021",
           "publishedOn": "2021-05-31T15:56:08.000Z",
-          "wordCount": 883,
+          "wordCount": 891,
           "title": "The Witcher 3, Virtua Fighter 5: Ultimate Showdown, Slay the Spire y varios juegos de Sonic se unen a PS Now"
         },
         {
@@ -234,7 +378,7 @@
           "description": "Las guerras de los megapíxeles son cosa del pasado. Con Sony y Samsung ofreciendo sus sensores de imagen al mejor postor, cualquier marca es libre de crear configuraciones de cámara tan complejas o de tanta resolución como desee, ofreciendo unas ventajas que a la postre se tornan casi intangibles de cara a la galería. Sus cifras ya no dicen nada, así que la velocidad de carga se ha convertido en ese nuevo factor diferenciador que anhelan fabricantes como Xiaomi. Consciente de la presión de rivales como Oppo, la compañía china ha anunciado la tecnología de carga rápida HyperCharge, que… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/xiaomi-hypercharge-carga-8-minutos",
           "publishedOn": "2021-05-31T12:34:48.000Z",
-          "wordCount": 797,
+          "wordCount": 805,
           "title": "Xiaomi presenta la tecnología de carga HyperCharge a 200 W, prometiendo 4.000 mAh en 8 minutos"
         },
         {
@@ -243,7 +387,7 @@
           "description": "Las acusaciones contra Google por ofuscar los parámetros de privacidad de sus servicios y aplicaciones no son nuevas. Durante los últimos años hemos sabido que Google almacenaba la localización de sus usuarios incluso con el Historial de Ubicaciones desactivado, valiéndose para ello de descripciones confusas y parámetros con funciones secundarias ocultos a distintos niveles. Este tipo de prácticas han motivado denuncias por incumplimiento de la GDPR, pero no estaba del todo claro si (y hasta qué punto) formaban parte una estrategia premeditada. Ahora, documentos judiciales publicados… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/google-dificulta-localizacion-anonima-usuario",
           "publishedOn": "2021-05-31T11:53:47.000Z",
-          "wordCount": 908,
+          "wordCount": 914,
           "title": "Documentos judiciales revelan que Google dificultó a los usuarios configurar su localización como privada"
         },
         {
@@ -252,7 +396,7 @@
           "description": "Lucid Games ha anunciado que su hoja de ruta para Destruction AllStars incluye introducir bots para rellenar las partidas cuando cueste encontrar jugadores. Todos los modos de juego podrán añadir bots a excepción de Blitz, una opción donde compiten cuatro equipos. El equipo de desarrollo espera que los bots alivien los tiempos de espera, especialmente en las horas cuando hay menos jugadores. La falta de usuarios en Destruction AllStars se produce a pesar de que el juego, disponible en exclusiva para PS5, se ofreció durante dos meses como parte de la iniciativa PS Plus. Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_destruction-allstars-anadira-bots-para-reducir-los-tiempos-de-espera_2424551",
           "publishedOn": "2021-05-29T19:42:09.000Z",
-          "wordCount": 1074,
+          "wordCount": 1839,
           "title": "Breve: Destruction AllStars añadirá bots para reducir los tiempos de espera"
         },
         {
@@ -261,7 +405,7 @@
           "description": "La compañía francesa Microids ha anunciado que ayer 28 de mayo falleció Benoît Sokal a los 66 años de edad y “después de luchar contra una larga enfermedad”. Nacido en Bélgica, Sokal pasará a la historia como un historietista y diseñador de videojuegos cuya obra más notable y reconocida fue la franquicia Syberia. Su trabajo en cómics y videojuegos permitieron a Sokal ser merecedor de distinciones como la Orden de las Artes y las Letras (Francia) y la Orden de Leopoldo (Bélgica). Además de Syberia, Sokal también fue el diseñador de la aventura gráfica Amerzone y durante los últimos… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_muere-benoit-sokal-creador-de-la-saga-syberia_2424525",
           "publishedOn": "2021-05-29T14:15:08.000Z",
-          "wordCount": 1198,
+          "wordCount": 1271,
           "title": "Breve: Muere Benoît Sokal, creador de la saga Syberia"
         },
         {
@@ -270,152 +414,8 @@
           "description": "Mayo fue un mes con numerosos estrenos y junio no será menos. Durante las próximas cuatro semanas tenemos el inicio de Loki, una nueva serie de Disney+ que forma parte de la fase cuatro del universo cinematográfico de Marvel, en Movistar viajan a los años 90 con un drama llamado Paraíso inspirado por las obras de Steven Spielberg, mientras que en Amazon debuta Dom, un drama criminal que pasa por ser su primera producción original brasileña. En Netflix nos espera el estreno de Sweet Tooth, una serie basada en la historieta de Jeff Lemire de Vertigo, un antiguo sello editorial de DC… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/internet/series-netflix-disney-amazon-apple-movistar-junio-2021",
           "publishedOn": "2021-05-29T13:36:15.000Z",
-          "wordCount": 2754,
+          "wordCount": 2762,
           "title": "Loki llega a Disney+, Paraíso debuta en Movistar, Sweet Tooth aterriza en Netflix y Prime Video estrena Dom"
-        },
-        {
-          "id": "46164_v1",
-          "author": null,
-          "description": "El E3 2021 aún no ha empezado, pero su cercanía se deja notar. Por un lado tenemos los primeros tráileres con gameplay de juegos como Horizon Forbidden West, Far Cry 6 y The Dark Pictures: House of Ashes, así como el anuncio de un nuevo proyecto de Sonic, Virtua Fighter 5: Ultimate Showdown y hasta cinco Dragon Quest entre los que se incluyen Dragon Quest XII y Dragon Quest III HD-2D Remake. Sony también ha sido noticia por su interés en llevar algunas de sus sagas al móvil y situar Uncharted 4 como un lanzamiento en PC. Por otro lado, tenemos nuevas fechas de lanzamiento incluyendo… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/semana-22-29-mayo-2021",
-          "publishedOn": "2021-05-29T10:28:07.000Z",
-          "wordCount": 1294,
-          "title": "Las noticias de la semana (22 - 29 de mayo)"
-        },
-        {
-          "id": "46163_v1",
-          "author": null,
-          "description": "Después de la tradicional filtración, una consecuencia de mostrar el juego a influencers antes que a todo el mundo, Ubisoft ha presentado oficialmente el primer tráiler con gameplay de Far Cry 6 acompañado de nuevos detalles y una fecha que sitúa la llegada del juego a las tiendas para el 7 de octubre en PS4, PS5, Xbox One, Xbox Series, Stadia y PC (Epic Games Store, Ubisoft Connect). El título fue presentado hace casi un año y la intención de la compañía era ponerlo a la venta el pasado febrero, pero el impacto de la COVID-19 retrasó su lanzamiento. Desarrollado por Ubisoft Toronto… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/far-cry-6-gameplay-fecha",
-          "publishedOn": "2021-05-28T17:14:49.000Z",
-          "wordCount": 903,
-          "title": "Primer gameplay de Far Cry 6, que estará disponible el 7 de octubre"
-        },
-        {
-          "id": "46162_v1",
-          "author": null,
-          "description": "Una vez más, la comunidad acude al rescate de un juego no traducido por una gran editora. En esta ocasión ha sido la gente congregada alrededor de TraduSquare, que después de no poco trabajo ha publicado una traducción al español para Okami HD, un título que llegó a Nintendo Switch y PC (Steam) totalmente en inglés. TraduSquare ha aprovechado el trabajo previamente hecho por Reservoir Wolves, cuya traducción para PS2 no fue nada sencilla de extraer y tratar, para sacar adelante este nuevo proyecto y dar la oportunidad a los jugadores de Nintendo Switch y PC de jugar en español.… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_okami-hd-para-switch-y-pc-recibe-una-traduccion-al-espanol-hecha-por-la-comunidad_2424424",
-          "publishedOn": "2021-05-28T14:55:51.000Z",
-          "wordCount": 2849,
-          "title": "Breve: Okami HD para Switch y PC recibe una traducción al español hecha por la comunidad"
-        },
-        {
-          "id": "46161_v1",
-          "author": null,
-          "description": "Dotemu ha revelado que Shiva, uno de los jefes finales de Streets of Rage 4, pasa a ser el tercer y último personaje adicional que añadirá el beat ‘em up con el complemento de pago Mr. X Nightmare. Los otros dos son Estel Aguirre y Max Thunder. Por ahora el DLC no tiene precio ni fecha de lanzamiento, pero la previsión es que se ponga a la venta para PlayStation 4, Xbox One, Nintendo Switch y PC (Steam, GOG) a lo largo de 2021. Shiva es un enemigo recurrente en la saga Streets of Rage que ya hemos podido ver en la segunda, tercera y cuarta entrega. También es el guardaespaldas… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/streets-of-rage-4-shiva-trailer",
-          "publishedOn": "2021-05-28T14:39:00.000Z",
-          "wordCount": 786,
-          "title": "Shiva es el tercer y último personaje que Streets of Rage 4 recibirá mediante el contenido adicional Mr. X Nightmare"
-        },
-        {
-          "id": "46160_v1",
-          "author": null,
-          "description": "Have I been Pwned es posiblemente uno de los sitios más útiles y al mismo tiempo más infrautilizados de Internet en relación a su utilidad. En parte porque el desconocimiento general sobre cómo funciona hace que algunas personas recelen de él. Desde su creación allá por 2013, millones y millones internautas han podido utilizar su repositorio para comprobar si alguna de sus cuentas de usuario o contraseñas ha sido vulnerada debido a ataques o filtraciones, y ahora, tras más de siete años de actividad, da un nuevo paso que le permitirá ser más útil que nunca. Varios meses después de su… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/internet/have-i-been-pwned-open-source-contrasenas-fbi",
-          "publishedOn": "2021-05-28T10:39:46.000Z",
-          "wordCount": 889,
-          "title": "Have I been Pwned abre el código de Pwned Passwords y recibirá del FBI contraseñas robadas en ataques"
-        },
-        {
-          "id": "46159_v1",
-          "author": null,
-          "description": "Sega ha anunciado que los jugadores de Steam pueden reclamar de forma gratuita y para siempre una copia de Company of Heroes 2 desde hoy y hasta el 3 de junio. También se puede conseguir sin coste alguno el complemento independiente Ardennes Assault, mientras que el resto de contenidos adicionales se ofrecen con descuento por tiempo limitado. Company of Heroes 2 es un juego de estrategia en tiempo real ambientado en la Segunda Guerra Mundial que permite combatir tanto en el Frente Oriental como en el Occidental. El título desarrollado por Relic Entertainment cuenta con campaña y modo… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_company-of-heroes-2-gratis-en-steam-hasta-el-3-de-junio_2424393",
-          "publishedOn": "2021-05-28T10:05:56.000Z",
-          "wordCount": 791,
-          "title": "Breve: Company of Heroes 2 gratis en Steam hasta el 3 de junio"
-        },
-        {
-          "id": "46158_v1",
-          "author": null,
-          "description": "Un tuit le ha bastado a Capcom para anunciar que Monster Hunter Rise para Nintendo Switch ha conseguido superar los 7 millones de copias despachadas entre la distribución física y la venta digital. El juego alcanza esta cifra dos meses después de ponerse a la venta. En comparación, Monster Hunter: World para PS4 y Xbox One debutó con 5 millones de unidades y en dos meses ya había logrado alcanzar los 7,5 millones de copias. Veremos si con el tiempo y la versión para PC prevista para 2022 Monster Hunter Rise logra acercarse a las 17,1 millones de copias que acumula Monster Hunter: World. Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_monster-hunter-rise-supera-los-7-millones-de-unidades_2424383",
-          "publishedOn": "2021-05-28T08:41:22.000Z",
-          "wordCount": 373,
-          "title": "Breve: Monster Hunter Rise supera los 7 millones de unidades"
-        },
-        {
-          "id": "46157_v1",
-          "author": null,
-          "description": "Hace unas semanas PlayStation Studios dedicó un State of Play a Ratchet & Clank: Una Dimensión Aparte y hoy ha hecho lo propio con Horizon Forbidden West. La diferencia es que el juego desarrollado por Guerrilla Games no se había mostrado hasta ahora, así que el evento digital ha servido para ver por primera vez y mediante un gameplay de 14 minutos la fidelidad visual y las novedades en la jugabilidad, el combate y la historia que presenta la nueva aventura protagonizada por Aloy. El lanzamiento del juego está previsto para el 2021 en PS4 y PS5. Más allá de por su factura gráfica, el… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/horizon-forbidden-west-trailer-gameplay",
-          "publishedOn": "2021-05-27T21:21:54.000Z",
-          "wordCount": 869,
-          "title": "Horizon Forbidden West se presenta con un primer gameplay de 14 minutos en PS5"
-        },
-        {
-          "id": "46156_v1",
-          "author": null,
-          "description": "La “aventura pintoresca” Chicory: A Colorful Tale desarrollada por algunos de los creadores de Wandersong y Celeste, estará disponible el 10 de junio para PlayStation 5, PlayStation 4 y PC (Steam). Este colorido título de vista superior presenta un mundo lleno de personajes pintorescos que parece sacado de un libro para colorear. En Chicory: A Colorful Tale los jugadores deberán ocupar el puesto de la desaparecida Chicory, la artista superestrella encargada de manejar el Pincel Mágico. Para completar los diferentes escenarios que propone el juego, será necesario resolver rompecabezas… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_chicory-a-colorful-tale-se-pondra-a-la-venta-el-10-de-junio_2424349",
-          "publishedOn": "2021-05-27T19:37:07.000Z",
-          "wordCount": 338,
-          "title": "Breve: Chicory: A Colorful Tale se pondrá a la venta el 10 de junio"
-        },
-        {
-          "id": "46155_v1",
-          "author": null,
-          "description": "El camino de Dying Light 2 ha sido largo, difícil y en ocasiones oscuro, pero finalmente la luz aparece al final del túnel. Así ha quedado demostrado por parte de Techland, que meses después de retrasar el juego hasta dejarlo sin fecha ni ventana de lanzamiento ha celebrado un evento en línea para relanzar Dying Light 2, mostrar un nuevo tráiler con gameplay, ofrecer nuevos detalles y anunciar que el juego estará disponible el 7 de diciembre en PS4, PS5, Xbox One, Xbox Series y PC (Steam, Epic Games Store). La historia de Dying Light 2 tiene lugar 15 años después de los eventos… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/dying-light-2-fecha-lanzamiento",
-          "publishedOn": "2021-05-27T19:30:43.000Z",
-          "wordCount": 904,
-          "title": "Dying Light 2 revela un nuevo gameplay de 8 minutos, detalles sobre la jugabilidad y una fecha: 7 de diciembre"
-        },
-        {
-          "id": "46154_v1",
-          "author": null,
-          "description": "El estudio Lince Works afincado en Barcelona ha anunciado que Aragami 2 se pondrá a la venta el 17 de septiembre en formato físico y digital, a cambio de 39,99 euros y con versión para PlayStation 5, PlayStation 4, Xbox One, Xbox Series y PC (Steam). Junto a la fecha de lanzamiento el desarrollador ha mostrado un tráiler con gameplay donde podemos ver en acción a este juego de sigilo en tercera persona cuya primera entrega consiguió colocar más de 700.000 unidades. El gameplay de Aragami 2 permite echar un vistazo al aspecto gráfico que tendrá el juego y al nuevo sistema de combate,… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/aragami-2-fecha-lanzamiento-gameplay",
-          "publishedOn": "2021-05-27T19:06:07.000Z",
-          "wordCount": 602,
-          "title": "El juego de sigilo Aragami 2 muestra un nuevo gameplay y anuncia su lanzamiento para el 17 de septiembre"
-        },
-        {
-          "id": "46153_v1",
-          "author": null,
-          "description": "Creative Assembly ha anunciado que sus planes de contenido adicional para Total War: Three Kingdoms han llegado a su fin, así que el equipo se encuentra trabajando en un nuevo proyecto. Este cambio no evitará que el estudio propiedad de Sega abandone la novela china, ya que su próximo título también está basado en el Romance de los Tres Reinos. Antes de despedirse de Total War: Three Kingdoms, que se puso a la venta para PC hace tres años, Creative Assembly ha lanzado una actualización con múltiples mejoras y anunciado un pack que incluye el juego junto a todo el contenido adicional… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_creative-assembly-desarrolla-un-nuevo-juego-basado-en-la-novela-romance-de-los-tres-reinos_2424313",
-          "publishedOn": "2021-05-27T18:03:07.000Z",
-          "wordCount": 434,
-          "title": "Breve: Creative Assembly desarrolla un nuevo juego basado en la novela Romance de los Tres Reinos"
-        },
-        {
-          "id": "46152_v1",
-          "author": null,
-          "description": "House of Ashes, la tercera entrega de la antología de acción, aventura y terror The Dark Pictures desarrollada por Supermassive Games, se ha mostrado hoy mediante un tráiler con gameplay de ocho minutos que ha estado acompañado de nuevos detalles sobre la historia y novedades sobre la jugabilidad. El título será editado por Bandai Namco y estará disponible en 2021 para PS4, PS5, Xbox One, Xbox Series y PC (Steam). La historia de House of Ashes tiene lugar en 2003 durante los últimos compases de la Guerra de Irak. Sus protagonistas, un equipo de fuerzas especiales estadounidenses que… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/house-of-ashes-trailer-gameplay",
-          "publishedOn": "2021-05-27T17:39:42.000Z",
-          "wordCount": 791,
-          "title": "The Dark Pictures: House of Ashes se muestra por primera vez con un gameplay de 8 minutos"
-        },
-        {
-          "id": "46151_v1",
-          "author": null,
-          "description": "Sega ha celebrado el evento Sonic Central con el objetivo de desgranar los proyectos que la compañía tiene en marcha para celebrar el 30 aniversario del famoso erizo azul. En cuanto a software, tenemos por delante una nueva entrega desarrollada por el Team Sonic que estará disponible en 2022, un remaster de Sonic Colors que estará disponible el 7 de septiembre y la colección Sonic Origins con cuatro entregas de la época de 16 bits La nueva entrega de Sonic está en manos del Sonic Team, aún no tiene nombre oficial y su lanzamiento está previsto para el próximo año en PlayStation 4,… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/nuevo-sonic-origins-colors-remaster-anunciado",
-          "publishedOn": "2021-05-27T16:25:16.000Z",
-          "wordCount": 758,
-          "title": "Sega anuncia un nuevo Sonic para 2022, un remaster de Sonic Colors y la colección Sonic Origins"
-        },
-        {
-          "id": "46148_v1",
-          "author": null,
-          "description": "Además de monitores (y ratones, y puntos de acceso 5G, y pantallas 3D para diseñadores...) Acer ha presentado nuevos portátiles gaming en su conferencia Next 2021. Menos que en ocasiones anteriores, cabe decir, tal vez porque las circunstancias de este año son las que son. En cualquier caso, la firma taiwanesa no tiene intención de que otras como Asus le roben su parte del pastel, optando por renovar dos de sus modelos más populares. https://youtu.be/W5U2DPNL7Bs El Predator Triton 500 SE es una pequeña revisión del ya sobradamente conocido Triton 500 base. Descrito como una especie de… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/portatiles-gaming-acer-predator-helios-triton",
-          "publishedOn": "2021-05-27T15:59:22.000Z",
-          "wordCount": 894,
-          "title": "Acer desvela nuevos portátiles Predator con gráficos RTX 3080 y pantallas Mini LED"
-        },
-        {
-          "id": "46150_v1",
-          "author": null,
-          "description": "La segunda semana de la Superoferta de la Epic Games Store empieza con la posibilidad de conseguir Among Us de forma completamente gratuita. El juego se ofrece sin coste alguno en iOS y Android, pero en PC tiene un precio de 3,99 euros. Este es el dinero que se ahorrarán los jugadores que hasta el 3 de junio a las 17:00 horas reclamen el juego mediante la Epic Games Store. Among Us es un juego multiplataforma de deducción social donde hasta diez participantes deben completar tareas en un escenario a la vez que intentan identificar al impostor. En caso de ejercer este último rol, el… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_among-us-gratis-en-la-epic-games-store-hasta-el-3-de-junio_2424227",
-          "publishedOn": "2021-05-27T15:25:55.000Z",
-          "wordCount": 1250,
-          "title": "Breve: Among Us gratis en la Epic Games Store hasta el 3 de junio"
         }
       ]
     },
@@ -652,5 +652,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
