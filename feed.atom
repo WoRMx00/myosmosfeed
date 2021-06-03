@@ -2,73 +2,389 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T03:06:41.576Z</updated>
+    <updated>2021-06-03T02:41:38.961Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[W3.org Cert Expired]]></title>
-        <id>https://news.ycombinator.com/item?id=27363813</id>
-        <link href="https://www.w3.org/"/>
-        <updated>2021-06-02T01:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.w3.org/
-Comments URL: https://news.ycombinator.com/item?id=27363813
-Points: 40
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management]]></title>
+        <id>https://news.ycombinator.com/item?id=27376383</id>
+        <link href="https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html"/>
+        <updated>2021-06-03T02:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html
+Comments URL: https://news.ycombinator.com/item?id=27376383
+Points: 42
+# Comments: 2]]></summary>
         <author>
-            <name>rockwotj</name>
+            <name>thunderbong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses]]></title>
-        <id>https://news.ycombinator.com/item?id=27362388</id>
-        <link href="https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/"/>
-        <updated>2021-06-01T22:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/
-Comments URL: https://news.ycombinator.com/item?id=27362388
-Points: 90
-# Comments: 30]]></summary>
-        <author>
-            <name>nomoreplease</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIY Book Scanner]]></title>
-        <id>https://news.ycombinator.com/item?id=27361815</id>
-        <link href="https://www.diybookscanner.org/"/>
-        <updated>2021-06-01T21:47:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.diybookscanner.org/
-Comments URL: https://news.ycombinator.com/item?id=27361815
-Points: 146
-# Comments: 43]]></summary>
-        <author>
-            <name>bcaa7f3a8bbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Floptimal – Preflop ranges reimagined]]></title>
-        <id>https://news.ycombinator.com/item?id=27361584</id>
-        <link href="https://floptimal.com"/>
-        <updated>2021-06-01T21:28:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://floptimal.com
-Comments URL: https://news.ycombinator.com/item?id=27361584
-Points: 104
-# Comments: 43]]></summary>
-        <author>
-            <name>theshirin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signadot (YC W20) Is Hiring Founding Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27361225</id>
-        <link href="https://www.workatastartup.com/jobs/42298"/>
-        <updated>2021-06-01T21:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/42298
-Comments URL: https://news.ycombinator.com/item?id=27361225
+        <title type="html"><![CDATA[Etleap (YC W13) Is Hiring a Technical End User Documentation Writer]]></title>
+        <id>https://news.ycombinator.com/item?id=27375951</id>
+        <link href="https://news.ycombinator.com/item?id=27375951"/>
+        <updated>2021-06-03T01:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Technical Writer
+We are looking for a technical writer to take our technical product documentation to the next level, and help us maintain it on an ongoing basis.
+The project is 2-3 months half-time to start, and then a few hours a week following that.
+What you are going to do:
+- Build out large sections of our end user documentation, making the site comprehensive and intuitive.
+- Work closely with our engineering team to become an expert user of our product and extract insights
+- Interview our engineers and users in order to create tutorials for appropriate topics
+What we want to see in you:
+-Experience writing end user documentation sites that include UI how-tos, at least one, ideally two or more.
+- Experience writing and understanding for highly technical software products.
+- High degree of user empathy - our docs will take hard technical concepts and translate to language that is a pleasure to read.
+To apply, send your resume to jobs@etleap.com.
+Comments URL: https://news.ycombinator.com/item?id=27375951
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>jaguar75</name>
+            <name>romming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine]]></title>
+        <id>https://news.ycombinator.com/item?id=27375856</id>
+        <link href="https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1"/>
+        <updated>2021-06-03T00:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1
+Comments URL: https://news.ycombinator.com/item?id=27375856
+Points: 23
+# Comments: 2]]></summary>
+        <author>
+            <name>femto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware – Unauthorized access to Fujifilm servers]]></title>
+        <id>https://news.ycombinator.com/item?id=27375401</id>
+        <link href="https://www.fujifilm.com/jp/en/news/hq/6642#"/>
+        <updated>2021-06-02T23:44:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fujifilm.com/jp/en/news/hq/6642#
+Comments URL: https://news.ycombinator.com/item?id=27375401
+Points: 12
+# Comments: 3]]></summary>
+        <author>
+            <name>zaitanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When six boys were shipwrecked for 15 months (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27375076</id>
+        <link href="https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months"/>
+        <updated>2021-06-02T23:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months
+Comments URL: https://news.ycombinator.com/item?id=27375076
+Points: 118
+# Comments: 35]]></summary>
+        <author>
+            <name>smollett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple asks staff to return to office 3 days a week starting in early September]]></title>
+        <id>https://news.ycombinator.com/item?id=27375067</id>
+        <link href="https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september"/>
+        <updated>2021-06-02T22:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september
+Comments URL: https://news.ycombinator.com/item?id=27375067
+Points: 128
+# Comments: 26]]></summary>
+        <author>
+            <name>coloneltcb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malloc broke Serenity's JPGLoader, or: how to win the lottery]]></title>
+        <id>https://news.ycombinator.com/item?id=27374942</id>
+        <link href="https://sin-ack.github.io/posts/jpg-loader-bork/"/>
+        <updated>2021-06-02T22:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/
+Comments URL: https://news.ycombinator.com/item?id=27374942
+Points: 108
+# Comments: 24]]></summary>
+        <author>
+            <name>trashburger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Italian Car Design History]]></title>
+        <id>https://news.ycombinator.com/item?id=27374893</id>
+        <link href="https://www.cardesignhistory.com/"/>
+        <updated>2021-06-02T22:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cardesignhistory.com/
+Comments URL: https://news.ycombinator.com/item?id=27374893
+Points: 35
+# Comments: 8]]></summary>
+        <author>
+            <name>spamalot159</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyoming site of new nuclear power plant from Bill Gates' TerraPower]]></title>
+        <id>https://news.ycombinator.com/item?id=27374840</id>
+        <link href="https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html"/>
+        <updated>2021-06-02T22:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html
+Comments URL: https://news.ycombinator.com/item?id=27374840
+Points: 122
+# Comments: 42]]></summary>
+        <author>
+            <name>spenrose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Transform a CSV into a JSON and vice versa]]></title>
+        <id>https://news.ycombinator.com/item?id=27374632</id>
+        <link href="https://jsonmatic.com/"/>
+        <updated>2021-06-02T22:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jsonmatic.com/
+Comments URL: https://news.ycombinator.com/item?id=27374632
+Points: 30
+# Comments: 20]]></summary>
+        <author>
+            <name>okumurahata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Giant Corpse Flower Got to an Abandoned Gas Station]]></title>
+        <id>https://news.ycombinator.com/item?id=27373978</id>
+        <link href="https://www.atlasobscura.com/articles/corpse-flower-california"/>
+        <updated>2021-06-02T21:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/corpse-flower-california
+Comments URL: https://news.ycombinator.com/item?id=27373978
+Points: 28
+# Comments: 10]]></summary>
+        <author>
+            <name>turtlegrids</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hermen Hulst revela que Bend Studio trabaja en un nuevo juego y habla del encaje del PC en PlayStation Studios]]></title>
+        <id>46200_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/playstation-studios-bend-pc"/>
+        <updated>2021-06-02T20:35:46.000Z</updated>
+        <summary type="html"><![CDATA[La sesión de preguntas y respuestas con Hermen Hulst, máximo responsable de PlayStation Studios, ha servido para algo más que para hablar sobre el retraso del nuevo God of War y su versión para PlayStation 4. Durante la conversación el directivo ha revelado que Bend Studio, el equipo responsable de Days Gone, se encuentra trabajando en un nuevo juego de mundo abierto, y también ha hablado sobre cómo encaja en su estrategia la creciente llegada de juegos de PlayStation al PC. “Bend Studio está trabajando en una nueva propiedad intelectual con la que están muy, muy entusiasmados”,… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upside Decay]]></title>
+        <id>https://news.ycombinator.com/item?id=27373486</id>
+        <link href="https://brianlui.dog/2020/10/06/upside-decay/"/>
+        <updated>2021-06-02T20:12:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brianlui.dog/2020/10/06/upside-decay/
+Comments URL: https://news.ycombinator.com/item?id=27373486
+Points: 12
+# Comments: 6]]></summary>
+        <author>
+            <name>skmurphy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Favourite Uses of Typography in Watches]]></title>
+        <id>https://news.ycombinator.com/item?id=27373403</id>
+        <link href="https://www.acollectedman.com/blogs/journal/favourite-typography-watches"/>
+        <updated>2021-06-02T20:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.acollectedman.com/blogs/journal/favourite-typography-watches
+Comments URL: https://news.ycombinator.com/item?id=27373403
+Points: 29
+# Comments: 5]]></summary>
+        <author>
+            <name>tmfi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massachusetts Steamship Authority hit by ransomware attack; ferries delayed]]></title>
+        <id>https://news.ycombinator.com/item?id=27372431</id>
+        <link href="https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/"/>
+        <updated>2021-06-02T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/
+Comments URL: https://news.ycombinator.com/item?id=27372431
+Points: 144
+# Comments: 199]]></summary>
+        <author>
+            <name>SocksCanClose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaky Abstractions]]></title>
+        <id>https://news.ycombinator.com/item?id=27372292</id>
+        <link href="https://textslashplain.com/2021/06/02/leaky-abstractions/"/>
+        <updated>2021-06-02T18:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
+Comments URL: https://news.ycombinator.com/item?id=27372292
+Points: 279
+# Comments: 42]]></summary>
+        <author>
+            <name>jakub_g</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 2.93 LTS]]></title>
+        <id>https://news.ycombinator.com/item?id=27372285</id>
+        <link href="https://www.blender.org/download/releases/2-93/"/>
+        <updated>2021-06-02T18:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/2-93/
+Comments URL: https://news.ycombinator.com/item?id=27372285
+Points: 199
+# Comments: 33]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larian Studios, desarrollador de Baldur's Gate III, abre un nuevo estudio en Barcelona]]></title>
+        <id>46199_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/larian-studios-barcelona"/>
+        <updated>2021-06-02T18:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Larian Studios ha elegido Barcelona para instalar su séptimo equipo. En lugar de abrir una nueva oficina el estudio de desarrollo belga ha llegado a un acuerdo para quedarse con los activos y el personal de BlitWorks, el equipo responsable de llevar Divinity: Original Sin 2 a Nintendo Switch. BlitWorks seguirá trabajando como un editor independiente mientras que su equipo de desarrollo se centrará exclusivamente en los juegos de Larian Studios. “La historia de BlitWorks con Larian se remonta a mucho tiempo atrás”, dice Tony Cabello, cofundador de BlitWorks. “Después de llevar la… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPal shuts down long-time Tor supporter]]></title>
+        <id>https://news.ycombinator.com/item?id=27371787</id>
+        <link href="https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse"/>
+        <updated>2021-06-02T17:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse
+Comments URL: https://news.ycombinator.com/item?id=27371787
+Points: 359
+# Comments: 113]]></summary>
+        <author>
+            <name>tirz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pupil Size Is a Marker of Intelligence]]></title>
+        <id>https://news.ycombinator.com/item?id=27371309</id>
+        <link href="https://www.scientificamerican.com/article/pupil-size-is-a-marker-of-intelligence/"/>
+        <updated>2021-06-02T17:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/pupil-size-is-a-marker-of-intelligence/
+Comments URL: https://news.ycombinator.com/item?id=27371309
+Points: 34
+# Comments: 11]]></summary>
+        <author>
+            <name>davesailer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El nuevo God of War se retrasa al 2022 y al igual que Gran Turismo 7 también estará disponible en PS4]]></title>
+        <id>46198_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/god-of-war-retraso-ps5"/>
+        <updated>2021-06-02T17:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Hermen Hulst, máximo responsable de PlayStation Studios, ha anunciado mediante una sesión de preguntas y respuestas publicada en el blog oficial de PlayStation que el nuevo God of War en manos de Santa Monica Studio se retrasa y estará disponible durante el 2022. Hulst también ha confirmado que tanto God of War como Gran Turismo 7 tendrán versión para PlayStation 4 y PlayStation 5. Por su parte y si no hay sobresaltos, Horizon Forbidden West llegará este año. En una de las respuestas, Hulst explica que Horizon Forbidden West y el nuevo God of War han tenido problemas debido a la… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Dragon Ball Z: Kakarot recibirá el contenido Trunks: The Warrior of Hope el 11 de junio]]></title>
+        <id>46197_v1</id>
+        <link href="https://www.elotrolado.net/hilo_dragon-ball-z-kakarot-recibira-el-contenido-trunks-the-warrior-of-hope-el-11-de-junio_2424911"/>
+        <updated>2021-06-02T16:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Trunks: The Warrior of Hope (o Trunks: El Guerrero de la Esperanza), el tercer contenido adicional de Dragon Ball Z: Kakarot que permitirá adentrarse en el pasado de Trunks, estará disponible el 11 de junio, según ha revelado Bandai Namco. El mencionado complemento forma parte del pase de temporada que se vende por 24,99 euros. Este contenido narrará la historia de un mundo alternativo en el que Goku ha sucumbido a su enfermedad cardíaca y la mayoría de los defensores de la Tierra han caído a manos de los androides. La campaña está protagonizada por versiones alternativas de Trunks,… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Ghostrunner para PlayStation 5 y Xbox Series estará disponible el 28 de septiembre]]></title>
+        <id>46196_v1</id>
+        <link href="https://www.elotrolado.net/hilo_ghostrunner-para-playstation-5-y-xbox-series-estara-disponible-el-28-de-septiembre_2424910"/>
+        <updated>2021-06-02T16:17:23.000Z</updated>
+        <summary type="html"><![CDATA[505 Games ha anunciado que la versión de Ghostrunner para PlayStation 5 y Xbox Series estará disponible en formato físico y digital el 28 de septiembre a cambio de 29,99 euros. Los propietarios de las versiones del juego para Xbox One y PlayStation 4 podrán actualizar de forma gratuita. El editor también recuerda que la versión de Nintendo Switch sigue prevista para el 25 de junio. Ghostrunner para PS5 y Xbox Series tendrá soporte para HDR, un modo de trazado de rayos, audio 3D y podrá alcanzar los 4K y 120 FPS. El juego también sacará partido del SSD para reducir los tiempos de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Man’s Sky recibe un rediseño visual con la actualización Prisms]]></title>
+        <id>46195_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/no-mans-sky-actualizacion-prisms"/>
+        <updated>2021-06-02T16:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Y una más. El estudio de desarrollo británico Hello Games ha anunciado que los jugadores de No Man’s Sky ya tienen disponible para su descarga la actualización gratuita Prisms que presenta dos grandes novedades: un rediseño visual que aumenta la calidad gráfica del juego y criaturas voladoras sobre las que se puede montar. El último contenido que recibió el título fue Expeditions, que a finales de mayo añadió eventos comunitarios. Entre las nuevas características gráficas que presenta No Man’s Sky tenemos la iluminación volumétrica que mejora la iluminación en varias zonas, efectos de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making JavaScript run fast on WebAssembly]]></title>
+        <id>https://news.ycombinator.com/item?id=27370138</id>
+        <link href="https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly"/>
+        <updated>2021-06-02T15:53:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
+Comments URL: https://news.ycombinator.com/item?id=27370138
+Points: 171
+# Comments: 73]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corpus Clock]]></title>
+        <id>https://news.ycombinator.com/item?id=27370030</id>
+        <link href="https://en.wikipedia.org/wiki/Corpus_Clock"/>
+        <updated>2021-06-02T15:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Corpus_Clock
+Comments URL: https://news.ycombinator.com/item?id=27370030
+Points: 102
+# Comments: 28]]></summary>
+        <author>
+            <name>Hooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo anuncia un Direct para el 15 de junio a las 18:00 horas]]></title>
+        <id>46194_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/nintendo-direct-e3-2021"/>
+        <updated>2021-06-02T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo ha puesto día y hora al Direct que emitirá dentro de dos semanas con motivo del E3 2021. La cita será el martes 15 de junio a las 18:00 hora peninsular española y el evento durará unos 40 minutos durante los cuales se ofrecerá “información exclusiva sobre juegos para Nintendo Switch que mayormente estarán disponibles en 2021”, dice la compañía en Twitter. Posteriormente se emitirá un Nintendo Treehouse: Live de 3 horas. De momento no se ha pronunciado ninguna palabra sobre la posibilidad de ver nuevo hardware. Evidentemente, Nintendo no ha soltado prenda sobre qué software… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valorant alcanza los 14 millones de jugadores activos y Riot Games llevará la franquicia al móvil]]></title>
+        <id>46193_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/valoran-mobile-jugadores"/>
+        <updated>2021-06-02T14:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Riot Games ha revelado que un año después de su lanzamiento bajo el modelo free-to-play, el shooter táctico Valorant para PC consigue reunir cada mes una media de 14 millones de jugadores activos. La filial de Tencent también ha anunciado la intención de ampliar la franquicia comenzando por Valorant Mobile, una versión para dispositivos móviles que no tendrá juego cruzado y cuyo propósito es aumentar el número de jugadores en todo el mundo. Con Valorant Mobile en su hoja de ruta, Riot Games sigue los mismos pasos que han dado durante los últimos años otros populares shooters como PUBG… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Un minorista francés lista Switch Pro por 399 euros]]></title>
+        <id>46192_v1</id>
+        <link href="https://www.elotrolado.net/hilo_un-minorista-frances-lista-switch-pro-por-399-euros_2424879"/>
+        <updated>2021-06-02T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Boulanger, una cadena de tiendas francesa, ha listado en su sistema interno la consola Nintendo Switch Pro con un precio de 399 euros, según informa Nintend'Alerts en Twitter. Por otro lado, la cuenta Centro Pokémon ha usado la misma red social para indicar que un “importante” minorista ha sumado en su sistema una nueva entrada relacionada con hardware de Nintendo Switch. Estas dos informaciones llegan después de que no pocos rumores hayan apuntado a que Nintendo presentará un nuevo y más potente modelo de Switch antes del E3 2021, que se celebrará la próxima semana. Las horas corren… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon regala Battlefield 4 y otros diez juegos con Prime Gaming y confirma las fechas del Prime Day]]></title>
+        <id>46191_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/amazon-prime-day-2021"/>
+        <updated>2021-06-02T12:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Los suscriptores de Amazon Prime suelen tener cada mes la posibilidad de aumentar su biblioteca de juegos digitales y en junio tendrán la oportunidad de hacerse con once títulos entre los que se incluyen Battlefield 4 y Batman - The Telltale Series. Paralelamente, Amazon ha comunicado que este año el Prime Day, un evento de dos días durante el cual se rebajan miles de productos y compañía registra récords de facturación, tendrá lugar del 21 al 22 de junio. Empezamos con los juegos para comentar que Battlefield 4 se puede reclamar sin coste adicional mediante Prime Gaming desde hoy y… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The King of Fighters XV se retrasa al primer trimestre de 2022]]></title>
+        <id>46190_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/the-king-of-fighters-xv-retraso-2022"/>
+        <updated>2021-06-02T09:44:18.000Z</updated>
+        <summary type="html"><![CDATA[SNK ha anunciado un nuevo retraso en la ventana de lanzamiento de The King of Fighters XV (KOF XV), cuya llegada al mercado se espera para el primer trimestre de 2022. Hasta ahora la nueva entrega del juego de lucha estaba prevista para el 2021. Esta es la segunda vez que el título sufre un cambio de fecha y en esta ocasión la razón esgrimida por la compañía japonesa es el impacto que la pandemia de COVID-19 ha tenido en el cronograma de desarrollo. “Hay muchos fans que esperan el lanzamiento de The King of Fighters XV en 2021, sin embargo, ahora debemos anunciar que The King of… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -92,97 +408,6 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Secure and Formally Verified Linux KVM Hypervisor [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27360600</id>
-        <link href="http://nieh.net/pubs/ieeesp2021_kvm.pdf"/>
-        <updated>2021-06-01T20:10:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://nieh.net/pubs/ieeesp2021_kvm.pdf
-Comments URL: https://news.ycombinator.com/item?id=27360600
-Points: 57
-# Comments: 2]]></summary>
-        <author>
-            <name>tmfi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBS Studio 27.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27360141</id>
-        <link href="https://github.com/obsproject/obs-studio/releases/tag/27.0.0"/>
-        <updated>2021-06-01T19:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/obsproject/obs-studio/releases/tag/27.0.0
-Comments URL: https://news.ycombinator.com/item?id=27360141
-Points: 352
-# Comments: 81]]></summary>
-        <author>
-            <name>TangerineDream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[William Byrd on logic and relational programming, miniKanren (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27359963</id>
-        <link href="https://www.infoq.com/interviews/byrd-relational-programming-minikanren/"/>
-        <updated>2021-06-01T19:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.infoq.com/interviews/byrd-relational-programming-minikanren/
-Comments URL: https://news.ycombinator.com/item?id=27359963
-Points: 71
-# Comments: 11]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack]]></title>
-        <id>https://news.ycombinator.com/item?id=27359515</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs"/>
-        <updated>2021-06-01T18:53:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs
-Comments URL: https://news.ycombinator.com/item?id=27359515
-Points: 226
-# Comments: 298]]></summary>
-        <author>
-            <name>davidw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Alien Theory]]></title>
-        <id>https://news.ycombinator.com/item?id=27359203</id>
-        <link href="http://thebigalientheory.com/"/>
-        <updated>2021-06-01T18:33:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://thebigalientheory.com/
-Comments URL: https://news.ycombinator.com/item?id=27359203
-Points: 67
-# Comments: 64]]></summary>
-        <author>
-            <name>lisper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best practices around creating production ready web apps with Docker Compose]]></title>
-        <id>https://news.ycombinator.com/item?id=27359081</id>
-        <link href="https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose"/>
-        <updated>2021-06-01T18:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
-Comments URL: https://news.ycombinator.com/item?id=27359081
-Points: 260
-# Comments: 64]]></summary>
-        <author>
-            <name>nickjj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Light-shrinking material lets ordinary microscope see in super resolution]]></title>
-        <id>https://news.ycombinator.com/item?id=27358692</id>
-        <link href="https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html"/>
-        <updated>2021-06-01T18:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html
-Comments URL: https://news.ycombinator.com/item?id=27358692
-Points: 101
-# Comments: 25]]></summary>
-        <author>
-            <name>thedday</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: El nuevo Battlefield se presentará el 9 de junio]]></title>
         <id>46187_v1</id>
         <link href="https://www.elotrolado.net/hilo_el-nuevo-battlefield-se-presentara-el-9-de-junio_2424827"/>
@@ -200,45 +425,6 @@ Points: 101
         <summary type="html"><![CDATA[Bethesda Softworks y Zenimax Online Studios han celebrado con una cinemática que los jugadores de The Elder Scrolls Online (TESO) en PC ya tienen disponible la expansión o capítulo Blackwood, que destaca por sumar ubicaciones que recordarán aquellos que hayan jugado a The Elder Scrolls IV: Oblivion. Los jugadores de PlayStation 4 y Xbox One recibirán el nuevo contenido el 8 de junio. Blackwood es la parte central de la aventura anual Gates of Oblivion y en ella los jugadores entrarán en una nueva zona de Tamriel con el objetivo de descubrir los planes del príncipe daédrico Mehrunes… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helix: a post-modern modal text editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27358479</id>
-        <link href="https://helix-editor.com/"/>
-        <updated>2021-06-01T17:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://helix-editor.com/
-Comments URL: https://news.ycombinator.com/item?id=27358479
-Points: 442
-# Comments: 208]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intl]]></title>
-        <id>https://news.ycombinator.com/item?id=27357646</id>
-        <link href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl"/>
-        <updated>2021-06-01T16:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
-Comments URL: https://news.ycombinator.com/item?id=27357646
-Points: 176
-# Comments: 43]]></summary>
-        <author>
-            <name>evo_9</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America has a drinking problem]]></title>
-        <id>https://news.ycombinator.com/item?id=27357592</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/"/>
-        <updated>2021-06-01T16:54:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/
-Comments URL: https://news.ycombinator.com/item?id=27357592
-Points: 306
-# Comments: 471]]></summary>
-        <author>
-            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -262,45 +448,6 @@ Points: 306
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon US customers given one week to opt out of mass wireless sharing]]></title>
-        <id>https://news.ycombinator.com/item?id=27355789</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing"/>
-        <updated>2021-06-01T15:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing
-Comments URL: https://news.ycombinator.com/item?id=27355789
-Points: 429
-# Comments: 251]]></summary>
-        <author>
-            <name>haasted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual deck of cards using just a browser]]></title>
-        <id>https://news.ycombinator.com/item?id=27355690</id>
-        <link href="https://playingcards.io/"/>
-        <updated>2021-06-01T15:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://playingcards.io/
-Comments URL: https://news.ycombinator.com/item?id=27355690
-Points: 243
-# Comments: 59]]></summary>
-        <author>
-            <name>beermonster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudera taken private for $5.3B, acquires Datacoral and Cazena]]></title>
-        <id>https://news.ycombinator.com/item?id=27355604</id>
-        <link href="https://blog.cloudera.com/turning-the-page/"/>
-        <updated>2021-06-01T15:12:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cloudera.com/turning-the-page/
-Comments URL: https://news.ycombinator.com/item?id=27355604
-Points: 138
-# Comments: 85]]></summary>
-        <author>
-            <name>swyx</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: El juego de plataformas en 2D Monobot estará disponible el 18 de junio]]></title>
         <id>46183_v1</id>
         <link href="https://www.elotrolado.net/hilo_el-juego-de-plataformas-en-2d-monobot-estara-disponible-el-18-de-junio_2424804"/>
@@ -308,47 +455,6 @@ Points: 138
         <summary type="html"><![CDATA[La desarrolladora independiente DreamSmith Studios y el editor Ukuza han comunicado que Monobot, un juego de plataformas en 2D protagonizado por un robot llamado Mono, se pondrá a la venta el 18 de junio para PC mediante Steam. Los interesados tienen disponible en Steam una demo que permite probar el juego. Monobot es un título de plataformas en 2D con rompecabezas basados en la física en el que se toma el control de Mono, un pequeño ente robótico atrapado en un mundo hostil ubicado en un futuro oscuro y lejano. Los jugadores deberán guiar a Mono a lo largo de un viaje para descubrir… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Who is hiring? (June 2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=27355392</id>
-        <link href="https://news.ycombinator.com/item?id=27355392"/>
-        <updated>2021-06-01T15:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Please state the location and include REMOTE, INTERNS and/or VISA
-when that sort of candidate is welcome. When remote work is not an option,
-include ONSITE.
-Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. Only one post per company. If it isn't a household name,
-please explain what your company does.
-Commenters: please don't reply to job posts to complain about
-something. It's off topic here.
-Readers: please only email if you are personally interested in the job.
-Searchers: try https://findwork.dev/?source=hn, https://kennytilton.github.io/whoishiring/,
-https://hnhired.com/, https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.
-Don't miss these other fine threads:
-Who wants to be hired? https://news.ycombinator.com/item?id=27355390
-Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27355391
-Comments URL: https://news.ycombinator.com/item?id=27355392
-Points: 288
-# Comments: 678]]></summary>
-        <author>
-            <name>whoishiring</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Freelancer? Seeking freelancer? (June 2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=27355391</id>
-        <link href="https://news.ycombinator.com/item?id=27355391"/>
-        <updated>2021-06-01T15:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Please lead with either SEEKING WORK or SEEKING FREELANCER,
-your location, and whether remote work is a possibility.
-Bonsai (YC W16) (https://www.hellobonsai.com) offers freelance contracts, proposals, invoices, etc.
-Comments URL: https://news.ycombinator.com/item?id=27355391
-Points: 78
-# Comments: 78]]></summary>
-        <author>
-            <name>whoishiring</name>
         </author>
     </entry>
     <entry>
@@ -417,116 +523,6 @@ Points: 78
         <link href="https://www.elotrolado.net/noticias/tecnologia/amd-fidelityfx-super-resolution-respuesta-nvidia-dlss"/>
         <updated>2021-06-01T08:54:25.000Z</updated>
         <summary type="html"><![CDATA[Allá por noviembre de 2020 AMD anunció la gama Radeon RX 6000, una familia de tarjetas gráficas que, sin cambiar la situación de dominio casi absoluto de Nvidia, estaban mejor situadas que productos anteriores para competir con las GeForce RTX de última generación. El problema que tenían, aparte de su bajo rendimiento con ray tracing, es que carecían de una tecnología análoga al supersampling por IA propuesto por sus rivales, aunque durante el evento de presentación de las GPU se dio a entender que ya estaba en camino. Y aquí lo tenemos. Durante su evento en la Computex 2021 AMD ha… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghosts ‘n Goblins Resurrection llega a PlayStation 4, Xbox One y PC]]></title>
-        <id>46175_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/ghosts-goblins-resurrection-disponible-ps4-xbox-one-pc"/>
-        <updated>2021-06-01T08:42:51.000Z</updated>
-        <summary type="html"><![CDATA[Ghosts ‘n Goblins Resurrection sigue los pasos de Capcom Arcade Stadium y después de una exclusividad temporal en Nintendo Switch, este “moderno reinicio” de la serie Ghosts ‘n Goblins muestra su tráiler de lanzamiento para indicar que ya se encuentra disponible en PS4, Xbox One y PC (Steam) en formato digital a cambio de 29,99 euros. Por ahora Capcom no ha descartado ni confirmado que Sir Arthur vaya a tener futuro más allá de esta aventura inspirada en Ghosts ‘n Goblins y la secuela Ghouls ‘n Ghosts. Al igual que en todas las entregas de la saga, Ghosts ‘n Goblins Resurrection tiene… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia remata su gama con la RTX 3080 Ti, a la venta por 1.199 euros]]></title>
-        <id>46174_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/nvidia-geforce-3080-ti-3070-ti"/>
-        <updated>2021-06-01T08:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Tras el paréntesis del año pasado, Taiwán vuelve a acoger la Computex, posiblemente el evento más importante en lo que se refiere al universo gaming para PC. Las novedades que se descubrirán en los pasillos de la feria de Taipéi serán numerosas, y Nvidia ha querido ser una de las firmas más madrugadoras con el debut de dos nuevas tarjetas gráficas de alto rendimiento: la largamente esperada RTX 3080 Ti y la más también muy potente (aunque menos exagerada) RTX 3070 Ti. Comenzando por la primera, la RTX 3080 Ti es una evolución técnica de la 3080 base. Su número de núcleos CUDA asciende… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Los gastos de desarrollo de Cyberpunk 2077 lastran el beneficio trimestral de CD Projekt Red]]></title>
-        <id>46173_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/gastos-desarrollo-cyberpunk-2077"/>
-        <updated>2021-05-31T22:50:03.000Z</updated>
-        <summary type="html"><![CDATA[CD Projekt Red ha presentado los resultados financieros del primer trimestre del actual año fiscal. Los números no han cumplido con las expectativas de los analistas y en ellos queda reflejado el impacto económico que han tenido los gastos de desarrollo de Cyberpunk 2077, un juego que ha necesitado de numeroso trabajo adicional debido a los problemas con los que se puso a la venta. También hay que tener en cuenta que el estudio polaco ha subido la inversión en I+D para cambiar su proceso de desarrollo. En concreto, entre enero y marzo de 2021 CD Projekt Red registró un beneficio… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA retira de las tiendas antiguas entregas de Need for Speed y en verano cerrará sus servidores]]></title>
-        <id>46172_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/viejos-need-for-speed-retirados"/>
-        <updated>2021-05-31T20:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Electronic Arts ha anunciado vía Reddit que una serie de antiguas entregas de la franquicia Need for Speed han sido retiradas (o lo serán en las próximas horas) de las plataformas de distribución digital y sus tiendas in-game cerradas. Se trata de un movimiento previo a la clausura de los servidores online que se producirá el 31 de agosto, momento a partir del cual los modos multijugador en línea dejarán de funcionar. La campaña seguirá siendo accesible. Todos los títulos afectados por esta decisión tienen diez o más años de existencia y son los siguientes: Need for Speed Carbon… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Dogs: Legion recibe una experiencia roguelike con zombis]]></title>
-        <id>46171_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/watch-dogs-legion-of-the-dead-anunciado"/>
-        <updated>2021-05-31T18:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Actualización: Legion of the Dead ya se encuentra disponible, pero solo con versión para PC. Noticia original: Para sorpresa de más de uno Ubisoft ha anunciado que la actualización gratuita que el 1 de junio recibirá Watch Dogs: Legion incluye un modo JcE (Jugador contra Entorno) con una experiencia roguelike (sin muerte permanente) donde los jugadores deberán hacer frente a una invasión zombi. Esta misma actualización (4.5) es la que introducirá la opción de jugar a 60 FPS en PlayStation 5 y Xbox Series y el juego cruzado entre la misma familia de consolas. Watch Dogs: Legion of the… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witcher 3, Virtua Fighter 5: Ultimate Showdown, Slay the Spire y varios juegos de Sonic se unen a PS Now]]></title>
-        <id>46170_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/playstation-now-junio-2021"/>
-        <updated>2021-05-31T15:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Sony Interactive Entertainment ha comunicado la alineación de juegos que en junio pasarán a engrosar el catálogo del servicio en streaming PS Now disponible en PS4, PS5 y PC. En esta ocasión tenemos a The Witcher 3: Wild Hunt - Game of the Year Edition, Virtua Fighter 5: Ultimate Showdown y Slay the Spire, que llegan acompañados de varias entregas de la franquicia Sonic incluyendo a Sonic Forces, Sonic Mania y Team Sonic Racing. The Witcher 3: Wild Hunt, un juego de rol desarrollado por CD Projekt Red que necesita pocas presentaciones, estará disponible en PlayStation Now desde hoy y… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi presenta la tecnología de carga HyperCharge a 200 W, prometiendo 4.000 mAh en 8 minutos]]></title>
-        <id>46169_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/xiaomi-hypercharge-carga-8-minutos"/>
-        <updated>2021-05-31T12:34:48.000Z</updated>
-        <summary type="html"><![CDATA[Las guerras de los megapíxeles son cosa del pasado. Con Sony y Samsung ofreciendo sus sensores de imagen al mejor postor, cualquier marca es libre de crear configuraciones de cámara tan complejas o de tanta resolución como desee, ofreciendo unas ventajas que a la postre se tornan casi intangibles de cara a la galería. Sus cifras ya no dicen nada, así que la velocidad de carga se ha convertido en ese nuevo factor diferenciador que anhelan fabricantes como Xiaomi. Consciente de la presión de rivales como Oppo, la compañía china ha anunciado la tecnología de carga rápida HyperCharge, que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documentos judiciales revelan que Google dificultó a los usuarios configurar su localización como privada]]></title>
-        <id>46168_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/google-dificulta-localizacion-anonima-usuario"/>
-        <updated>2021-05-31T11:53:47.000Z</updated>
-        <summary type="html"><![CDATA[Las acusaciones contra Google por ofuscar los parámetros de privacidad de sus servicios y aplicaciones no son nuevas. Durante los últimos años hemos sabido que Google almacenaba la localización de sus usuarios incluso con el Historial de Ubicaciones desactivado, valiéndose para ello de descripciones confusas y parámetros con funciones secundarias ocultos a distintos niveles. Este tipo de prácticas han motivado denuncias por incumplimiento de la GDPR, pero no estaba del todo claro si (y hasta qué punto) formaban parte una estrategia premeditada. Ahora, documentos judiciales publicados… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Destruction AllStars añadirá bots para reducir los tiempos de espera]]></title>
-        <id>46167_v1</id>
-        <link href="https://www.elotrolado.net/hilo_destruction-allstars-anadira-bots-para-reducir-los-tiempos-de-espera_2424551"/>
-        <updated>2021-05-29T19:42:09.000Z</updated>
-        <summary type="html"><![CDATA[Lucid Games ha anunciado que su hoja de ruta para Destruction AllStars incluye introducir bots para rellenar las partidas cuando cueste encontrar jugadores. Todos los modos de juego podrán añadir bots a excepción de Blitz, una opción donde compiten cuatro equipos. El equipo de desarrollo espera que los bots alivien los tiempos de espera, especialmente en las horas cuando hay menos jugadores. La falta de usuarios en Destruction AllStars se produce a pesar de que el juego, disponible en exclusiva para PS5, se ofreció durante dos meses como parte de la iniciativa PS Plus. Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Muere Benoît Sokal, creador de la saga Syberia]]></title>
-        <id>46166_v1</id>
-        <link href="https://www.elotrolado.net/hilo_muere-benoit-sokal-creador-de-la-saga-syberia_2424525"/>
-        <updated>2021-05-29T14:15:08.000Z</updated>
-        <summary type="html"><![CDATA[La compañía francesa Microids ha anunciado que ayer 28 de mayo falleció Benoît Sokal a los 66 años de edad y “después de luchar contra una larga enfermedad”. Nacido en Bélgica, Sokal pasará a la historia como un historietista y diseñador de videojuegos cuya obra más notable y reconocida fue la franquicia Syberia. Su trabajo en cómics y videojuegos permitieron a Sokal ser merecedor de distinciones como la Orden de las Artes y las Letras (Francia) y la Orden de Leopoldo (Bélgica). Además de Syberia, Sokal también fue el diseñador de la aventura gráfica Amerzone y durante los últimos… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loki llega a Disney+, Paraíso debuta en Movistar, Sweet Tooth aterriza en Netflix y Prime Video estrena Dom]]></title>
-        <id>46165_v1</id>
-        <link href="https://www.elotrolado.net/noticias/internet/series-netflix-disney-amazon-apple-movistar-junio-2021"/>
-        <updated>2021-05-29T13:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Mayo fue un mes con numerosos estrenos y junio no será menos. Durante las próximas cuatro semanas tenemos el inicio de Loki, una nueva serie de Disney+ que forma parte de la fase cuatro del universo cinematográfico de Marvel, en Movistar viajan a los años 90 con un drama llamado Paraíso inspirado por las obras de Steven Spielberg, mientras que en Amazon debuta Dom, un drama criminal que pasa por ser su primera producción original brasileña. En Netflix nos espera el estreno de Sweet Tooth, una serie basada en la historieta de Jeff Lemire de Vertigo, un antiguo sello editorial de DC… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
