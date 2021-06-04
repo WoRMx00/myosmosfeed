@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27376383",
-          "author": "thunderbong",
-          "description": "Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html\nComments URL: https://news.ycombinator.com/item?id=27376383\nPoints: 42\n# Comments: 2",
-          "link": "https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html",
-          "publishedOn": "2021-06-03T02:01:34.000Z",
-          "wordCount": 789,
-          "title": "Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management"
+          "id": "https://news.ycombinator.com/item?id=27389103",
+          "author": "bilegeek",
+          "description": "Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page\nComments URL: https://news.ycombinator.com/item?id=27389103\nPoints: 5\n# Comments: 0",
+          "link": "https://nitros9.sourceforge.io/wiki/index.php/Main_Page",
+          "publishedOn": "2021-06-04T00:29:16.000Z",
+          "wordCount": 1061,
+          "title": "NitrOS-9, Unix-like operating system for the 6809"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27375951",
-          "author": "romming",
-          "description": "Technical Writer\nWe are looking for a technical writer to take our technical product documentation to the next level, and help us maintain it on an ongoing basis.\nThe project is 2-3 months half-time to start, and then a few hours a week following that.\nWhat you are going to do:\n- Build out large sections of our end user documentation, making the site comprehensive and intuitive.\n- Work closely with our engineering team to become an expert user of our product and extract insights\n- Interview our engineers and users in order to create tutorials for appropriate topics\nWhat we want to see in you:\n-Experience writing end user documentation sites that include UI how-tos, at least one, ideally two or more.\n- Experience writing and understanding for highly technical software products.\n- High degree of user empathy - our docs will take hard technical concepts and translate to language that is a pleasure to read.\nTo apply, send your resume to jobs@etleap.com.\nComments URL: https://news.ycombinator.com/item?id=27375951\nPoints: 1\n# Comments: 0",
-          "link": "https://news.ycombinator.com/item?id=27375951",
-          "publishedOn": "2021-06-03T01:01:15.000Z",
-          "wordCount": 224,
-          "title": "Etleap (YC W13) Is Hiring a Technical End User Documentation Writer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27375856",
-          "author": "femto",
-          "description": "Article URL: https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1\nComments URL: https://news.ycombinator.com/item?id=27375856\nPoints: 23\n# Comments: 2",
-          "link": "https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1",
-          "publishedOn": "2021-06-03T00:48:44.000Z",
-          "wordCount": 1414,
-          "title": "Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27375401",
-          "author": "zaitanz",
-          "description": "Article URL: https://www.fujifilm.com/jp/en/news/hq/6642#\nComments URL: https://news.ycombinator.com/item?id=27375401\nPoints: 12\n# Comments: 3",
-          "link": "https://www.fujifilm.com/jp/en/news/hq/6642#",
-          "publishedOn": "2021-06-02T23:44:27.000Z",
-          "wordCount": 596,
-          "title": "Ransomware – Unauthorized access to Fujifilm servers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27375076",
-          "author": "smollett",
-          "description": "Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months\nComments URL: https://news.ycombinator.com/item?id=27375076\nPoints: 118\n# Comments: 35",
-          "link": "https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months",
-          "publishedOn": "2021-06-02T23:00:41.000Z",
-          "wordCount": 3097,
-          "title": "When six boys were shipwrecked for 15 months (2020)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27375067",
-          "author": "coloneltcb",
-          "description": "Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september\nComments URL: https://news.ycombinator.com/item?id=27375067\nPoints: 128\n# Comments: 26",
-          "link": "https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september",
-          "publishedOn": "2021-06-02T22:59:37.000Z",
-          "wordCount": 722,
-          "title": "Apple asks staff to return to office 3 days a week starting in early September"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27374942",
-          "author": "trashburger",
-          "description": "Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/\nComments URL: https://news.ycombinator.com/item?id=27374942\nPoints: 108\n# Comments: 24",
-          "link": "https://sin-ack.github.io/posts/jpg-loader-bork/",
-          "publishedOn": "2021-06-02T22:43:25.000Z",
-          "wordCount": 1717,
-          "title": "Malloc broke Serenity's JPGLoader, or: how to win the lottery"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27374893",
-          "author": "spamalot159",
-          "description": "Article URL: https://www.cardesignhistory.com/\nComments URL: https://news.ycombinator.com/item?id=27374893\nPoints: 35\n# Comments: 8",
-          "link": "https://www.cardesignhistory.com/",
-          "publishedOn": "2021-06-02T22:35:09.000Z",
-          "wordCount": 354,
-          "title": "Italian Car Design History"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27374840",
-          "author": "spenrose",
-          "description": "Article URL: https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html\nComments URL: https://news.ycombinator.com/item?id=27374840\nPoints: 122\n# Comments: 42",
-          "link": "https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html",
-          "publishedOn": "2021-06-02T22:29:40.000Z",
-          "wordCount": 3147,
-          "title": "Wyoming site of new nuclear power plant from Bill Gates' TerraPower"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27374632",
-          "author": "okumurahata",
-          "description": "Article URL: https://jsonmatic.com/\nComments URL: https://news.ycombinator.com/item?id=27374632\nPoints: 30\n# Comments: 20",
-          "link": "https://jsonmatic.com/",
-          "publishedOn": "2021-06-02T22:07:54.000Z",
-          "wordCount": 9,
-          "title": "Show HN: Transform a CSV into a JSON and vice versa"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27373978",
-          "author": "turtlegrids",
-          "description": "Article URL: https://www.atlasobscura.com/articles/corpse-flower-california\nComments URL: https://news.ycombinator.com/item?id=27373978\nPoints: 28\n# Comments: 10",
-          "link": "https://www.atlasobscura.com/articles/corpse-flower-california",
-          "publishedOn": "2021-06-02T21:01:29.000Z",
-          "wordCount": 2638,
-          "title": "How a Giant Corpse Flower Got to an Abandoned Gas Station"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27373486",
-          "author": "skmurphy",
-          "description": "Article URL: https://brianlui.dog/2020/10/06/upside-decay/\nComments URL: https://news.ycombinator.com/item?id=27373486\nPoints: 12\n# Comments: 6",
-          "link": "https://brianlui.dog/2020/10/06/upside-decay/",
-          "publishedOn": "2021-06-02T20:12:14.000Z",
-          "wordCount": 2112,
-          "title": "Upside Decay"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27373403",
-          "author": "tmfi",
-          "description": "Article URL: https://www.acollectedman.com/blogs/journal/favourite-typography-watches\nComments URL: https://news.ycombinator.com/item?id=27373403\nPoints: 29\n# Comments: 5",
-          "link": "https://www.acollectedman.com/blogs/journal/favourite-typography-watches",
-          "publishedOn": "2021-06-02T20:05:18.000Z",
-          "wordCount": 3663,
-          "title": "Our Favourite Uses of Typography in Watches"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27372431",
-          "author": "SocksCanClose",
-          "description": "Article URL: https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/\nComments URL: https://news.ycombinator.com/item?id=27372431\nPoints: 144\n# Comments: 199",
-          "link": "https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/",
-          "publishedOn": "2021-06-02T18:47:00.000Z",
-          "wordCount": 756,
-          "title": "Massachusetts Steamship Authority hit by ransomware attack; ferries delayed"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27372292",
-          "author": "jakub_g",
-          "description": "Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/\nComments URL: https://news.ycombinator.com/item?id=27372292\nPoints: 279\n# Comments: 42",
-          "link": "https://textslashplain.com/2021/06/02/leaky-abstractions/",
-          "publishedOn": "2021-06-02T18:35:16.000Z",
-          "wordCount": 1686,
-          "title": "Leaky Abstractions"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27372285",
-          "author": "Tomte",
-          "description": "Article URL: https://www.blender.org/download/releases/2-93/\nComments URL: https://news.ycombinator.com/item?id=27372285\nPoints: 199\n# Comments: 33",
-          "link": "https://www.blender.org/download/releases/2-93/",
-          "publishedOn": "2021-06-02T18:34:22.000Z",
-          "wordCount": 1491,
-          "title": "Blender 2.93 LTS"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27371787",
-          "author": "tirz",
-          "description": "Article URL: https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse\nComments URL: https://news.ycombinator.com/item?id=27371787\nPoints: 359\n# Comments: 113",
-          "link": "https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse",
-          "publishedOn": "2021-06-02T17:51:07.000Z",
-          "wordCount": 2582,
-          "title": "PayPal shuts down long-time Tor supporter"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27371309",
+          "id": "https://news.ycombinator.com/item?id=27389012",
           "author": "davesailer",
-          "description": "Article URL: https://www.scientificamerican.com/article/pupil-size-is-a-marker-of-intelligence/\nComments URL: https://news.ycombinator.com/item?id=27371309\nPoints: 34\n# Comments: 11",
-          "link": "https://www.scientificamerican.com/article/pupil-size-is-a-marker-of-intelligence/",
-          "publishedOn": "2021-06-02T17:14:40.000Z",
-          "wordCount": 1321,
-          "title": "Pupil Size Is a Marker of Intelligence"
+          "description": "Article URL: https://www.studyfinds.org/brain-most-similar-to-testicles/\nComments URL: https://news.ycombinator.com/item?id=27389012\nPoints: 47\n# Comments: 22",
+          "link": "https://www.studyfinds.org/brain-most-similar-to-testicles/",
+          "publishedOn": "2021-06-04T00:15:59.000Z",
+          "wordCount": 1014,
+          "title": "Genetic study finds the brain is most similar to – testicles?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27370138",
-          "author": "0xedb",
-          "description": "Article URL: https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly\nComments URL: https://news.ycombinator.com/item?id=27370138\nPoints: 171\n# Comments: 73",
-          "link": "https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly",
-          "publishedOn": "2021-06-02T15:53:14.000Z",
-          "wordCount": 3184,
-          "title": "Making JavaScript run fast on WebAssembly"
+          "id": "https://news.ycombinator.com/item?id=27388832",
+          "author": "rbanffy",
+          "description": "Article URL: https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/\nComments URL: https://news.ycombinator.com/item?id=27388832\nPoints: 26\n# Comments: 2",
+          "link": "https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/",
+          "publishedOn": "2021-06-03T23:43:07.000Z",
+          "wordCount": 2371,
+          "title": "Facebook deals with PCIe faults to keep our data centers running reliably"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27370030",
+          "id": "https://news.ycombinator.com/item?id=27388691",
+          "author": "______-",
+          "description": "Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/\nComments URL: https://news.ycombinator.com/item?id=27388691\nPoints: 87\n# Comments: 27",
+          "link": "https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/",
+          "publishedOn": "2021-06-03T23:20:05.000Z",
+          "wordCount": 2459,
+          "title": "HTML and CSS techniques to reduce your JavaScript"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27388639",
           "author": "Hooke",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Corpus_Clock\nComments URL: https://news.ycombinator.com/item?id=27370030\nPoints: 102\n# Comments: 28",
-          "link": "https://en.wikipedia.org/wiki/Corpus_Clock",
-          "publishedOn": "2021-06-02T15:45:06.000Z",
-          "wordCount": 1484,
-          "title": "Corpus Clock"
+          "description": "Article URL: http://www.geoffreylandis.com/ebullism.html\nComments URL: https://news.ycombinator.com/item?id=27388639\nPoints: 9\n# Comments: 2",
+          "link": "http://www.geoffreylandis.com/ebullism.html",
+          "publishedOn": "2021-06-03T23:12:50.000Z",
+          "wordCount": 3444,
+          "title": "Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27388587",
+          "author": "camjohnson26",
+          "description": "Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins\nComments URL: https://news.ycombinator.com/item?id=27388587\nPoints: 196\n# Comments: 208",
+          "link": "https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins",
+          "publishedOn": "2021-06-03T23:07:39.000Z",
+          "wordCount": 12246,
+          "title": "The lab-leak theory: inside the fight to uncover Covid-19’s origins"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27388513",
+          "author": "bookofjoe",
+          "description": "Article URL: https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html\nComments URL: https://news.ycombinator.com/item?id=27388513\nPoints: 41\n# Comments: 18",
+          "link": "https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html",
+          "publishedOn": "2021-06-03T22:57:34.000Z",
+          "wordCount": 2397,
+          "title": "‘I Had Never Faced the Reality of Death’: A Surgeon Becomes a Patient"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27388391",
+          "author": "mauriziocalo",
+          "description": "Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview\nComments URL: https://news.ycombinator.com/item?id=27388391\nPoints: 71\n# Comments: 27",
+          "link": "https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview",
+          "publishedOn": "2021-06-03T22:42:53.000Z",
+          "wordCount": 279,
+          "title": "Stanford CS Curriculum 2021"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27388134",
+          "author": "clessg",
+          "description": "Article URL: https://engineering.ramp.com/elixir-at-ramp/\nComments URL: https://news.ycombinator.com/item?id=27388134\nPoints: 22\n# Comments: 3",
+          "link": "https://engineering.ramp.com/elixir-at-ramp/",
+          "publishedOn": "2021-06-03T22:15:24.000Z",
+          "wordCount": 2059,
+          "title": "Elixir at Ramp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27387978",
+          "author": "tnorthcutt",
+          "description": "Article URL: https://mtlynch.io/retrospectives/2021/06/\nComments URL: https://news.ycombinator.com/item?id=27387978\nPoints: 60\n# Comments: 34",
+          "link": "https://mtlynch.io/retrospectives/2021/06/",
+          "publishedOn": "2021-06-03T22:01:44.000Z",
+          "wordCount": 2992,
+          "title": "TinyPilot: Month 11"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27387585",
+          "author": "dTal",
+          "description": "Article URL: http://mapscii.me\nComments URL: https://news.ycombinator.com/item?id=27387585\nPoints: 59\n# Comments: 16",
+          "link": "http://mapscii.me",
+          "publishedOn": "2021-06-03T21:28:58.000Z",
+          "wordCount": 1291,
+          "title": "Telnet Mapscii.me"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27387482",
+          "author": "evo_9",
+          "description": "Article URL: https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/\nComments URL: https://news.ycombinator.com/item?id=27387482\nPoints: 109\n# Comments: 64",
+          "link": "https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/",
+          "publishedOn": "2021-06-03T21:19:54.000Z",
+          "wordCount": 643,
+          "title": "7-11 is opening 500 EV charging stations by the end of 2022"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27387237",
+          "author": "jrdngonen",
+          "description": "Article URL: https://jobs.lever.co/compound\nComments URL: https://news.ycombinator.com/item?id=27387237\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/compound",
+          "publishedOn": "2021-06-03T21:00:30.000Z",
+          "wordCount": 62,
+          "title": "Compound (YC S19) is hiring to build financial products for startup employees"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27387156",
+          "author": "MindGods",
+          "description": "Article URL: https://arxiv.org/abs/2103.04689\nComments URL: https://news.ycombinator.com/item?id=27387156\nPoints: 62\n# Comments: 5",
+          "link": "https://arxiv.org/abs/2103.04689",
+          "publishedOn": "2021-06-03T20:53:31.000Z",
+          "wordCount": 673,
+          "title": "Predictive Coding Can Do Exact Backpropagation on Any Neural Network"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27387154",
+          "author": "g42gregory",
+          "description": "Article URL: https://atcold.github.io/NYU-DLSP21/\nComments URL: https://news.ycombinator.com/item?id=27387154\nPoints: 26\n# Comments: 3",
+          "link": "https://atcold.github.io/NYU-DLSP21/",
+          "publishedOn": "2021-06-03T20:53:30.000Z",
+          "wordCount": 220,
+          "title": "Yann LeCun Deep Learning Course 2021"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27387110",
+          "author": "mjreacher",
+          "description": "Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD\nComments URL: https://news.ycombinator.com/item?id=27387110\nPoints: 428\n# Comments: 312",
+          "link": "https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD",
+          "publishedOn": "2021-06-03T20:50:26.000Z",
+          "wordCount": 400,
+          "title": "U.S. to give ransomware hacks similar priority as terrorism, official says"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27385796",
+          "author": "nsm",
+          "description": "Article URL: https://blog.nelhage.com/post/distributed-builds-for-everyone/\nComments URL: https://news.ycombinator.com/item?id=27385796\nPoints: 55\n# Comments: 10",
+          "link": "https://blog.nelhage.com/post/distributed-builds-for-everyone/",
+          "publishedOn": "2021-06-03T18:57:52.000Z",
+          "wordCount": 1707,
+          "title": "Distributed Cloud Builds for Everyone"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27385208",
+          "author": "grzm",
+          "description": "Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/\nComments URL: https://news.ycombinator.com/item?id=27385208\nPoints: 255\n# Comments: 139",
+          "link": "https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/",
+          "publishedOn": "2021-06-03T18:12:18.000Z",
+          "wordCount": 3229,
+          "title": "Tour of our 250k line Clojure codebase"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27385153",
+          "author": "tgamblin",
+          "description": "Article URL: https://google.github.io/opencasebook/patents/\nComments URL: https://news.ycombinator.com/item?id=27385153\nPoints: 89\n# Comments: 28",
+          "link": "https://google.github.io/opencasebook/patents/",
+          "publishedOn": "2021-06-03T18:09:07.000Z",
+          "wordCount": 34335,
+          "title": "Patents in Open Source: the important parts of real cases"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27384911",
+          "author": "tanoku",
+          "description": "Article URL: https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/\nComments URL: https://news.ycombinator.com/item?id=27384911\nPoints: 240\n# Comments: 61",
+          "link": "https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/",
+          "publishedOn": "2021-06-03T17:50:15.000Z",
+          "wordCount": 2736,
+          "title": "A new ProtoBuf generator for Go"
         }
       ]
     },
@@ -193,12 +193,129 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46213_v1",
+          "author": null,
+          "description": "Ya tenemos entre nosotros la primera gran filtración del E3 2021. Este año la víctima ha sido 2K Games, el sello de Take-Two que ha visto correr por Reddit una lista con algunos de los juegos que presentará durante la próxima semana. La información ha sido verificada por múltiples fuentes, incluyendo al periodista Jason Schreier de Bloomberg, Video Games Chronicle y Venturebeat, así que difícilmente alguien se quemará si pone la mano en el fuego. El título que más llama la atención es el nuevo proyecto de Firaxis Games que se esconde bajo el nombre en clave CODA. Según la información… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/2k-filtracion-e3-2021",
+          "publishedOn": "2021-06-04T00:12:46.000Z",
+          "wordCount": 544,
+          "title": "Filtrados los planes de 2K para el E3: un juego al estilo XCOM con personajes de Marvel, spin-off de Borderlands y más"
+        },
+        {
+          "id": "46212_v1",
+          "author": null,
+          "description": "El calendario de eventos del E3 2021 sigue sumando compañías y en esta ocasión toca hablar de Square Enix, que celebrará una edición digital del Square Enix Presents el domingo 13 de junio a las 21:15 hora peninsular española. Es decir, justo después del Xbox & Bethesda Games Showcase. La compañía japonesa no se ha limitado a ofrecer fecha y hora, sino que también ha avanzado algunos de los juegos que mostrará durante el evento que se podrá seguir mediante YouTube y Twitch. El Square Enix Presents servirá para mostrar el nuevo juego Eidos Montréal. La literatura oficial termina ahí y… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/square-enix-presents-e3-2021",
+          "publishedOn": "2021-06-03T23:28:24.000Z",
+          "wordCount": 664,
+          "title": "Square Enix celebrará un evento el 13 de junio protagonizado por Babylon's Fall y el nuevo juego de Eidos Montréal"
+        },
+        {
+          "id": "46211_v1",
+          "author": null,
+          "description": "Con la llegada de PlayStation 5 y el anuncio de una nueva generación de realidad virtual, el actual modelo de PlayStation VR ha quedado un poco en tierra de nadie. A pesar de ello, Sony sigue promocionando juegos que aprovechan su dispositivo y como muestra tenemos una nueva entrega del evento PS VR Spotlight, cuya última edición ha destacado con tráileres y detalles siete próximos lanzamientos para el visor de realidad virtual. Empezamos hablando de un título que ya tiene fecha de lanzamiento, Sniper Elite VR, que estará disponible el 8 de julio en PS VR, Steam y Oculus. Este juego… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/playstation-vr-spotlight-junio",
+          "publishedOn": "2021-06-03T22:46:18.000Z",
+          "wordCount": 662,
+          "title": "Sony muestra un carrusel de juegos para PS VR incluyendo Sniper Elite VR, Fracked y After the Fall"
+        },
+        {
+          "id": "46210_v1",
+          "author": null,
+          "description": "La celebración del evento Warhammer Skulls nos deja un tercer anuncio, el de Warhammer 40,000: Shootas, Blood & Teef, un run and gun con plataformas desarrollado por el estudio belga Rogueside responsable de la saga Guns, Gore & Cannoli. Antes han desfilado por la portada el cooperativo Warhammer: 40,000 Darktide de Fatshark y el RPG táctico por turnos Warhammer 40,000: Chaos Gate - Daemonhunters, que se encuentra en manos de Complex Games. Warhammer 40,000: Shootas, Blood & Teef tiene como protagonistas a los Orkos, una raza salvaje conocida como la horda verde que arrasan estrellas… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/warhammer-40000-shootas-blood-teef-anunciado",
+          "publishedOn": "2021-06-03T21:47:09.000Z",
+          "wordCount": 555,
+          "title": "Presentado el run and gun Warhammer 40,000: Shootas, Blood & Teef"
+        },
+        {
+          "id": "46209_v1",
+          "author": null,
+          "description": "Frontier Foundry, el sello editorial del desarrollador británico Frontier (Elite Dangerous, Jurassic World Evolution), ha anunciado Warhammer 40.000: Chaos Gate - Daemonhunters, un reinicio del clásico RPG táctico por turnos en manos del equipo canadiense Complex Games. El juego, del que ya tenemos los primeros detalles y un teaser tráiler, estará disponible durante el 2022 para PC mediante Steam y Epic Games Store. La historia de Warhammer 40.000: Chaos Gate - Daemonhunters corre a cargo de Aaron Dembski-Bowden, escritor de varias novelas ambientadas en el universo Warhammer como… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/warhammer-40000-chaos-gate-daemonhunters-anunciado",
+          "publishedOn": "2021-06-03T20:42:19.000Z",
+          "wordCount": 542,
+          "title": "Anunciado Warhammer 40,000: Chaos Gate - Daemonhunters, un reinicio del RPG táctico por turnos"
+        },
+        {
+          "id": "46208_v1",
+          "author": null,
+          "description": "Fatshark ha anunciado que Warhammer: 40,000 Darktide tendrá una historia desarrollada “en estricta colaboración con Dan Abnett”, un autor superventas que ha escrito múltiples novelas y novelas gráficas ambientadas en el universo de Warhammer y Warhammer 40,000. Con motivo de esta contratación el estudio sueco ha ofrecido nuevos detalles sobre la historia de su nuevo juego cooperativo. “Con Warhammer: 40.000 Darktide decidimos enfocarnos en los humanos porque son el corazón y el alma de todo el universo 40K”, explica Dan Abnett. “Jugar como un ser humano enfatiza realmente la… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/warhammer-40000-darktide-dan-abnett",
+          "publishedOn": "2021-06-03T18:52:40.000Z",
+          "wordCount": 588,
+          "title": "Warhammer: 40,000 Darktide detalla su historia coescrita por Dan Abnett, autor de múltiples novelas del universo 40K"
+        },
+        {
+          "id": "46207_v1",
+          "author": null,
+          "description": "Epic Games ha revelado que la próxima semana y coincidiendo con la llegada del Capítulo 2 - Temporada 7 (actualización 17.00), el popular Fortnite recibirá gráficos mejorados. El aumento de la factura gráfica, que se aplicará tanto al battle royale como el modo Creativo, estará acompañado de unos nuevos requisitos actualizados más elevados y no comportará cambios para el resto de especificaciones de hardware, que seguirán rindiendo como hasta ahora. “Si usáis los ajustes de gráficos ‘épicos’ en un ordenador que cumpla los requisitos del sistema, podréis disfrutar de nuevos efectos… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/fortnite-requisitos-epicos-pc",
+          "publishedOn": "2021-06-03T17:45:25.000Z",
+          "wordCount": 708,
+          "title": "Fortnite mejorará sus gráficos en PC con la actualización 17.00"
+        },
+        {
+          "id": "46206_v1",
+          "author": null,
+          "description": "El editor The Arcade Crew ha recordado con un tráiler de lanzamiento que The Last Spell, un RPG táctico y roguelike desarrollado por Ishtar Games, ya se encuentra disponible mediante el acceso anticipado de Steam a cambio de 19,99 euros. El título se mantendrá bajo la protección de este programa durante “un año más o menos”. En The Last Spell los jugadores deberán proteger a los supervivientes de la humanidad de hordas de criaturas que han aparecido después de una catástrofe. Los combates son por turnos y exigirán equipar, posicionar y dirigir a los batallones a la vez que se organiza… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_the-last-spell-llega-al-acceso-anticipado-de-steam_2425013",
+          "publishedOn": "2021-06-03T16:36:58.000Z",
+          "wordCount": 328,
+          "title": "Breve: The Last Spell llega al acceso anticipado de Steam"
+        },
+        {
+          "id": "46205_v1",
+          "author": null,
+          "description": "Nueve años después de encontrar el éxito con Chivalry: Medieval Warfare, el estudio canadiense Torn Banner Studios vuelve a la carga con la secuela Chivalry II, cuyo tráiler de lanzamiento nos recuerda que el juego estará disponible el 8 de junio en PS5, PS4, Xbox One, Xbox Series y PC (Epic Games Store) en formato físico y digital. La predescarga e instalación del título se habilitará el domingo 6 de junio a las 17:00 horas para todas las plataformas. Chivalry II es un juego multijugador en primera persona de combates medievales a gran escala, cuya acción se inspira en las películas… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/chivalry-ii-trailer-lanzamiento",
+          "publishedOn": "2021-06-03T16:11:10.000Z",
+          "wordCount": 602,
+          "title": "Tráiler de lanzamiento de Chivalry II, un multijugador de batallas medievales con juego cruzado"
+        },
+        {
+          "id": "46204_v1",
+          "author": null,
+          "description": "El tercer juego misterioso y gratuito de la Epic Games Store es Frostpunk, un título que desde hoy y hasta el 10 de junio a las 17:00 horas se puede añadir a la biblioteca de la tienda digital sin coste alguno. Para la próxima semana nos espera de nuevo un juego cuya identidad aún no ha sido revelada. Desarrollado por 11 bit studios (This War of Mine), Frostpunk es un juego de estrategia y supervivencia en el que los jugadores deben dirigir a una sociedad en un mundo congelado donde “el calor es fuente de vida y cada decisión tiene un precio”. El objetivo es construir una ciudad,… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_frostpunk-gratis-en-la-epic-games-store-hasta-el-10-de-junio_2424999",
+          "publishedOn": "2021-06-03T15:07:23.000Z",
+          "wordCount": 446,
+          "title": "Breve: Frostpunk gratis en la Epic Games Store hasta el 10 de junio"
+        },
+        {
+          "id": "46203_v1",
+          "author": null,
+          "description": "Después de mostrar Horizon Forbidden West en un State of Play que acumula 2,6 millones de visionados, el director del juego Mathijs de Jonge y el director narrativo Benjamin McCaw, han concedido una entrevista a GameInformer donde han ofrecido nuevos detalles sobre el título de Guerrilla Games. Ambos desarrolladores también han hablado sobre la versión del juego para PS4 y confirmado que en PS5 se ofrecerá un modo rendimiento para jugar a 60 FPS. Mathijs De Jonge explica que una de las grandes novedades de Horizon Forbidden West pasa por introducir un sistema de escalada libre que… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/horizon-forbidden-west-detalles-60-fps",
+          "publishedOn": "2021-06-03T14:17:51.000Z",
+          "wordCount": 819,
+          "title": "Revelados nuevos detalles de Horizon Forbidden West: escalada libre, combate cuerpo a cuerpo con combos y 60 FPS en PS5"
+        },
+        {
+          "id": "46201_v1",
+          "author": null,
+          "description": "Antivirus, herramientas de protección de datos, conexiones a VPN y ahora también minado de criptos. Por extraño (e incluso fuera de lugar) que pueda parecer, NortonLifeLock ha anunciado que la suite de seguridad informática Norton 360 comenzará a minar Ethereum para sus clientes a través de un nuevo producto. Norton Crypto, que es el nombre de este componente, ya se está desplegando de forma limitada a través de un programa de invitaciones previo paso a su disponibilidad generalizada. El anuncio de Norton es tenue en lo que se refiere a detalles técnicos. Según señala el comunicado,… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/antivirus-norton-minado-ethereum",
+          "publishedOn": "2021-06-03T10:50:29.000Z",
+          "wordCount": 770,
+          "title": "Norton empieza a ofrecer minado de Ethereum en su antivirus"
+        },
+        {
+          "id": "46202_v1",
+          "author": null,
+          "description": "La reestructuración de los estudios japoneses que Sony Interactive Entertainment anunció el pasado febrero ha sido completada. Esto significa que Japan Studio, uno de los equipos más veteranos de la compañía y el responsable de las sagas Ape Escape, Knack, LocoRoco, Patapon y Gravity Rush, queda desmantelado y su lugar lo ocupa el que hasta no hace mucho era uno de sus estudios internos: Team Asobi, el desarrollador de la franquicia Astro Bot, que crece y gana el título de equipo first-party más joven de PlayStation Studios. “Después del lanzamiento de Astro’s Playroom para… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/team-asobi-playstation-studios",
+          "publishedOn": "2021-06-03T10:40:46.000Z",
+          "wordCount": 780,
+          "title": "PlayStation Studios presenta Team Asobi y liquida definitivamente Japan Studio"
+        },
+        {
           "id": "46200_v1",
           "author": null,
           "description": "La sesión de preguntas y respuestas con Hermen Hulst, máximo responsable de PlayStation Studios, ha servido para algo más que para hablar sobre el retraso del nuevo God of War y su versión para PlayStation 4. Durante la conversación el directivo ha revelado que Bend Studio, el equipo responsable de Days Gone, se encuentra trabajando en un nuevo juego de mundo abierto, y también ha hablado sobre cómo encaja en su estrategia la creciente llegada de juegos de PlayStation al PC. “Bend Studio está trabajando en una nueva propiedad intelectual con la que están muy, muy entusiasmados”,… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/playstation-studios-bend-pc",
           "publishedOn": "2021-06-02T20:35:46.000Z",
-          "wordCount": 867,
+          "wordCount": 855,
           "title": "Hermen Hulst revela que Bend Studio trabaja en un nuevo juego y habla del encaje del PC en PlayStation Studios"
         },
         {
@@ -207,7 +324,7 @@
           "description": "Larian Studios ha elegido Barcelona para instalar su séptimo equipo. En lugar de abrir una nueva oficina el estudio de desarrollo belga ha llegado a un acuerdo para quedarse con los activos y el personal de BlitWorks, el equipo responsable de llevar Divinity: Original Sin 2 a Nintendo Switch. BlitWorks seguirá trabajando como un editor independiente mientras que su equipo de desarrollo se centrará exclusivamente en los juegos de Larian Studios. “La historia de BlitWorks con Larian se remonta a mucho tiempo atrás”, dice Tony Cabello, cofundador de BlitWorks. “Después de llevar la… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/larian-studios-barcelona",
           "publishedOn": "2021-06-02T18:25:11.000Z",
-          "wordCount": 795,
+          "wordCount": 785,
           "title": "Larian Studios, desarrollador de Baldur's Gate III, abre un nuevo estudio en Barcelona"
         },
         {
@@ -216,7 +333,7 @@
           "description": "Hermen Hulst, máximo responsable de PlayStation Studios, ha anunciado mediante una sesión de preguntas y respuestas publicada en el blog oficial de PlayStation que el nuevo God of War en manos de Santa Monica Studio se retrasa y estará disponible durante el 2022. Hulst también ha confirmado que tanto God of War como Gran Turismo 7 tendrán versión para PlayStation 4 y PlayStation 5. Por su parte y si no hay sobresaltos, Horizon Forbidden West llegará este año. En una de las respuestas, Hulst explica que Horizon Forbidden West y el nuevo God of War han tenido problemas debido a la… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/god-of-war-retraso-ps5",
           "publishedOn": "2021-06-02T17:08:39.000Z",
-          "wordCount": 902,
+          "wordCount": 892,
           "title": "El nuevo God of War se retrasa al 2022 y al igual que Gran Turismo 7 también estará disponible en PS4"
         },
         {
@@ -225,7 +342,7 @@
           "description": "Trunks: The Warrior of Hope (o Trunks: El Guerrero de la Esperanza), el tercer contenido adicional de Dragon Ball Z: Kakarot que permitirá adentrarse en el pasado de Trunks, estará disponible el 11 de junio, según ha revelado Bandai Namco. El mencionado complemento forma parte del pase de temporada que se vende por 24,99 euros. Este contenido narrará la historia de un mundo alternativo en el que Goku ha sucumbido a su enfermedad cardíaca y la mayoría de los defensores de la Tierra han caído a manos de los androides. La campaña está protagonizada por versiones alternativas de Trunks,… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_dragon-ball-z-kakarot-recibira-el-contenido-trunks-the-warrior-of-hope-el-11-de-junio_2424911",
           "publishedOn": "2021-06-02T16:30:16.000Z",
-          "wordCount": 578,
+          "wordCount": 736,
           "title": "Breve: Dragon Ball Z: Kakarot recibirá el contenido Trunks: The Warrior of Hope el 11 de junio"
         },
         {
@@ -234,7 +351,7 @@
           "description": "505 Games ha anunciado que la versión de Ghostrunner para PlayStation 5 y Xbox Series estará disponible en formato físico y digital el 28 de septiembre a cambio de 29,99 euros. Los propietarios de las versiones del juego para Xbox One y PlayStation 4 podrán actualizar de forma gratuita. El editor también recuerda que la versión de Nintendo Switch sigue prevista para el 25 de junio. Ghostrunner para PS5 y Xbox Series tendrá soporte para HDR, un modo de trazado de rayos, audio 3D y podrá alcanzar los 4K y 120 FPS. El juego también sacará partido del SSD para reducir los tiempos de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_ghostrunner-para-playstation-5-y-xbox-series-estara-disponible-el-28-de-septiembre_2424910",
           "publishedOn": "2021-06-02T16:17:23.000Z",
-          "wordCount": 299,
+          "wordCount": 336,
           "title": "Breve: Ghostrunner para PlayStation 5 y Xbox Series estará disponible el 28 de septiembre"
         },
         {
@@ -243,7 +360,7 @@
           "description": "Y una más. El estudio de desarrollo británico Hello Games ha anunciado que los jugadores de No Man’s Sky ya tienen disponible para su descarga la actualización gratuita Prisms que presenta dos grandes novedades: un rediseño visual que aumenta la calidad gráfica del juego y criaturas voladoras sobre las que se puede montar. El último contenido que recibió el título fue Expeditions, que a finales de mayo añadió eventos comunitarios. Entre las nuevas características gráficas que presenta No Man’s Sky tenemos la iluminación volumétrica que mejora la iluminación en varias zonas, efectos de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/no-mans-sky-actualizacion-prisms",
           "publishedOn": "2021-06-02T16:04:29.000Z",
-          "wordCount": 887,
+          "wordCount": 877,
           "title": "No Man’s Sky recibe un rediseño visual con la actualización Prisms"
         },
         {
@@ -252,7 +369,7 @@
           "description": "Nintendo ha puesto día y hora al Direct que emitirá dentro de dos semanas con motivo del E3 2021. La cita será el martes 15 de junio a las 18:00 hora peninsular española y el evento durará unos 40 minutos durante los cuales se ofrecerá “información exclusiva sobre juegos para Nintendo Switch que mayormente estarán disponibles en 2021”, dice la compañía en Twitter. Posteriormente se emitirá un Nintendo Treehouse: Live de 3 horas. De momento no se ha pronunciado ninguna palabra sobre la posibilidad de ver nuevo hardware. Evidentemente, Nintendo no ha soltado prenda sobre qué software… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/nintendo-direct-e3-2021",
           "publishedOn": "2021-06-02T14:10:34.000Z",
-          "wordCount": 816,
+          "wordCount": 806,
           "title": "Nintendo anuncia un Direct para el 15 de junio a las 18:00 horas"
         },
         {
@@ -270,7 +387,7 @@
           "description": "Boulanger, una cadena de tiendas francesa, ha listado en su sistema interno la consola Nintendo Switch Pro con un precio de 399 euros, según informa Nintend'Alerts en Twitter. Por otro lado, la cuenta Centro Pokémon ha usado la misma red social para indicar que un “importante” minorista ha sumado en su sistema una nueva entrada relacionada con hardware de Nintendo Switch. Estas dos informaciones llegan después de que no pocos rumores hayan apuntado a que Nintendo presentará un nuevo y más potente modelo de Switch antes del E3 2021, que se celebrará la próxima semana. Las horas corren… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_un-minorista-frances-lista-switch-pro-por-399-euros_2424879",
           "publishedOn": "2021-06-02T13:02:00.000Z",
-          "wordCount": 1931,
+          "wordCount": 2260,
           "title": "Breve: Un minorista francés lista Switch Pro por 399 euros"
         },
         {
@@ -279,7 +396,7 @@
           "description": "Los suscriptores de Amazon Prime suelen tener cada mes la posibilidad de aumentar su biblioteca de juegos digitales y en junio tendrán la oportunidad de hacerse con once títulos entre los que se incluyen Battlefield 4 y Batman - The Telltale Series. Paralelamente, Amazon ha comunicado que este año el Prime Day, un evento de dos días durante el cual se rebajan miles de productos y compañía registra récords de facturación, tendrá lugar del 21 al 22 de junio. Empezamos con los juegos para comentar que Battlefield 4 se puede reclamar sin coste adicional mediante Prime Gaming desde hoy y… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/amazon-prime-day-2021",
           "publishedOn": "2021-06-02T12:47:27.000Z",
-          "wordCount": 820,
+          "wordCount": 810,
           "title": "Amazon regala Battlefield 4 y otros diez juegos con Prime Gaming y confirma las fechas del Prime Day"
         },
         {
@@ -288,7 +405,7 @@
           "description": "SNK ha anunciado un nuevo retraso en la ventana de lanzamiento de The King of Fighters XV (KOF XV), cuya llegada al mercado se espera para el primer trimestre de 2022. Hasta ahora la nueva entrega del juego de lucha estaba prevista para el 2021. Esta es la segunda vez que el título sufre un cambio de fecha y en esta ocasión la razón esgrimida por la compañía japonesa es el impacto que la pandemia de COVID-19 ha tenido en el cronograma de desarrollo. “Hay muchos fans que esperan el lanzamiento de The King of Fighters XV en 2021, sin embargo, ahora debemos anunciar que The King of… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/the-king-of-fighters-xv-retraso-2022",
           "publishedOn": "2021-06-02T09:44:18.000Z",
-          "wordCount": 752,
+          "wordCount": 742,
           "title": "The King of Fighters XV se retrasa al primer trimestre de 2022"
         },
         {
@@ -297,125 +414,8 @@
           "description": "En 2007 los jugadores de World of Warcraft viajaron más allá el Portal Oscuro y se adentraron en el mundo destrozado de Terrallende gracias al lanzamiento de The Burning Crusade, la primera y para muchos mejor expansión del MMO hasta la fecha. Esta medianoche la historia se repetirá con la llegada de Burning Crusade Classic, una fiel recreación del veterano contenido que permitirá a los usuarios de World of Warcraft Classic avanzar en su aventura retro concebida por Blizzard Entertainment. Cuando los jugadores de World of Warcraft Classic crucen el Portal Oscuro se encontrarán en… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/world-of-warcraft-classic-burning-crusade",
           "publishedOn": "2021-06-01T20:48:27.000Z",
-          "wordCount": 864,
+          "wordCount": 854,
           "title": "World of Warcraft Classic se aventura más allá del Portal Oscuro con la llegada de Burning Crusade"
-        },
-        {
-          "id": "46189_v1",
-          "author": null,
-          "description": "El editor The Irregular Corporation ha mostrado el tráiler de lanzamiento de Going Medieval para recordar que desde hoy este simulador de supervivencia y gestión de colonias en manos del equipo independiente serbio Foxy Voxel se encuentra disponible para PC mediante Steam, Epic Games Store y GOG en formato de acceso anticipado a cambio de 22,99 euros. El título se mantendrá en desarrollo y bajo la protección del mencionado programa “durante al menos un año”. Going Medieval transporta a los jugadores hasta 1346, cuando el mundo empezaba a recuperarse de la devastadora pandemia… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/going-medieval-acceso-anticipado",
-          "publishedOn": "2021-06-01T20:16:18.000Z",
-          "wordCount": 535,
-          "title": "Going Medieval, un simulador de supervivencia y gestión de colonias, inicia su acceso anticipado"
-        },
-        {
-          "id": "46187_v1",
-          "author": null,
-          "description": "Finalmente Electronic Arts ha puesto fecha y hora a la presentación del nuevo Battlefield. La cita será el miércoles 9 de junio a las 16:00 hora peninsular española en YouTube, justo antes de que empiece toda la actividad que rodea el E3 2021. Quizás el próximo Battlefield forma parte de alguno de los eventos y hay que anunciarlo antes. Más allá de las tradicionales promesas de ofrecer la mejor y más grande entrega de la saga posible, el editor estadounidense ha dicho muy poco sobre el nuevo Battlefield. Oskar Gabrielson, gerente de DICE, ha comentado que el juego supone un paso… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_el-nuevo-battlefield-se-presentara-el-9-de-junio_2424827",
-          "publishedOn": "2021-06-01T18:00:36.000Z",
-          "wordCount": 2536,
-          "title": "Breve: El nuevo Battlefield se presentará el 9 de junio"
-        },
-        {
-          "id": "46186_v1",
-          "author": null,
-          "description": "Bethesda Softworks y Zenimax Online Studios han celebrado con una cinemática que los jugadores de The Elder Scrolls Online (TESO) en PC ya tienen disponible la expansión o capítulo Blackwood, que destaca por sumar ubicaciones que recordarán aquellos que hayan jugado a The Elder Scrolls IV: Oblivion. Los jugadores de PlayStation 4 y Xbox One recibirán el nuevo contenido el 8 de junio. Blackwood es la parte central de la aventura anual Gates of Oblivion y en ella los jugadores entrarán en una nueva zona de Tamriel con el objetivo de descubrir los planes del príncipe daédrico Mehrunes… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/elder-scrolls-online-blackwook-lanzamiento",
-          "publishedOn": "2021-06-01T17:50:35.000Z",
-          "wordCount": 821,
-          "title": "The Elder Scrolls Online vuelve a Oblivion con el lanzamiento de Blackwood"
-        },
-        {
-          "id": "46185_v1",
-          "author": null,
-          "description": "Junio es el mes de historia LGBT y para celebrarlo Microsoft y el desarrollador Dontnod Entertainment (Life is Strange) ofrecen de forma gratuita los tres capítulos que componen la aventura narrativa Tell Me Why. El título, que cuenta con un protagonista transgénero, se puede conseguir en consolas Xbox, Microsoft Store y Steam. Tell Me Why explica la historia de los gemelos Tyler y Alyson Ronan, que con motivo de la muerte de su madre se reúnen por primera vez después de 10 años separados. Cuando se encuentran en el pequeño pueblo de Alaska donde pasaron sus primeros años de vida, los… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_tell-me-why-se-ofrece-gratis-durante-junio_2424814",
-          "publishedOn": "2021-06-01T16:38:42.000Z",
-          "wordCount": 1302,
-          "title": "Breve: Tell Me Why se ofrece gratis durante junio"
-        },
-        {
-          "id": "46184_v1",
-          "author": null,
-          "description": "Después de soltar un par de pistas en Twitter, Crytek ha confirmado la existencia de Crysis 2 Remastered y Crysis 3 Remastered, dos remasterizaciones que se unirán a la ya disponible del primer juego para formar Crysis Remastered Trilogy. La colección, que estará disponible en otoño para PlayStation 4, Xbox One, Nintendo Switch y PC, se ha presentado junto a un tráiler donde podemos ver el primer gameplay de los gráficamente renovados Crysis 2 y Crysis 3. Los tres títulos incluidos en Crysis Remastered Trilogy incluyen únicamente la campaña para un jugador y han sido desarrollados por… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/crysis-remastered-trilogy-anunciado",
-          "publishedOn": "2021-06-01T15:20:53.000Z",
-          "wordCount": 780,
-          "title": "Crytek anuncia Crysis Remastered Trilogy"
-        },
-        {
-          "id": "46183_v1",
-          "author": null,
-          "description": "La desarrolladora independiente DreamSmith Studios y el editor Ukuza han comunicado que Monobot, un juego de plataformas en 2D protagonizado por un robot llamado Mono, se pondrá a la venta el 18 de junio para PC mediante Steam. Los interesados tienen disponible en Steam una demo que permite probar el juego. Monobot es un título de plataformas en 2D con rompecabezas basados en la física en el que se toma el control de Mono, un pequeño ente robótico atrapado en un mundo hostil ubicado en un futuro oscuro y lejano. Los jugadores deberán guiar a Mono a lo largo de un viaje para descubrir… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_el-juego-de-plataformas-en-2d-monobot-estara-disponible-el-18-de-junio_2424804",
-          "publishedOn": "2021-06-01T15:09:33.000Z",
-          "wordCount": 320,
-          "title": "Breve: El juego de plataformas en 2D Monobot estará disponible el 18 de junio"
-        },
-        {
-          "id": "46182_v1",
-          "author": null,
-          "description": "El desarrollador ustwo games (Monument Valley) ha anunciado que Alba: A Wildlife Adventure, un juego protagonizado por una joven que emprende una cruzada por salvar a los animales de una isla mediterránea, se pondrá a la venta el 9 de junio en PS4, PS5, Xbox One, Xbox Series y Nintendo Switch. Hasta ahora el título estaba disponible en PC y Apple Arcade. En Alba: A Wildlife Adventure los jugadores deberán acompañar a Alba, que durante una visita a sus abuelos en una isla del Mediterráneo decide junto a su amiga Inés crea la LRFAI, una organización cuyo objetivo es salvar la isla. Si… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_alba-a-wildlife-adventure-llegara-a-todas-las-consolas-el-9-de-junio_2424800",
-          "publishedOn": "2021-06-01T14:48:16.000Z",
-          "wordCount": 308,
-          "title": "Breve: Alba: A Wildlife Adventure llegará a todas las consolas el 9 de junio"
-        },
-        {
-          "id": "46181_v1",
-          "author": null,
-          "description": "Microsoft ha revelado una pequeña alineación de juegos que durante la primera quincena de junio pasarán a formar parte de Xbox Game Pass. Esta timidez posiblemente se deba a que el 13 de junio está programada la Xbox & Bethesda Games Showcase, evento que la compañía tiene marcado a fuego en el calendario y durante el cual deberían anunciarse nuevas y más potentes incorporaciones al servicio de suscripción. Al final de la noticia encontraréis una lista con los juegos que dicen adiós. Backbone debuta directamente en Xbox Game Pass para PC y estará disponible el 8 de junio, el mismo día… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/xbox-game-pass-junio-2021-backbone",
-          "publishedOn": "2021-06-01T14:17:26.000Z",
-          "wordCount": 868,
-          "title": "Backbone, Darkest Dungeon y For Honor llegan a Xbox Game Pass"
-        },
-        {
-          "id": "46180_v1",
-          "author": null,
-          "description": "El desarrollador Innersloth ha revelado que durante el fin de semana la versión de Among Us para PC consiguió superar los 2 millones de usuarios, gracias a que el juego se ofrece desde el pasado jueves de forma gratuita mediante la Epic Games Store. Habitualmente esta versión del título suma unos 300.000 usuarios diarios. Innersloth explica que no todos los jugadores de Among Us son nuevos, ya que muchos de ellos han aprovechado que el juego se ofrece de forma gratuita en PC para probar esta versión. También hay que tener en cuenta que el pasado lunes era fiesta en Estados Unidos, así… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_among-us-supera-los-2-millones-de-jugadores-diarios-en-pc-tras-ofrecerse-gratis-en-la-epic-games-store_2424785",
-          "publishedOn": "2021-06-01T13:20:31.000Z",
-          "wordCount": 639,
-          "title": "Breve: Among Us supera los 2 millones de jugadores diarios en PC tras ofrecerse gratis en la Epic Games Store"
-        },
-        {
-          "id": "46178_v1",
-          "author": null,
-          "description": "Fue anunciado el 18 de marzo y como indica su tráiler de lanzamiento ya está disponible. Hablamos de Necromunda: Hired Gun, un nuevo shooter en primera persona editado por Focus Home Interactive, desarrollado por el equipo francés Streum On Studio y ambientado en el universo Warhammer 40,000. Desde hoy el título se encuentra a la venta en formato digital para PS4, PS5, Xbox One, Xbox Series y PC (Steam), mientras que a las tiendas tradicionales llegará el 30 de junio a cambio de 39,99 euros. Necromunda: Hired Gun tiene como protagonista a un cazarrecompensas, que acompañado de su… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/necromunda-hired-gun-trailer-lanzamiento",
-          "publishedOn": "2021-06-01T12:10:40.000Z",
-          "wordCount": 790,
-          "title": "Tráiler de lanzamiento de Necromunda: Hired Gun, un shooter ambientado en el universo Warhammer 40,000"
-        },
-        {
-          "id": "46179_v1",
-          "author": null,
-          "description": "La conferencia de AMD en la Computex 2021 ha estado llena de sorpresas. Tal vez la más importante sea el lanzamiento de su esperado rival de código abierto para DLSS, acortando la distancia con Nvidia, pero el conocido como \"Equipo Rojo\" también ha desvelado nuevas GPU para portátiles y realizado anuncios técnicos de cierto calibre. Comenzando por las GPU para portátiles, tras una espera que se hacía ya interminable AMD ha dado a conocer los detalles de la familia Radeon RX 6000M. Basada en la arquitectura RDNA2 y apuntalados en diseños Navi 22 y Navi 23, estas tres primeras tarjetas… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/amd-gpu-radeon-rx-6000m-portatiles-samsung-exynos",
-          "publishedOn": "2021-06-01T11:51:43.000Z",
-          "wordCount": 927,
-          "title": "AMD anuncia las GPU Radeon RX 6000M para portátiles y avanza que el próximo Samsung Exynos tendrá RDNA2 y ray-tracing"
-        },
-        {
-          "id": "46177_v1",
-          "author": null,
-          "description": "Hace años que Ubisoft niega la mayor cuando afirma que sus juegos no son políticos. Con Far Cry 6 la compañía intentó hacer lo mismo mediante el director narrativo Navid Khavari, que en una entrevista a TheGamer dijo que Far Cry 6 “no pretende hacer una declaración política sobre lo que está ocurriendo en Cuba”. Esta explicación que parecía rechazar cualquier tema político en Far Cry 6, levantó el suficiente revuelo como para que Khavari haya tenido que aclarar sus palabras y afirmar que definitivamente tienen entre manos un juego político. “Nuestra historia es política. Una historia… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/far-cry-6-politica",
-          "publishedOn": "2021-06-01T11:26:12.000Z",
-          "wordCount": 763,
-          "title": "“Nuestra historia es política”, dice el director narrativo de Far Cry 6"
-        },
-        {
-          "id": "46176_v1",
-          "author": null,
-          "description": "Allá por noviembre de 2020 AMD anunció la gama Radeon RX 6000, una familia de tarjetas gráficas que, sin cambiar la situación de dominio casi absoluto de Nvidia, estaban mejor situadas que productos anteriores para competir con las GeForce RTX de última generación. El problema que tenían, aparte de su bajo rendimiento con ray tracing, es que carecían de una tecnología análoga al supersampling por IA propuesto por sus rivales, aunque durante el evento de presentación de las GPU se dio a entender que ya estaba en camino. Y aquí lo tenemos. Durante su evento en la Computex 2021 AMD ha… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/amd-fidelityfx-super-resolution-respuesta-nvidia-dlss",
-          "publishedOn": "2021-06-01T08:54:25.000Z",
-          "wordCount": 811,
-          "title": "AMD desvela FidelityFX Super Resolution, su respuesta de código abierto a Nvidia DLSS"
         }
       ]
     },

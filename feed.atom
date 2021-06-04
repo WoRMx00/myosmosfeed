@@ -2,162 +2,398 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T02:41:38.961Z</updated>
+    <updated>2021-06-04T02:03:34.539Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management]]></title>
-        <id>https://news.ycombinator.com/item?id=27376383</id>
-        <link href="https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html"/>
-        <updated>2021-06-03T02:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html
-Comments URL: https://news.ycombinator.com/item?id=27376383
-Points: 42
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[NitrOS-9, Unix-like operating system for the 6809]]></title>
+        <id>https://news.ycombinator.com/item?id=27389103</id>
+        <link href="https://nitros9.sourceforge.io/wiki/index.php/Main_Page"/>
+        <updated>2021-06-04T00:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page
+Comments URL: https://news.ycombinator.com/item?id=27389103
+Points: 5
+# Comments: 0]]></summary>
         <author>
-            <name>thunderbong</name>
+            <name>bilegeek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Etleap (YC W13) Is Hiring a Technical End User Documentation Writer]]></title>
-        <id>https://news.ycombinator.com/item?id=27375951</id>
-        <link href="https://news.ycombinator.com/item?id=27375951"/>
-        <updated>2021-06-03T01:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Technical Writer
-We are looking for a technical writer to take our technical product documentation to the next level, and help us maintain it on an ongoing basis.
-The project is 2-3 months half-time to start, and then a few hours a week following that.
-What you are going to do:
-- Build out large sections of our end user documentation, making the site comprehensive and intuitive.
-- Work closely with our engineering team to become an expert user of our product and extract insights
-- Interview our engineers and users in order to create tutorials for appropriate topics
-What we want to see in you:
--Experience writing end user documentation sites that include UI how-tos, at least one, ideally two or more.
-- Experience writing and understanding for highly technical software products.
-- High degree of user empathy - our docs will take hard technical concepts and translate to language that is a pleasure to read.
-To apply, send your resume to jobs@etleap.com.
-Comments URL: https://news.ycombinator.com/item?id=27375951
+        <title type="html"><![CDATA[Genetic study finds the brain is most similar to – testicles?]]></title>
+        <id>https://news.ycombinator.com/item?id=27389012</id>
+        <link href="https://www.studyfinds.org/brain-most-similar-to-testicles/"/>
+        <updated>2021-06-04T00:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.studyfinds.org/brain-most-similar-to-testicles/
+Comments URL: https://news.ycombinator.com/item?id=27389012
+Points: 47
+# Comments: 22]]></summary>
+        <author>
+            <name>davesailer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filtrados los planes de 2K para el E3: un juego al estilo XCOM con personajes de Marvel, spin-off de Borderlands y más]]></title>
+        <id>46213_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/2k-filtracion-e3-2021"/>
+        <updated>2021-06-04T00:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Ya tenemos entre nosotros la primera gran filtración del E3 2021. Este año la víctima ha sido 2K Games, el sello de Take-Two que ha visto correr por Reddit una lista con algunos de los juegos que presentará durante la próxima semana. La información ha sido verificada por múltiples fuentes, incluyendo al periodista Jason Schreier de Bloomberg, Video Games Chronicle y Venturebeat, así que difícilmente alguien se quemará si pone la mano en el fuego. El título que más llama la atención es el nuevo proyecto de Firaxis Games que se esconde bajo el nombre en clave CODA. Según la información… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook deals with PCIe faults to keep our data centers running reliably]]></title>
+        <id>https://news.ycombinator.com/item?id=27388832</id>
+        <link href="https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/"/>
+        <updated>2021-06-03T23:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/
+Comments URL: https://news.ycombinator.com/item?id=27388832
+Points: 26
+# Comments: 2]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square Enix celebrará un evento el 13 de junio protagonizado por Babylon's Fall y el nuevo juego de Eidos Montréal]]></title>
+        <id>46212_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/square-enix-presents-e3-2021"/>
+        <updated>2021-06-03T23:28:24.000Z</updated>
+        <summary type="html"><![CDATA[El calendario de eventos del E3 2021 sigue sumando compañías y en esta ocasión toca hablar de Square Enix, que celebrará una edición digital del Square Enix Presents el domingo 13 de junio a las 21:15 hora peninsular española. Es decir, justo después del Xbox & Bethesda Games Showcase. La compañía japonesa no se ha limitado a ofrecer fecha y hora, sino que también ha avanzado algunos de los juegos que mostrará durante el evento que se podrá seguir mediante YouTube y Twitch. El Square Enix Presents servirá para mostrar el nuevo juego Eidos Montréal. La literatura oficial termina ahí y… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML and CSS techniques to reduce your JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27388691</id>
+        <link href="https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/"/>
+        <updated>2021-06-03T23:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
+Comments URL: https://news.ycombinator.com/item?id=27388691
+Points: 87
+# Comments: 27]]></summary>
+        <author>
+            <name>______-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)]]></title>
+        <id>https://news.ycombinator.com/item?id=27388639</id>
+        <link href="http://www.geoffreylandis.com/ebullism.html"/>
+        <updated>2021-06-03T23:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.geoffreylandis.com/ebullism.html
+Comments URL: https://news.ycombinator.com/item?id=27388639
+Points: 9
+# Comments: 2]]></summary>
+        <author>
+            <name>Hooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The lab-leak theory: inside the fight to uncover Covid-19’s origins]]></title>
+        <id>https://news.ycombinator.com/item?id=27388587</id>
+        <link href="https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins"/>
+        <updated>2021-06-03T23:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins
+Comments URL: https://news.ycombinator.com/item?id=27388587
+Points: 196
+# Comments: 208]]></summary>
+        <author>
+            <name>camjohnson26</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘I Had Never Faced the Reality of Death’: A Surgeon Becomes a Patient]]></title>
+        <id>https://news.ycombinator.com/item?id=27388513</id>
+        <link href="https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html"/>
+        <updated>2021-06-03T22:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html
+Comments URL: https://news.ycombinator.com/item?id=27388513
+Points: 41
+# Comments: 18]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony muestra un carrusel de juegos para PS VR incluyendo Sniper Elite VR, Fracked y After the Fall]]></title>
+        <id>46211_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/playstation-vr-spotlight-junio"/>
+        <updated>2021-06-03T22:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Con la llegada de PlayStation 5 y el anuncio de una nueva generación de realidad virtual, el actual modelo de PlayStation VR ha quedado un poco en tierra de nadie. A pesar de ello, Sony sigue promocionando juegos que aprovechan su dispositivo y como muestra tenemos una nueva entrega del evento PS VR Spotlight, cuya última edición ha destacado con tráileres y detalles siete próximos lanzamientos para el visor de realidad virtual. Empezamos hablando de un título que ya tiene fecha de lanzamiento, Sniper Elite VR, que estará disponible el 8 de julio en PS VR, Steam y Oculus. Este juego… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stanford CS Curriculum 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27388391</id>
+        <link href="https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview"/>
+        <updated>2021-06-03T22:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
+Comments URL: https://news.ycombinator.com/item?id=27388391
+Points: 71
+# Comments: 27]]></summary>
+        <author>
+            <name>mauriziocalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elixir at Ramp]]></title>
+        <id>https://news.ycombinator.com/item?id=27388134</id>
+        <link href="https://engineering.ramp.com/elixir-at-ramp/"/>
+        <updated>2021-06-03T22:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.ramp.com/elixir-at-ramp/
+Comments URL: https://news.ycombinator.com/item?id=27388134
+Points: 22
+# Comments: 3]]></summary>
+        <author>
+            <name>clessg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyPilot: Month 11]]></title>
+        <id>https://news.ycombinator.com/item?id=27387978</id>
+        <link href="https://mtlynch.io/retrospectives/2021/06/"/>
+        <updated>2021-06-03T22:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mtlynch.io/retrospectives/2021/06/
+Comments URL: https://news.ycombinator.com/item?id=27387978
+Points: 60
+# Comments: 34]]></summary>
+        <author>
+            <name>tnorthcutt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presentado el run and gun Warhammer 40,000: Shootas, Blood & Teef]]></title>
+        <id>46210_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/warhammer-40000-shootas-blood-teef-anunciado"/>
+        <updated>2021-06-03T21:47:09.000Z</updated>
+        <summary type="html"><![CDATA[La celebración del evento Warhammer Skulls nos deja un tercer anuncio, el de Warhammer 40,000: Shootas, Blood & Teef, un run and gun con plataformas desarrollado por el estudio belga Rogueside responsable de la saga Guns, Gore & Cannoli. Antes han desfilado por la portada el cooperativo Warhammer: 40,000 Darktide de Fatshark y el RPG táctico por turnos Warhammer 40,000: Chaos Gate - Daemonhunters, que se encuentra en manos de Complex Games. Warhammer 40,000: Shootas, Blood & Teef tiene como protagonistas a los Orkos, una raza salvaje conocida como la horda verde que arrasan estrellas… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telnet Mapscii.me]]></title>
+        <id>https://news.ycombinator.com/item?id=27387585</id>
+        <link href="http://mapscii.me"/>
+        <updated>2021-06-03T21:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://mapscii.me
+Comments URL: https://news.ycombinator.com/item?id=27387585
+Points: 59
+# Comments: 16]]></summary>
+        <author>
+            <name>dTal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-11 is opening 500 EV charging stations by the end of 2022]]></title>
+        <id>https://news.ycombinator.com/item?id=27387482</id>
+        <link href="https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/"/>
+        <updated>2021-06-03T21:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/
+Comments URL: https://news.ycombinator.com/item?id=27387482
+Points: 109
+# Comments: 64]]></summary>
+        <author>
+            <name>evo_9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound (YC S19) is hiring to build financial products for startup employees]]></title>
+        <id>https://news.ycombinator.com/item?id=27387237</id>
+        <link href="https://jobs.lever.co/compound"/>
+        <updated>2021-06-03T21:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/compound
+Comments URL: https://news.ycombinator.com/item?id=27387237
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>romming</name>
+            <name>jrdngonen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine]]></title>
-        <id>https://news.ycombinator.com/item?id=27375856</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1"/>
-        <updated>2021-06-03T00:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1
-Comments URL: https://news.ycombinator.com/item?id=27375856
-Points: 23
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Predictive Coding Can Do Exact Backpropagation on Any Neural Network]]></title>
+        <id>https://news.ycombinator.com/item?id=27387156</id>
+        <link href="https://arxiv.org/abs/2103.04689"/>
+        <updated>2021-06-03T20:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2103.04689
+Comments URL: https://news.ycombinator.com/item?id=27387156
+Points: 62
+# Comments: 5]]></summary>
         <author>
-            <name>femto</name>
+            <name>MindGods</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ransomware – Unauthorized access to Fujifilm servers]]></title>
-        <id>https://news.ycombinator.com/item?id=27375401</id>
-        <link href="https://www.fujifilm.com/jp/en/news/hq/6642#"/>
-        <updated>2021-06-02T23:44:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fujifilm.com/jp/en/news/hq/6642#
-Comments URL: https://news.ycombinator.com/item?id=27375401
-Points: 12
+        <title type="html"><![CDATA[Yann LeCun Deep Learning Course 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27387154</id>
+        <link href="https://atcold.github.io/NYU-DLSP21/"/>
+        <updated>2021-06-03T20:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://atcold.github.io/NYU-DLSP21/
+Comments URL: https://news.ycombinator.com/item?id=27387154
+Points: 26
 # Comments: 3]]></summary>
         <author>
-            <name>zaitanz</name>
+            <name>g42gregory</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When six boys were shipwrecked for 15 months (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27375076</id>
-        <link href="https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months"/>
-        <updated>2021-06-02T23:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months
-Comments URL: https://news.ycombinator.com/item?id=27375076
-Points: 118
-# Comments: 35]]></summary>
+        <title type="html"><![CDATA[U.S. to give ransomware hacks similar priority as terrorism, official says]]></title>
+        <id>https://news.ycombinator.com/item?id=27387110</id>
+        <link href="https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD"/>
+        <updated>2021-06-03T20:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD
+Comments URL: https://news.ycombinator.com/item?id=27387110
+Points: 428
+# Comments: 312]]></summary>
         <author>
-            <name>smollett</name>
+            <name>mjreacher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple asks staff to return to office 3 days a week starting in early September]]></title>
-        <id>https://news.ycombinator.com/item?id=27375067</id>
-        <link href="https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september"/>
-        <updated>2021-06-02T22:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september
-Comments URL: https://news.ycombinator.com/item?id=27375067
-Points: 128
-# Comments: 26]]></summary>
+        <title type="html"><![CDATA[Anunciado Warhammer 40,000: Chaos Gate - Daemonhunters, un reinicio del RPG táctico por turnos]]></title>
+        <id>46209_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/warhammer-40000-chaos-gate-daemonhunters-anunciado"/>
+        <updated>2021-06-03T20:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Frontier Foundry, el sello editorial del desarrollador británico Frontier (Elite Dangerous, Jurassic World Evolution), ha anunciado Warhammer 40.000: Chaos Gate - Daemonhunters, un reinicio del clásico RPG táctico por turnos en manos del equipo canadiense Complex Games. El juego, del que ya tenemos los primeros detalles y un teaser tráiler, estará disponible durante el 2022 para PC mediante Steam y Epic Games Store. La historia de Warhammer 40.000: Chaos Gate - Daemonhunters corre a cargo de Aaron Dembski-Bowden, escritor de varias novelas ambientadas en el universo Warhammer como… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>coloneltcb</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Malloc broke Serenity's JPGLoader, or: how to win the lottery]]></title>
-        <id>https://news.ycombinator.com/item?id=27374942</id>
-        <link href="https://sin-ack.github.io/posts/jpg-loader-bork/"/>
-        <updated>2021-06-02T22:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/
-Comments URL: https://news.ycombinator.com/item?id=27374942
-Points: 108
-# Comments: 24]]></summary>
-        <author>
-            <name>trashburger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Italian Car Design History]]></title>
-        <id>https://news.ycombinator.com/item?id=27374893</id>
-        <link href="https://www.cardesignhistory.com/"/>
-        <updated>2021-06-02T22:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cardesignhistory.com/
-Comments URL: https://news.ycombinator.com/item?id=27374893
-Points: 35
-# Comments: 8]]></summary>
-        <author>
-            <name>spamalot159</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyoming site of new nuclear power plant from Bill Gates' TerraPower]]></title>
-        <id>https://news.ycombinator.com/item?id=27374840</id>
-        <link href="https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html"/>
-        <updated>2021-06-02T22:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html
-Comments URL: https://news.ycombinator.com/item?id=27374840
-Points: 122
-# Comments: 42]]></summary>
-        <author>
-            <name>spenrose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Transform a CSV into a JSON and vice versa]]></title>
-        <id>https://news.ycombinator.com/item?id=27374632</id>
-        <link href="https://jsonmatic.com/"/>
-        <updated>2021-06-02T22:07:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jsonmatic.com/
-Comments URL: https://news.ycombinator.com/item?id=27374632
-Points: 30
-# Comments: 20]]></summary>
-        <author>
-            <name>okumurahata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Giant Corpse Flower Got to an Abandoned Gas Station]]></title>
-        <id>https://news.ycombinator.com/item?id=27373978</id>
-        <link href="https://www.atlasobscura.com/articles/corpse-flower-california"/>
-        <updated>2021-06-02T21:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/corpse-flower-california
-Comments URL: https://news.ycombinator.com/item?id=27373978
-Points: 28
+        <title type="html"><![CDATA[Distributed Cloud Builds for Everyone]]></title>
+        <id>https://news.ycombinator.com/item?id=27385796</id>
+        <link href="https://blog.nelhage.com/post/distributed-builds-for-everyone/"/>
+        <updated>2021-06-03T18:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.nelhage.com/post/distributed-builds-for-everyone/
+Comments URL: https://news.ycombinator.com/item?id=27385796
+Points: 55
 # Comments: 10]]></summary>
         <author>
-            <name>turtlegrids</name>
+            <name>nsm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warhammer: 40,000 Darktide detalla su historia coescrita por Dan Abnett, autor de múltiples novelas del universo 40K]]></title>
+        <id>46208_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/warhammer-40000-darktide-dan-abnett"/>
+        <updated>2021-06-03T18:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Fatshark ha anunciado que Warhammer: 40,000 Darktide tendrá una historia desarrollada “en estricta colaboración con Dan Abnett”, un autor superventas que ha escrito múltiples novelas y novelas gráficas ambientadas en el universo de Warhammer y Warhammer 40,000. Con motivo de esta contratación el estudio sueco ha ofrecido nuevos detalles sobre la historia de su nuevo juego cooperativo. “Con Warhammer: 40.000 Darktide decidimos enfocarnos en los humanos porque son el corazón y el alma de todo el universo 40K”, explica Dan Abnett. “Jugar como un ser humano enfatiza realmente la… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour of our 250k line Clojure codebase]]></title>
+        <id>https://news.ycombinator.com/item?id=27385208</id>
+        <link href="https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/"/>
+        <updated>2021-06-03T18:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/
+Comments URL: https://news.ycombinator.com/item?id=27385208
+Points: 255
+# Comments: 139]]></summary>
+        <author>
+            <name>grzm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patents in Open Source: the important parts of real cases]]></title>
+        <id>https://news.ycombinator.com/item?id=27385153</id>
+        <link href="https://google.github.io/opencasebook/patents/"/>
+        <updated>2021-06-03T18:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://google.github.io/opencasebook/patents/
+Comments URL: https://news.ycombinator.com/item?id=27385153
+Points: 89
+# Comments: 28]]></summary>
+        <author>
+            <name>tgamblin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new ProtoBuf generator for Go]]></title>
+        <id>https://news.ycombinator.com/item?id=27384911</id>
+        <link href="https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/"/>
+        <updated>2021-06-03T17:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
+Comments URL: https://news.ycombinator.com/item?id=27384911
+Points: 240
+# Comments: 61]]></summary>
+        <author>
+            <name>tanoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortnite mejorará sus gráficos en PC con la actualización 17.00]]></title>
+        <id>46207_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/fortnite-requisitos-epicos-pc"/>
+        <updated>2021-06-03T17:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games ha revelado que la próxima semana y coincidiendo con la llegada del Capítulo 2 - Temporada 7 (actualización 17.00), el popular Fortnite recibirá gráficos mejorados. El aumento de la factura gráfica, que se aplicará tanto al battle royale como el modo Creativo, estará acompañado de unos nuevos requisitos actualizados más elevados y no comportará cambios para el resto de especificaciones de hardware, que seguirán rindiendo como hasta ahora. “Si usáis los ajustes de gráficos ‘épicos’ en un ordenador que cumpla los requisitos del sistema, podréis disfrutar de nuevos efectos… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: The Last Spell llega al acceso anticipado de Steam]]></title>
+        <id>46206_v1</id>
+        <link href="https://www.elotrolado.net/hilo_the-last-spell-llega-al-acceso-anticipado-de-steam_2425013"/>
+        <updated>2021-06-03T16:36:58.000Z</updated>
+        <summary type="html"><![CDATA[El editor The Arcade Crew ha recordado con un tráiler de lanzamiento que The Last Spell, un RPG táctico y roguelike desarrollado por Ishtar Games, ya se encuentra disponible mediante el acceso anticipado de Steam a cambio de 19,99 euros. El título se mantendrá bajo la protección de este programa durante “un año más o menos”. En The Last Spell los jugadores deberán proteger a los supervivientes de la humanidad de hordas de criaturas que han aparecido después de una catástrofe. Los combates son por turnos y exigirán equipar, posicionar y dirigir a los batallones a la vez que se organiza… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Chivalry II, un multijugador de batallas medievales con juego cruzado]]></title>
+        <id>46205_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/chivalry-ii-trailer-lanzamiento"/>
+        <updated>2021-06-03T16:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Nueve años después de encontrar el éxito con Chivalry: Medieval Warfare, el estudio canadiense Torn Banner Studios vuelve a la carga con la secuela Chivalry II, cuyo tráiler de lanzamiento nos recuerda que el juego estará disponible el 8 de junio en PS5, PS4, Xbox One, Xbox Series y PC (Epic Games Store) en formato físico y digital. La predescarga e instalación del título se habilitará el domingo 6 de junio a las 17:00 horas para todas las plataformas. Chivalry II es un juego multijugador en primera persona de combates medievales a gran escala, cuya acción se inspira en las películas… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Frostpunk gratis en la Epic Games Store hasta el 10 de junio]]></title>
+        <id>46204_v1</id>
+        <link href="https://www.elotrolado.net/hilo_frostpunk-gratis-en-la-epic-games-store-hasta-el-10-de-junio_2424999"/>
+        <updated>2021-06-03T15:07:23.000Z</updated>
+        <summary type="html"><![CDATA[El tercer juego misterioso y gratuito de la Epic Games Store es Frostpunk, un título que desde hoy y hasta el 10 de junio a las 17:00 horas se puede añadir a la biblioteca de la tienda digital sin coste alguno. Para la próxima semana nos espera de nuevo un juego cuya identidad aún no ha sido revelada. Desarrollado por 11 bit studios (This War of Mine), Frostpunk es un juego de estrategia y supervivencia en el que los jugadores deben dirigir a una sociedad en un mundo congelado donde “el calor es fuente de vida y cada decisión tiene un precio”. El objetivo es construir una ciudad,… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revelados nuevos detalles de Horizon Forbidden West: escalada libre, combate cuerpo a cuerpo con combos y 60 FPS en PS5]]></title>
+        <id>46203_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/horizon-forbidden-west-detalles-60-fps"/>
+        <updated>2021-06-03T14:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Después de mostrar Horizon Forbidden West en un State of Play que acumula 2,6 millones de visionados, el director del juego Mathijs de Jonge y el director narrativo Benjamin McCaw, han concedido una entrevista a GameInformer donde han ofrecido nuevos detalles sobre el título de Guerrilla Games. Ambos desarrolladores también han hablado sobre la versión del juego para PS4 y confirmado que en PS5 se ofrecerá un modo rendimiento para jugar a 60 FPS. Mathijs De Jonge explica que una de las grandes novedades de Horizon Forbidden West pasa por introducir un sistema de escalada libre que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norton empieza a ofrecer minado de Ethereum en su antivirus]]></title>
+        <id>46201_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/antivirus-norton-minado-ethereum"/>
+        <updated>2021-06-03T10:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Antivirus, herramientas de protección de datos, conexiones a VPN y ahora también minado de criptos. Por extraño (e incluso fuera de lugar) que pueda parecer, NortonLifeLock ha anunciado que la suite de seguridad informática Norton 360 comenzará a minar Ethereum para sus clientes a través de un nuevo producto. Norton Crypto, que es el nombre de este componente, ya se está desplegando de forma limitada a través de un programa de invitaciones previo paso a su disponibilidad generalizada. El anuncio de Norton es tenue en lo que se refiere a detalles técnicos. Según señala el comunicado,… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Studios presenta Team Asobi y liquida definitivamente Japan Studio]]></title>
+        <id>46202_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/team-asobi-playstation-studios"/>
+        <updated>2021-06-03T10:40:46.000Z</updated>
+        <summary type="html"><![CDATA[La reestructuración de los estudios japoneses que Sony Interactive Entertainment anunció el pasado febrero ha sido completada. Esto significa que Japan Studio, uno de los equipos más veteranos de la compañía y el responsable de las sagas Ape Escape, Knack, LocoRoco, Patapon y Gravity Rush, queda desmantelado y su lugar lo ocupa el que hasta no hace mucho era uno de sus estudios internos: Team Asobi, el desarrollador de la franquicia Astro Bot, que crece y gana el título de equipo first-party más joven de PlayStation Studios. “Después del lanzamiento de Astro’s Playroom para… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -171,71 +407,6 @@ Points: 28
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upside Decay]]></title>
-        <id>https://news.ycombinator.com/item?id=27373486</id>
-        <link href="https://brianlui.dog/2020/10/06/upside-decay/"/>
-        <updated>2021-06-02T20:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brianlui.dog/2020/10/06/upside-decay/
-Comments URL: https://news.ycombinator.com/item?id=27373486
-Points: 12
-# Comments: 6]]></summary>
-        <author>
-            <name>skmurphy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Favourite Uses of Typography in Watches]]></title>
-        <id>https://news.ycombinator.com/item?id=27373403</id>
-        <link href="https://www.acollectedman.com/blogs/journal/favourite-typography-watches"/>
-        <updated>2021-06-02T20:05:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.acollectedman.com/blogs/journal/favourite-typography-watches
-Comments URL: https://news.ycombinator.com/item?id=27373403
-Points: 29
-# Comments: 5]]></summary>
-        <author>
-            <name>tmfi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massachusetts Steamship Authority hit by ransomware attack; ferries delayed]]></title>
-        <id>https://news.ycombinator.com/item?id=27372431</id>
-        <link href="https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/"/>
-        <updated>2021-06-02T18:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/
-Comments URL: https://news.ycombinator.com/item?id=27372431
-Points: 144
-# Comments: 199]]></summary>
-        <author>
-            <name>SocksCanClose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaky Abstractions]]></title>
-        <id>https://news.ycombinator.com/item?id=27372292</id>
-        <link href="https://textslashplain.com/2021/06/02/leaky-abstractions/"/>
-        <updated>2021-06-02T18:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
-Comments URL: https://news.ycombinator.com/item?id=27372292
-Points: 279
-# Comments: 42]]></summary>
-        <author>
-            <name>jakub_g</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 2.93 LTS]]></title>
-        <id>https://news.ycombinator.com/item?id=27372285</id>
-        <link href="https://www.blender.org/download/releases/2-93/"/>
-        <updated>2021-06-02T18:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/2-93/
-Comments URL: https://news.ycombinator.com/item?id=27372285
-Points: 199
-# Comments: 33]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Larian Studios, desarrollador de Baldur's Gate III, abre un nuevo estudio en Barcelona]]></title>
         <id>46199_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/larian-studios-barcelona"/>
@@ -243,32 +414,6 @@ Points: 199
         <summary type="html"><![CDATA[Larian Studios ha elegido Barcelona para instalar su séptimo equipo. En lugar de abrir una nueva oficina el estudio de desarrollo belga ha llegado a un acuerdo para quedarse con los activos y el personal de BlitWorks, el equipo responsable de llevar Divinity: Original Sin 2 a Nintendo Switch. BlitWorks seguirá trabajando como un editor independiente mientras que su equipo de desarrollo se centrará exclusivamente en los juegos de Larian Studios. “La historia de BlitWorks con Larian se remonta a mucho tiempo atrás”, dice Tony Cabello, cofundador de BlitWorks. “Después de llevar la… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal shuts down long-time Tor supporter]]></title>
-        <id>https://news.ycombinator.com/item?id=27371787</id>
-        <link href="https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse"/>
-        <updated>2021-06-02T17:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse
-Comments URL: https://news.ycombinator.com/item?id=27371787
-Points: 359
-# Comments: 113]]></summary>
-        <author>
-            <name>tirz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pupil Size Is a Marker of Intelligence]]></title>
-        <id>https://news.ycombinator.com/item?id=27371309</id>
-        <link href="https://www.scientificamerican.com/article/pupil-size-is-a-marker-of-intelligence/"/>
-        <updated>2021-06-02T17:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/pupil-size-is-a-marker-of-intelligence/
-Comments URL: https://news.ycombinator.com/item?id=27371309
-Points: 34
-# Comments: 11]]></summary>
-        <author>
-            <name>davesailer</name>
         </author>
     </entry>
     <entry>
@@ -309,32 +454,6 @@ Points: 34
         <summary type="html"><![CDATA[Y una más. El estudio de desarrollo británico Hello Games ha anunciado que los jugadores de No Man’s Sky ya tienen disponible para su descarga la actualización gratuita Prisms que presenta dos grandes novedades: un rediseño visual que aumenta la calidad gráfica del juego y criaturas voladoras sobre las que se puede montar. El último contenido que recibió el título fue Expeditions, que a finales de mayo añadió eventos comunitarios. Entre las nuevas características gráficas que presenta No Man’s Sky tenemos la iluminación volumétrica que mejora la iluminación en varias zonas, efectos de… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making JavaScript run fast on WebAssembly]]></title>
-        <id>https://news.ycombinator.com/item?id=27370138</id>
-        <link href="https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly"/>
-        <updated>2021-06-02T15:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
-Comments URL: https://news.ycombinator.com/item?id=27370138
-Points: 171
-# Comments: 73]]></summary>
-        <author>
-            <name>0xedb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corpus Clock]]></title>
-        <id>https://news.ycombinator.com/item?id=27370030</id>
-        <link href="https://en.wikipedia.org/wiki/Corpus_Clock"/>
-        <updated>2021-06-02T15:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Corpus_Clock
-Comments URL: https://news.ycombinator.com/item?id=27370030
-Points: 102
-# Comments: 28]]></summary>
-        <author>
-            <name>Hooke</name>
         </author>
     </entry>
     <entry>
@@ -393,136 +512,6 @@ Points: 102
         <link href="https://www.elotrolado.net/noticias/juegos/world-of-warcraft-classic-burning-crusade"/>
         <updated>2021-06-01T20:48:27.000Z</updated>
         <summary type="html"><![CDATA[En 2007 los jugadores de World of Warcraft viajaron más allá el Portal Oscuro y se adentraron en el mundo destrozado de Terrallende gracias al lanzamiento de The Burning Crusade, la primera y para muchos mejor expansión del MMO hasta la fecha. Esta medianoche la historia se repetirá con la llegada de Burning Crusade Classic, una fiel recreación del veterano contenido que permitirá a los usuarios de World of Warcraft Classic avanzar en su aventura retro concebida por Blizzard Entertainment. Cuando los jugadores de World of Warcraft Classic crucen el Portal Oscuro se encontrarán en… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going Medieval, un simulador de supervivencia y gestión de colonias, inicia su acceso anticipado]]></title>
-        <id>46189_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/going-medieval-acceso-anticipado"/>
-        <updated>2021-06-01T20:16:18.000Z</updated>
-        <summary type="html"><![CDATA[El editor The Irregular Corporation ha mostrado el tráiler de lanzamiento de Going Medieval para recordar que desde hoy este simulador de supervivencia y gestión de colonias en manos del equipo independiente serbio Foxy Voxel se encuentra disponible para PC mediante Steam, Epic Games Store y GOG en formato de acceso anticipado a cambio de 22,99 euros. El título se mantendrá en desarrollo y bajo la protección del mencionado programa “durante al menos un año”. Going Medieval transporta a los jugadores hasta 1346, cuando el mundo empezaba a recuperarse de la devastadora pandemia… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: El nuevo Battlefield se presentará el 9 de junio]]></title>
-        <id>46187_v1</id>
-        <link href="https://www.elotrolado.net/hilo_el-nuevo-battlefield-se-presentara-el-9-de-junio_2424827"/>
-        <updated>2021-06-01T18:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Finalmente Electronic Arts ha puesto fecha y hora a la presentación del nuevo Battlefield. La cita será el miércoles 9 de junio a las 16:00 hora peninsular española en YouTube, justo antes de que empiece toda la actividad que rodea el E3 2021. Quizás el próximo Battlefield forma parte de alguno de los eventos y hay que anunciarlo antes. Más allá de las tradicionales promesas de ofrecer la mejor y más grande entrega de la saga posible, el editor estadounidense ha dicho muy poco sobre el nuevo Battlefield. Oskar Gabrielson, gerente de DICE, ha comentado que el juego supone un paso… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Elder Scrolls Online vuelve a Oblivion con el lanzamiento de Blackwood]]></title>
-        <id>46186_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/elder-scrolls-online-blackwook-lanzamiento"/>
-        <updated>2021-06-01T17:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Bethesda Softworks y Zenimax Online Studios han celebrado con una cinemática que los jugadores de The Elder Scrolls Online (TESO) en PC ya tienen disponible la expansión o capítulo Blackwood, que destaca por sumar ubicaciones que recordarán aquellos que hayan jugado a The Elder Scrolls IV: Oblivion. Los jugadores de PlayStation 4 y Xbox One recibirán el nuevo contenido el 8 de junio. Blackwood es la parte central de la aventura anual Gates of Oblivion y en ella los jugadores entrarán en una nueva zona de Tamriel con el objetivo de descubrir los planes del príncipe daédrico Mehrunes… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Tell Me Why se ofrece gratis durante junio]]></title>
-        <id>46185_v1</id>
-        <link href="https://www.elotrolado.net/hilo_tell-me-why-se-ofrece-gratis-durante-junio_2424814"/>
-        <updated>2021-06-01T16:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Junio es el mes de historia LGBT y para celebrarlo Microsoft y el desarrollador Dontnod Entertainment (Life is Strange) ofrecen de forma gratuita los tres capítulos que componen la aventura narrativa Tell Me Why. El título, que cuenta con un protagonista transgénero, se puede conseguir en consolas Xbox, Microsoft Store y Steam. Tell Me Why explica la historia de los gemelos Tyler y Alyson Ronan, que con motivo de la muerte de su madre se reúnen por primera vez después de 10 años separados. Cuando se encuentran en el pequeño pueblo de Alaska donde pasaron sus primeros años de vida, los… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crytek anuncia Crysis Remastered Trilogy]]></title>
-        <id>46184_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/crysis-remastered-trilogy-anunciado"/>
-        <updated>2021-06-01T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Después de soltar un par de pistas en Twitter, Crytek ha confirmado la existencia de Crysis 2 Remastered y Crysis 3 Remastered, dos remasterizaciones que se unirán a la ya disponible del primer juego para formar Crysis Remastered Trilogy. La colección, que estará disponible en otoño para PlayStation 4, Xbox One, Nintendo Switch y PC, se ha presentado junto a un tráiler donde podemos ver el primer gameplay de los gráficamente renovados Crysis 2 y Crysis 3. Los tres títulos incluidos en Crysis Remastered Trilogy incluyen únicamente la campaña para un jugador y han sido desarrollados por… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: El juego de plataformas en 2D Monobot estará disponible el 18 de junio]]></title>
-        <id>46183_v1</id>
-        <link href="https://www.elotrolado.net/hilo_el-juego-de-plataformas-en-2d-monobot-estara-disponible-el-18-de-junio_2424804"/>
-        <updated>2021-06-01T15:09:33.000Z</updated>
-        <summary type="html"><![CDATA[La desarrolladora independiente DreamSmith Studios y el editor Ukuza han comunicado que Monobot, un juego de plataformas en 2D protagonizado por un robot llamado Mono, se pondrá a la venta el 18 de junio para PC mediante Steam. Los interesados tienen disponible en Steam una demo que permite probar el juego. Monobot es un título de plataformas en 2D con rompecabezas basados en la física en el que se toma el control de Mono, un pequeño ente robótico atrapado en un mundo hostil ubicado en un futuro oscuro y lejano. Los jugadores deberán guiar a Mono a lo largo de un viaje para descubrir… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Alba: A Wildlife Adventure llegará a todas las consolas el 9 de junio]]></title>
-        <id>46182_v1</id>
-        <link href="https://www.elotrolado.net/hilo_alba-a-wildlife-adventure-llegara-a-todas-las-consolas-el-9-de-junio_2424800"/>
-        <updated>2021-06-01T14:48:16.000Z</updated>
-        <summary type="html"><![CDATA[El desarrollador ustwo games (Monument Valley) ha anunciado que Alba: A Wildlife Adventure, un juego protagonizado por una joven que emprende una cruzada por salvar a los animales de una isla mediterránea, se pondrá a la venta el 9 de junio en PS4, PS5, Xbox One, Xbox Series y Nintendo Switch. Hasta ahora el título estaba disponible en PC y Apple Arcade. En Alba: A Wildlife Adventure los jugadores deberán acompañar a Alba, que durante una visita a sus abuelos en una isla del Mediterráneo decide junto a su amiga Inés crea la LRFAI, una organización cuyo objetivo es salvar la isla. Si… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backbone, Darkest Dungeon y For Honor llegan a Xbox Game Pass]]></title>
-        <id>46181_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/xbox-game-pass-junio-2021-backbone"/>
-        <updated>2021-06-01T14:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft ha revelado una pequeña alineación de juegos que durante la primera quincena de junio pasarán a formar parte de Xbox Game Pass. Esta timidez posiblemente se deba a que el 13 de junio está programada la Xbox & Bethesda Games Showcase, evento que la compañía tiene marcado a fuego en el calendario y durante el cual deberían anunciarse nuevas y más potentes incorporaciones al servicio de suscripción. Al final de la noticia encontraréis una lista con los juegos que dicen adiós. Backbone debuta directamente en Xbox Game Pass para PC y estará disponible el 8 de junio, el mismo día… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Among Us supera los 2 millones de jugadores diarios en PC tras ofrecerse gratis en la Epic Games Store]]></title>
-        <id>46180_v1</id>
-        <link href="https://www.elotrolado.net/hilo_among-us-supera-los-2-millones-de-jugadores-diarios-en-pc-tras-ofrecerse-gratis-en-la-epic-games-store_2424785"/>
-        <updated>2021-06-01T13:20:31.000Z</updated>
-        <summary type="html"><![CDATA[El desarrollador Innersloth ha revelado que durante el fin de semana la versión de Among Us para PC consiguió superar los 2 millones de usuarios, gracias a que el juego se ofrece desde el pasado jueves de forma gratuita mediante la Epic Games Store. Habitualmente esta versión del título suma unos 300.000 usuarios diarios. Innersloth explica que no todos los jugadores de Among Us son nuevos, ya que muchos de ellos han aprovechado que el juego se ofrece de forma gratuita en PC para probar esta versión. También hay que tener en cuenta que el pasado lunes era fiesta en Estados Unidos, así… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Necromunda: Hired Gun, un shooter ambientado en el universo Warhammer 40,000]]></title>
-        <id>46178_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/necromunda-hired-gun-trailer-lanzamiento"/>
-        <updated>2021-06-01T12:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Fue anunciado el 18 de marzo y como indica su tráiler de lanzamiento ya está disponible. Hablamos de Necromunda: Hired Gun, un nuevo shooter en primera persona editado por Focus Home Interactive, desarrollado por el equipo francés Streum On Studio y ambientado en el universo Warhammer 40,000. Desde hoy el título se encuentra a la venta en formato digital para PS4, PS5, Xbox One, Xbox Series y PC (Steam), mientras que a las tiendas tradicionales llegará el 30 de junio a cambio de 39,99 euros. Necromunda: Hired Gun tiene como protagonista a un cazarrecompensas, que acompañado de su… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD anuncia las GPU Radeon RX 6000M para portátiles y avanza que el próximo Samsung Exynos tendrá RDNA2 y ray-tracing]]></title>
-        <id>46179_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/amd-gpu-radeon-rx-6000m-portatiles-samsung-exynos"/>
-        <updated>2021-06-01T11:51:43.000Z</updated>
-        <summary type="html"><![CDATA[La conferencia de AMD en la Computex 2021 ha estado llena de sorpresas. Tal vez la más importante sea el lanzamiento de su esperado rival de código abierto para DLSS, acortando la distancia con Nvidia, pero el conocido como "Equipo Rojo" también ha desvelado nuevas GPU para portátiles y realizado anuncios técnicos de cierto calibre. Comenzando por las GPU para portátiles, tras una espera que se hacía ya interminable AMD ha dado a conocer los detalles de la familia Radeon RX 6000M. Basada en la arquitectura RDNA2 y apuntalados en diseños Navi 22 y Navi 23, estas tres primeras tarjetas… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Nuestra historia es política”, dice el director narrativo de Far Cry 6]]></title>
-        <id>46177_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/far-cry-6-politica"/>
-        <updated>2021-06-01T11:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Hace años que Ubisoft niega la mayor cuando afirma que sus juegos no son políticos. Con Far Cry 6 la compañía intentó hacer lo mismo mediante el director narrativo Navid Khavari, que en una entrevista a TheGamer dijo que Far Cry 6 “no pretende hacer una declaración política sobre lo que está ocurriendo en Cuba”. Esta explicación que parecía rechazar cualquier tema político en Far Cry 6, levantó el suficiente revuelo como para que Khavari haya tenido que aclarar sus palabras y afirmar que definitivamente tienen entre manos un juego político. “Nuestra historia es política. Una historia… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD desvela FidelityFX Super Resolution, su respuesta de código abierto a Nvidia DLSS]]></title>
-        <id>46176_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/amd-fidelityfx-super-resolution-respuesta-nvidia-dlss"/>
-        <updated>2021-06-01T08:54:25.000Z</updated>
-        <summary type="html"><![CDATA[Allá por noviembre de 2020 AMD anunció la gama Radeon RX 6000, una familia de tarjetas gráficas que, sin cambiar la situación de dominio casi absoluto de Nvidia, estaban mejor situadas que productos anteriores para competir con las GeForce RTX de última generación. El problema que tenían, aparte de su bajo rendimiento con ray tracing, es que carecían de una tecnología análoga al supersampling por IA propuesto por sus rivales, aunque durante el evento de presentación de las GPU se dio a entender que ya estaba en camino. Y aquí lo tenemos. Durante su evento en la Computex 2021 AMD ha… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
