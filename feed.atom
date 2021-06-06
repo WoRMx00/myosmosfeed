@@ -2,177 +2,290 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T01:48:20.675Z</updated>
+    <updated>2021-06-06T01:41:24.579Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Remote Controlling a Nintendo Switch for Fun and Profit]]></title>
-        <id>https://news.ycombinator.com/item?id=27400929</id>
-        <link href="https://aricodes.net/posts/remote-controlling-a-nintendo-switch/"/>
-        <updated>2021-06-05T00:58:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aricodes.net/posts/remote-controlling-a-nintendo-switch/
-Comments URL: https://news.ycombinator.com/item?id=27400929
-Points: 5
+        <title type="html"><![CDATA[Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby]]></title>
+        <id>https://news.ycombinator.com/item?id=27409591</id>
+        <link href="https://www.bbc.co.uk/news/stories-57081087"/>
+        <updated>2021-06-06T00:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/stories-57081087
+Comments URL: https://news.ycombinator.com/item?id=27409591
+Points: 22
+# Comments: 3]]></summary>
+        <author>
+            <name>mrtedbear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Identify Threshold at Which Shapes Give Way]]></title>
+        <id>https://news.ycombinator.com/item?id=27409448</id>
+        <link href="https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/"/>
+        <updated>2021-06-06T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/
+Comments URL: https://news.ycombinator.com/item?id=27409448
+Points: 4
 # Comments: 0]]></summary>
         <author>
-            <name>ari__</name>
+            <name>nsoonhui</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hackers Breached Colonial Pipeline Using Compromised Password]]></title>
-        <id>https://news.ycombinator.com/item?id=27400004</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password"/>
-        <updated>2021-06-04T22:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password
-Comments URL: https://news.ycombinator.com/item?id=27400004
-Points: 68
-# Comments: 39]]></summary>
+        <title type="html"><![CDATA[The Woman Who Gave the Macintosh a Smile (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27409410</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile"/>
+        <updated>2021-06-05T23:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile
+Comments URL: https://news.ycombinator.com/item?id=27409410
+Points: 26
+# Comments: 6]]></summary>
         <author>
-            <name>1cvmask</name>
+            <name>superfunny</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zig 0.8.0 Release Notes]]></title>
-        <id>https://news.ycombinator.com/item?id=27399876</id>
-        <link href="https://ziglang.org/download/0.8.0/release-notes.html"/>
-        <updated>2021-06-04T22:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ziglang.org/download/0.8.0/release-notes.html
-Comments URL: https://news.ycombinator.com/item?id=27399876
-Points: 99
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Daily Driver: Channelling RGB into 1-bit]]></title>
+        <id>https://news.ycombinator.com/item?id=27409371</id>
+        <link href="https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/"/>
+        <updated>2021-06-05T23:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/
+Comments URL: https://news.ycombinator.com/item?id=27409371
+Points: 9
+# Comments: 2]]></summary>
         <author>
-            <name>kristoff_it</name>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin’s reliance on stablecoins harks back to the Wild West of finance]]></title>
-        <id>https://news.ycombinator.com/item?id=27399730</id>
-        <link href="https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246"/>
-        <updated>2021-06-04T22:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246
-Comments URL: https://news.ycombinator.com/item?id=27399730
-Points: 59
-# Comments: 54]]></summary>
+        <title type="html"><![CDATA[“That Won't Work”]]></title>
+        <id>https://news.ycombinator.com/item?id=27409368</id>
+        <link href="https://meetryanflowers.com/that-wont-work/"/>
+        <updated>2021-06-05T23:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://meetryanflowers.com/that-wont-work/
+Comments URL: https://news.ycombinator.com/item?id=27409368
+Points: 16
+# Comments: 19]]></summary>
         <author>
-            <name>jkuria</name>
+            <name>geocrasher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HOWTO: Be more productive (2005)]]></title>
-        <id>https://news.ycombinator.com/item?id=27399713</id>
-        <link href="http://www.aaronsw.com/weblog/productivity"/>
-        <updated>2021-06-04T22:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.aaronsw.com/weblog/productivity
-Comments URL: https://news.ycombinator.com/item?id=27399713
-Points: 71
-# Comments: 21]]></summary>
+        <title type="html"><![CDATA[El Salvador to adopt Bitcoin as legal tender]]></title>
+        <id>https://news.ycombinator.com/item?id=27408683</id>
+        <link href="https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html"/>
+        <updated>2021-06-05T21:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html
+Comments URL: https://news.ycombinator.com/item?id=27408683
+Points: 185
+# Comments: 131]]></summary>
         <author>
-            <name>nomoreplease</name>
+            <name>ncpa-cpl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lol just got kicked out of  @ycombinator]]></title>
-        <id>https://news.ycombinator.com/item?id=27399581</id>
-        <link href="https://twitter.com/paulbiggar/status/1400904600421535744"/>
-        <updated>2021-06-04T22:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/paulbiggar/status/1400904600421535744
-Comments URL: https://news.ycombinator.com/item?id=27399581
-Points: 664
-# Comments: 301]]></summary>
-        <author>
-            <name>bqe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Carmack on JPEG]]></title>
-        <id>https://news.ycombinator.com/item?id=27399416</id>
-        <link href="https://twitter.com/ID_AA_Carmack/status/1400930510671601666"/>
-        <updated>2021-06-04T21:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1400930510671601666
-Comments URL: https://news.ycombinator.com/item?id=27399416
-Points: 204
-# Comments: 105]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denmark parliament approves giant artificial island off Copenhagen]]></title>
-        <id>https://news.ycombinator.com/item?id=27399257</id>
-        <link href="https://www.bbc.co.uk/news/world-europe-57348415"/>
-        <updated>2021-06-04T21:27:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57348415
-Comments URL: https://news.ycombinator.com/item?id=27399257
-Points: 50
-# Comments: 16]]></summary>
-        <author>
-            <name>BlackVanilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bonzi Buddy]]></title>
-        <id>https://news.ycombinator.com/item?id=27399065</id>
-        <link href="https://bonzi.link/"/>
-        <updated>2021-06-04T21:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bonzi.link/
-Comments URL: https://news.ycombinator.com/item?id=27399065
-Points: 56
-# Comments: 45]]></summary>
-        <author>
-            <name>legerdemain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8088ify: Intel 8080 CP/M 2.2 to Intel 8086/8088 IBM PC DOS assembly translator]]></title>
-        <id>https://news.ycombinator.com/item?id=27399039</id>
-        <link href="https://github.com/ibara/8088ify"/>
-        <updated>2021-06-04T21:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ibara/8088ify
-Comments URL: https://news.ycombinator.com/item?id=27399039
-Points: 31
+        <title type="html"><![CDATA[Trans-Pacific Cable Chaos, Shifting Asian Hubs]]></title>
+        <id>https://news.ycombinator.com/item?id=27408679</id>
+        <link href="https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status"/>
+        <updated>2021-06-05T21:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status
+Comments URL: https://news.ycombinator.com/item?id=27408679
+Points: 38
 # Comments: 12]]></summary>
         <author>
-            <name>ingve</name>
+            <name>walterbell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clerky (YC S11) Is Hiring Senior Software Engineers (Remote)]]></title>
-        <id>https://news.ycombinator.com/item?id=27399018</id>
-        <link href="https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
-        <updated>2021-06-04T21:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN
-Comments URL: https://news.ycombinator.com/item?id=27399018
+        <title type="html"><![CDATA[Justice Department withdraws FBI subpoena for USA Today records ID'ing readers]]></title>
+        <id>https://news.ycombinator.com/item?id=27408647</id>
+        <link href="https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/"/>
+        <updated>2021-06-05T21:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/
+Comments URL: https://news.ycombinator.com/item?id=27408647
+Points: 158
+# Comments: 66]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack (YC W18) is hiring engineers to build the future of writing]]></title>
+        <id>https://news.ycombinator.com/item?id=27408420</id>
+        <link href="https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"/>
+        <updated>2021-06-05T21:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81
+Comments URL: https://news.ycombinator.com/item?id=27408420
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>swampthing</name>
+            <name>jairajs89</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyCon US 2021 Recordings are Available]]></title>
-        <id>https://news.ycombinator.com/item?id=27398986</id>
-        <link href="https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1"/>
-        <updated>2021-06-04T20:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1
-Comments URL: https://news.ycombinator.com/item?id=27398986
-Points: 113
-# Comments: 27]]></summary>
+        <title type="html"><![CDATA[Show HN: Rustpad, a self-hosted online collaborative text editor]]></title>
+        <id>https://news.ycombinator.com/item?id=27408326</id>
+        <link href="https://github.com/ekzhang/rustpad"/>
+        <updated>2021-06-05T20:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ekzhang/rustpad
+Comments URL: https://news.ycombinator.com/item?id=27408326
+Points: 87
+# Comments: 12]]></summary>
         <author>
-            <name>precern_harlan</name>
+            <name>ekzhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Not a drill: VMware vuln with 9.8 severity rating is under attack]]></title>
-        <id>https://news.ycombinator.com/item?id=27398785</id>
-        <link href="https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/"/>
-        <updated>2021-06-04T20:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/
-Comments URL: https://news.ycombinator.com/item?id=27398785
-Points: 85
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[Guerrilla Collective: presentados Alfred Hitchcock - Vertigo, Trifox y una quincena de indies más]]></title>
+        <id>46222_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/guerrilla-collective-2021-resumen"/>
+        <updated>2021-06-05T20:37:23.000Z</updated>
+        <summary type="html"><![CDATA[El E3 2021 no empieza hasta la próxima semana, pero Guerrilla Collective, un evento digital centrado en el trabajo de desarrolladores y editores de juegos indies, ya ha completado la primera de las dos ediciones previstas para junio. Han sido muchos los títulos presentados y mostrados en el encuentro, así que destacaremos a dos de ellos, Alfred Hitchcock - Vertigo y Trifox, para a continuación hacer un rápido resumen por puntos del resto de proyectos que se han dejado ver durante el evento. Alfred Hitchcock - Vertigo es la nueva aventura narrativa del estudio español Pendulo Studios… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>jbonniwell</name>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Books for Effective Communication]]></title>
+        <id>https://news.ycombinator.com/item?id=27408120</id>
+        <link href="https://news.ycombinator.com/item?id=27408120"/>
+        <updated>2021-06-05T20:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Being very good at writing and speaking are very valuable skills that come in handy in all situations in life.
+What books have you read or want to recommend to enhance these skills?
+Any specific book that changed how you articulate your ideas and thoughts?
+Comments URL: https://news.ycombinator.com/item?id=27408120
+Points: 75
+# Comments: 33]]></summary>
+        <author>
+            <name>2bor-2n</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing strict three-point perspective]]></title>
+        <id>https://news.ycombinator.com/item?id=27407691</id>
+        <link href="https://pomax.github.io/three-point-perspective/"/>
+        <updated>2021-06-05T19:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pomax.github.io/three-point-perspective/
+Comments URL: https://news.ycombinator.com/item?id=27407691
+Points: 95
+# Comments: 43]]></summary>
+        <author>
+            <name>TheRealPomax</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Password Managers]]></title>
+        <id>https://news.ycombinator.com/item?id=27407603</id>
+        <link href="https://lock.cmpxchg8b.com/passmgrs.html"/>
+        <updated>2021-06-05T18:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lock.cmpxchg8b.com/passmgrs.html
+Comments URL: https://news.ycombinator.com/item?id=27407603
+Points: 179
+# Comments: 142]]></summary>
+        <author>
+            <name>arthurmorgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Julia to Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27407268</id>
+        <link href="https://miguelraz.github.io/blog/juliatorust/"/>
+        <updated>2021-06-05T18:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://miguelraz.github.io/blog/juliatorust/
+Comments URL: https://news.ycombinator.com/item?id=27407268
+Points: 99
+# Comments: 45]]></summary>
+        <author>
+            <name>miguelraz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ET-Jekyll: Edward Tufte-inspired Jekyll theme]]></title>
+        <id>https://news.ycombinator.com/item?id=27407264</id>
+        <link href="https://et-jekyll.netlify.app/"/>
+        <updated>2021-06-05T18:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://et-jekyll.netlify.app/
+Comments URL: https://news.ycombinator.com/item?id=27407264
+Points: 107
+# Comments: 20]]></summary>
+        <author>
+            <name>bradley_taunt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Clang LibFuzzer coverage-guided fuzzing engine with Nim]]></title>
+        <id>https://news.ycombinator.com/item?id=27407086</id>
+        <link href="https://github.com/planetis-m/libfuzzer"/>
+        <updated>2021-06-05T17:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/planetis-m/libfuzzer
+Comments URL: https://news.ycombinator.com/item?id=27407086
+Points: 55
+# Comments: 1]]></summary>
+        <author>
+            <name>planetis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Learned Symmetric-Key Cryptanalysis]]></title>
+        <id>https://news.ycombinator.com/item?id=27406888</id>
+        <link href="https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html"/>
+        <updated>2021-06-05T17:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html
+Comments URL: https://news.ycombinator.com/item?id=27406888
+Points: 112
+# Comments: 23]]></summary>
+        <author>
+            <name>aleks224</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logical replication and decoding for Cloud SQL for PostgreSQL]]></title>
+        <id>https://news.ycombinator.com/item?id=27406589</id>
+        <link href="https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql"/>
+        <updated>2021-06-05T16:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql
+Comments URL: https://news.ycombinator.com/item?id=27406589
+Points: 63
+# Comments: 32]]></summary>
+        <author>
+            <name>wdb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The modern web on a slow connection (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27406132</id>
+        <link href="https://danluu.com/web-bloat/"/>
+        <updated>2021-06-05T16:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://danluu.com/web-bloat/
+Comments URL: https://news.ycombinator.com/item?id=27406132
+Points: 183
+# Comments: 126]]></summary>
+        <author>
+            <name>x14km2d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for Interviewing over Zoom]]></title>
+        <id>https://news.ycombinator.com/item?id=27405951</id>
+        <link href="https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/"/>
+        <updated>2021-06-05T15:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/
+Comments URL: https://news.ycombinator.com/item?id=27405951
+Points: 65
+# Comments: 101]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las noticias de la semana (29 de mayo - 5 de junio)]]></title>
+        <id>46221_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/semana-29-mayo-5-junio-2021"/>
+        <updated>2021-06-05T10:12:05.000Z</updated>
+        <summary type="html"><![CDATA[El E3 2021 está a la vuelta de la esquina y eso se deja notar con el anuncio de distintas conferencias, como la de Square Enix (13 de junio) o un Direct de Nintendo (15 de junio). 2K aún no ha anunciado nada, pero ya se ha filtrado que trabaja en un XCOM de Marvel y un spin-off de Borderlands. Sony no estará en la feria, pero esta semana nos ha dejado varias noticias incluyendo que el nuevo God of War tendrá versión para PS4 y su llegada al mercado se retrasa al 2022. También se han ofrecido nuevos detalles de Horizon Forbidden West. Esta semana el lanzamiento de juegos no ha aflojado… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -186,45 +299,6 @@ Points: 85
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++]]></title>
-        <id>https://news.ycombinator.com/item?id=27397208</id>
-        <link href="https://binji.github.io/posts/pokegb/"/>
-        <updated>2021-06-04T18:31:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://binji.github.io/posts/pokegb/
-Comments URL: https://news.ycombinator.com/item?id=27397208
-Points: 376
-# Comments: 43]]></summary>
-        <author>
-            <name>brundolf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling]]></title>
-        <id>https://news.ycombinator.com/item?id=27396848</id>
-        <link href="https://www.eejournal.com/article/we-interrupt-this-program/"/>
-        <updated>2021-06-04T18:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eejournal.com/article/we-interrupt-this-program/
-Comments URL: https://news.ycombinator.com/item?id=27396848
-Points: 156
-# Comments: 83]]></summary>
-        <author>
-            <name>eklitzke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroic rat retiring from detecting land mines]]></title>
-        <id>https://news.ycombinator.com/item?id=27396803</id>
-        <link href="https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer"/>
-        <updated>2021-06-04T18:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer
-Comments URL: https://news.ycombinator.com/item?id=27396803
-Points: 110
-# Comments: 63]]></summary>
-        <author>
-            <name>packet_nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No More Heroes y No More Heroes 2: Desperate Struggle llegarán el 9 de junio a Steam]]></title>
         <id>46219_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/no-more-heroes-pc-steam-disponible"/>
@@ -232,64 +306,6 @@ Points: 110
         <summary type="html"><![CDATA[Después de su aparición en Wii y un paso por Nintendo Switch, las dos primeras entregas de la saga No More Heroes ganan una versión para PC que estará disponible mediante Steam a partir del 9 de junio a cambio de 19,99 euros la pieza, según han anunciado XSEED Games y Marvelous. Además de la fecha de lanzamiento y el precio, ambos juegos han sido presentados con su respectivo tráiler, la promesa de poder jugar a 60 FPS y la esperanza de que No More Heroes III, que por ahora solo ha sido presentado para Switch, también termine dando el salto. No More Heroes es una franquicia de juegos… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social virtual spaces with Elixir at Mozilla]]></title>
-        <id>https://news.ycombinator.com/item?id=27395861</id>
-        <link href="https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/"/>
-        <updated>2021-06-04T17:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/
-Comments URL: https://news.ycombinator.com/item?id=27395861
-Points: 178
-# Comments: 52]]></summary>
-        <author>
-            <name>thibaut_barrere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using a magnetic string to fish for a lost iPhone 12 in a Berlin canal]]></title>
-        <id>https://news.ycombinator.com/item?id=27395663</id>
-        <link href="https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/"/>
-        <updated>2021-06-04T16:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/
-Comments URL: https://news.ycombinator.com/item?id=27395663
-Points: 188
-# Comments: 137]]></summary>
-        <author>
-            <name>crackercrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There are no results for tank man]]></title>
-        <id>https://news.ycombinator.com/item?id=27395635</id>
-        <link href="https://www.bing.com/images/search?q=tank+man"/>
-        <updated>2021-06-04T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bing.com/images/search?q=tank+man
-Comments URL: https://news.ycombinator.com/item?id=27395635
-Points: 1737
-# Comments: 429]]></summary>
-        <author>
-            <name>rcoveson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: InBalance (YC W21) – Short-term energy market forecasting]]></title>
-        <id>https://news.ycombinator.com/item?id=27395238</id>
-        <link href="https://news.ycombinator.com/item?id=27395238"/>
-        <updated>2021-06-04T16:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, we’re Thomas and Raj, cofounders of inBalance (inbalanceresearch.com).
-inBalance forecasts electricity price, demand, and generation by source up to 72 hours
-ahead, helping utilities and independent power producers utilize their responsive assets
-such as energy storage, backup generators, flexible demand, etc more efficiently.
-We met playing ultimate frisbee in Cambridge, UK, and quickly found common interests in
-statistics and optimization. Thomas had previously worked on wind turbine placement
-problems, providing experience with power markets, and we discussed them but didn't see
-an immediate entry point, so Thomas continued his statistics PhD and Rajan worked in ML
-research and GPU algorithm design at a startup.
-A year ago we heard of a need for better wind power forecasts…]]></summary>
-        <author>
-            <name>Straw</name>
         </author>
     </entry>
     <entry>
@@ -498,26 +514,6 @@ A year ago we heard of a need for better wind power forecasts…]]></summary>
         <link href="https://www.elotrolado.net/noticias/juegos/god-of-war-retraso-ps5"/>
         <updated>2021-06-02T17:08:39.000Z</updated>
         <summary type="html"><![CDATA[Hermen Hulst, máximo responsable de PlayStation Studios, ha anunciado mediante una sesión de preguntas y respuestas publicada en el blog oficial de PlayStation que el nuevo God of War en manos de Santa Monica Studio se retrasa y estará disponible durante el 2022. Hulst también ha confirmado que tanto God of War como Gran Turismo 7 tendrán versión para PlayStation 4 y PlayStation 5. Por su parte y si no hay sobresaltos, Horizon Forbidden West llegará este año. En una de las respuestas, Hulst explica que Horizon Forbidden West y el nuevo God of War han tenido problemas debido a la… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Dragon Ball Z: Kakarot recibirá el contenido Trunks: The Warrior of Hope el 11 de junio]]></title>
-        <id>46197_v1</id>
-        <link href="https://www.elotrolado.net/hilo_dragon-ball-z-kakarot-recibira-el-contenido-trunks-the-warrior-of-hope-el-11-de-junio_2424911"/>
-        <updated>2021-06-02T16:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Trunks: The Warrior of Hope (o Trunks: El Guerrero de la Esperanza), el tercer contenido adicional de Dragon Ball Z: Kakarot que permitirá adentrarse en el pasado de Trunks, estará disponible el 11 de junio, según ha revelado Bandai Namco. El mencionado complemento forma parte del pase de temporada que se vende por 24,99 euros. Este contenido narrará la historia de un mundo alternativo en el que Goku ha sucumbido a su enfermedad cardíaca y la mayoría de los defensores de la Tierra han caído a manos de los androides. La campaña está protagonizada por versiones alternativas de Trunks,… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Ghostrunner para PlayStation 5 y Xbox Series estará disponible el 28 de septiembre]]></title>
-        <id>46196_v1</id>
-        <link href="https://www.elotrolado.net/hilo_ghostrunner-para-playstation-5-y-xbox-series-estara-disponible-el-28-de-septiembre_2424910"/>
-        <updated>2021-06-02T16:17:23.000Z</updated>
-        <summary type="html"><![CDATA[505 Games ha anunciado que la versión de Ghostrunner para PlayStation 5 y Xbox Series estará disponible en formato físico y digital el 28 de septiembre a cambio de 29,99 euros. Los propietarios de las versiones del juego para Xbox One y PlayStation 4 podrán actualizar de forma gratuita. El editor también recuerda que la versión de Nintendo Switch sigue prevista para el 25 de junio. Ghostrunner para PS5 y Xbox Series tendrá soporte para HDR, un modo de trazado de rayos, audio 3D y podrá alcanzar los 4K y 120 FPS. El juego también sacará partido del SSD para reducir los tiempos de… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
