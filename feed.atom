@@ -2,151 +2,348 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T01:44:23.177Z</updated>
+    <updated>2021-06-08T01:38:01.446Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Keep Your Identity Small (2009)]]></title>
-        <id>https://news.ycombinator.com/item?id=27417992</id>
-        <link href="http://www.paulgraham.com/identity.html"/>
-        <updated>2021-06-07T01:19:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.paulgraham.com/identity.html
-Comments URL: https://news.ycombinator.com/item?id=27417992
-Points: 6
+        <title type="html"><![CDATA[Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields]]></title>
+        <id>https://news.ycombinator.com/item?id=27429414</id>
+        <link href="https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/"/>
+        <updated>2021-06-08T00:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/
+Comments URL: https://news.ycombinator.com/item?id=27429414
+Points: 11
 # Comments: 0]]></summary>
         <author>
-            <name>mooreds</name>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution]]></title>
-        <id>https://news.ycombinator.com/item?id=27417576</id>
-        <link href="https://www.bbc.co.uk/news/world-us-canada-57341592"/>
-        <updated>2021-06-07T00:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57341592
-Comments URL: https://news.ycombinator.com/item?id=27417576
-Points: 10
-# Comments: 1]]></summary>
-        <author>
-            <name>pmoriarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making better decisions with the Brier score]]></title>
-        <id>https://news.ycombinator.com/item?id=27417425</id>
-        <link href="https://datarecipes.io/posts/brier_score/"/>
-        <updated>2021-06-06T23:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://datarecipes.io/posts/brier_score/
-Comments URL: https://news.ycombinator.com/item?id=27417425
-Points: 7
+        <title type="html"><![CDATA[The Quickest Antenna Design of the Year]]></title>
+        <id>https://news.ycombinator.com/item?id=27429270</id>
+        <link href="https://shielddigitaldesign.com/posts/2021/fast-antenna/"/>
+        <updated>2021-06-08T00:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://shielddigitaldesign.com/posts/2021/fast-antenna/
+Comments URL: https://news.ycombinator.com/item?id=27429270
+Points: 3
 # Comments: 0]]></summary>
         <author>
-            <name>ergodiclife</name>
+            <name>stn8188</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Dangers of Low Head Dams (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27417206</id>
-        <link href="https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams"/>
-        <updated>2021-06-06T23:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams
-Comments URL: https://news.ycombinator.com/item?id=27417206
-Points: 81
-# Comments: 21]]></summary>
+        <title type="html"><![CDATA[An interactive look at how a video signal is made]]></title>
+        <id>https://news.ycombinator.com/item?id=27428380</id>
+        <link href="https://blog.pizzabox.computer/random/videolines/"/>
+        <updated>2021-06-07T22:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.pizzabox.computer/random/videolines/
+Comments URL: https://news.ycombinator.com/item?id=27428380
+Points: 28
+# Comments: 7]]></summary>
         <author>
-            <name>paulpauper</name>
+            <name>andyjpb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Globalization of Venture Capital Investing]]></title>
-        <id>https://news.ycombinator.com/item?id=27416849</id>
-        <link href="https://avc.com/2021/06/the-globalization-of-venture-capital-investing/"/>
-        <updated>2021-06-06T22:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://avc.com/2021/06/the-globalization-of-venture-capital-investing/
-Comments URL: https://news.ycombinator.com/item?id=27416849
-Points: 29
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[Static site generators to watch in 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27428062</id>
+        <link href="https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/"/>
+        <updated>2021-06-07T22:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/
+Comments URL: https://news.ycombinator.com/item?id=27428062
+Points: 35
+# Comments: 31]]></summary>
         <author>
-            <name>cwan</name>
+            <name>x14km2d</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laser pulse travels 300 times faster than light (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=27416821</id>
-        <link href="https://optics.org/article/8562"/>
-        <updated>2021-06-06T22:08:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://optics.org/article/8562
-Comments URL: https://news.ycombinator.com/item?id=27416821
-Points: 30
-# Comments: 25]]></summary>
+        <title type="html"><![CDATA[DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside]]></title>
+        <id>https://news.ycombinator.com/item?id=27427485</id>
+        <link href="https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside"/>
+        <updated>2021-06-07T21:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside
+Comments URL: https://news.ycombinator.com/item?id=27427485
+Points: 165
+# Comments: 139]]></summary>
         <author>
-            <name>nixass</name>
+            <name>nthitz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The SaaS CTO Security Checklist Redux]]></title>
-        <id>https://news.ycombinator.com/item?id=27416736</id>
-        <link href="https://www.goldfiglabs.com/guide/saas-cto-security-checklist/"/>
-        <updated>2021-06-06T21:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
-Comments URL: https://news.ycombinator.com/item?id=27416736
-Points: 123
-# Comments: 21]]></summary>
+        <title type="html"><![CDATA[The top-ranking HTML editor on Google is an SEO scam]]></title>
+        <id>https://news.ycombinator.com/item?id=27427330</id>
+        <link href="https://casparwre.de/blog/seo-scam/"/>
+        <updated>2021-06-07T21:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://casparwre.de/blog/seo-scam/
+Comments URL: https://news.ycombinator.com/item?id=27427330
+Points: 580
+# Comments: 126]]></summary>
         <author>
-            <name>vikrum</name>
+            <name>caspii</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gene sequencer malware injection via encoded DNA (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27416727</id>
-        <link href="https://www.wired.com/story/malware-dna-hack/"/>
-        <updated>2021-06-06T21:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/malware-dna-hack/
-Comments URL: https://news.ycombinator.com/item?id=27416727
-Points: 39
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification]]></title>
+        <id>https://news.ycombinator.com/item?id=27427096</id>
+        <link href="https://www.infoq.com/news/2021/04/intel-hidden-instructions/"/>
+        <updated>2021-06-07T21:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.infoq.com/news/2021/04/intel-hidden-instructions/
+Comments URL: https://news.ycombinator.com/item?id=27427096
+Points: 184
+# Comments: 47]]></summary>
         <author>
-            <name>carlsborg</name>
+            <name>andrewnicolalde</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A growing number of governments hope to clone DARPA]]></title>
-        <id>https://news.ycombinator.com/item?id=27416546</id>
-        <link href="https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa"/>
-        <updated>2021-06-06T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa
-Comments URL: https://news.ycombinator.com/item?id=27416546
-Points: 46
-# Comments: 27]]></summary>
+        <title type="html"><![CDATA[CodePerfect 95 – A fast IDE for Go]]></title>
+        <id>https://news.ycombinator.com/item?id=27426981</id>
+        <link href="https://codeperfect95.com"/>
+        <updated>2021-06-07T21:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://codeperfect95.com
+Comments URL: https://news.ycombinator.com/item?id=27426981
+Points: 104
+# Comments: 59]]></summary>
         <author>
-            <name>edward</name>
+            <name>brhsagain</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Photographer captures 'odd but exciting' crow behaviour known as anting]]></title>
-        <id>https://news.ycombinator.com/item?id=27416217</id>
-        <link href="https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823"/>
-        <updated>2021-06-06T20:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823
-Comments URL: https://news.ycombinator.com/item?id=27416217
-Points: 151
-# Comments: 36]]></summary>
+        <title type="html"><![CDATA[The price of batteries has declined by 97% in the last three decades]]></title>
+        <id>https://news.ycombinator.com/item?id=27426922</id>
+        <link href="https://ourworldindata.org/battery-price-decline"/>
+        <updated>2021-06-07T21:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ourworldindata.org/battery-price-decline
+Comments URL: https://news.ycombinator.com/item?id=27426922
+Points: 209
+# Comments: 134]]></summary>
         <author>
-            <name>pgrote</name>
+            <name>infodocket</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why are American workers becoming harder to find?]]></title>
-        <id>https://news.ycombinator.com/item?id=27415776</id>
-        <link href="https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find"/>
-        <updated>2021-06-06T19:54:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find
-Comments URL: https://news.ycombinator.com/item?id=27415776
-Points: 40
-# Comments: 136]]></summary>
+        <title type="html"><![CDATA[Breve: Frostpunk: Console Edition recibirá las tres expansiones ya disponibles en PC]]></title>
+        <id>46231_v1</id>
+        <link href="https://www.elotrolado.net/hilo_frostpunk-console-edition-recibira-las-tres-expansiones-ya-disponibles-en-pc_2425393"/>
+        <updated>2021-06-07T21:03:34.000Z</updated>
+        <summary type="html"><![CDATA[El equipo polaco 11 Bit Studios ha anunciado que a lo largo de este año los jugadores con una copia de Frostpunk: Console Edition tendrán la opción de adquirir las tres expansiones (The Rifts, The Last Autumn y On The Edge) que el juego ya ofrece en PC. Además, la compañía trabaja en llevar hasta PlayStation 4 y Xbox One otros contenidos y una actualización para optimizar el uso de mandos. La expansión The Rifts añade el modo Infinito, el puente como nueva construcción y nuevas mecánicas de juego; The Last Autumn es una precuela de la campaña de Frostpunk; y On The Edge introduce… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>jaredwiener</name>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27426841</id>
+        <link href="https://jobs.lever.co/buildzoom"/>
+        <updated>2021-06-07T21:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
+Comments URL: https://news.ycombinator.com/item?id=27426841
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>the_economist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highlights of new technologies introduced at WWDC 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27426796</id>
+        <link href="https://developer.apple.com/documentation/New-Technologies-WWDC-2021"/>
+        <updated>2021-06-07T20:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/documentation/New-Technologies-WWDC-2021
+Comments URL: https://news.ycombinator.com/item?id=27426796
+Points: 87
+# Comments: 38]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“It is 2018 and this error message is a mistake from 1974”]]></title>
+        <id>https://news.ycombinator.com/item?id=27426775</id>
+        <link href="https://twitter.com/Foone/status/1058676834940776450"/>
+        <updated>2021-06-07T20:44:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/Foone/status/1058676834940776450
+Comments URL: https://news.ycombinator.com/item?id=27426775
+Points: 116
+# Comments: 63]]></summary>
+        <author>
+            <name>mmastrac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Hogwarts Legacy, Suicide Squad: Kill the Justice League y Gotham Knights no estarán en el E3 2021]]></title>
+        <id>46230_v1</id>
+        <link href="https://www.elotrolado.net/hilo_hogwarts-legacy-suicide-squad-kill-the-justice-league-y-gotham-knights-no-estaran-en-el-e3-2021_2425388"/>
+        <updated>2021-06-07T20:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Warner Bros. Games se suma al número de compañías que rebaja las expectativas para el E3 2021 anunciando que durante los próximos días no veremos a ninguno de los tres siguientes juegos: Hogwarts Legacy, Gotham Knights y Suicide Squad: Kill the Justice League. Teniendo en cuenta que la compañía no ha anunciado ningún evento propio y que en otoño tendremos otro DC FanDome, las mencionadas ausencias eran previsibles. Sin embargo, Warner Bros. Games podría mostrar durante el E3 2021 algo más que el modo multijugador de Back 4 Blood. Sus estudios internos Monolith Productions (La Tierra… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Anunciado Grow: Song of the Evertree, un juego de creación con elementos de gestión y exploración]]></title>
+        <id>46229_v1</id>
+        <link href="https://www.elotrolado.net/hilo_anunciado-grow-song-of-the-evertree-un-juego-de-creacion-con-elementos-de-gestion-y-exploracion_2425384"/>
+        <updated>2021-06-07T20:04:16.000Z</updated>
+        <summary type="html"><![CDATA[El editor 505 Games y el desarrollador independiente Prideful Sloth (Yonder: The Cloud Catcher Chronicles) han anunciado Grow: Song of the Evertree, un juego de creación de mundos sandbox con elementos de gestión y exploración que estará disponible este año en PlayStation 4, Xbox One, Nintendo Switch y PC (Steam). En la plataforma de Valve el título ha iniciado una campaña que en función del número final de añadidos a la lista de deseados se plantarán más o menos árboles. La acción de Grow: Song of the Evertre se desarrolla en el mundo de Alaria, que ha sido abandonado e invadido por… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rainbow Six Quarantine ahora se llama Extraction y Prince of Persia: The Sands of Time Remake no estará en E3 2021]]></title>
+        <id>46228_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/rainbow-six-extraction-anunciado"/>
+        <updated>2021-06-07T18:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Ubisoft sigue avanzando detalles sobre la nueva edición del programa Ubisoft Forward que arrancará el 12 de junio a las 21:00 hora peninsular española como parte de los eventos del E3 2021. La compañía ha aclarado dos puntos: que Rainbow Six Quarantine ahora se llama Rainbow Six Extraction, y que Prince of Persia: The Sands of Time Remake no será uno de los juegos que se muestre durante la transmisión. “Tomamos las bases sólidas de Rainbow Six Siege para crear un táctico shooter cooperativo moderno en el que te enfrentarás a una amenaza alienígena en constante evolución”, dice Patrik… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yatima: A programming language for the decentralized web]]></title>
+        <id>https://news.ycombinator.com/item?id=27425941</id>
+        <link href="https://github.com/yatima-inc/yatima"/>
+        <updated>2021-06-07T18:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/yatima-inc/yatima
+Comments URL: https://news.ycombinator.com/item?id=27425941
+Points: 59
+# Comments: 28]]></summary>
+        <author>
+            <name>agentofuser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaceTime is coming to Android and Windows via the web]]></title>
+        <id>https://news.ycombinator.com/item?id=27425622</id>
+        <link href="https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc"/>
+        <updated>2021-06-07T17:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc
+Comments URL: https://news.ycombinator.com/item?id=27425622
+Points: 433
+# Comments: 195]]></summary>
+        <author>
+            <name>jbredeche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadia recibirá soporte para los Chromecast con Google TV y dispositivos Android TV el 23 de junio]]></title>
+        <id>46227_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/google-stadia-chromecast-android-tv-soporte"/>
+        <updated>2021-06-07T17:07:27.000Z</updated>
+        <summary type="html"><![CDATA[Google ha anunciado una nueva expansión en la disponibilidad de Stadia al comunicar que tan pronto como el miércoles 23 de junio el reproductor Chromecast con Google TV ganará soporte para el servicio de juegos en streaming. Para entonces solo habrán pasado nueve meses desde que el dispositivo se pusiera a la venta por 69,99 euros. Además, Google ha anunciado que ese mismo día Stadia se extenderá a una serie de dispositivos con el sistema operativo Android TV. Gracias al soporte para Chromecast con Google TV, que es una evolución del Chromecast Ultra, Stadia pasará a estar disponible… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Found at Goodwill: WebPad 1001 Prototype]]></title>
+        <id>https://news.ycombinator.com/item?id=27424649</id>
+        <link href="https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/"/>
+        <updated>2021-06-07T16:40:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/
+Comments URL: https://news.ycombinator.com/item?id=27424649
+Points: 260
+# Comments: 66]]></summary>
+        <author>
+            <name>farmerbb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27424605</id>
+        <link href="https://www.foundationdb.org/files/fdb-paper.pdf"/>
+        <updated>2021-06-07T16:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.foundationdb.org/files/fdb-paper.pdf
+Comments URL: https://news.ycombinator.com/item?id=27424605
+Points: 157
+# Comments: 55]]></summary>
+        <author>
+            <name>wwilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anunciado Terra Nil, un juego de construcción donde hay que restaurar el ecosistema]]></title>
+        <id>46226_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/terra-nil-anunciado"/>
+        <updated>2021-06-07T16:26:58.000Z</updated>
+        <summary type="html"><![CDATA[El editor Devolver Digital y el estudio de desarrollo independiente sudafricano Free Lives (Broforce, Genital Jousting, Gorn) han anunciado Terra Nil, un “juego de construcción de ciudades a la inversa que persigue la restauración del ecosistema”. Esto significa que los jugadores en lugar de empezar a levantar una urbe sobre un prado verde, deberán conquistar el yermo y restaurarlo para que la flora y la fauna lo habite de nuevo. El título para PC aún no tiene fecha de lanzamiento, pero ya sabemos que estará disponible mediante Steam. “Terra Nil reta a los jugadores a rejuvenecer el… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit used legal threats to kill my open-source project]]></title>
+        <id>https://news.ycombinator.com/item?id=27424195</id>
+        <link href="https://intuitiveexplanations.com/tech/replit/"/>
+        <updated>2021-06-07T16:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://intuitiveexplanations.com/tech/replit/
+Comments URL: https://news.ycombinator.com/item?id=27424195
+Points: 3045
+# Comments: 923]]></summary>
+        <author>
+            <name>raxod502</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Personal Computational Handweaving with a Low-Cost Jacquard Loom]]></title>
+        <id>https://news.ycombinator.com/item?id=27423963</id>
+        <link href="https://dl.acm.org/doi/pdf/10.1145/3411764.3445750"/>
+        <updated>2021-06-07T15:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/pdf/10.1145/3411764.3445750
+Comments URL: https://news.ycombinator.com/item?id=27423963
+Points: 93
+# Comments: 3]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Quadrant Eye (YC W21) – Tackling online eye exams and at-home eyecare]]></title>
+        <id>https://news.ycombinator.com/item?id=27423738</id>
+        <link href="https://news.ycombinator.com/item?id=27423738"/>
+        <updated>2021-06-07T15:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN --
+This is Quinn and Kristine of Quadrant Eye (https://www.quadranteye.com). We’re a cataract surgeon and software engineer duo who are spearheading the at-home eyecare revolution. Our goal is to provide comprehensive eyecare to people at home, and as a first step, we're tackling online glasses/contact lens prescriptions renewals.
+I (Quinn) started the company after I took care of a grandfather who tragically went blind during the Covid lockdown. This could have been prevented if he had had access to reliable at-home eyecare. During my training, I had seen countless similar scenarios play out around the country, but to have it happen in my own clinic was the last straw.
+Eyecare is a weird and tricky space. On the one hand, there are legitimate reasons why eye doctors and their patie…]]></summary>
+        <author>
+            <name>Killakwinn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Dying Light - Hellraid recibe el modo historia The Prisoner]]></title>
+        <id>46225_v1</id>
+        <link href="https://www.elotrolado.net/hilo_dying-light-hellraid-recibe-el-modo-historia-the-prisoner_2425356"/>
+        <updated>2021-06-07T15:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Techland ha anunciado que los jugadores de Dying Light - Hellraid, un contenido adicional de Dying Light con una ambientación totalmente diferente a la del juego original, tiene desde hoy disponible un modo historia llamado The Prisoner. En el futuro se añadirán más misiones al modo historia para así ir desvelando la trama de forma gradual. “Un antiguo conflicto se reaviva y debes prepararte para un enfrentamiento inevitable”, dice la descripción oficial de The Prisioner. “Pero recuerda que los misterios del Templo de Ba'al están bien protegidos, y el destino de la única persona que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to sequence your genome at home]]></title>
+        <id>https://news.ycombinator.com/item?id=27422719</id>
+        <link href="http://blog.booleanbiotech.com/human-genome-at-home.html"/>
+        <updated>2021-06-07T14:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.booleanbiotech.com/human-genome-at-home.html
+Comments URL: https://news.ycombinator.com/item?id=27422719
+Points: 136
+# Comments: 34]]></summary>
+        <author>
+            <name>sprague</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021: Horarios de todas las conferencias y eventos]]></title>
+        <id>46224_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/e3-2021-horarios-eventos"/>
+        <updated>2021-06-07T09:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Un año más, aquí seguimos. Después de un 2020 extraño en el que la Entertainment Software Association no supo reaccionar a la pandemia, el E3 vuelve dispuesto a ofrecernos una semana larga de conferencias y eventos a cargo de los grandes editores de la industria del videojuego. Este regreso no ha evitado que iniciativas como el Summer Game Fest, que el año pasado se adaptó rápidamente al entorno digital, celebre una segunda edición. También tenemos a nuevos invitados como Koch Media, Razer y Netflix. Como siempre, en ElOtroLado.net os ofreceremos en portada las novedades más… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -157,123 +354,6 @@ Points: 40
         <summary type="html"><![CDATA[Después de algún que otro retraso, Arc System Works ya lo tiene todo listo para el lanzamiento de Guilty Gear Strive, que estará disponible el 11 de junio en PS4 y PS5 en edición física y digital, así como en PC mediante Steam. Como muestra de que el juego está totalmente listo para ponerse a la venta, el desarrollador japonés ha mostrado el correspondiente tráiler, la cinemática de apertura y echado un primer vistazo al plan de contenido adicional que añadirá cinco personajes mediante un Season Pass. Como todo el mundo ya sabe (o debería saber) Guilty Gear: Strive es el nuevo… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN “Why Not Simply”]]></title>
-        <id>https://news.ycombinator.com/item?id=27415725</id>
-        <link href="https://hn.algolia.com/?dateRange=all&amp;page=0&amp;prefix=true&amp;query=%22why%20not%20simply%22&amp;sort=byPopularity&amp;type=comment"/>
-        <updated>2021-06-06T19:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment
-Comments URL: https://news.ycombinator.com/item?id=27415725
-Points: 97
-# Comments: 58]]></summary>
-        <author>
-            <name>jgrahamc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Future for Icanhazip]]></title>
-        <id>https://news.ycombinator.com/item?id=27415537</id>
-        <link href="https://major.io/2021/06/06/a-new-future-for-icanhazip/"/>
-        <updated>2021-06-06T19:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/
-Comments URL: https://news.ycombinator.com/item?id=27415537
-Points: 553
-# Comments: 169]]></summary>
-        <author>
-            <name>nkcmr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastershot – Web based video editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27415089</id>
-        <link href="https://mastershot.app"/>
-        <updated>2021-06-06T18:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mastershot.app
-Comments URL: https://news.ycombinator.com/item?id=27415089
-Points: 134
-# Comments: 39]]></summary>
-        <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD from a NetBSD developer’s perspective]]></title>
-        <id>https://news.ycombinator.com/item?id=27415070</id>
-        <link href="https://washbear.neocities.org/freebsd-netbsd-user.html"/>
-        <updated>2021-06-06T18:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html
-Comments URL: https://news.ycombinator.com/item?id=27415070
-Points: 130
-# Comments: 47]]></summary>
-        <author>
-            <name>jayp1418</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Once a bastion of free speech, the ACLU faces an identity crisis]]></title>
-        <id>https://news.ycombinator.com/item?id=27414920</id>
-        <link href="https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html"/>
-        <updated>2021-06-06T18:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html
-Comments URL: https://news.ycombinator.com/item?id=27414920
-Points: 274
-# Comments: 288]]></summary>
-        <author>
-            <name>mful</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rain Backscatter on 10 GHz]]></title>
-        <id>https://news.ycombinator.com/item?id=27414912</id>
-        <link href="https://destevez.net/2021/06/rain-backscatter-on-10-ghz/"/>
-        <updated>2021-06-06T17:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://destevez.net/2021/06/rain-backscatter-on-10-ghz/
-Comments URL: https://news.ycombinator.com/item?id=27414912
-Points: 70
-# Comments: 31]]></summary>
-        <author>
-            <name>parsecs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business]]></title>
-        <id>https://news.ycombinator.com/item?id=27414470</id>
-        <link href="https://www.ycombinator.com/companies/pocketsuite"/>
-        <updated>2021-06-06T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/pocketsuite
-Comments URL: https://news.ycombinator.com/item?id=27414470
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>yiggydyang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An incomplete list of skills senior engineers need, beyond coding]]></title>
-        <id>https://news.ycombinator.com/item?id=27414443</id>
-        <link href="https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f"/>
-        <updated>2021-06-06T16:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
-Comments URL: https://news.ycombinator.com/item?id=27414443
-Points: 390
-# Comments: 139]]></summary>
-        <author>
-            <name>kungfudoi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The right tag for the job: why you should use semantic HTML]]></title>
-        <id>https://news.ycombinator.com/item?id=27414183</id>
-        <link href="https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/"/>
-        <updated>2021-06-06T16:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
-Comments URL: https://news.ycombinator.com/item?id=27414183
-Points: 132
-# Comments: 49]]></summary>
-        <author>
-            <name>tmfi</name>
         </author>
     </entry>
     <entry>
@@ -432,86 +512,6 @@ Points: 132
         <link href="https://www.elotrolado.net/noticias/juegos/fortnite-requisitos-epicos-pc"/>
         <updated>2021-06-03T17:45:25.000Z</updated>
         <summary type="html"><![CDATA[Epic Games ha revelado que la próxima semana y coincidiendo con la llegada del Capítulo 2 - Temporada 7 (actualización 17.00), el popular Fortnite recibirá gráficos mejorados. El aumento de la factura gráfica, que se aplicará tanto al battle royale como el modo Creativo, estará acompañado de unos nuevos requisitos actualizados más elevados y no comportará cambios para el resto de especificaciones de hardware, que seguirán rindiendo como hasta ahora. “Si usáis los ajustes de gráficos ‘épicos’ en un ordenador que cumpla los requisitos del sistema, podréis disfrutar de nuevos efectos… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: The Last Spell llega al acceso anticipado de Steam]]></title>
-        <id>46206_v1</id>
-        <link href="https://www.elotrolado.net/hilo_the-last-spell-llega-al-acceso-anticipado-de-steam_2425013"/>
-        <updated>2021-06-03T16:36:58.000Z</updated>
-        <summary type="html"><![CDATA[El editor The Arcade Crew ha recordado con un tráiler de lanzamiento que The Last Spell, un RPG táctico y roguelike desarrollado por Ishtar Games, ya se encuentra disponible mediante el acceso anticipado de Steam a cambio de 19,99 euros. El título se mantendrá bajo la protección de este programa durante “un año más o menos”. En The Last Spell los jugadores deberán proteger a los supervivientes de la humanidad de hordas de criaturas que han aparecido después de una catástrofe. Los combates son por turnos y exigirán equipar, posicionar y dirigir a los batallones a la vez que se organiza… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Chivalry II, un multijugador de batallas medievales con juego cruzado]]></title>
-        <id>46205_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/chivalry-ii-trailer-lanzamiento"/>
-        <updated>2021-06-03T16:11:10.000Z</updated>
-        <summary type="html"><![CDATA[Nueve años después de encontrar el éxito con Chivalry: Medieval Warfare, el estudio canadiense Torn Banner Studios vuelve a la carga con la secuela Chivalry II, cuyo tráiler de lanzamiento nos recuerda que el juego estará disponible el 8 de junio en PS5, PS4, Xbox One, Xbox Series y PC (Epic Games Store) en formato físico y digital. La predescarga e instalación del título se habilitará el domingo 6 de junio a las 17:00 horas para todas las plataformas. Chivalry II es un juego multijugador en primera persona de combates medievales a gran escala, cuya acción se inspira en las películas… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Frostpunk gratis en la Epic Games Store hasta el 10 de junio]]></title>
-        <id>46204_v1</id>
-        <link href="https://www.elotrolado.net/hilo_frostpunk-gratis-en-la-epic-games-store-hasta-el-10-de-junio_2424999"/>
-        <updated>2021-06-03T15:07:23.000Z</updated>
-        <summary type="html"><![CDATA[El tercer juego misterioso y gratuito de la Epic Games Store es Frostpunk, un título que desde hoy y hasta el 10 de junio a las 17:00 horas se puede añadir a la biblioteca de la tienda digital sin coste alguno. Para la próxima semana nos espera de nuevo un juego cuya identidad aún no ha sido revelada. Desarrollado por 11 bit studios (This War of Mine), Frostpunk es un juego de estrategia y supervivencia en el que los jugadores deben dirigir a una sociedad en un mundo congelado donde “el calor es fuente de vida y cada decisión tiene un precio”. El objetivo es construir una ciudad,… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revelados nuevos detalles de Horizon Forbidden West: escalada libre, combate cuerpo a cuerpo con combos y 60 FPS en PS5]]></title>
-        <id>46203_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/horizon-forbidden-west-detalles-60-fps"/>
-        <updated>2021-06-03T14:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Después de mostrar Horizon Forbidden West en un State of Play que acumula 2,6 millones de visionados, el director del juego Mathijs de Jonge y el director narrativo Benjamin McCaw, han concedido una entrevista a GameInformer donde han ofrecido nuevos detalles sobre el título de Guerrilla Games. Ambos desarrolladores también han hablado sobre la versión del juego para PS4 y confirmado que en PS5 se ofrecerá un modo rendimiento para jugar a 60 FPS. Mathijs De Jonge explica que una de las grandes novedades de Horizon Forbidden West pasa por introducir un sistema de escalada libre que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Norton empieza a ofrecer minado de Ethereum en su antivirus]]></title>
-        <id>46201_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/antivirus-norton-minado-ethereum"/>
-        <updated>2021-06-03T10:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Antivirus, herramientas de protección de datos, conexiones a VPN y ahora también minado de criptos. Por extraño (e incluso fuera de lugar) que pueda parecer, NortonLifeLock ha anunciado que la suite de seguridad informática Norton 360 comenzará a minar Ethereum para sus clientes a través de un nuevo producto. Norton Crypto, que es el nombre de este componente, ya se está desplegando de forma limitada a través de un programa de invitaciones previo paso a su disponibilidad generalizada. El anuncio de Norton es tenue en lo que se refiere a detalles técnicos. Según señala el comunicado,… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Studios presenta Team Asobi y liquida definitivamente Japan Studio]]></title>
-        <id>46202_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/team-asobi-playstation-studios"/>
-        <updated>2021-06-03T10:40:46.000Z</updated>
-        <summary type="html"><![CDATA[La reestructuración de los estudios japoneses que Sony Interactive Entertainment anunció el pasado febrero ha sido completada. Esto significa que Japan Studio, uno de los equipos más veteranos de la compañía y el responsable de las sagas Ape Escape, Knack, LocoRoco, Patapon y Gravity Rush, queda desmantelado y su lugar lo ocupa el que hasta no hace mucho era uno de sus estudios internos: Team Asobi, el desarrollador de la franquicia Astro Bot, que crece y gana el título de equipo first-party más joven de PlayStation Studios. “Después del lanzamiento de Astro’s Playroom para… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermen Hulst revela que Bend Studio trabaja en un nuevo juego y habla del encaje del PC en PlayStation Studios]]></title>
-        <id>46200_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/playstation-studios-bend-pc"/>
-        <updated>2021-06-02T20:35:46.000Z</updated>
-        <summary type="html"><![CDATA[La sesión de preguntas y respuestas con Hermen Hulst, máximo responsable de PlayStation Studios, ha servido para algo más que para hablar sobre el retraso del nuevo God of War y su versión para PlayStation 4. Durante la conversación el directivo ha revelado que Bend Studio, el equipo responsable de Days Gone, se encuentra trabajando en un nuevo juego de mundo abierto, y también ha hablado sobre cómo encaja en su estrategia la creciente llegada de juegos de PlayStation al PC. “Bend Studio está trabajando en una nueva propiedad intelectual con la que están muy, muy entusiasmados”,… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larian Studios, desarrollador de Baldur's Gate III, abre un nuevo estudio en Barcelona]]></title>
-        <id>46199_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/larian-studios-barcelona"/>
-        <updated>2021-06-02T18:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Larian Studios ha elegido Barcelona para instalar su séptimo equipo. En lugar de abrir una nueva oficina el estudio de desarrollo belga ha llegado a un acuerdo para quedarse con los activos y el personal de BlitWorks, el equipo responsable de llevar Divinity: Original Sin 2 a Nintendo Switch. BlitWorks seguirá trabajando como un editor independiente mientras que su equipo de desarrollo se centrará exclusivamente en los juegos de Larian Studios. “La historia de BlitWorks con Larian se remonta a mucho tiempo atrás”, dice Tony Cabello, cofundador de BlitWorks. “Después de llevar la… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
