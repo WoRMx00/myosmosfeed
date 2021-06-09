@@ -2,125 +2,326 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T01:38:01.446Z</updated>
+    <updated>2021-06-09T01:13:00.199Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields]]></title>
-        <id>https://news.ycombinator.com/item?id=27429414</id>
-        <link href="https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/"/>
-        <updated>2021-06-08T00:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/
-Comments URL: https://news.ycombinator.com/item?id=27429414
-Points: 11
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Why and how to be anonymous online]]></title>
+        <id>https://news.ycombinator.com/item?id=27442740</id>
+        <link href="https://startpage.com/privacy-please/startpage-articles/why-and-how-to-be-anonymous-online"/>
+        <updated>2021-06-09T00:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://startpage.com/privacy-please/startpage-articles/why-and-how-to-be-anonymous-online
+Comments URL: https://news.ycombinator.com/item?id=27442740
+Points: 17
+# Comments: 6]]></summary>
         <author>
-            <name>pseudolus</name>
+            <name>karinakarina</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Quickest Antenna Design of the Year]]></title>
-        <id>https://news.ycombinator.com/item?id=27429270</id>
-        <link href="https://shielddigitaldesign.com/posts/2021/fast-antenna/"/>
-        <updated>2021-06-08T00:38:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://shielddigitaldesign.com/posts/2021/fast-antenna/
-Comments URL: https://news.ycombinator.com/item?id=27429270
-Points: 3
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Apple M1 support for TensorFlow 2.5 pluggable device API]]></title>
+        <id>https://news.ycombinator.com/item?id=27442475</id>
+        <link href="https://developer.apple.com/metal/tensorflow-plugin/"/>
+        <updated>2021-06-08T23:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/metal/tensorflow-plugin/
+Comments URL: https://news.ycombinator.com/item?id=27442475
+Points: 52
+# Comments: 14]]></summary>
         <author>
-            <name>stn8188</name>
+            <name>dandiep</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An interactive look at how a video signal is made]]></title>
-        <id>https://news.ycombinator.com/item?id=27428380</id>
-        <link href="https://blog.pizzabox.computer/random/videolines/"/>
-        <updated>2021-06-07T22:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.pizzabox.computer/random/videolines/
-Comments URL: https://news.ycombinator.com/item?id=27428380
-Points: 28
-# Comments: 7]]></summary>
-        <author>
-            <name>andyjpb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static site generators to watch in 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27428062</id>
-        <link href="https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/"/>
-        <updated>2021-06-07T22:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/
-Comments URL: https://news.ycombinator.com/item?id=27428062
-Points: 35
+        <title type="html"><![CDATA[Introducing chrome.scripting]]></title>
+        <id>https://news.ycombinator.com/item?id=27441898</id>
+        <link href="https://developer.chrome.com/en/blog/crx-scripting-api/"/>
+        <updated>2021-06-08T22:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/
+Comments URL: https://news.ycombinator.com/item?id=27441898
+Points: 57
 # Comments: 31]]></summary>
         <author>
-            <name>x14km2d</name>
+            <name>pentagrama</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside]]></title>
-        <id>https://news.ycombinator.com/item?id=27427485</id>
-        <link href="https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside"/>
-        <updated>2021-06-07T21:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside
-Comments URL: https://news.ycombinator.com/item?id=27427485
-Points: 165
-# Comments: 139]]></summary>
+        <title type="html"><![CDATA[Bosch opens German chip plant]]></title>
+        <id>https://news.ycombinator.com/item?id=27441545</id>
+        <link href="https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/"/>
+        <updated>2021-06-08T22:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/
+Comments URL: https://news.ycombinator.com/item?id=27441545
+Points: 164
+# Comments: 51]]></summary>
         <author>
-            <name>nthitz</name>
+            <name>nixass</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The top-ranking HTML editor on Google is an SEO scam]]></title>
-        <id>https://news.ycombinator.com/item?id=27427330</id>
-        <link href="https://casparwre.de/blog/seo-scam/"/>
-        <updated>2021-06-07T21:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://casparwre.de/blog/seo-scam/
-Comments URL: https://news.ycombinator.com/item?id=27427330
-Points: 580
-# Comments: 126]]></summary>
+        <title type="html"><![CDATA[ProPublica's Tax Story is Misleading]]></title>
+        <id>https://news.ycombinator.com/item?id=27441277</id>
+        <link href="https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax"/>
+        <updated>2021-06-08T21:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax
+Comments URL: https://news.ycombinator.com/item?id=27441277
+Points: 50
+# Comments: 45]]></summary>
         <author>
-            <name>caspii</name>
+            <name>imgabe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification]]></title>
-        <id>https://news.ycombinator.com/item?id=27427096</id>
-        <link href="https://www.infoq.com/news/2021/04/intel-hidden-instructions/"/>
-        <updated>2021-06-07T21:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.infoq.com/news/2021/04/intel-hidden-instructions/
-Comments URL: https://news.ycombinator.com/item?id=27427096
-Points: 184
-# Comments: 47]]></summary>
+        <title type="html"><![CDATA[Study shows how taking short breaks may help our brains learn new skills]]></title>
+        <id>https://news.ycombinator.com/item?id=27441175</id>
+        <link href="https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains"/>
+        <updated>2021-06-08T21:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains
+Comments URL: https://news.ycombinator.com/item?id=27441175
+Points: 93
+# Comments: 26]]></summary>
         <author>
-            <name>andrewnicolalde</name>
+            <name>hhs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CodePerfect 95 – A fast IDE for Go]]></title>
-        <id>https://news.ycombinator.com/item?id=27426981</id>
-        <link href="https://codeperfect95.com"/>
-        <updated>2021-06-07T21:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://codeperfect95.com
-Comments URL: https://news.ycombinator.com/item?id=27426981
-Points: 104
-# Comments: 59]]></summary>
+        <title type="html"><![CDATA[Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27440726</id>
+        <link href="https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22"/>
+        <updated>2021-06-08T21:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22
+Comments URL: https://news.ycombinator.com/item?id=27440726
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>brhsagain</name>
+            <name>grabowss</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The price of batteries has declined by 97% in the last three decades]]></title>
-        <id>https://news.ycombinator.com/item?id=27426922</id>
-        <link href="https://ourworldindata.org/battery-price-decline"/>
-        <updated>2021-06-07T21:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ourworldindata.org/battery-price-decline
-Comments URL: https://news.ycombinator.com/item?id=27426922
-Points: 209
-# Comments: 134]]></summary>
+        <title type="html"><![CDATA[Microsoft Patches Six Zero-Day Security Holes]]></title>
+        <id>https://news.ycombinator.com/item?id=27440675</id>
+        <link href="https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/"/>
+        <updated>2021-06-08T20:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
+Comments URL: https://news.ycombinator.com/item?id=27440675
+Points: 123
+# Comments: 22]]></summary>
+        <author>
+            <name>parsecs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro: Ship Less JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27440553</id>
+        <link href="https://astro.build/blog/introducing-astro"/>
+        <updated>2021-06-08T20:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://astro.build/blog/introducing-astro
+Comments URL: https://news.ycombinator.com/item?id=27440553
+Points: 199
+# Comments: 58]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ppl: The command line address book]]></title>
+        <id>https://news.ycombinator.com/item?id=27440516</id>
+        <link href="https://github.com/hendotcat/ppl"/>
+        <updated>2021-06-08T20:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/hendotcat/ppl
+Comments URL: https://news.ycombinator.com/item?id=27440516
+Points: 58
+# Comments: 14]]></summary>
+        <author>
+            <name>nomoreplease</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Classification by Data Compression]]></title>
+        <id>https://news.ycombinator.com/item?id=27440093</id>
+        <link href="https://maxhalford.github.io/blog/text-classification-by-compression/"/>
+        <updated>2021-06-08T20:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://maxhalford.github.io/blog/text-classification-by-compression/
+Comments URL: https://news.ycombinator.com/item?id=27440093
+Points: 50
+# Comments: 12]]></summary>
+        <author>
+            <name>Lemaxoxo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Xbox Game Pass Ultimate vuelve a ofrecer un mes de Disney+]]></title>
+        <id>46237_v1</id>
+        <link href="https://www.elotrolado.net/hilo_xbox-game-pass-ultimate-vuelve-a-ofrecer-un-mes-de-disney_2425490"/>
+        <updated>2021-06-08T19:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Desde hoy los usuarios de Xbox Game Pass Ultimate tienen la oportunidad de suscribirse durante 30 días a Disney+ sin ningún tipo de coste adicional, pero con una condición, no ser clientes en activo del servicio en streaming. La promoción es válida incluso para aquellos que ya se beneficiaron de esta misma iniciativa en noviembre del año pasado. El motivo por el cual se ofrecen de nuevo 30 días de suscripción a Disney+ mediante Xbox Game Ultimate es el estreno de Loki, la nueva serie del universo cinematográfico de Marvel que estará disponible a partir del miércoles 9 junio. En la… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Superset 1.1]]></title>
+        <id>https://news.ycombinator.com/item?id=27439939</id>
+        <link href="https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1"/>
+        <updated>2021-06-08T19:53:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1
+Comments URL: https://news.ycombinator.com/item?id=27439939
+Points: 44
+# Comments: 11]]></summary>
+        <author>
+            <name>skadamat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientific Computing with Perl]]></title>
+        <id>https://news.ycombinator.com/item?id=27439638</id>
+        <link href="http://pdl.perl.org/"/>
+        <updated>2021-06-08T19:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://pdl.perl.org/
+Comments URL: https://news.ycombinator.com/item?id=27439638
+Points: 89
+# Comments: 48]]></summary>
+        <author>
+            <name>smartmic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ohio sues Google, seeks to declare the internet company a public utility]]></title>
+        <id>https://news.ycombinator.com/item?id=27439010</id>
+        <link href="https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/"/>
+        <updated>2021-06-08T18:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
+Comments URL: https://news.ycombinator.com/item?id=27439010
+Points: 541
+# Comments: 452]]></summary>
         <author>
             <name>infodocket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-world CSS vs. CSS-in-JS performance comparison]]></title>
+        <id>https://news.ycombinator.com/item?id=27438913</id>
+        <link href="https://pustelto.com/blog/css-vs-css-in-js-perf/"/>
+        <updated>2021-06-08T18:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/
+Comments URL: https://news.ycombinator.com/item?id=27438913
+Points: 128
+# Comments: 109]]></summary>
+        <author>
+            <name>______-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playdate, una portátil con manivela, revela sus primeros juegos y un precio de 179 dólares]]></title>
+        <id>46236_v1</id>
+        <link href="https://www.elotrolado.net/noticias/consolas/playdate-precio-reservas-juegos"/>
+        <updated>2021-06-08T18:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Después de superar alguna que otra dificultad debido a la falta de chips, Panic, un veterano desarrollador de software para Mac así como el editor de Firewatch, está en disposición de anunciar nuevos detalles de Playdate, una pequeña consola portátil de diseño industrial. La empresa ha revelado 21 de los 24 juegos a los que ofrecerá acceso el dispositivo a lo largo de la primera temporada e informado que la campaña de reservas arrancará el próximo mes. La consola tendrá un precio de 179 dólares y los envíos se pondrán en marcha a finales de año. Durante la presentación, Panic también… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Consciousness of Invertebrates]]></title>
+        <id>https://news.ycombinator.com/item?id=27437772</id>
+        <link href="https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates"/>
+        <updated>2021-06-08T17:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates
+Comments URL: https://news.ycombinator.com/item?id=27437772
+Points: 67
+# Comments: 38]]></summary>
+        <author>
+            <name>quercusa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To protect against weaponized drones, we must understand their key strengths]]></title>
+        <id>https://news.ycombinator.com/item?id=27437092</id>
+        <link href="https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths"/>
+        <updated>2021-06-08T16:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths
+Comments URL: https://news.ycombinator.com/item?id=27437092
+Points: 77
+# Comments: 144]]></summary>
+        <author>
+            <name>jonbaer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft lanza su teléfono de doble pantalla Surface Duo por 1.549 euros]]></title>
+        <id>46235_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/microsoft-surface-duo-telefono-doble-pantalla-precio"/>
+        <updated>2021-06-08T14:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft se lo ha tomado con calma hasta para lo que suele ser habitual en la gama Surface, pero por fin ha llegado. El teléfono Android de doble pantalla Surface Duo ha llegado finalmente a nuestro país con un retraso de más de medio año con respecto a Estados Unidos, donde salió a la venta en septiembre de 2020. Lo hace además con una disponibilidad algo limitada, puesto que al menos inicialmente este singular dispositivo se ofrecerá en exclusiva para empresas y el mercado educativo. Dotado con dos pantallas de 5,6 pulgadas que se abren como si fueran un libro para generar una… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams]]></title>
+        <id>https://news.ycombinator.com/item?id=27435377</id>
+        <link href="https://news.ycombinator.com/item?id=27435377"/>
+        <updated>2021-06-08T14:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN! I’m Gabriel, one of the co-founders of Runway (https://runway.team). We’re building a SaaS platform that makes it easier to coordinate your team’s mobile app releases. Runway is an integration layer that sits on top of mobile app teams’ existing project management and development tools, making it possible to understand at-a-glance the status and progress of release cycles and to communicate tasks and blockers — allowing teams to spend their time on improving their product instead of managing releases and tooling.
+When I was an iOS engineer, my team rotated everyone through the release manager role for each release cycle. I remember dreading the weeks I was assigned this role - I’d get stuck spending a few hours with multiple Chrome tabs open checking on the status of different tools…]]></summary>
+        <author>
+            <name>gsavit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: El evento de Capcom en el E3 2021 será el 14 de junio a las 23:30 horas]]></title>
+        <id>46234_v1</id>
+        <link href="https://www.elotrolado.net/hilo_el-evento-de-capcom-en-el-e3-2021-sera-el-14-de-junio-a-las-23-30-horas_2425452"/>
+        <updated>2021-06-08T13:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Capcom ha revelado que el evento que tiene programado emitir durante el E3 2021 tendrá lugar el lunes 14 de junio a las 23:30 horas peninsular española. La transmisión se podrá seguir mediante los canales oficiales del E3 en YouTube y Twitch. La compañía japonesa ya ha confirmado que durante el evento tendremos novedades sobre The Great Ace Attorney Chronicles, Monster Hunter Stories 2, Monster Hunter Rise y Resident Evil Village. Veremos si además de estos nombres Capcom nos ha preparado alguna que otra sorpresa. Podéis echar un vistazo al calendario de todas las conferencias del E3… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Netflix uses eBPF flow logs at scale for network insight]]></title>
+        <id>https://news.ycombinator.com/item?id=27435081</id>
+        <link href="https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96"/>
+        <updated>2021-06-08T13:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
+Comments URL: https://news.ycombinator.com/item?id=27435081
+Points: 263
+# Comments: 31]]></summary>
+        <author>
+            <name>el_duderino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the government set up a fake bank to launder drug money (2012)]]></title>
+        <id>https://news.ycombinator.com/item?id=27434243</id>
+        <link href="https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money"/>
+        <updated>2021-06-08T12:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
+Comments URL: https://news.ycombinator.com/item?id=27434243
+Points: 195
+# Comments: 86]]></summary>
+        <author>
+            <name>mdeck_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: F1 2021 funcionará a 4K/60 FPS o 1440p/120 FPS en PS5 y Xbox Series X]]></title>
+        <id>46233_v1</id>
+        <link href="https://www.elotrolado.net/hilo_f1-2021-funcionara-a-4k-60-fps-o-1440p-120-fps-en-ps5-y-xbox-series-x_2425439"/>
+        <updated>2021-06-08T12:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Lee Mather, director de la serie F1 en Codemasters, ha revelado en declaraciones a Gamingbolt que F1 2021 permitirá ajustar la experiencia visual en PS5 y Xbox Series X mediante dos modos. Con Graphics Mode el juego se ejecutará en 4K y 60 FPS, mientras que el Performance Mode bajará hasta los 1440p a cambio de ofrecer 120 FPS. Por su parte, los jugadores de Xbox Series S solo tendrán un modo que mostrará el juego a 1080p y 60 FPS. En PC, el título de Codemasters presentará los ajustes gráficos habituales, pero será el hardware quien dictamine la calidad de los mismos y los fotogramas… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil Village para PS5 debuta como el tercer juego más vendido de mayo, pero GTA V sigue encabezando la lista]]></title>
+        <id>46232_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/mas-vendidos-mayo-2021"/>
+        <updated>2021-06-08T09:11:30.000Z</updated>
+        <summary type="html"><![CDATA[La lista con los juegos más vendidos de mayo en España nos deja con un dato significativo: la versión de Resident Evil Village para PS5 ha conseguido colocar más unidades que la de PS4, una consola que cuenta con una base de jugadores mucho más amplia. Pero a pesar de la irrupción del survival horror desarrollado por Capcom en la tercera y cuarta posición, en la primera sigue encaramado GTA V, un título que el 11 de noviembre ganará un impulso con la llegada de las versiones para PS5 y Xbox Series. El resto de la lista está dominada por Nintendo Switch empezando con Super Mario 3D… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -131,45 +332,6 @@ Points: 209
         <summary type="html"><![CDATA[El equipo polaco 11 Bit Studios ha anunciado que a lo largo de este año los jugadores con una copia de Frostpunk: Console Edition tendrán la opción de adquirir las tres expansiones (The Rifts, The Last Autumn y On The Edge) que el juego ya ofrece en PC. Además, la compañía trabaja en llevar hasta PlayStation 4 y Xbox One otros contenidos y una actualización para optimizar el uso de mandos. La expansión The Rifts añade el modo Infinito, el puente como nueva construcción y nuevas mecánicas de juego; The Last Autumn es una precuela de la campaña de Frostpunk; y On The Edge introduce… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27426841</id>
-        <link href="https://jobs.lever.co/buildzoom"/>
-        <updated>2021-06-07T21:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
-Comments URL: https://news.ycombinator.com/item?id=27426841
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>the_economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlights of new technologies introduced at WWDC 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27426796</id>
-        <link href="https://developer.apple.com/documentation/New-Technologies-WWDC-2021"/>
-        <updated>2021-06-07T20:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/documentation/New-Technologies-WWDC-2021
-Comments URL: https://news.ycombinator.com/item?id=27426796
-Points: 87
-# Comments: 38]]></summary>
-        <author>
-            <name>Austin_Conlon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“It is 2018 and this error message is a mistake from 1974”]]></title>
-        <id>https://news.ycombinator.com/item?id=27426775</id>
-        <link href="https://twitter.com/Foone/status/1058676834940776450"/>
-        <updated>2021-06-07T20:44:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Foone/status/1058676834940776450
-Comments URL: https://news.ycombinator.com/item?id=27426775
-Points: 116
-# Comments: 63]]></summary>
-        <author>
-            <name>mmastrac</name>
         </author>
     </entry>
     <entry>
@@ -203,32 +365,6 @@ Points: 116
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yatima: A programming language for the decentralized web]]></title>
-        <id>https://news.ycombinator.com/item?id=27425941</id>
-        <link href="https://github.com/yatima-inc/yatima"/>
-        <updated>2021-06-07T18:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/yatima-inc/yatima
-Comments URL: https://news.ycombinator.com/item?id=27425941
-Points: 59
-# Comments: 28]]></summary>
-        <author>
-            <name>agentofuser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FaceTime is coming to Android and Windows via the web]]></title>
-        <id>https://news.ycombinator.com/item?id=27425622</id>
-        <link href="https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc"/>
-        <updated>2021-06-07T17:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc
-Comments URL: https://news.ycombinator.com/item?id=27425622
-Points: 433
-# Comments: 195]]></summary>
-        <author>
-            <name>jbredeche</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stadia recibirá soporte para los Chromecast con Google TV y dispositivos Android TV el 23 de junio]]></title>
         <id>46227_v1</id>
         <link href="https://www.elotrolado.net/noticias/tecnologia/google-stadia-chromecast-android-tv-soporte"/>
@@ -236,32 +372,6 @@ Points: 433
         <summary type="html"><![CDATA[Google ha anunciado una nueva expansión en la disponibilidad de Stadia al comunicar que tan pronto como el miércoles 23 de junio el reproductor Chromecast con Google TV ganará soporte para el servicio de juegos en streaming. Para entonces solo habrán pasado nueve meses desde que el dispositivo se pusiera a la venta por 69,99 euros. Además, Google ha anunciado que ese mismo día Stadia se extenderá a una serie de dispositivos con el sistema operativo Android TV. Gracias al soporte para Chromecast con Google TV, que es una evolución del Chromecast Ultra, Stadia pasará a estar disponible… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Found at Goodwill: WebPad 1001 Prototype]]></title>
-        <id>https://news.ycombinator.com/item?id=27424649</id>
-        <link href="https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/"/>
-        <updated>2021-06-07T16:40:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/
-Comments URL: https://news.ycombinator.com/item?id=27424649
-Points: 260
-# Comments: 66]]></summary>
-        <author>
-            <name>farmerbb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27424605</id>
-        <link href="https://www.foundationdb.org/files/fdb-paper.pdf"/>
-        <updated>2021-06-07T16:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.foundationdb.org/files/fdb-paper.pdf
-Comments URL: https://news.ycombinator.com/item?id=27424605
-Points: 157
-# Comments: 55]]></summary>
-        <author>
-            <name>wwilson</name>
         </author>
     </entry>
     <entry>
@@ -275,45 +385,6 @@ Points: 157
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replit used legal threats to kill my open-source project]]></title>
-        <id>https://news.ycombinator.com/item?id=27424195</id>
-        <link href="https://intuitiveexplanations.com/tech/replit/"/>
-        <updated>2021-06-07T16:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://intuitiveexplanations.com/tech/replit/
-Comments URL: https://news.ycombinator.com/item?id=27424195
-Points: 3045
-# Comments: 923]]></summary>
-        <author>
-            <name>raxod502</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enabling Personal Computational Handweaving with a Low-Cost Jacquard Loom]]></title>
-        <id>https://news.ycombinator.com/item?id=27423963</id>
-        <link href="https://dl.acm.org/doi/pdf/10.1145/3411764.3445750"/>
-        <updated>2021-06-07T15:48:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/pdf/10.1145/3411764.3445750
-Comments URL: https://news.ycombinator.com/item?id=27423963
-Points: 93
-# Comments: 3]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Quadrant Eye (YC W21) – Tackling online eye exams and at-home eyecare]]></title>
-        <id>https://news.ycombinator.com/item?id=27423738</id>
-        <link href="https://news.ycombinator.com/item?id=27423738"/>
-        <updated>2021-06-07T15:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN --
-This is Quinn and Kristine of Quadrant Eye (https://www.quadranteye.com). We’re a cataract surgeon and software engineer duo who are spearheading the at-home eyecare revolution. Our goal is to provide comprehensive eyecare to people at home, and as a first step, we're tackling online glasses/contact lens prescriptions renewals.
-I (Quinn) started the company after I took care of a grandfather who tragically went blind during the Covid lockdown. This could have been prevented if he had had access to reliable at-home eyecare. During my training, I had seen countless similar scenarios play out around the country, but to have it happen in my own clinic was the last straw.
-Eyecare is a weird and tricky space. On the one hand, there are legitimate reasons why eye doctors and their patie…]]></summary>
-        <author>
-            <name>Killakwinn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: Dying Light - Hellraid recibe el modo historia The Prisoner]]></title>
         <id>46225_v1</id>
         <link href="https://www.elotrolado.net/hilo_dying-light-hellraid-recibe-el-modo-historia-the-prisoner_2425356"/>
@@ -321,19 +392,6 @@ Eyecare is a weird and tricky space. On the one hand, there are legitimate reaso
         <summary type="html"><![CDATA[Techland ha anunciado que los jugadores de Dying Light - Hellraid, un contenido adicional de Dying Light con una ambientación totalmente diferente a la del juego original, tiene desde hoy disponible un modo historia llamado The Prisoner. En el futuro se añadirán más misiones al modo historia para así ir desvelando la trama de forma gradual. “Un antiguo conflicto se reaviva y debes prepararte para un enfrentamiento inevitable”, dice la descripción oficial de The Prisioner. “Pero recuerda que los misterios del Templo de Ba'al están bien protegidos, y el destino de la única persona que… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to sequence your genome at home]]></title>
-        <id>https://news.ycombinator.com/item?id=27422719</id>
-        <link href="http://blog.booleanbiotech.com/human-genome-at-home.html"/>
-        <updated>2021-06-07T14:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://blog.booleanbiotech.com/human-genome-at-home.html
-Comments URL: https://news.ycombinator.com/item?id=27422719
-Points: 136
-# Comments: 34]]></summary>
-        <author>
-            <name>sprague</name>
         </author>
     </entry>
     <entry>
@@ -452,66 +510,6 @@ Points: 136
         <link href="https://www.elotrolado.net/noticias/juegos/2k-filtracion-e3-2021"/>
         <updated>2021-06-04T00:12:46.000Z</updated>
         <summary type="html"><![CDATA[Ya tenemos entre nosotros la primera gran filtración del E3 2021. Este año la víctima ha sido 2K Games, el sello de Take-Two que ha visto correr por Reddit una lista con algunos de los juegos que presentará durante la próxima semana. La información ha sido verificada por múltiples fuentes, incluyendo al periodista Jason Schreier de Bloomberg, Video Games Chronicle y Venturebeat, así que difícilmente alguien se quemará si pone la mano en el fuego. El título que más llama la atención es el nuevo proyecto de Firaxis Games que se esconde bajo el nombre en clave CODA. Según la información… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Square Enix celebrará un evento el 13 de junio protagonizado por Babylon's Fall y el nuevo juego de Eidos Montréal]]></title>
-        <id>46212_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/square-enix-presents-e3-2021"/>
-        <updated>2021-06-03T23:28:24.000Z</updated>
-        <summary type="html"><![CDATA[El calendario de eventos del E3 2021 sigue sumando compañías y en esta ocasión toca hablar de Square Enix, que celebrará una edición digital del Square Enix Presents el domingo 13 de junio a las 21:15 hora peninsular española. Es decir, justo después del Xbox & Bethesda Games Showcase. La compañía japonesa no se ha limitado a ofrecer fecha y hora, sino que también ha avanzado algunos de los juegos que mostrará durante el evento que se podrá seguir mediante YouTube y Twitch. El Square Enix Presents servirá para mostrar el nuevo juego Eidos Montréal. La literatura oficial termina ahí y… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony muestra un carrusel de juegos para PS VR incluyendo Sniper Elite VR, Fracked y After the Fall]]></title>
-        <id>46211_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/playstation-vr-spotlight-junio"/>
-        <updated>2021-06-03T22:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Con la llegada de PlayStation 5 y el anuncio de una nueva generación de realidad virtual, el actual modelo de PlayStation VR ha quedado un poco en tierra de nadie. A pesar de ello, Sony sigue promocionando juegos que aprovechan su dispositivo y como muestra tenemos una nueva entrega del evento PS VR Spotlight, cuya última edición ha destacado con tráileres y detalles siete próximos lanzamientos para el visor de realidad virtual. Empezamos hablando de un título que ya tiene fecha de lanzamiento, Sniper Elite VR, que estará disponible el 8 de julio en PS VR, Steam y Oculus. Este juego… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presentado el run and gun Warhammer 40,000: Shootas, Blood & Teef]]></title>
-        <id>46210_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/warhammer-40000-shootas-blood-teef-anunciado"/>
-        <updated>2021-06-03T21:47:09.000Z</updated>
-        <summary type="html"><![CDATA[La celebración del evento Warhammer Skulls nos deja un tercer anuncio, el de Warhammer 40,000: Shootas, Blood & Teef, un run and gun con plataformas desarrollado por el estudio belga Rogueside responsable de la saga Guns, Gore & Cannoli. Antes han desfilado por la portada el cooperativo Warhammer: 40,000 Darktide de Fatshark y el RPG táctico por turnos Warhammer 40,000: Chaos Gate - Daemonhunters, que se encuentra en manos de Complex Games. Warhammer 40,000: Shootas, Blood & Teef tiene como protagonistas a los Orkos, una raza salvaje conocida como la horda verde que arrasan estrellas… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anunciado Warhammer 40,000: Chaos Gate - Daemonhunters, un reinicio del RPG táctico por turnos]]></title>
-        <id>46209_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/warhammer-40000-chaos-gate-daemonhunters-anunciado"/>
-        <updated>2021-06-03T20:42:19.000Z</updated>
-        <summary type="html"><![CDATA[Frontier Foundry, el sello editorial del desarrollador británico Frontier (Elite Dangerous, Jurassic World Evolution), ha anunciado Warhammer 40.000: Chaos Gate - Daemonhunters, un reinicio del clásico RPG táctico por turnos en manos del equipo canadiense Complex Games. El juego, del que ya tenemos los primeros detalles y un teaser tráiler, estará disponible durante el 2022 para PC mediante Steam y Epic Games Store. La historia de Warhammer 40.000: Chaos Gate - Daemonhunters corre a cargo de Aaron Dembski-Bowden, escritor de varias novelas ambientadas en el universo Warhammer como… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warhammer: 40,000 Darktide detalla su historia coescrita por Dan Abnett, autor de múltiples novelas del universo 40K]]></title>
-        <id>46208_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/warhammer-40000-darktide-dan-abnett"/>
-        <updated>2021-06-03T18:52:40.000Z</updated>
-        <summary type="html"><![CDATA[Fatshark ha anunciado que Warhammer: 40,000 Darktide tendrá una historia desarrollada “en estricta colaboración con Dan Abnett”, un autor superventas que ha escrito múltiples novelas y novelas gráficas ambientadas en el universo de Warhammer y Warhammer 40,000. Con motivo de esta contratación el estudio sueco ha ofrecido nuevos detalles sobre la historia de su nuevo juego cooperativo. “Con Warhammer: 40.000 Darktide decidimos enfocarnos en los humanos porque son el corazón y el alma de todo el universo 40K”, explica Dan Abnett. “Jugar como un ser humano enfatiza realmente la… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortnite mejorará sus gráficos en PC con la actualización 17.00]]></title>
-        <id>46207_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/fortnite-requisitos-epicos-pc"/>
-        <updated>2021-06-03T17:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Epic Games ha revelado que la próxima semana y coincidiendo con la llegada del Capítulo 2 - Temporada 7 (actualización 17.00), el popular Fortnite recibirá gráficos mejorados. El aumento de la factura gráfica, que se aplicará tanto al battle royale como el modo Creativo, estará acompañado de unos nuevos requisitos actualizados más elevados y no comportará cambios para el resto de especificaciones de hardware, que seguirán rindiendo como hasta ahora. “Si usáis los ajustes de gráficos ‘épicos’ en un ordenador que cumpla los requisitos del sistema, podréis disfrutar de nuevos efectos… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
