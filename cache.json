@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27442740",
-          "author": "karinakarina",
-          "description": "Article URL: https://startpage.com/privacy-please/startpage-articles/why-and-how-to-be-anonymous-online\nComments URL: https://news.ycombinator.com/item?id=27442740\nPoints: 17\n# Comments: 6",
-          "link": "https://startpage.com/privacy-please/startpage-articles/why-and-how-to-be-anonymous-online",
-          "publishedOn": "2021-06-09T00:13:50.000Z",
-          "wordCount": 1145,
-          "title": "Why and how to be anonymous online"
+          "id": "https://news.ycombinator.com/item?id=27455087",
+          "author": "cwwc",
+          "description": "Article URL: https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction\nComments URL: https://news.ycombinator.com/item?id=27455087\nPoints: 19\n# Comments: 1",
+          "link": "https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction",
+          "publishedOn": "2021-06-10T00:08:03.000Z",
+          "wordCount": 2006,
+          "title": "The Risk of Cargo Liquefication"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27442475",
-          "author": "dandiep",
-          "description": "Article URL: https://developer.apple.com/metal/tensorflow-plugin/\nComments URL: https://news.ycombinator.com/item?id=27442475\nPoints: 52\n# Comments: 14",
-          "link": "https://developer.apple.com/metal/tensorflow-plugin/",
-          "publishedOn": "2021-06-08T23:38:39.000Z",
-          "wordCount": 301,
-          "title": "Apple M1 support for TensorFlow 2.5 pluggable device API"
+          "id": "https://news.ycombinator.com/item?id=27454418",
+          "author": "flankstaek",
+          "description": "Article URL: https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/\nComments URL: https://news.ycombinator.com/item?id=27454418\nPoints: 38\n# Comments: 9",
+          "link": "https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/",
+          "publishedOn": "2021-06-09T22:56:37.000Z",
+          "wordCount": 950,
+          "title": "Reddit Sunsets Secret Santa and Reddit Gifts"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27441898",
-          "author": "pentagrama",
-          "description": "Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/\nComments URL: https://news.ycombinator.com/item?id=27441898\nPoints: 57\n# Comments: 31",
-          "link": "https://developer.chrome.com/en/blog/crx-scripting-api/",
-          "publishedOn": "2021-06-08T22:28:03.000Z",
-          "wordCount": 1866,
-          "title": "Introducing chrome.scripting"
+          "id": "https://news.ycombinator.com/item?id=27453909",
+          "author": "prostoalex",
+          "description": "Article URL: https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html\nComments URL: https://news.ycombinator.com/item?id=27453909\nPoints: 315\n# Comments: 180",
+          "link": "https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html",
+          "publishedOn": "2021-06-09T22:07:37.000Z",
+          "wordCount": 664,
+          "title": "Facebook extends its work-at-home policy to most employees"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27441545",
-          "author": "nixass",
-          "description": "Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/\nComments URL: https://news.ycombinator.com/item?id=27441545\nPoints: 164\n# Comments: 51",
-          "link": "https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/",
-          "publishedOn": "2021-06-08T22:01:52.000Z",
-          "wordCount": 819,
-          "title": "Bosch opens German chip plant"
+          "id": "https://news.ycombinator.com/item?id=27453721",
+          "author": "bananapizza",
+          "description": "Article URL: https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2\nComments URL: https://news.ycombinator.com/item?id=27453721\nPoints: 133\n# Comments: 105",
+          "link": "https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2",
+          "publishedOn": "2021-06-09T21:50:49.000Z",
+          "wordCount": 1183,
+          "title": "Evaluating necessity of Covid-19 vaccination in previously infected individuals"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27441277",
-          "author": "imgabe",
-          "description": "Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax\nComments URL: https://news.ycombinator.com/item?id=27441277\nPoints: 50\n# Comments: 45",
-          "link": "https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax",
-          "publishedOn": "2021-06-08T21:41:46.000Z",
-          "wordCount": 2944,
-          "title": "ProPublica's Tax Story is Misleading"
+          "id": "https://news.ycombinator.com/item?id=27453226",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/\nComments URL: https://news.ycombinator.com/item?id=27453226\nPoints: 183\n# Comments: 206",
+          "link": "https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/",
+          "publishedOn": "2021-06-09T21:06:13.000Z",
+          "wordCount": 766,
+          "title": "TC Energy scraps Keystone XL pipeline project after Biden revokes key permit"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27441175",
-          "author": "hhs",
-          "description": "Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains\nComments URL: https://news.ycombinator.com/item?id=27441175\nPoints: 93\n# Comments: 26",
-          "link": "https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains",
-          "publishedOn": "2021-06-08T21:34:15.000Z",
-          "wordCount": 1851,
-          "title": "Study shows how taking short breaks may help our brains learn new skills"
+          "id": "https://news.ycombinator.com/item?id=27453164",
+          "author": "colinchartier",
+          "description": "Article URL: https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021\nComments URL: https://news.ycombinator.com/item?id=27453164\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021",
+          "publishedOn": "2021-06-09T21:00:45.000Z",
+          "wordCount": 336,
+          "title": "LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27440726",
-          "author": "grabowss",
-          "description": "Article URL: https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22\nComments URL: https://news.ycombinator.com/item?id=27440726\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22",
-          "publishedOn": "2021-06-08T21:00:19.000Z",
-          "wordCount": 15,
-          "title": "Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers"
+          "id": "https://news.ycombinator.com/item?id=27452151",
+          "author": "mooreds",
+          "description": "Article URL: https://github.com/readme/unseen-oss\nComments URL: https://news.ycombinator.com/item?id=27452151\nPoints: 120\n# Comments: 85",
+          "link": "https://github.com/readme/unseen-oss",
+          "publishedOn": "2021-06-09T19:38:24.000Z",
+          "wordCount": 2673,
+          "title": "You use more open source software than you think"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27440675",
-          "author": "parsecs",
-          "description": "Article URL: https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/\nComments URL: https://news.ycombinator.com/item?id=27440675\nPoints: 123\n# Comments: 22",
-          "link": "https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/",
-          "publishedOn": "2021-06-08T20:55:58.000Z",
-          "wordCount": 1295,
-          "title": "Microsoft Patches Six Zero-Day Security Holes"
+          "id": "https://news.ycombinator.com/item?id=27451844",
+          "author": "tmkadamcz",
+          "description": "Article URL: https://fragile-credences.github.io/scihub-proxy/\nComments URL: https://news.ycombinator.com/item?id=27451844\nPoints: 283\n# Comments: 126",
+          "link": "https://fragile-credences.github.io/scihub-proxy/",
+          "publishedOn": "2021-06-09T19:12:02.000Z",
+          "wordCount": 707,
+          "title": "How to circumvent Sci-Hub ISP block"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27440553",
-          "author": "feross",
-          "description": "Article URL: https://astro.build/blog/introducing-astro\nComments URL: https://news.ycombinator.com/item?id=27440553\nPoints: 199\n# Comments: 58",
-          "link": "https://astro.build/blog/introducing-astro",
-          "publishedOn": "2021-06-08T20:46:02.000Z",
-          "wordCount": 959,
-          "title": "Astro: Ship Less JavaScript"
+          "id": "https://news.ycombinator.com/item?id=27451689",
+          "author": "amrrs",
+          "description": "Article URL: https://twitter.com/jasminericegirl/status/1402691047940100100\nComments URL: https://news.ycombinator.com/item?id=27451689\nPoints: 344\n# Comments: 431",
+          "link": "https://twitter.com/jasminericegirl/status/1402691047940100100",
+          "publishedOn": "2021-06-09T18:58:29.000Z",
+          "wordCount": 196,
+          "title": "Apple is threatening to remove Fanhouse unless they give 30% of creator earning"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27440516",
-          "author": "nomoreplease",
-          "description": "Article URL: https://github.com/hendotcat/ppl\nComments URL: https://news.ycombinator.com/item?id=27440516\nPoints: 58\n# Comments: 14",
-          "link": "https://github.com/hendotcat/ppl",
-          "publishedOn": "2021-06-08T20:43:43.000Z",
-          "wordCount": 849,
-          "title": "Ppl: The command line address book"
+          "id": "https://news.ycombinator.com/item?id=27451484",
+          "author": "donohoe",
+          "description": "Article URL: https://www.hudsandguis.com/home/2021/theexpanse?ref=sidebar\nComments URL: https://news.ycombinator.com/item?id=27451484\nPoints: 50\n# Comments: 10",
+          "link": "https://www.hudsandguis.com/home/2021/theexpanse?ref=sidebar",
+          "publishedOn": "2021-06-09T18:41:14.000Z",
+          "wordCount": 2329,
+          "title": "The Expanse UI Design"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27440093",
-          "author": "Lemaxoxo",
-          "description": "Article URL: https://maxhalford.github.io/blog/text-classification-by-compression/\nComments URL: https://news.ycombinator.com/item?id=27440093\nPoints: 50\n# Comments: 12",
-          "link": "https://maxhalford.github.io/blog/text-classification-by-compression/",
-          "publishedOn": "2021-06-08T20:08:27.000Z",
-          "wordCount": 1101,
-          "title": "Text Classification by Data Compression"
+          "id": "https://news.ycombinator.com/item?id=27451413",
+          "author": "gumby",
+          "description": "Article URL: https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad\nComments URL: https://news.ycombinator.com/item?id=27451413\nPoints: 110\n# Comments: 112",
+          "link": "https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad",
+          "publishedOn": "2021-06-09T18:34:24.000Z",
+          "wordCount": 1355,
+          "title": "How Universal Control on macOS Monterey Works"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27439939",
-          "author": "skadamat",
-          "description": "Article URL: https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1\nComments URL: https://news.ycombinator.com/item?id=27439939\nPoints: 44\n# Comments: 11",
-          "link": "https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1",
-          "publishedOn": "2021-06-08T19:53:01.000Z",
-          "wordCount": 954,
-          "title": "Apache Superset 1.1"
+          "id": "https://news.ycombinator.com/item?id=27450568",
+          "author": "fnubbly",
+          "description": "Article URL: https://www.chronicle.com/article/positive-psychology-goes-to-war\nComments URL: https://news.ycombinator.com/item?id=27450568\nPoints: 22\n# Comments: 7",
+          "link": "https://www.chronicle.com/article/positive-psychology-goes-to-war",
+          "publishedOn": "2021-06-09T17:22:24.000Z",
+          "wordCount": null,
+          "title": "Positive Psychology Goes to War"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27439638",
-          "author": "smartmic",
-          "description": "Article URL: http://pdl.perl.org/\nComments URL: https://news.ycombinator.com/item?id=27439638\nPoints: 89\n# Comments: 48",
-          "link": "http://pdl.perl.org/",
-          "publishedOn": "2021-06-08T19:24:11.000Z",
-          "wordCount": 350,
-          "title": "Scientific Computing with Perl"
+          "id": "https://news.ycombinator.com/item?id=27450373",
+          "author": "throwawaybutwhy",
+          "description": "Article URL: http://rephial.org/\nComments URL: https://news.ycombinator.com/item?id=27450373\nPoints: 139\n# Comments: 50",
+          "link": "http://rephial.org/",
+          "publishedOn": "2021-06-09T17:05:25.000Z",
+          "wordCount": 242,
+          "title": "Angband 4.2.2: A free, single-player roguelike dungeon exploration game"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27439010",
-          "author": "infodocket",
-          "description": "Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/\nComments URL: https://news.ycombinator.com/item?id=27439010\nPoints: 541\n# Comments: 452",
-          "link": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
-          "publishedOn": "2021-06-08T18:31:07.000Z",
-          "wordCount": 475,
-          "title": "Ohio sues Google, seeks to declare the internet company a public utility"
+          "id": "https://news.ycombinator.com/item?id=27450364",
+          "author": "Arnavion",
+          "description": "Article URL: https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426\nComments URL: https://news.ycombinator.com/item?id=27450364\nPoints: 338\n# Comments: 133",
+          "link": "https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426",
+          "publishedOn": "2021-06-09T17:04:46.000Z",
+          "wordCount": 195,
+          "title": "2021.06.08 Certificate Lifetime Incident"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27438913",
-          "author": "______-",
-          "description": "Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/\nComments URL: https://news.ycombinator.com/item?id=27438913\nPoints: 128\n# Comments: 109",
-          "link": "https://pustelto.com/blog/css-vs-css-in-js-perf/",
-          "publishedOn": "2021-06-08T18:24:39.000Z",
-          "wordCount": 1492,
-          "title": "Real-world CSS vs. CSS-in-JS performance comparison"
+          "id": "https://news.ycombinator.com/item?id=27449931",
+          "author": "cpach",
+          "description": "Article URL: https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/\nComments URL: https://news.ycombinator.com/item?id=27449931\nPoints: 200\n# Comments: 59",
+          "link": "https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/",
+          "publishedOn": "2021-06-09T16:34:38.000Z",
+          "wordCount": 799,
+          "title": "Sweden’s Northvolt raises $2.8B to supercharge EV battery output"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27437772",
-          "author": "quercusa",
-          "description": "Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates\nComments URL: https://news.ycombinator.com/item?id=27437772\nPoints: 67\n# Comments: 38",
-          "link": "https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates",
-          "publishedOn": "2021-06-08T17:00:59.000Z",
-          "wordCount": 8471,
-          "title": "The Consciousness of Invertebrates"
+          "id": "https://news.ycombinator.com/item?id=27449888",
+          "author": "patricklorio",
+          "description": "Article URL: https://playit.gg/\nComments URL: https://news.ycombinator.com/item?id=27449888\nPoints: 66\n# Comments: 31",
+          "link": "https://playit.gg/",
+          "publishedOn": "2021-06-09T16:31:01.000Z",
+          "wordCount": 38,
+          "title": "Show HN: A tool to self host game servers with a free static IP"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27437092",
-          "author": "jonbaer",
-          "description": "Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths\nComments URL: https://news.ycombinator.com/item?id=27437092\nPoints: 77\n# Comments: 144",
-          "link": "https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths",
-          "publishedOn": "2021-06-08T16:12:23.000Z",
-          "wordCount": 44,
-          "title": "To protect against weaponized drones, we must understand their key strengths"
+          "id": "https://news.ycombinator.com/item?id=27448175",
+          "author": "zpeti",
+          "description": "Article URL: https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801\nComments URL: https://news.ycombinator.com/item?id=27448175\nPoints: 587\n# Comments: 930",
+          "link": "https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801",
+          "publishedOn": "2021-06-09T14:20:46.000Z",
+          "wordCount": 375,
+          "title": "If you sell a house these days, the buyer might be a pension fund"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27435377",
-          "author": "gsavit",
-          "description": "Hi HN! I’m Gabriel, one of the co-founders of Runway (https://runway.team). We’re building a SaaS platform that makes it easier to coordinate your team’s mobile app releases. Runway is an integration layer that sits on top of mobile app teams’ existing project management and development tools, making it possible to understand at-a-glance the status and progress of release cycles and to communicate tasks and blockers — allowing teams to spend their time on improving their product instead of managing releases and tooling.\nWhen I was an iOS engineer, my team rotated everyone through the release manager role for each release cycle. I remember dreading the weeks I was assigned this role - I’d get stuck spending a few hours with multiple Chrome tabs open checking on the status of different tools…",
-          "link": "https://news.ycombinator.com/item?id=27435377",
-          "publishedOn": "2021-06-08T14:06:47.000Z",
-          "wordCount": 2932,
-          "title": "Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams"
+          "id": "https://news.ycombinator.com/item?id=27447766",
+          "author": "bcaa7f3a8bbc",
+          "description": "Article URL: https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html\nComments URL: https://news.ycombinator.com/item?id=27447766\nPoints: 230\n# Comments: 92",
+          "link": "https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html",
+          "publishedOn": "2021-06-09T13:47:06.000Z",
+          "wordCount": 1219,
+          "title": "Resistor Noise Can Be Deafening, and Hard to Reduce (2007)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27435081",
-          "author": "el_duderino",
-          "description": "Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96\nComments URL: https://news.ycombinator.com/item?id=27435081\nPoints: 263\n# Comments: 31",
-          "link": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
-          "publishedOn": "2021-06-08T13:42:14.000Z",
-          "wordCount": 1231,
-          "title": "How Netflix uses eBPF flow logs at scale for network insight"
+          "id": "https://news.ycombinator.com/item?id=27447348",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://alpaca-attack.com/\nComments URL: https://news.ycombinator.com/item?id=27447348\nPoints: 124\n# Comments: 42",
+          "link": "https://alpaca-attack.com/",
+          "publishedOn": "2021-06-09T12:58:48.000Z",
+          "wordCount": 2760,
+          "title": "Alpaca Attack"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27434243",
-          "author": "mdeck_",
-          "description": "Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money\nComments URL: https://news.ycombinator.com/item?id=27434243\nPoints: 195\n# Comments: 86",
-          "link": "https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money",
-          "publishedOn": "2021-06-08T12:29:53.000Z",
-          "wordCount": 616,
-          "title": "How the government set up a fake bank to launder drug money (2012)"
+          "id": "https://news.ycombinator.com/item?id=27447206",
+          "author": "Zolt",
+          "description": "SMS-based Two-Factor Authentication is not Secure. I’ve read this before but brushed it off. It wouldn’t happen to me. It did.\nI am with Boost Mobile. On Sunday night I received a text message that my PIN was changed. Within minutes I confirmed this to be true on my PC. I used the Boost application on my phone to change the PIN and received a confirmation text.\nA few minute later I received a text message welcoming me to Metro PCS.\nA few minute later I received emails to my business email that my account security information was deleted from my person email account. They used SMS authentication to my mobile number, that they now have control of to gain access.\nA few minutes later I received an email there was an account recovery attempt on my coinbase.com account.\nIt took less than 30 minutes for these events to transpire.\nI've spent about 15 hours trying to get my phone number and my email address back to my control.\nI've accumulated a list of eight other people in the Boost Mobile Reddit.com forum where the exact same thing happened to them.\nI filed a police report and filed a report with the FCC. I received a response from the FCC that they have started the inquiry and contacted Boost.\nI finally did get my cell phone number ported back to Boost. I have not gained control of my Microsoft email address.\nI didn’t realize I could only have messages of 2,000 characters.  So I will wrap this up.\nWhen account settings were changed, Coinbase gave me a link to lock my account, Microsoft gave me a link to log in to my account, which I no longer have control of.\nUnlike competitors, which allow pins from 6 to 15 characters and for accounts to be administrative locked, Boost offers none of these options. The last Boost operator suggested I pick a more secure PIN.\nI am calculating my losses and documenting all interactions.\nComments URL: https://news.ycombinator.com/item?id=27447206\nPoints: 524\n# Comments: 249",
+          "link": "https://news.ycombinator.com/item?id=27447206",
+          "publishedOn": "2021-06-09T12:40:08.000Z",
+          "wordCount": 16108,
+          "title": "Tell HN: SMS-based two-factor authentication is not secure"
         }
       ]
     },
@@ -193,12 +193,66 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46243_v1",
+          "author": null,
+          "description": "Durante las últimas horas varios medios han publicado su avance de Dungeons & Dragons: Dark Alliance y el editor Wizards of the Coast los ha acompañado con un gameplay overview trailer, es decir, un vídeo donde se hace un resumen con toda la información del juego de rol y acción cooperativo. También se ha detallado el plan de contenido poslanzamiento del título, que está compuesto por elementos gratuitos y una expansión de pago incluida en la Deluxe Edition. La historia de Dungeons & Dragons: Dark Alliance se desarrolla en las tierras heladas de Icewind Dale y tiene lugar después de… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/dark-alliance-gameplay-overview-trailer",
+          "publishedOn": "2021-06-09T20:05:25.000Z",
+          "wordCount": 843,
+          "title": "Dungeons & Dragons: Dark Alliance resume su apuesta con un tráiler y detalla el plan de contenido poslanzamiento"
+        },
+        {
+          "id": "46242_v1",
+          "author": null,
+          "description": "Blizzard Entertainment ha anunciado que pronto Overwatch recibirá una actualización que habilitará el juego cruzado entre PlayStation 4, PlayStation 5, Xbox One, Xbox Series, Nintendo Switch y PC. Cuando la nueva función esté disponible, los jugadores de consola deberán vincular su cuenta con una de Battle.net (que deberán crear en caso de que no la tengan) para aprovechar la nueva función. El juego cruzado se habilitará por defecto en todos los modos de Overwatch, pero en los competitivos los jugadores se dividirán entre los de consola y PC. Los usuarios de consola tendrán la opción… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_overwatch-tendra-juego-cruzado_2425575",
+          "publishedOn": "2021-06-09T17:57:40.000Z",
+          "wordCount": 722,
+          "title": "Breve: Overwatch tendrá juego cruzado"
+        },
+        {
+          "id": "46241_v1",
+          "author": null,
+          "description": "Electronic Arts y DICE han sorprendido (y quizás decepcionado) a más de uno cuando han revelado que Battlefield 2042 no tiene campaña para un jugador. ¿Por qué? Según el equipo se desarrollo se trata de un regreso a sus raíces y si hacemos un poco de memoria, razón no le falta. Lo más parecido a una campaña que tenían las primeras entregas principales de Battlefield como Battlefield 1942 (2002), Battlefield 2 (2005) y Battlefield 2142 (2006) eran combates contra bots. “Creo que [no tener campaña para un jugador] es algo que nos permite centrarnos en lo que somos mejores”, dice Daniel… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/battlefield-2042-un-jugador-historia",
+          "publishedOn": "2021-06-09T17:38:20.000Z",
+          "wordCount": 797,
+          "title": "DICE sobre la ausencia de campaña en Battlefield 2042: el multijugador “es lo que mejor hacemos”"
+        },
+        {
+          "id": "46239_v1",
+          "author": null,
+          "description": "Después de una larga cuenta atrás Electronic Arts ha anunciado que el nuevo Battlefield responde al nombre de Battlefield 2042. El shooter en primera persona en manos de DICE se ha presentado luciendo un primer tráiler que nos transporta a una guerra moderna y haciendo muchas promesas entre las que no se incluye la tradicional campaña para un jugador ni un battle royale. También tenemos una fecha de lanzamiento, 22 de octubre, y una nueva cita para el 13 de junio, día en el que se mostrará el primer gameplay del juego. Battlefield 2042 nos sitúa en un “mundo transformado” en el que… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/battlefield-2042-anunciado",
+          "publishedOn": "2021-06-09T15:07:51.000Z",
+          "wordCount": 785,
+          "title": "Presentado Battlefield 2042: primer tráiler, mapas con hasta 128 jugadores, sin campaña y disponible el 22 de octubre"
+        },
+        {
+          "id": "46240_v1",
+          "author": null,
+          "description": "Justo el día en el que se anunciará Battlefield 2042, aparecen una serie de rumores sobre la nueva entrega de Call of Duty, que según Video Games Chronicle recibirá el nombre de Call of Duty: Vanguard y estará ambientada en la Segunda Guerra Mundial. La presentación del juego tendrá que esperar, ya que Activision no participa del E3 2021 y parece que sus planes pasan por revelar el título en manos de Sledgehammer Games (Advanced Warfare y WWII) mediante el battle royale Warzone de una forma similar a Black Ops Cold War. Call of Duty: Vanguard ofrecerá el menú habitual de los últimos… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/call-of-duty-vanguard-2021",
+          "publishedOn": "2021-06-09T14:45:47.000Z",
+          "wordCount": 788,
+          "title": "El nuevo Call of Duty estaría ambientado en la Segunda Guerra Mundial y mejor integrado con Warzone"
+        },
+        {
+          "id": "46238_v1",
+          "author": null,
+          "description": "Seis años después de superar con éxito una campaña Kickstarter recaudando 161.246 dólares y tras dos años en desarrollo bajo la protección del acceso anticipado, Edge of Eternity ya se encuentra disponible como un juego completo para PC en Steam, Epic Games Store y GOG a cambio de 29,99 euros. Para celebrarlo, el estudio francés Midgar Studio ha mostrado un tráiler de lanzamiento y revelado la hoja de ruta que seguirá el proyecto hasta finales de 2022. Edge of Eternity es un JRPG con un sistema de combates estratégico por turnos inspirado en juegos como Final Fantasy y Xenogears. Su… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/edge-of-eternity-trailer-lanzamiento",
+          "publishedOn": "2021-06-09T10:01:37.000Z",
+          "wordCount": 765,
+          "title": "El JRPG Edge of Eternity debuta en PC y muestra su hoja de ruta de contenido poslanzamiento"
+        },
+        {
           "id": "46237_v1",
           "author": null,
           "description": "Desde hoy los usuarios de Xbox Game Pass Ultimate tienen la oportunidad de suscribirse durante 30 días a Disney+ sin ningún tipo de coste adicional, pero con una condición, no ser clientes en activo del servicio en streaming. La promoción es válida incluso para aquellos que ya se beneficiaron de esta misma iniciativa en noviembre del año pasado. El motivo por el cual se ofrecen de nuevo 30 días de suscripción a Disney+ mediante Xbox Game Ultimate es el estreno de Loki, la nueva serie del universo cinematográfico de Marvel que estará disponible a partir del miércoles 9 junio. En la… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_xbox-game-pass-ultimate-vuelve-a-ofrecer-un-mes-de-disney_2425490",
           "publishedOn": "2021-06-08T19:53:18.000Z",
-          "wordCount": 498,
+          "wordCount": 1523,
           "title": "Breve: Xbox Game Pass Ultimate vuelve a ofrecer un mes de Disney+"
         },
         {
@@ -207,7 +261,7 @@
           "description": "Después de superar alguna que otra dificultad debido a la falta de chips, Panic, un veterano desarrollador de software para Mac así como el editor de Firewatch, está en disposición de anunciar nuevos detalles de Playdate, una pequeña consola portátil de diseño industrial. La empresa ha revelado 21 de los 24 juegos a los que ofrecerá acceso el dispositivo a lo largo de la primera temporada e informado que la campaña de reservas arrancará el próximo mes. La consola tendrá un precio de 179 dólares y los envíos se pondrán en marcha a finales de año. Durante la presentación, Panic también… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/consolas/playdate-precio-reservas-juegos",
           "publishedOn": "2021-06-08T18:06:56.000Z",
-          "wordCount": 772,
+          "wordCount": 761,
           "title": "Playdate, una portátil con manivela, revela sus primeros juegos y un precio de 179 dólares"
         },
         {
@@ -216,7 +270,7 @@
           "description": "Microsoft se lo ha tomado con calma hasta para lo que suele ser habitual en la gama Surface, pero por fin ha llegado. El teléfono Android de doble pantalla Surface Duo ha llegado finalmente a nuestro país con un retraso de más de medio año con respecto a Estados Unidos, donde salió a la venta en septiembre de 2020. Lo hace además con una disponibilidad algo limitada, puesto que al menos inicialmente este singular dispositivo se ofrecerá en exclusiva para empresas y el mercado educativo. Dotado con dos pantallas de 5,6 pulgadas que se abren como si fueran un libro para generar una… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/microsoft-surface-duo-telefono-doble-pantalla-precio",
           "publishedOn": "2021-06-08T14:38:49.000Z",
-          "wordCount": 757,
+          "wordCount": 746,
           "title": "Microsoft lanza su teléfono de doble pantalla Surface Duo por 1.549 euros"
         },
         {
@@ -225,7 +279,7 @@
           "description": "Capcom ha revelado que el evento que tiene programado emitir durante el E3 2021 tendrá lugar el lunes 14 de junio a las 23:30 horas peninsular española. La transmisión se podrá seguir mediante los canales oficiales del E3 en YouTube y Twitch. La compañía japonesa ya ha confirmado que durante el evento tendremos novedades sobre The Great Ace Attorney Chronicles, Monster Hunter Stories 2, Monster Hunter Rise y Resident Evil Village. Veremos si además de estos nombres Capcom nos ha preparado alguna que otra sorpresa. Podéis echar un vistazo al calendario de todas las conferencias del E3… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_el-evento-de-capcom-en-el-e3-2021-sera-el-14-de-junio-a-las-23-30-horas_2425452",
           "publishedOn": "2021-06-08T13:47:12.000Z",
-          "wordCount": 570,
+          "wordCount": 743,
           "title": "Breve: El evento de Capcom en el E3 2021 será el 14 de junio a las 23:30 horas"
         },
         {
@@ -234,7 +288,7 @@
           "description": "Lee Mather, director de la serie F1 en Codemasters, ha revelado en declaraciones a Gamingbolt que F1 2021 permitirá ajustar la experiencia visual en PS5 y Xbox Series X mediante dos modos. Con Graphics Mode el juego se ejecutará en 4K y 60 FPS, mientras que el Performance Mode bajará hasta los 1440p a cambio de ofrecer 120 FPS. Por su parte, los jugadores de Xbox Series S solo tendrán un modo que mostrará el juego a 1080p y 60 FPS. En PC, el título de Codemasters presentará los ajustes gráficos habituales, pero será el hardware quien dictamine la calidad de los mismos y los fotogramas… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_f1-2021-funcionara-a-4k-60-fps-o-1440p-120-fps-en-ps5-y-xbox-series-x_2425439",
           "publishedOn": "2021-06-08T12:10:20.000Z",
-          "wordCount": 487,
+          "wordCount": 558,
           "title": "Breve: F1 2021 funcionará a 4K/60 FPS o 1440p/120 FPS en PS5 y Xbox Series X"
         },
         {
@@ -243,7 +297,7 @@
           "description": "La lista con los juegos más vendidos de mayo en España nos deja con un dato significativo: la versión de Resident Evil Village para PS5 ha conseguido colocar más unidades que la de PS4, una consola que cuenta con una base de jugadores mucho más amplia. Pero a pesar de la irrupción del survival horror desarrollado por Capcom en la tercera y cuarta posición, en la primera sigue encaramado GTA V, un título que el 11 de noviembre ganará un impulso con la llegada de las versiones para PS5 y Xbox Series. El resto de la lista está dominada por Nintendo Switch empezando con Super Mario 3D… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/mas-vendidos-mayo-2021",
           "publishedOn": "2021-06-08T09:11:30.000Z",
-          "wordCount": 810,
+          "wordCount": 799,
           "title": "Resident Evil Village para PS5 debuta como el tercer juego más vendido de mayo, pero GTA V sigue encabezando la lista"
         },
         {
@@ -252,7 +306,7 @@
           "description": "El equipo polaco 11 Bit Studios ha anunciado que a lo largo de este año los jugadores con una copia de Frostpunk: Console Edition tendrán la opción de adquirir las tres expansiones (The Rifts, The Last Autumn y On The Edge) que el juego ya ofrece en PC. Además, la compañía trabaja en llevar hasta PlayStation 4 y Xbox One otros contenidos y una actualización para optimizar el uso de mandos. La expansión The Rifts añade el modo Infinito, el puente como nueva construcción y nuevas mecánicas de juego; The Last Autumn es una precuela de la campaña de Frostpunk; y On The Edge introduce… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_frostpunk-console-edition-recibira-las-tres-expansiones-ya-disponibles-en-pc_2425393",
           "publishedOn": "2021-06-07T21:03:34.000Z",
-          "wordCount": 572,
+          "wordCount": 592,
           "title": "Breve: Frostpunk: Console Edition recibirá las tres expansiones ya disponibles en PC"
         },
         {
@@ -261,7 +315,7 @@
           "description": "Warner Bros. Games se suma al número de compañías que rebaja las expectativas para el E3 2021 anunciando que durante los próximos días no veremos a ninguno de los tres siguientes juegos: Hogwarts Legacy, Gotham Knights y Suicide Squad: Kill the Justice League. Teniendo en cuenta que la compañía no ha anunciado ningún evento propio y que en otoño tendremos otro DC FanDome, las mencionadas ausencias eran previsibles. Sin embargo, Warner Bros. Games podría mostrar durante el E3 2021 algo más que el modo multijugador de Back 4 Blood. Sus estudios internos Monolith Productions (La Tierra… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_hogwarts-legacy-suicide-squad-kill-the-justice-league-y-gotham-knights-no-estaran-en-el-e3-2021_2425388",
           "publishedOn": "2021-06-07T20:31:16.000Z",
-          "wordCount": 543,
+          "wordCount": 563,
           "title": "Breve: Hogwarts Legacy, Suicide Squad: Kill the Justice League y Gotham Knights no estarán en el E3 2021"
         },
         {
@@ -288,7 +342,7 @@
           "description": "Google ha anunciado una nueva expansión en la disponibilidad de Stadia al comunicar que tan pronto como el miércoles 23 de junio el reproductor Chromecast con Google TV ganará soporte para el servicio de juegos en streaming. Para entonces solo habrán pasado nueve meses desde que el dispositivo se pusiera a la venta por 69,99 euros. Además, Google ha anunciado que ese mismo día Stadia se extenderá a una serie de dispositivos con el sistema operativo Android TV. Gracias al soporte para Chromecast con Google TV, que es una evolución del Chromecast Ultra, Stadia pasará a estar disponible… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/google-stadia-chromecast-android-tv-soporte",
           "publishedOn": "2021-06-07T17:07:27.000Z",
-          "wordCount": 778,
+          "wordCount": 767,
           "title": "Stadia recibirá soporte para los Chromecast con Google TV y dispositivos Android TV el 23 de junio"
         },
         {
@@ -306,7 +360,7 @@
           "description": "Techland ha anunciado que los jugadores de Dying Light - Hellraid, un contenido adicional de Dying Light con una ambientación totalmente diferente a la del juego original, tiene desde hoy disponible un modo historia llamado The Prisoner. En el futuro se añadirán más misiones al modo historia para así ir desvelando la trama de forma gradual. “Un antiguo conflicto se reaviva y debes prepararte para un enfrentamiento inevitable”, dice la descripción oficial de The Prisioner. “Pero recuerda que los misterios del Templo de Ba'al están bien protegidos, y el destino de la única persona que… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_dying-light-hellraid-recibe-el-modo-historia-the-prisoner_2425356",
           "publishedOn": "2021-06-07T15:10:45.000Z",
-          "wordCount": 849,
+          "wordCount": 865,
           "title": "Breve: Dying Light - Hellraid recibe el modo historia The Prisoner"
         },
         {
@@ -315,7 +369,7 @@
           "description": "Un año más, aquí seguimos. Después de un 2020 extraño en el que la Entertainment Software Association no supo reaccionar a la pandemia, el E3 vuelve dispuesto a ofrecernos una semana larga de conferencias y eventos a cargo de los grandes editores de la industria del videojuego. Este regreso no ha evitado que iniciativas como el Summer Game Fest, que el año pasado se adaptó rápidamente al entorno digital, celebre una segunda edición. También tenemos a nuevos invitados como Koch Media, Razer y Netflix. Como siempre, en ElOtroLado.net os ofreceremos en portada las novedades más… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/e3-2021-horarios-eventos",
           "publishedOn": "2021-06-07T09:00:20.000Z",
-          "wordCount": 853,
+          "wordCount": 840,
           "title": "E3 2021: Horarios de todas las conferencias y eventos"
         },
         {
@@ -324,7 +378,7 @@
           "description": "Después de algún que otro retraso, Arc System Works ya lo tiene todo listo para el lanzamiento de Guilty Gear Strive, que estará disponible el 11 de junio en PS4 y PS5 en edición física y digital, así como en PC mediante Steam. Como muestra de que el juego está totalmente listo para ponerse a la venta, el desarrollador japonés ha mostrado el correspondiente tráiler, la cinemática de apertura y echado un primer vistazo al plan de contenido adicional que añadirá cinco personajes mediante un Season Pass. Como todo el mundo ya sabe (o debería saber) Guilty Gear: Strive es el nuevo… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/guilty-gear-strive-trailer-lanzamiento-dlc",
           "publishedOn": "2021-06-06T19:50:55.000Z",
-          "wordCount": 881,
+          "wordCount": 870,
           "title": "Guilty Gear: Strive muestra su tráiler de lanzamiento y esboza el plan de contenido adicional"
         },
         {
@@ -333,7 +387,7 @@
           "description": "El E3 2021 no empieza hasta la próxima semana, pero Guerrilla Collective, un evento digital centrado en el trabajo de desarrolladores y editores de juegos indies, ya ha completado la primera de las dos ediciones previstas para junio. Han sido muchos los títulos presentados y mostrados en el encuentro, así que destacaremos a dos de ellos, Alfred Hitchcock - Vertigo y Trifox, para a continuación hacer un rápido resumen por puntos del resto de proyectos que se han dejado ver durante el evento. Alfred Hitchcock - Vertigo es la nueva aventura narrativa del estudio español Pendulo Studios… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/guerrilla-collective-2021-resumen",
           "publishedOn": "2021-06-05T20:37:23.000Z",
-          "wordCount": 887,
+          "wordCount": 876,
           "title": "Guerrilla Collective: presentados Alfred Hitchcock - Vertigo, Trifox y una quincena de indies más"
         },
         {
@@ -351,7 +405,7 @@
           "description": "Hace unos años los grandes editores y desarrolladores de videojuegos anunciaban antes del E3 la alineación de juegos que iban a mostrar durante el evento (aunque siempre se guardaban las sorpresas). Con el tiempo esta tradición no solo se ha perdido, sino que se le ha dado la vuelta. Así ha ocurrido en el caso de Deep Silver, una filial de Embracer Group, que mediante Twitter ha revelado que las franquicias Dead Island, Saints Row, Metro y TimeSplitters no estarán presentes en el E3 2021. Hay que rebajar el entusiasmo y ajustar las expectativas. La esperanza de ver una nueva entrega… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/deep-silver-e3-2021",
           "publishedOn": "2021-06-04T20:14:03.000Z",
-          "wordCount": 854,
+          "wordCount": 843,
           "title": "Deep Silver avanza que Dead Island, Saints Row, Metro y TimeSplitters no estarán en el E3 2021"
         },
         {
@@ -360,62 +414,8 @@
           "description": "Después de su aparición en Wii y un paso por Nintendo Switch, las dos primeras entregas de la saga No More Heroes ganan una versión para PC que estará disponible mediante Steam a partir del 9 de junio a cambio de 19,99 euros la pieza, según han anunciado XSEED Games y Marvelous. Además de la fecha de lanzamiento y el precio, ambos juegos han sido presentados con su respectivo tráiler, la promesa de poder jugar a 60 FPS y la esperanza de que No More Heroes III, que por ahora solo ha sido presentado para Switch, también termine dando el salto. No More Heroes es una franquicia de juegos… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/no-more-heroes-pc-steam-disponible",
           "publishedOn": "2021-06-04T17:49:31.000Z",
-          "wordCount": 816,
+          "wordCount": 805,
           "title": "No More Heroes y No More Heroes 2: Desperate Struggle llegarán el 9 de junio a Steam"
-        },
-        {
-          "id": "46218_v1",
-          "author": null,
-          "description": "El desarrollador polaco CI Games ha mostrado el tráiler de lanzamiento de Sniper Ghost Warrior Contracts 2 para celebrar que el juego ya se encuentra disponible para PS4, Xbox One y Xbox Series por 39,99 euros en formato físico y digital, mientras que la versión de PC se despacha en Steam a cambio de 29,99 euros. Los jugadores de PS5 deberán esperar a que su versión se ponga a la venta más adelante, pero las copias de PS4 darán acceso a una actualización gratuita para la nueva generación. Sniper Ghost Warrior Contracts 2 es un shooter táctico ambientado en el Oriente Medio de la era… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/sniper-ghost-warrior-contracts-2-trailer-lanzamiento",
-          "publishedOn": "2021-06-04T15:05:28.000Z",
-          "wordCount": 794,
-          "title": "Tráiler de lanzamiento de Sniper Ghost Warrior Contracts 2"
-        },
-        {
-          "id": "46217_v1",
-          "author": null,
-          "description": "Yuji Naka ha actualizado sus perfiles oficiales de LinkedIn y Facebook para indicar que desde el pasado 30 de abril ya no trabaja para Square Enix. La marcha de este veterano de la industria del videojuego se produce después del decepcionante Balan Wonderworld, un juego de acción y plataformas editado por Square Enix y cuyo desarrollo lideró Naka. El fiasco de Balan Wonderworld no debería manchar una carrera como la de Yuji Naka, que como programador o productor ha participado en juegos como Phantasy Star, Sonic the Hedgehog (del que es cocreador) y Nights into Dreams. Además, como… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_yuji-naka-cocreador-de-sonic-deja-square-enix_2425094",
-          "publishedOn": "2021-06-04T12:11:04.000Z",
-          "wordCount": 4161,
-          "title": "Breve: Yuji Naka, cocreador de Sonic, deja Square Enix"
-        },
-        {
-          "id": "46216_v1",
-          "author": null,
-          "description": "Facebook se une a la lista de grandes compañías tecnológicas estadounidenses a las que la Comisión Europea pone en su punto de mira con una investigación antimonopolio. En el caso de la red social liderada por Mark Zuckerberg, Bruselas quiere esclarecer si violó las normas de competencia de la Unión Europea al utilizar datos de otros anunciantes para competir con ellos en mercado publicitario en línea. También busca evaluar si Facebook vincula su servicio de anuncios clasificados de Facebook Marketplace con la red social. “Cerca de 3.000 millones de personas utilizan Facebook… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/internet/facebook-marketplace-investigacion-europa",
-          "publishedOn": "2021-06-04T11:50:25.000Z",
-          "wordCount": 766,
-          "title": "La Comisión Europea investiga a Facebook por usar la información de sus anunciantes para competir con ellos"
-        },
-        {
-          "id": "46215_v1",
-          "author": null,
-          "description": "Electronic Arts ha comunicado que a partir del 24 de junio los suscriptores de EA Play tendrán acceso a Need For Speed Hot Pursuit Remastered, un título remasterizado por Stellar Entertainment que incluye todo el contenido adicional y mejoras gráficas. EA Play forma parte de Xbox Game Pass, así el juego también estará disponible para los usuarios de este servicio. Como novedad, Need For Speed Hot Pursuit Remastered presenta un modo multijugador con juego cruzado y Autolog. Asimismo, el título puede ejecutarse en 4K/60 FPS en PC, mientras que en PS4 Pro y Xbox One X tenemos 4K/30 FPS o… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_need-for-speed-hot-pursuit-remastered-se-unira-a-ea-play-el-24-de-junio_2425082",
-          "publishedOn": "2021-06-04T09:47:26.000Z",
-          "wordCount": 729,
-          "title": "Breve: Need For Speed Hot Pursuit Remastered se unirá a EA Play el 24 de junio"
-        },
-        {
-          "id": "46214_v1",
-          "author": null,
-          "description": "La Astro City Mini tiene compañía. Visto el tremendo éxito de la resucitada candy cab de Sega, inicialmente solo disponible en Japón pero con una gran popularidad en el mercado de exportación, Taito se ha propuesto resucitar la rivalidad que mantenía antaño en los salones recreativos reeditando la no menos mítica Egret II en formato mini. Esta recreativa posee un tamaño próximo al de una bartop muy pequeñita (155 x 200 x 209 mm) e incluye numerosos detalles sumamente cuidados. La Egret II mini (nombre oficial) incluirá un monitor LCD 4:3 de 5 pulgadas para evitar la aparición de… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/consolas/taito-egret-ii-mini-recreativa-candy-cab",
-          "publishedOn": "2021-06-04T08:31:20.000Z",
-          "wordCount": 779,
-          "title": "Taito resucita su recreativa candy Egret II en formato mini y con monitor rotatorio TATE"
-        },
-        {
-          "id": "46213_v1",
-          "author": null,
-          "description": "Ya tenemos entre nosotros la primera gran filtración del E3 2021. Este año la víctima ha sido 2K Games, el sello de Take-Two que ha visto correr por Reddit una lista con algunos de los juegos que presentará durante la próxima semana. La información ha sido verificada por múltiples fuentes, incluyendo al periodista Jason Schreier de Bloomberg, Video Games Chronicle y Venturebeat, así que difícilmente alguien se quemará si pone la mano en el fuego. El título que más llama la atención es el nuevo proyecto de Firaxis Games que se esconde bajo el nombre en clave CODA. Según la información… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/2k-filtracion-e3-2021",
-          "publishedOn": "2021-06-04T00:12:46.000Z",
-          "wordCount": 707,
-          "title": "Filtrados los planes de 2K para el E3: un juego al estilo XCOM con personajes de Marvel, spin-off de Borderlands y más"
         }
       ]
     },

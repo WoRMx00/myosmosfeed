@@ -2,151 +2,341 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T01:13:00.199Z</updated>
+    <updated>2021-06-10T01:10:12.037Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Why and how to be anonymous online]]></title>
-        <id>https://news.ycombinator.com/item?id=27442740</id>
-        <link href="https://startpage.com/privacy-please/startpage-articles/why-and-how-to-be-anonymous-online"/>
-        <updated>2021-06-09T00:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://startpage.com/privacy-please/startpage-articles/why-and-how-to-be-anonymous-online
-Comments URL: https://news.ycombinator.com/item?id=27442740
-Points: 17
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[The Risk of Cargo Liquefication]]></title>
+        <id>https://news.ycombinator.com/item?id=27455087</id>
+        <link href="https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction"/>
+        <updated>2021-06-10T00:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction
+Comments URL: https://news.ycombinator.com/item?id=27455087
+Points: 19
+# Comments: 1]]></summary>
         <author>
-            <name>karinakarina</name>
+            <name>cwwc</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple M1 support for TensorFlow 2.5 pluggable device API]]></title>
-        <id>https://news.ycombinator.com/item?id=27442475</id>
-        <link href="https://developer.apple.com/metal/tensorflow-plugin/"/>
-        <updated>2021-06-08T23:38:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/metal/tensorflow-plugin/
-Comments URL: https://news.ycombinator.com/item?id=27442475
-Points: 52
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Reddit Sunsets Secret Santa and Reddit Gifts]]></title>
+        <id>https://news.ycombinator.com/item?id=27454418</id>
+        <link href="https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/"/>
+        <updated>2021-06-09T22:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/
+Comments URL: https://news.ycombinator.com/item?id=27454418
+Points: 38
+# Comments: 9]]></summary>
         <author>
-            <name>dandiep</name>
+            <name>flankstaek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing chrome.scripting]]></title>
-        <id>https://news.ycombinator.com/item?id=27441898</id>
-        <link href="https://developer.chrome.com/en/blog/crx-scripting-api/"/>
-        <updated>2021-06-08T22:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/
-Comments URL: https://news.ycombinator.com/item?id=27441898
-Points: 57
-# Comments: 31]]></summary>
+        <title type="html"><![CDATA[Facebook extends its work-at-home policy to most employees]]></title>
+        <id>https://news.ycombinator.com/item?id=27453909</id>
+        <link href="https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html"/>
+        <updated>2021-06-09T22:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html
+Comments URL: https://news.ycombinator.com/item?id=27453909
+Points: 315
+# Comments: 180]]></summary>
         <author>
-            <name>pentagrama</name>
+            <name>prostoalex</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bosch opens German chip plant]]></title>
-        <id>https://news.ycombinator.com/item?id=27441545</id>
-        <link href="https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/"/>
-        <updated>2021-06-08T22:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/
-Comments URL: https://news.ycombinator.com/item?id=27441545
-Points: 164
-# Comments: 51]]></summary>
+        <title type="html"><![CDATA[Evaluating necessity of Covid-19 vaccination in previously infected individuals]]></title>
+        <id>https://news.ycombinator.com/item?id=27453721</id>
+        <link href="https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2"/>
+        <updated>2021-06-09T21:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2
+Comments URL: https://news.ycombinator.com/item?id=27453721
+Points: 133
+# Comments: 105]]></summary>
         <author>
-            <name>nixass</name>
+            <name>bananapizza</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ProPublica's Tax Story is Misleading]]></title>
-        <id>https://news.ycombinator.com/item?id=27441277</id>
-        <link href="https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax"/>
-        <updated>2021-06-08T21:41:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax
-Comments URL: https://news.ycombinator.com/item?id=27441277
-Points: 50
-# Comments: 45]]></summary>
+        <title type="html"><![CDATA[TC Energy scraps Keystone XL pipeline project after Biden revokes key permit]]></title>
+        <id>https://news.ycombinator.com/item?id=27453226</id>
+        <link href="https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/"/>
+        <updated>2021-06-09T21:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/
+Comments URL: https://news.ycombinator.com/item?id=27453226
+Points: 183
+# Comments: 206]]></summary>
         <author>
-            <name>imgabe</name>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Study shows how taking short breaks may help our brains learn new skills]]></title>
-        <id>https://news.ycombinator.com/item?id=27441175</id>
-        <link href="https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains"/>
-        <updated>2021-06-08T21:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains
-Comments URL: https://news.ycombinator.com/item?id=27441175
-Points: 93
-# Comments: 26]]></summary>
-        <author>
-            <name>hhs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27440726</id>
-        <link href="https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22"/>
-        <updated>2021-06-08T21:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22
-Comments URL: https://news.ycombinator.com/item?id=27440726
+        <title type="html"><![CDATA[LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada]]></title>
+        <id>https://news.ycombinator.com/item?id=27453164</id>
+        <link href="https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021"/>
+        <updated>2021-06-09T21:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021
+Comments URL: https://news.ycombinator.com/item?id=27453164
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>grabowss</name>
+            <name>colinchartier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Patches Six Zero-Day Security Holes]]></title>
-        <id>https://news.ycombinator.com/item?id=27440675</id>
-        <link href="https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/"/>
-        <updated>2021-06-08T20:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
-Comments URL: https://news.ycombinator.com/item?id=27440675
-Points: 123
-# Comments: 22]]></summary>
+        <title type="html"><![CDATA[Dungeons & Dragons: Dark Alliance resume su apuesta con un tráiler y detalla el plan de contenido poslanzamiento]]></title>
+        <id>46243_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/dark-alliance-gameplay-overview-trailer"/>
+        <updated>2021-06-09T20:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Durante las últimas horas varios medios han publicado su avance de Dungeons & Dragons: Dark Alliance y el editor Wizards of the Coast los ha acompañado con un gameplay overview trailer, es decir, un vídeo donde se hace un resumen con toda la información del juego de rol y acción cooperativo. También se ha detallado el plan de contenido poslanzamiento del título, que está compuesto por elementos gratuitos y una expansión de pago incluida en la Deluxe Edition. La historia de Dungeons & Dragons: Dark Alliance se desarrolla en las tierras heladas de Icewind Dale y tiene lugar después de… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>parsecs</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astro: Ship Less JavaScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27440553</id>
-        <link href="https://astro.build/blog/introducing-astro"/>
-        <updated>2021-06-08T20:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://astro.build/blog/introducing-astro
-Comments URL: https://news.ycombinator.com/item?id=27440553
-Points: 199
-# Comments: 58]]></summary>
+        <title type="html"><![CDATA[You use more open source software than you think]]></title>
+        <id>https://news.ycombinator.com/item?id=27452151</id>
+        <link href="https://github.com/readme/unseen-oss"/>
+        <updated>2021-06-09T19:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/readme/unseen-oss
+Comments URL: https://news.ycombinator.com/item?id=27452151
+Points: 120
+# Comments: 85]]></summary>
         <author>
-            <name>feross</name>
+            <name>mooreds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ppl: The command line address book]]></title>
-        <id>https://news.ycombinator.com/item?id=27440516</id>
-        <link href="https://github.com/hendotcat/ppl"/>
-        <updated>2021-06-08T20:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/hendotcat/ppl
-Comments URL: https://news.ycombinator.com/item?id=27440516
-Points: 58
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[How to circumvent Sci-Hub ISP block]]></title>
+        <id>https://news.ycombinator.com/item?id=27451844</id>
+        <link href="https://fragile-credences.github.io/scihub-proxy/"/>
+        <updated>2021-06-09T19:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fragile-credences.github.io/scihub-proxy/
+Comments URL: https://news.ycombinator.com/item?id=27451844
+Points: 283
+# Comments: 126]]></summary>
         <author>
-            <name>nomoreplease</name>
+            <name>tmkadamcz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Text Classification by Data Compression]]></title>
-        <id>https://news.ycombinator.com/item?id=27440093</id>
-        <link href="https://maxhalford.github.io/blog/text-classification-by-compression/"/>
-        <updated>2021-06-08T20:08:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://maxhalford.github.io/blog/text-classification-by-compression/
-Comments URL: https://news.ycombinator.com/item?id=27440093
+        <title type="html"><![CDATA[Apple is threatening to remove Fanhouse unless they give 30% of creator earning]]></title>
+        <id>https://news.ycombinator.com/item?id=27451689</id>
+        <link href="https://twitter.com/jasminericegirl/status/1402691047940100100"/>
+        <updated>2021-06-09T18:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/jasminericegirl/status/1402691047940100100
+Comments URL: https://news.ycombinator.com/item?id=27451689
+Points: 344
+# Comments: 431]]></summary>
+        <author>
+            <name>amrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Expanse UI Design]]></title>
+        <id>https://news.ycombinator.com/item?id=27451484</id>
+        <link href="https://www.hudsandguis.com/home/2021/theexpanse?ref=sidebar"/>
+        <updated>2021-06-09T18:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hudsandguis.com/home/2021/theexpanse?ref=sidebar
+Comments URL: https://news.ycombinator.com/item?id=27451484
 Points: 50
-# Comments: 12]]></summary>
+# Comments: 10]]></summary>
         <author>
-            <name>Lemaxoxo</name>
+            <name>donohoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Universal Control on macOS Monterey Works]]></title>
+        <id>https://news.ycombinator.com/item?id=27451413</id>
+        <link href="https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad"/>
+        <updated>2021-06-09T18:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
+Comments URL: https://news.ycombinator.com/item?id=27451413
+Points: 110
+# Comments: 112]]></summary>
+        <author>
+            <name>gumby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Overwatch tendrá juego cruzado]]></title>
+        <id>46242_v1</id>
+        <link href="https://www.elotrolado.net/hilo_overwatch-tendra-juego-cruzado_2425575"/>
+        <updated>2021-06-09T17:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Blizzard Entertainment ha anunciado que pronto Overwatch recibirá una actualización que habilitará el juego cruzado entre PlayStation 4, PlayStation 5, Xbox One, Xbox Series, Nintendo Switch y PC. Cuando la nueva función esté disponible, los jugadores de consola deberán vincular su cuenta con una de Battle.net (que deberán crear en caso de que no la tengan) para aprovechar la nueva función. El juego cruzado se habilitará por defecto en todos los modos de Overwatch, pero en los competitivos los jugadores se dividirán entre los de consola y PC. Los usuarios de consola tendrán la opción… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DICE sobre la ausencia de campaña en Battlefield 2042: el multijugador “es lo que mejor hacemos”]]></title>
+        <id>46241_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/battlefield-2042-un-jugador-historia"/>
+        <updated>2021-06-09T17:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Electronic Arts y DICE han sorprendido (y quizás decepcionado) a más de uno cuando han revelado que Battlefield 2042 no tiene campaña para un jugador. ¿Por qué? Según el equipo se desarrollo se trata de un regreso a sus raíces y si hacemos un poco de memoria, razón no le falta. Lo más parecido a una campaña que tenían las primeras entregas principales de Battlefield como Battlefield 1942 (2002), Battlefield 2 (2005) y Battlefield 2142 (2006) eran combates contra bots. “Creo que [no tener campaña para un jugador] es algo que nos permite centrarnos en lo que somos mejores”, dice Daniel… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positive Psychology Goes to War]]></title>
+        <id>https://news.ycombinator.com/item?id=27450568</id>
+        <link href="https://www.chronicle.com/article/positive-psychology-goes-to-war"/>
+        <updated>2021-06-09T17:22:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chronicle.com/article/positive-psychology-goes-to-war
+Comments URL: https://news.ycombinator.com/item?id=27450568
+Points: 22
+# Comments: 7]]></summary>
+        <author>
+            <name>fnubbly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angband 4.2.2: A free, single-player roguelike dungeon exploration game]]></title>
+        <id>https://news.ycombinator.com/item?id=27450373</id>
+        <link href="http://rephial.org/"/>
+        <updated>2021-06-09T17:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://rephial.org/
+Comments URL: https://news.ycombinator.com/item?id=27450373
+Points: 139
+# Comments: 50]]></summary>
+        <author>
+            <name>throwawaybutwhy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.06.08 Certificate Lifetime Incident]]></title>
+        <id>https://news.ycombinator.com/item?id=27450364</id>
+        <link href="https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426"/>
+        <updated>2021-06-09T17:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426
+Comments URL: https://news.ycombinator.com/item?id=27450364
+Points: 338
+# Comments: 133]]></summary>
+        <author>
+            <name>Arnavion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweden’s Northvolt raises $2.8B to supercharge EV battery output]]></title>
+        <id>https://news.ycombinator.com/item?id=27449931</id>
+        <link href="https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/"/>
+        <updated>2021-06-09T16:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/
+Comments URL: https://news.ycombinator.com/item?id=27449931
+Points: 200
+# Comments: 59]]></summary>
+        <author>
+            <name>cpach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A tool to self host game servers with a free static IP]]></title>
+        <id>https://news.ycombinator.com/item?id=27449888</id>
+        <link href="https://playit.gg/"/>
+        <updated>2021-06-09T16:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://playit.gg/
+Comments URL: https://news.ycombinator.com/item?id=27449888
+Points: 66
+# Comments: 31]]></summary>
+        <author>
+            <name>patricklorio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presentado Battlefield 2042: primer tráiler, mapas con hasta 128 jugadores, sin campaña y disponible el 22 de octubre]]></title>
+        <id>46239_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/battlefield-2042-anunciado"/>
+        <updated>2021-06-09T15:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Después de una larga cuenta atrás Electronic Arts ha anunciado que el nuevo Battlefield responde al nombre de Battlefield 2042. El shooter en primera persona en manos de DICE se ha presentado luciendo un primer tráiler que nos transporta a una guerra moderna y haciendo muchas promesas entre las que no se incluye la tradicional campaña para un jugador ni un battle royale. También tenemos una fecha de lanzamiento, 22 de octubre, y una nueva cita para el 13 de junio, día en el que se mostrará el primer gameplay del juego. Battlefield 2042 nos sitúa en un “mundo transformado” en el que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El nuevo Call of Duty estaría ambientado en la Segunda Guerra Mundial y mejor integrado con Warzone]]></title>
+        <id>46240_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/call-of-duty-vanguard-2021"/>
+        <updated>2021-06-09T14:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Justo el día en el que se anunciará Battlefield 2042, aparecen una serie de rumores sobre la nueva entrega de Call of Duty, que según Video Games Chronicle recibirá el nombre de Call of Duty: Vanguard y estará ambientada en la Segunda Guerra Mundial. La presentación del juego tendrá que esperar, ya que Activision no participa del E3 2021 y parece que sus planes pasan por revelar el título en manos de Sledgehammer Games (Advanced Warfare y WWII) mediante el battle royale Warzone de una forma similar a Black Ops Cold War. Call of Duty: Vanguard ofrecerá el menú habitual de los últimos… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you sell a house these days, the buyer might be a pension fund]]></title>
+        <id>https://news.ycombinator.com/item?id=27448175</id>
+        <link href="https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801"/>
+        <updated>2021-06-09T14:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801
+Comments URL: https://news.ycombinator.com/item?id=27448175
+Points: 587
+# Comments: 930]]></summary>
+        <author>
+            <name>zpeti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resistor Noise Can Be Deafening, and Hard to Reduce (2007)]]></title>
+        <id>https://news.ycombinator.com/item?id=27447766</id>
+        <link href="https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html"/>
+        <updated>2021-06-09T13:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
+Comments URL: https://news.ycombinator.com/item?id=27447766
+Points: 230
+# Comments: 92]]></summary>
+        <author>
+            <name>bcaa7f3a8bbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpaca Attack]]></title>
+        <id>https://news.ycombinator.com/item?id=27447348</id>
+        <link href="https://alpaca-attack.com/"/>
+        <updated>2021-06-09T12:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alpaca-attack.com/
+Comments URL: https://news.ycombinator.com/item?id=27447348
+Points: 124
+# Comments: 42]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: SMS-based two-factor authentication is not secure]]></title>
+        <id>https://news.ycombinator.com/item?id=27447206</id>
+        <link href="https://news.ycombinator.com/item?id=27447206"/>
+        <updated>2021-06-09T12:40:08.000Z</updated>
+        <summary type="html"><![CDATA[SMS-based Two-Factor Authentication is not Secure. I’ve read this before but brushed it off. It wouldn’t happen to me. It did.
+I am with Boost Mobile. On Sunday night I received a text message that my PIN was changed. Within minutes I confirmed this to be true on my PC. I used the Boost application on my phone to change the PIN and received a confirmation text.
+A few minute later I received a text message welcoming me to Metro PCS.
+A few minute later I received emails to my business email that my account security information was deleted from my person email account. They used SMS authentication to my mobile number, that they now have control of to gain access.
+A few minutes later I received an email there was an account recovery attempt on my coinbase.com account.
+It took less than 30 minutes for these events to transpire.
+I've spent about 15 hours trying to get my phone number and my email address back to my control.
+I've accumulated a list of eight other people in the Boost Mobile Reddit.com forum where the exact same thing happened to them.
+I filed a police report and filed a report with the FCC. I received a response from the FCC that they have started the inquiry and contacted Boost.
+I finally did get my cell phone number ported back to Boost. I have not gained control of my Microsoft email address.
+I didn’t realize I could only have messages of 2,000 characters.  So I will wrap this up.
+When account settings were changed, Coinbase gave me a link to lock my account, Microsoft gave me a link to log in to my account, which I no longer have control of.
+Unlike competitors, which allow pins from 6 to 15 characters and for accounts to be administrative locked, Boost offers none of these options. The last Boost operator suggested I pick a more secure PIN.
+I am calculating my losses and documenting all interactions.
+Comments URL: https://news.ycombinator.com/item?id=27447206
+Points: 524
+# Comments: 249]]></summary>
+        <author>
+            <name>Zolt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El JRPG Edge of Eternity debuta en PC y muestra su hoja de ruta de contenido poslanzamiento]]></title>
+        <id>46238_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/edge-of-eternity-trailer-lanzamiento"/>
+        <updated>2021-06-09T10:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Seis años después de superar con éxito una campaña Kickstarter recaudando 161.246 dólares y tras dos años en desarrollo bajo la protección del acceso anticipado, Edge of Eternity ya se encuentra disponible como un juego completo para PC en Steam, Epic Games Store y GOG a cambio de 29,99 euros. Para celebrarlo, el estudio francés Midgar Studio ha mostrado un tráiler de lanzamiento y revelado la hoja de ruta que seguirá el proyecto hasta finales de 2022. Edge of Eternity es un JRPG con un sistema de combates estratégico por turnos inspirado en juegos como Final Fantasy y Xenogears. Su… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -160,58 +350,6 @@ Points: 50
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache Superset 1.1]]></title>
-        <id>https://news.ycombinator.com/item?id=27439939</id>
-        <link href="https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1"/>
-        <updated>2021-06-08T19:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1
-Comments URL: https://news.ycombinator.com/item?id=27439939
-Points: 44
-# Comments: 11]]></summary>
-        <author>
-            <name>skadamat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientific Computing with Perl]]></title>
-        <id>https://news.ycombinator.com/item?id=27439638</id>
-        <link href="http://pdl.perl.org/"/>
-        <updated>2021-06-08T19:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://pdl.perl.org/
-Comments URL: https://news.ycombinator.com/item?id=27439638
-Points: 89
-# Comments: 48]]></summary>
-        <author>
-            <name>smartmic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ohio sues Google, seeks to declare the internet company a public utility]]></title>
-        <id>https://news.ycombinator.com/item?id=27439010</id>
-        <link href="https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/"/>
-        <updated>2021-06-08T18:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
-Comments URL: https://news.ycombinator.com/item?id=27439010
-Points: 541
-# Comments: 452]]></summary>
-        <author>
-            <name>infodocket</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-world CSS vs. CSS-in-JS performance comparison]]></title>
-        <id>https://news.ycombinator.com/item?id=27438913</id>
-        <link href="https://pustelto.com/blog/css-vs-css-in-js-perf/"/>
-        <updated>2021-06-08T18:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/
-Comments URL: https://news.ycombinator.com/item?id=27438913
-Points: 128
-# Comments: 109]]></summary>
-        <author>
-            <name>______-</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Playdate, una portátil con manivela, revela sus primeros juegos y un precio de 179 dólares]]></title>
         <id>46236_v1</id>
         <link href="https://www.elotrolado.net/noticias/consolas/playdate-precio-reservas-juegos"/>
@@ -219,32 +357,6 @@ Points: 128
         <summary type="html"><![CDATA[Después de superar alguna que otra dificultad debido a la falta de chips, Panic, un veterano desarrollador de software para Mac así como el editor de Firewatch, está en disposición de anunciar nuevos detalles de Playdate, una pequeña consola portátil de diseño industrial. La empresa ha revelado 21 de los 24 juegos a los que ofrecerá acceso el dispositivo a lo largo de la primera temporada e informado que la campaña de reservas arrancará el próximo mes. La consola tendrá un precio de 179 dólares y los envíos se pondrán en marcha a finales de año. Durante la presentación, Panic también… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Consciousness of Invertebrates]]></title>
-        <id>https://news.ycombinator.com/item?id=27437772</id>
-        <link href="https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates"/>
-        <updated>2021-06-08T17:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates
-Comments URL: https://news.ycombinator.com/item?id=27437772
-Points: 67
-# Comments: 38]]></summary>
-        <author>
-            <name>quercusa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To protect against weaponized drones, we must understand their key strengths]]></title>
-        <id>https://news.ycombinator.com/item?id=27437092</id>
-        <link href="https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths"/>
-        <updated>2021-06-08T16:12:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths
-Comments URL: https://news.ycombinator.com/item?id=27437092
-Points: 77
-# Comments: 144]]></summary>
-        <author>
-            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
@@ -258,17 +370,6 @@ Points: 77
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams]]></title>
-        <id>https://news.ycombinator.com/item?id=27435377</id>
-        <link href="https://news.ycombinator.com/item?id=27435377"/>
-        <updated>2021-06-08T14:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN! I’m Gabriel, one of the co-founders of Runway (https://runway.team). We’re building a SaaS platform that makes it easier to coordinate your team’s mobile app releases. Runway is an integration layer that sits on top of mobile app teams’ existing project management and development tools, making it possible to understand at-a-glance the status and progress of release cycles and to communicate tasks and blockers — allowing teams to spend their time on improving their product instead of managing releases and tooling.
-When I was an iOS engineer, my team rotated everyone through the release manager role for each release cycle. I remember dreading the weeks I was assigned this role - I’d get stuck spending a few hours with multiple Chrome tabs open checking on the status of different tools…]]></summary>
-        <author>
-            <name>gsavit</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: El evento de Capcom en el E3 2021 será el 14 de junio a las 23:30 horas]]></title>
         <id>46234_v1</id>
         <link href="https://www.elotrolado.net/hilo_el-evento-de-capcom-en-el-e3-2021-sera-el-14-de-junio-a-las-23-30-horas_2425452"/>
@@ -276,32 +377,6 @@ When I was an iOS engineer, my team rotated everyone through the release manager
         <summary type="html"><![CDATA[Capcom ha revelado que el evento que tiene programado emitir durante el E3 2021 tendrá lugar el lunes 14 de junio a las 23:30 horas peninsular española. La transmisión se podrá seguir mediante los canales oficiales del E3 en YouTube y Twitch. La compañía japonesa ya ha confirmado que durante el evento tendremos novedades sobre The Great Ace Attorney Chronicles, Monster Hunter Stories 2, Monster Hunter Rise y Resident Evil Village. Veremos si además de estos nombres Capcom nos ha preparado alguna que otra sorpresa. Podéis echar un vistazo al calendario de todas las conferencias del E3… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Netflix uses eBPF flow logs at scale for network insight]]></title>
-        <id>https://news.ycombinator.com/item?id=27435081</id>
-        <link href="https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96"/>
-        <updated>2021-06-08T13:42:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
-Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 263
-# Comments: 31]]></summary>
-        <author>
-            <name>el_duderino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the government set up a fake bank to launder drug money (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=27434243</id>
-        <link href="https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money"/>
-        <updated>2021-06-08T12:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
-Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 195
-# Comments: 86]]></summary>
-        <author>
-            <name>mdeck_</name>
         </author>
     </entry>
     <entry>
@@ -450,66 +525,6 @@ Points: 195
         <link href="https://www.elotrolado.net/noticias/juegos/no-more-heroes-pc-steam-disponible"/>
         <updated>2021-06-04T17:49:31.000Z</updated>
         <summary type="html"><![CDATA[Después de su aparición en Wii y un paso por Nintendo Switch, las dos primeras entregas de la saga No More Heroes ganan una versión para PC que estará disponible mediante Steam a partir del 9 de junio a cambio de 19,99 euros la pieza, según han anunciado XSEED Games y Marvelous. Además de la fecha de lanzamiento y el precio, ambos juegos han sido presentados con su respectivo tráiler, la promesa de poder jugar a 60 FPS y la esperanza de que No More Heroes III, que por ahora solo ha sido presentado para Switch, también termine dando el salto. No More Heroes es una franquicia de juegos… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Sniper Ghost Warrior Contracts 2]]></title>
-        <id>46218_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/sniper-ghost-warrior-contracts-2-trailer-lanzamiento"/>
-        <updated>2021-06-04T15:05:28.000Z</updated>
-        <summary type="html"><![CDATA[El desarrollador polaco CI Games ha mostrado el tráiler de lanzamiento de Sniper Ghost Warrior Contracts 2 para celebrar que el juego ya se encuentra disponible para PS4, Xbox One y Xbox Series por 39,99 euros en formato físico y digital, mientras que la versión de PC se despacha en Steam a cambio de 29,99 euros. Los jugadores de PS5 deberán esperar a que su versión se ponga a la venta más adelante, pero las copias de PS4 darán acceso a una actualización gratuita para la nueva generación. Sniper Ghost Warrior Contracts 2 es un shooter táctico ambientado en el Oriente Medio de la era… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Yuji Naka, cocreador de Sonic, deja Square Enix]]></title>
-        <id>46217_v1</id>
-        <link href="https://www.elotrolado.net/hilo_yuji-naka-cocreador-de-sonic-deja-square-enix_2425094"/>
-        <updated>2021-06-04T12:11:04.000Z</updated>
-        <summary type="html"><![CDATA[Yuji Naka ha actualizado sus perfiles oficiales de LinkedIn y Facebook para indicar que desde el pasado 30 de abril ya no trabaja para Square Enix. La marcha de este veterano de la industria del videojuego se produce después del decepcionante Balan Wonderworld, un juego de acción y plataformas editado por Square Enix y cuyo desarrollo lideró Naka. El fiasco de Balan Wonderworld no debería manchar una carrera como la de Yuji Naka, que como programador o productor ha participado en juegos como Phantasy Star, Sonic the Hedgehog (del que es cocreador) y Nights into Dreams. Además, como… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Comisión Europea investiga a Facebook por usar la información de sus anunciantes para competir con ellos]]></title>
-        <id>46216_v1</id>
-        <link href="https://www.elotrolado.net/noticias/internet/facebook-marketplace-investigacion-europa"/>
-        <updated>2021-06-04T11:50:25.000Z</updated>
-        <summary type="html"><![CDATA[Facebook se une a la lista de grandes compañías tecnológicas estadounidenses a las que la Comisión Europea pone en su punto de mira con una investigación antimonopolio. En el caso de la red social liderada por Mark Zuckerberg, Bruselas quiere esclarecer si violó las normas de competencia de la Unión Europea al utilizar datos de otros anunciantes para competir con ellos en mercado publicitario en línea. También busca evaluar si Facebook vincula su servicio de anuncios clasificados de Facebook Marketplace con la red social. “Cerca de 3.000 millones de personas utilizan Facebook… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Need For Speed Hot Pursuit Remastered se unirá a EA Play el 24 de junio]]></title>
-        <id>46215_v1</id>
-        <link href="https://www.elotrolado.net/hilo_need-for-speed-hot-pursuit-remastered-se-unira-a-ea-play-el-24-de-junio_2425082"/>
-        <updated>2021-06-04T09:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Electronic Arts ha comunicado que a partir del 24 de junio los suscriptores de EA Play tendrán acceso a Need For Speed Hot Pursuit Remastered, un título remasterizado por Stellar Entertainment que incluye todo el contenido adicional y mejoras gráficas. EA Play forma parte de Xbox Game Pass, así el juego también estará disponible para los usuarios de este servicio. Como novedad, Need For Speed Hot Pursuit Remastered presenta un modo multijugador con juego cruzado y Autolog. Asimismo, el título puede ejecutarse en 4K/60 FPS en PC, mientras que en PS4 Pro y Xbox One X tenemos 4K/30 FPS o… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taito resucita su recreativa candy Egret II en formato mini y con monitor rotatorio TATE]]></title>
-        <id>46214_v1</id>
-        <link href="https://www.elotrolado.net/noticias/consolas/taito-egret-ii-mini-recreativa-candy-cab"/>
-        <updated>2021-06-04T08:31:20.000Z</updated>
-        <summary type="html"><![CDATA[La Astro City Mini tiene compañía. Visto el tremendo éxito de la resucitada candy cab de Sega, inicialmente solo disponible en Japón pero con una gran popularidad en el mercado de exportación, Taito se ha propuesto resucitar la rivalidad que mantenía antaño en los salones recreativos reeditando la no menos mítica Egret II en formato mini. Esta recreativa posee un tamaño próximo al de una bartop muy pequeñita (155 x 200 x 209 mm) e incluye numerosos detalles sumamente cuidados. La Egret II mini (nombre oficial) incluirá un monitor LCD 4:3 de 5 pulgadas para evitar la aparición de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filtrados los planes de 2K para el E3: un juego al estilo XCOM con personajes de Marvel, spin-off de Borderlands y más]]></title>
-        <id>46213_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/2k-filtracion-e3-2021"/>
-        <updated>2021-06-04T00:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Ya tenemos entre nosotros la primera gran filtración del E3 2021. Este año la víctima ha sido 2K Games, el sello de Take-Two que ha visto correr por Reddit una lista con algunos de los juegos que presentará durante la próxima semana. La información ha sido verificada por múltiples fuentes, incluyendo al periodista Jason Schreier de Bloomberg, Video Games Chronicle y Venturebeat, así que difícilmente alguien se quemará si pone la mano en el fuego. El título que más llama la atención es el nuevo proyecto de Firaxis Games que se esconde bajo el nombre en clave CODA. Según la información… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
