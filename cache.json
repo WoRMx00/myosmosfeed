@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27523405",
-          "author": "elsewhen",
-          "description": "Article URL: https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235\nComments URL: https://news.ycombinator.com/item?id=27523405\nPoints: 30\n# Comments: 10",
-          "link": "https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235",
-          "publishedOn": "2021-06-16T00:26:45.000Z",
-          "wordCount": 5586,
-          "title": "Airbnb is spending millions of dollars to make nightmares go away"
+          "id": "https://news.ycombinator.com/item?id=27534884",
+          "author": "dominicwhyte",
+          "description": "Article URL: https://stripe.com/terminal\nComments URL: https://news.ycombinator.com/item?id=27534884\nPoints: 34\n# Comments: 14",
+          "link": "https://stripe.com/terminal",
+          "publishedOn": "2021-06-17T00:06:11.000Z",
+          "wordCount": 1505,
+          "title": "Stripe Terminal"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27523377",
-          "author": "gilad",
-          "description": "Article URL: https://filesystem-spec.readthedocs.io/en/latest/index.html#\nComments URL: https://news.ycombinator.com/item?id=27523377\nPoints: 18\n# Comments: 0",
-          "link": "https://filesystem-spec.readthedocs.io/en/latest/index.html#",
-          "publishedOn": "2021-06-16T00:24:38.000Z",
-          "wordCount": 509,
-          "title": "Fsspec: Filesystem Interfaces for Python"
+          "id": "https://news.ycombinator.com/item?id=27534751",
+          "author": "prostoalex",
+          "description": "Article URL: https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002\nComments URL: https://news.ycombinator.com/item?id=27534751\nPoints: 32\n# Comments: 43",
+          "link": "https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002",
+          "publishedOn": "2021-06-16T23:42:29.000Z",
+          "wordCount": 1480,
+          "title": "National Parks Are Overcrowded and Closing Their Gates"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27522427",
-          "author": "erehweb",
-          "description": "Article URL: https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday\nComments URL: https://news.ycombinator.com/item?id=27522427\nPoints: 266\n# Comments: 210",
-          "link": "https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday",
-          "publishedOn": "2021-06-15T22:30:49.000Z",
-          "wordCount": 676,
-          "title": "Senate Unanimously Approves a Bill to Make Juneteenth a Public Holiday"
+          "id": "https://news.ycombinator.com/item?id=27534379",
+          "author": "flurly",
+          "description": "Article URL: https://francoisbest.com/posts/2021/hashvatars\nComments URL: https://news.ycombinator.com/item?id=27534379\nPoints: 27\n# Comments: 9",
+          "link": "https://francoisbest.com/posts/2021/hashvatars",
+          "publishedOn": "2021-06-16T22:50:26.000Z",
+          "wordCount": 1758,
+          "title": "Representing SHA-256 Hashes as Avatars"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27522353",
-          "author": "kaeruct",
-          "description": "Article URL: https://github.com/joho/7XX-rfc\nComments URL: https://news.ycombinator.com/item?id=27522353\nPoints: 194\n# Comments: 54",
-          "link": "https://github.com/joho/7XX-rfc",
-          "publishedOn": "2021-06-15T22:25:25.000Z",
-          "wordCount": 1600,
-          "title": "RFC for 700 HTTP Status Codes"
+          "id": "https://news.ycombinator.com/item?id=27533988",
+          "author": "CommitLock",
+          "description": "Article URL: https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination\nComments URL: https://news.ycombinator.com/item?id=27533988\nPoints: 36\n# Comments: 11",
+          "link": "https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination",
+          "publishedOn": "2021-06-16T22:05:53.000Z",
+          "wordCount": 1014,
+          "title": "How to Boost Self Esteem and Stop Procrastinating"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27521826",
-          "author": "tomdell",
-          "description": "Article URL: https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc\nComments URL: https://news.ycombinator.com/item?id=27521826\nPoints: 65\n# Comments: 26",
-          "link": "https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc",
-          "publishedOn": "2021-06-15T21:36:08.000Z",
-          "wordCount": 1017,
-          "title": "Lina Khan, Big Tech Critic, Will Lead the FTC"
+          "id": "https://news.ycombinator.com/item?id=27533755",
+          "author": "evo_9",
+          "description": "Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40\nComments URL: https://news.ycombinator.com/item?id=27533755\nPoints: 185\n# Comments: 62",
+          "link": "https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40",
+          "publishedOn": "2021-06-16T21:36:59.000Z",
+          "wordCount": 1417,
+          "title": "4-day workweek boosted workers' productivity by 40%, Microsoft Japan says"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27521426",
-          "author": "ankitvgupta",
-          "description": "Article URL: https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5\nComments URL: https://news.ycombinator.com/item?id=27521426\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5",
-          "publishedOn": "2021-06-15T21:00:24.000Z",
-          "wordCount": 325,
-          "title": "Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA"
+          "id": "https://news.ycombinator.com/item?id=27533684",
+          "author": "vinnyglennon",
+          "description": "Article URL: https://programming.guide/worlds-most-copied-so-snippet.html\nComments URL: https://news.ycombinator.com/item?id=27533684\nPoints: 245\n# Comments: 117",
+          "link": "https://programming.guide/worlds-most-copied-so-snippet.html",
+          "publishedOn": "2021-06-16T21:27:44.000Z",
+          "wordCount": 2487,
+          "title": "The most copied StackOverflow snippet of all time is flawed (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27520884",
-          "author": "jawslouis",
-          "description": "Article URL: http://cintrest.com/influence/\nComments URL: https://news.ycombinator.com/item?id=27520884\nPoints: 139\n# Comments: 46",
-          "link": "http://cintrest.com/influence/",
-          "publishedOn": "2021-06-15T20:12:59.000Z",
-          "wordCount": 133,
-          "title": "Show HN: Influence, a Go-inspired 1-minute board game"
+          "id": "https://news.ycombinator.com/item?id=27533620",
+          "author": "andrewstuart",
+          "description": "Article URL: https://www.starqueue.org/\nComments URL: https://news.ycombinator.com/item?id=27533620\nPoints: 11\n# Comments: 1",
+          "link": "https://www.starqueue.org/",
+          "publishedOn": "2021-06-16T21:19:50.000Z",
+          "wordCount": 101,
+          "title": "Show HN: StarQueue – a free hosted HTTP message queue with a Postgres back end"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27520806",
-          "author": "spunker540",
-          "description": "Article URL: https://www.gq.com/story/johnny-knoxvilles-last-rodeo/\nComments URL: https://news.ycombinator.com/item?id=27520806\nPoints: 96\n# Comments: 60",
-          "link": "https://www.gq.com/story/johnny-knoxvilles-last-rodeo/",
-          "publishedOn": "2021-06-15T20:07:46.000Z",
-          "wordCount": 5318,
-          "title": "Johnny Knoxville’s Last Rodeo"
+          "id": "https://news.ycombinator.com/item?id=27533417",
+          "author": "anishdhar",
+          "description": "Article URL: https://www.workatastartup.com/jobs/29595\nComments URL: https://news.ycombinator.com/item?id=27533417\nPoints: 1\n# Comments: 0",
+          "link": "https://www.workatastartup.com/jobs/29595",
+          "publishedOn": "2021-06-16T21:00:52.000Z",
+          "wordCount": 609,
+          "title": "Cortex (YC W20) Is Hiring Founding Engineers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27520795",
-          "author": "wholeness",
-          "description": "Article URL: https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/\nComments URL: https://news.ycombinator.com/item?id=27520795\nPoints: 55\n# Comments: 15",
-          "link": "https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/",
-          "publishedOn": "2021-06-15T20:06:38.000Z",
-          "wordCount": 846,
-          "title": "A pencil sharpener that creates a never-ending pencil (2015)"
+          "id": "https://news.ycombinator.com/item?id=27533347",
+          "author": "dboeke",
+          "description": "Article URL: https://github.com/turbot/steampipe-mod-aws-compliance\nComments URL: https://news.ycombinator.com/item?id=27533347\nPoints: 24\n# Comments: 3",
+          "link": "https://github.com/turbot/steampipe-mod-aws-compliance",
+          "publishedOn": "2021-06-16T20:54:33.000Z",
+          "wordCount": 916,
+          "title": "Open source HIPAA compliance benchmark for AWS"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27520496",
-          "author": "anigbrowl",
-          "description": "Article URL: https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories\nComments URL: https://news.ycombinator.com/item?id=27520496\nPoints: 183\n# Comments: 82",
-          "link": "https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories",
-          "publishedOn": "2021-06-15T19:43:13.000Z",
-          "wordCount": 802,
-          "title": "We’re no longer naming suspects in minor crime stories"
+          "id": "https://news.ycombinator.com/item?id=27533299",
+          "author": "mattjstar",
+          "description": "Article URL: https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/\nComments URL: https://news.ycombinator.com/item?id=27533299\nPoints: 44\n# Comments: 35",
+          "link": "https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/",
+          "publishedOn": "2021-06-16T20:49:22.000Z",
+          "wordCount": 1820,
+          "title": "How to track users for analytics in a privacy-first, cookie-less future"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27520016",
-          "author": "pmoriarty",
-          "description": "Article URL: https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/\nComments URL: https://news.ycombinator.com/item?id=27520016\nPoints: 62\n# Comments: 18",
-          "link": "https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/",
-          "publishedOn": "2021-06-15T19:05:45.000Z",
-          "wordCount": 4030,
-          "title": "Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD (2012)"
+          "id": "https://news.ycombinator.com/item?id=27532068",
+          "author": "vnglst",
+          "description": "Article URL: https://wayfinder.nfb.ca/\nComments URL: https://news.ycombinator.com/item?id=27532068\nPoints: 349\n# Comments: 62",
+          "link": "https://wayfinder.nfb.ca/",
+          "publishedOn": "2021-06-16T18:51:05.000Z",
+          "wordCount": 8,
+          "title": "Wayfinder – a relaxing 'art game' in the browser"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27519445",
-          "author": "nikbackm",
-          "description": "Article URL: https://henrikwarne.com/2021/06/15/on-comments-in-code/\nComments URL: https://news.ycombinator.com/item?id=27519445\nPoints: 96\n# Comments: 134",
-          "link": "https://henrikwarne.com/2021/06/15/on-comments-in-code/",
-          "publishedOn": "2021-06-15T18:22:57.000Z",
-          "wordCount": 1746,
-          "title": "On Comments in Code"
+          "id": "https://news.ycombinator.com/item?id=27531934",
+          "author": "fabianlindfors",
+          "description": "Article URL: https://fabianlindfors.se/blog/schema-migrations-in-postgres/\nComments URL: https://news.ycombinator.com/item?id=27531934\nPoints: 97\n# Comments: 40",
+          "link": "https://fabianlindfors.se/blog/schema-migrations-in-postgres/",
+          "publishedOn": "2021-06-16T18:39:07.000Z",
+          "wordCount": 808,
+          "title": "Zero-downtime schema migrations in Postgres using views"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27517547",
-          "author": "client4",
-          "description": "Article URL: https://support.google.com/maps/answer/1725632#how_opt_out&zippy=\nComments URL: https://news.ycombinator.com/item?id=27517547\nPoints: 358\n# Comments: 249",
-          "link": "https://support.google.com/maps/answer/1725632#how_opt_out&zippy=",
-          "publishedOn": "2021-06-15T16:14:21.000Z",
-          "wordCount": 543,
-          "title": "How do I opt my access point out of Google Location services?"
+          "id": "https://news.ycombinator.com/item?id=27530365",
+          "author": "jseliger",
+          "description": "Article URL: https://www.persuasion.community/p/kids-need-freedom-too\nComments URL: https://news.ycombinator.com/item?id=27530365\nPoints: 244\n# Comments: 237",
+          "link": "https://www.persuasion.community/p/kids-need-freedom-too",
+          "publishedOn": "2021-06-16T16:27:48.000Z",
+          "wordCount": 1428,
+          "title": "Kids need freedom, too"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27517524",
-          "author": "client4",
-          "description": "Article URL: http://shadyurl.com/create.php\nComments URL: https://news.ycombinator.com/item?id=27517524\nPoints: 186\n# Comments: 24",
-          "link": "http://shadyurl.com/create.php",
-          "publishedOn": "2021-06-15T16:12:10.000Z",
-          "wordCount": 86,
-          "title": "Don't just shorten your URL, make it suspicious and frightening (2010)"
+          "id": "https://news.ycombinator.com/item?id=27530074",
+          "author": "DarkPlayer",
+          "description": "Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/\nComments URL: https://news.ycombinator.com/item?id=27530074\nPoints: 134\n# Comments: 56",
+          "link": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
+          "publishedOn": "2021-06-16T16:05:21.000Z",
+          "wordCount": 4717,
+          "title": "Execute Docker Containers as QEMU MicroVMs"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27516977",
-          "author": "infodocket",
-          "description": "Article URL: https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us\nComments URL: https://news.ycombinator.com/item?id=27516977\nPoints: 124\n# Comments: 227",
-          "link": "https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us",
-          "publishedOn": "2021-06-15T15:35:35.000Z",
-          "wordCount": 1456,
-          "title": "NIH study offers new evidence of early SARS-CoV-2 infections in U.S."
+          "id": "https://news.ycombinator.com/item?id=27529768",
+          "author": "anonymfus",
+          "description": "Article URL: https://eprint.iacr.org/2021/819\nComments URL: https://news.ycombinator.com/item?id=27529768\nPoints: 377\n# Comments: 79",
+          "link": "https://eprint.iacr.org/2021/819",
+          "publishedOn": "2021-06-16T15:39:58.000Z",
+          "wordCount": 285,
+          "title": "Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27516212",
-          "author": "rheeseyb",
-          "description": "Article URL: https://utopia.app/\nComments URL: https://news.ycombinator.com/item?id=27516212\nPoints: 223\n# Comments: 66",
-          "link": "https://utopia.app/",
-          "publishedOn": "2021-06-15T14:42:57.000Z",
-          "wordCount": 989,
-          "title": "Utopia, a visual design tool for React, with code as the source of truth"
+          "id": "https://news.ycombinator.com/item?id=27529697",
+          "author": "soopurman",
+          "description": "Article URL: https://andysalerno.com/posts/weird-emojis/\nComments URL: https://news.ycombinator.com/item?id=27529697\nPoints: 155\n# Comments: 37",
+          "link": "https://andysalerno.com/posts/weird-emojis/",
+          "publishedOn": "2021-06-16T15:35:18.000Z",
+          "wordCount": 1469,
+          "title": "Bear plus snowflake equals polar bear"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27516073",
-          "author": "SuperNinKenDo",
-          "description": "Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html\nComments URL: https://news.ycombinator.com/item?id=27516073\nPoints: 194\n# Comments: 64",
-          "link": "https://emacs.love/tales/emacs-love-tale-by-sdp.html",
-          "publishedOn": "2021-06-15T14:33:21.000Z",
-          "wordCount": 746,
-          "title": "Emacs Love Tale by sdp"
+          "id": "https://news.ycombinator.com/item?id=27529119",
+          "author": "ruaraidh",
+          "description": "Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/\nComments URL: https://news.ycombinator.com/item?id=27529119\nPoints: 249\n# Comments: 196",
+          "link": "https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/",
+          "publishedOn": "2021-06-16T14:47:50.000Z",
+          "wordCount": 7594,
+          "title": "If you think psychological science is bad, imagine how bad it was in 1999"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27515645",
-          "author": "tosh",
-          "description": "Article URL: https://250bpm.com/blog:50/\nComments URL: https://news.ycombinator.com/item?id=27515645\nPoints: 139\n# Comments: 56",
-          "link": "https://250bpm.com/blog:50/",
-          "publishedOn": "2021-06-15T14:00:49.000Z",
-          "wordCount": 753,
-          "title": "Finish Your Stuff (2015)"
+          "id": "https://news.ycombinator.com/item?id=27529049",
+          "author": "wyldfire",
+          "description": "Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/\nComments URL: https://news.ycombinator.com/item?id=27529049\nPoints: 183\n# Comments: 104",
+          "link": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
+          "publishedOn": "2021-06-16T14:41:55.000Z",
+          "wordCount": 3556,
+          "title": "How does one get hired by a top cybercrime gang?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27515615",
-          "author": "shivbhatt",
-          "description": "Article URL: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9\nComments URL: https://news.ycombinator.com/item?id=27515615\nPoints: 88\n# Comments: 23",
-          "link": "https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9",
-          "publishedOn": "2021-06-15T13:58:32.000Z",
-          "wordCount": 62,
-          "title": "Critical entities targeted in suspected Chinese cyber spying"
+          "id": "https://news.ycombinator.com/item?id=27528202",
+          "author": "tasn",
+          "description": "Hey everyone, my name is Tom, and I'm the founder of Svix (https://www.svix.com) - previously known as Diahook. Svix makes it easy for developers to send webhooks from their service using a simple API. Think Twilio or SendGrid but for webhooks.\nWebhooks are how servers notify each other of events, so they are a key component of many APIs such as Stripe, Shopify, Slack, Dropbox and Github.\nThey look easy to implement (just a POST request), but they come with a variety of challenges. For example, customer endpoints fail or hang much more often than you would think, so you would need to implement retries. You need to make sure such failures don't clog your send queue or the rest of your system. The webhook system is an additional system separate from your normal web server that needs to be sc…",
+          "link": "https://news.ycombinator.com/item?id=27528202",
+          "publishedOn": "2021-06-16T13:19:41.000Z",
+          "wordCount": 3358,
+          "title": "Launch HN: Svix (YC W21) – Webhooks as a Service"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27515468",
-          "author": "arthurcoudouy",
-          "description": "Hi HN!\nWe’re Arthur and Sydney (cosydney). We’re building Axolo (https://axolo.co) a bidirectional Github-Slack integration to help tech teams reduce pull request time and improve code review’s feedback.\nSydney and I met in 42, a software engineering school in Paris, and started working together on different tech projects last year. While working on our last business, a SaaS management platform for SMEs, we were in a squad of 4 to 5 people and often found ourselves writing direct messages in Slack about pull requests. We were telling each other things like ‘Hey Arthur, I’ve updated my last pull request feature/zoom_integration, do you have time to check it out soon?’ or “it’s been two days, do you have time to review feature/user_settings today, here is the link: github/axolo-co/api.axolo.…",
-          "link": "https://news.ycombinator.com/item?id=27515468",
-          "publishedOn": "2021-06-15T13:46:52.000Z",
-          "wordCount": 2816,
-          "title": "Launch HN: Axolo (YC W21) – Faster pull requests and code reviews"
+          "id": "https://news.ycombinator.com/item?id=27527559",
+          "author": "n1000",
+          "description": "Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html\nComments URL: https://news.ycombinator.com/item?id=27527559\nPoints: 801\n# Comments: 343",
+          "link": "https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html",
+          "publishedOn": "2021-06-16T12:05:13.000Z",
+          "wordCount": 488,
+          "title": "Apple's iCloud+ “VPN”"
         }
       ]
     },
@@ -193,12 +193,111 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46383_v1",
+          "author": null,
+          "description": "Cuando queda justo un mes para el lanzamiento de F1 2021, Codemasters ha mostrado un nuevo tráiler del juego destinado a mostrar las características principales del título. Si nada se complica F1 2021 estará disponible el 16 de julio, la misma semana en la que se celebra el Gran Premio de Gran Bretaña en el Circuito de Silverstone, con versión para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam). El modo historia de F1 2021 se llama Braking Point y también es una de las novedades que presenta esta edición. La campaña permitirá a los jugadores ponerse en la piel de un… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/f1-2021-trailer-caracteristicas",
+          "publishedOn": "2021-06-16T19:16:35.000Z",
+          "wordCount": 770,
+          "title": "F1 2021 revela sus características en un nuevo tráiler"
+        },
+        {
+          "id": "46382_v1",
+          "author": null,
+          "description": "Valve ha puesto en marcha el Steam Next Fest, un evento que desde hoy y hasta el 22 de junio permite a los jugadores de PC probar de forma gratuita las demos de más de 700 juegos que están o estarán disponibles en la tienda digital. Faltarán horas echar un vistazo a solo una parte de los títulos. Además de demos, durante el evento los desarrolladores participarán de transmisiones en directo y charlas para hablar sobre los proyectos que tienen en marcha. “Con tantos juegos increíbles para elegir, puede ser difícil saber por dónde empezar”, reconoce Valve. Para ayudar a los jugadores a… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/steam-next-fest-2021-demos",
+          "publishedOn": "2021-06-16T17:56:46.000Z",
+          "wordCount": 811,
+          "title": "Empieza el Steam Next Fest con cientos de demos disponibles hasta el 22 de junio"
+        },
+        {
+          "id": "46381_v1",
+          "author": null,
+          "description": "Inti Creates ha comunicado que Blaster Master Zero para Xbox One y Xbox Series estará disponible el 1 de julio, mientras que Blaster Master Zero II debutará en las mismas consolas el 15 de julio. Los juegos se venderán de forma individual por 9,99 euros cada uno. Blaster Master Zero es un juego de acción y exploración realizado en estilo de 8 bits con perspectiva vertical y lateral que se basa en el título del mismo nombre que se lanzó en 1988 para NES. Por su parte, Blaster Master Zero 2 sigue la historia de la primera entrega pero la acción se traslada al planeta Sophia. Ambos… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_blaster-master-zero-y-blaster-master-zero-ii-llegan-en-julio-a-xbox-one-y-xbox-series_2426295",
+          "publishedOn": "2021-06-16T16:10:33.000Z",
+          "wordCount": 307,
+          "title": "Breve: Blaster Master Zero y Blaster Master Zero II llegan en julio a Xbox One y Xbox Series"
+        },
+        {
+          "id": "46380_v1",
+          "author": null,
+          "description": "Una semana después de Blackwood, los jugadores de The Elder Scrolls Online que tengan una copia del juego para PS4 y Xbox One reciben una actualización gratuita que aprovecha las prestaciones de PlayStation 5 y Xbox Series. The Elder Scrolls Online: Versión Mejorada para Consolas, así de descriptiva ha sido bautizada esta versión, incluye las siguientes mejoras: Personalización visual: modo de rendimiento para jugar a 60 FPS y modo fidelidad para 4K nativos y 30 FPS. En Xbox Series S son 1440p a 30 FPS Mayor distancia de dibujado: la distancia de dibujado del juego casi se ha… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_the-elder-scrolls-online-recibe-la-actualizacion-para-ps5-y-xbox-series_2426294",
+          "publishedOn": "2021-06-16T15:58:16.000Z",
+          "wordCount": 427,
+          "title": "Breve: The Elder Scrolls Online recibe la actualización para PS5 y Xbox Series"
+        },
+        {
+          "id": "46379_v1",
+          "author": null,
+          "description": "Rockstar Games ha anunciado su intención de desconectar los servidores de Grand Theft Auto Online para PlayStation 3 y Xbox 360 el 16 de diciembre. Para entonces habrán pasado poco más de ocho años desde que el juego se pusiera a disposición de todos los propietarios de una copia de Grand Theft Auto V, un título originalmente desarrollado para las dos mencionadas consolas. Por otro lado, los servicios online de L.A. Noire y Max Payne 3 para PS3 y Xbox 360 sufrirán una desconexión el 16 de septiembre. “Mientras seguimos adelante con actualizaciones y asistencia para las versiones de… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/gta-online-desconexion-ps3-xbox-360",
+          "publishedOn": "2021-06-16T14:35:17.000Z",
+          "wordCount": 836,
+          "title": "GTA Online cerrará los servidores de PlayStation 3 y Xbox 360 el 16 de diciembre"
+        },
+        {
+          "id": "46378_v1",
+          "author": null,
+          "description": "Una vez pasada la vorágine de novedades que nos dejó el evento Xbox & Bethesda Games Showcase, alguien ha leído al completo el resumen que Microsoft publicó en su blog oficial y con ello ha descubierto un detalle no menor que sin embargo pasó desapercibido: Xbox One tendrá soporte para Xbox Cloud Gaming (xCloud). Gracias a ello la veterana consola servirá para jugar en la nube a títulos de nueva generación que han sido desarrollados para Xbox Series. “Nos entusiasma ver a los desarrolladores hacer realidad sus visiones en formas que solo la nueva generación de hardware les permite… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/xbox-series-one-xcloud",
+          "publishedOn": "2021-06-16T11:16:42.000Z",
+          "wordCount": 863,
+          "title": "Microsoft llevará los juegos de Xbox Series a Xbox One mediante xCloud"
+        },
+        {
+          "id": "46377_v1",
+          "author": null,
+          "description": "El JRPG Astria Ascending se pondrá a la venta el 30 de septiembre con versión para PS4, PS4, Xbox One, Xbox Series, Nintendo Switch y PC (Steam, Epic Games Store), según han anunciado el editor Dear Villagers y el desarrollador Artisan Studios. El título ha revelado su fecha de lanzamiento junto a un tráiler con gameplay donde también se presentan algunos de sus protagonistas. Astria Ascending es un JRPG con combates por turnos que promete más de 50 horas de juego en una aventura que se desarrolla en el mundo de Orcanon, donde además de cinco grandes ciudades tenemos más de 20… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_astria-ascending-estara-disponible-el-30-de-septiembre_2426265",
+          "publishedOn": "2021-06-16T10:20:03.000Z",
+          "wordCount": 466,
+          "title": "Breve: Astria Ascending estará disponible el 30 de septiembre"
+        },
+        {
+          "id": "46373_v1",
+          "author": null,
+          "description": "Hace algunas semanas Satya Nadella daba a entender que el próximo capítulo en la historia de Windows estaba a la vuelta de la esquina. Lo que el CEO de Microsoft no dejaba claro es si estaba hablando de una gran actualización para Windows 10 o de una nueva iteración de su sistema operativo. Bien, ya no hace falta esperar al evento especial que tendrá lugar a finales de mes. Windows 11 está en camino, y lo sabemos porque una build ya flota en Internet. Tras una pequeña filtración de capturas, varios sitios especializados como The Verge y Windows Central han podido poner sus manos en… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/windows-11-filtrado-capturas",
+          "publishedOn": "2021-06-16T09:41:25.000Z",
+          "wordCount": 895,
+          "title": "Windows 11 se filtra a escasos días de su presentación oficial"
+        },
+        {
+          "id": "46376_v1",
+          "author": null,
+          "description": "Sega y Ryu Ga Gotoku Studio han comunicado vía Twitter que Judgment, un spin-off de la franquicia Yakuza, ya ha conseguido colocar un millón de unidades entre las copias vendidas en formato digital y las distribuidas en formato físico. Esta cifra se alcanza poco después de que el juego, originalmente desarrollado para PS4, se pusiera a la venta en PS5, Xbox One y Stadia. La saga Judgment seguirá adelante el 24 de septiembre con el lanzamiento de Lost Judgment, una secuela en la que el detective privado Takayuki Yagami se verá envuelto en un misterio después de que Akihiro Ehara sea… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_judgment-alcanza-el-millon-de-unidades-vendidas_2426261",
+          "publishedOn": "2021-06-16T09:25:49.000Z",
+          "wordCount": 819,
+          "title": "Breve: Judgment alcanza el millón de unidades vendidas"
+        },
+        {
+          "id": "46375_v1",
+          "author": null,
+          "description": "Rebellion ha anunciado que Strange Brigade, un shooter cooperativo (local y online) en tercera persona para un máximo de cuatro participantes, ya se encuentra disponible para Nintendo Switch mediante la eShop a cambio de 29,99 euros. El título se ejecuta a 30 FPS y resolución dinámica (1080p en TV y 720p en portátil). Strange Brigade ofrece una campaña ambientada en Egipto durante 1930 que tiene como antagonista a Seteki, la Reina Bruja, que vuelve a la vida después de 4.000 años enterrada en una tumba sin nombre. El título de Rebellion llega acompañado de un pase de temporada que… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_strange-brigade-a-la-venta-para-nintendo-switch_2426260",
+          "publishedOn": "2021-06-16T09:09:55.000Z",
+          "wordCount": 293,
+          "title": "Breve: Strange Brigade a la venta para Nintendo Switch"
+        },
+        {
+          "id": "46374_v1",
+          "author": null,
+          "description": "Los jugadores de Nintendo Switch interesados en expandir la campaña para un jugador de Doom Eternal ya pueden pasarse por la eShop para hacerse con The Ancient Gods, primera parte, que se vende por separado a cambio de 19,99 euros o junto al título con la Deluxe Edition. A este contenido adicional se puede jugar sin necesidad de tener una copia de Doom Eternal. The Ancient Gods, primera parte ofrece una nueva campaña que tiene como antagonista a los Maykr. Para luchar contra esta antigua raza los jugadores viajarán hasta nuevas localizaciones que van desde las cubiertas industriales… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_doom-eternal-the-ancient-gods-primera-parte-ya-disponible-para-nintendo-switch_2426259",
+          "publishedOn": "2021-06-16T08:46:15.000Z",
+          "wordCount": 344,
+          "title": "Breve: Doom Eternal - The Ancient Gods, primera parte ya disponible para Nintendo Switch"
+        },
+        {
           "id": "46372_v1",
           "author": null,
           "description": "The Medium, un juego que en consola debutó de forma exclusiva para Xbox Series (y vía Xbox Game Pass), estará disponible en PlayStation 5 el 3 de septiembre, según ha anunciado el desarrollador Bloober Team. En esa misma fecha el editor Koch Media, que tiene un acuerdo de publicación con el estudio polaco, pondrá a la venta una edición en formato físico para ambas consolas y PC, plataforma en la que el juego se despacha desde el mismo día de lanzamiento (28 de enero) mediante Steam, Windows Store y GOG. Además de una edición estándar en formato físico, los jugadores interesados en… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/the-medium-fecha-ps5",
           "publishedOn": "2021-06-15T23:52:25.000Z",
-          "wordCount": 596,
+          "wordCount": 759,
           "title": "The Medium estará disponible el 3 de septiembre en PS5 junto a una edición en formato físico"
         },
         {
@@ -207,7 +306,7 @@
           "description": "CD Projekt Red ha podido por fin responder a la pregunta de cuándo volverá Cyberpunk 2077 a la PlayStation Store. Será el lunes 21 de junio de 2021, cuando habrán pasado seis meses desde que el título fuera retirado. Sin embargo, esta vuelta a la tienda digital no significa que el juego haya dejado atrás todos sus problemas técnicos, ya que la propia Sony reconoce que en la versión estándar de PlayStation 4 el título aún debe mejorar su rendimiento y recomienda jugar en PlayStation 4 Pro y PlayStation 5. “Sony Interactive Entertainment puede confirmar que Cyberpunk 2077 volverá a… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/cyberpunk-2077-regreso-playstation-fecha",
           "publishedOn": "2021-06-15T23:14:52.000Z",
-          "wordCount": 694,
+          "wordCount": 857,
           "title": "Cyberpunk 2077 volverá a la PlayStation Store el 21 de junio, pero Sony dice que en PS4 estándar aún tiene problemas"
         },
         {
@@ -216,7 +315,7 @@
           "description": "Los jugadores de Hyrule Warriors: La era del cataclismo con el pase de expansión recibirán el 18 de junio acceso a El Latido Ancestral, según ha anunciado Nintendo. Este contenido adicional incluye un nuevo personaje (el Guardián de Batalla), nuevos tipos de arma (garras entrelazadas para Link y la moto Hyliana para Zelda), nuevos desafíos, nuevos enemigos y el nivel de dificultad Apocalipsis. En noviembre de 2021 será el turno de la segunda entrega de contenido adicional, que llegará bajo el nombre de El Guardián de los Recuerdos. Este DLC añadirá nuevas viñetas de personajes, nuevos… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_hyrule-warriors-la-era-del-cataclismo-recibira-el-contenido-el-latido-ancestral-el-18-de-junio_2426232",
           "publishedOn": "2021-06-15T21:25:57.000Z",
-          "wordCount": 315,
+          "wordCount": 319,
           "title": "Breve: Hyrule Warriors: La era del cataclismo recibirá el contenido El Latido Ancestral el 18 de junio"
         },
         {
@@ -225,7 +324,7 @@
           "description": "Nintendo ha cerrado el E3 2021 con un Direct de 40 minutos en el que han destacado dos juegos por encima del resto: la secuela de Zelda: Breath of the Wild y Metroid Dread. El protagonismo del primero requiere de poca explicación, simplemente hemos podido ver el primer gameplay de la secuela de uno de los mejores juegos de los últimos años, mientras que el segundo es la primera entrega en 2D de Metroid después de 19 años. Además, su desarrollo corre a cargo de MercurySteam, que ya trabajó en la reinvención de Metroid: Samus Returns. El lanzamiento de Zelda: Breath of the Wild 2 (o… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/resumen-nintendo-direct-e3-2021",
           "publishedOn": "2021-06-15T21:00:30.000Z",
-          "wordCount": 851,
+          "wordCount": 855,
           "title": "Resumen del Nintendo Direct E3 2021: gameplay de la secuela de Zelda: Breath of the Wild y un nuevo Metroid en 2D"
         },
         {
@@ -243,7 +342,7 @@
           "description": "Los juegos first-party han sido los protagonistas del Direct E3 2021, nadie esperaba lo contrario, pero Nintendo también ha querido mostrar el apoyo third-party con juegos nuevos o que han ganado una versión para Nintendo Switch. Entre ellos tenemos a Danganronpa Decadence, Danganronpa S: Ultimate Summer Camp, versiones de tres juegos en manos de Square Enix: Guardians of the Galaxy (en la nube), Life is Strange True Colors y Life is Strange Remastered, de parte Bandai Namco tenemos a Dragon Ball Z: Kakarot. Danganronpa Decadence es una colección que celebra el décimo aniversario de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/danganronpa-guardians-life-strange-switch",
           "publishedOn": "2021-06-15T19:50:33.000Z",
-          "wordCount": 783,
+          "wordCount": 948,
           "title": "Danganronpa, Guardians of the Galaxy, Life is Strange True Colors y Dragon Ball Z: Kakarot anunciados para Switch"
         },
         {
@@ -252,7 +351,7 @@
           "description": "Los jugadores de Nintendo Switch a los que Super Mario Party les sepa a poco, tendrán disponible una nueva entrega llamada Mario Party Superstars que estará disponible el 29 de octubre. Además de anunciar el juego junto a una fecha de lanzamiento, Nintendo ha mostrado el primer tráiler donde se puede ver una muestra de gameplay y revelado que el título incluirá los cinco tableros de la época de N64 y 100 minijuegos que pueden ser jugados en modo local y en línea. “¡Vuelve Mario Party con 5 tableros clásicos de las entregas de Nintendo 64! Ábrete paso por un escenario delicioso… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/mario-party-superstars-anunciado",
           "publishedOn": "2021-06-15T16:58:09.000Z",
-          "wordCount": 719,
+          "wordCount": 713,
           "title": "Anunciado Mario Party Superstars, una entrega con los tableros de N64, 100 minijuegos y a la venta el 29 de octubre"
         },
         {
@@ -261,7 +360,7 @@
           "description": "Después de una larga espera de dos años la secuela de The Legend of Zelda: Breath of the Wild finalmente se ha dejado ver con un primer tráiler con gameplay donde al final del mismo se indica que el título estará disponible en 2022. Como es habitual el responsable de ofrecer las noticias sobre The Legend of Zelda ha sido el productor Eiji Aonuma, que también ha recordado que The Legend of Zelda Skyward Sword HD está en camino y revelado la existencia de una Game & Watch: The Legend of Zelda. “Han pasado dos años desde que anunciamos el juego [The Legend of Zelda: Breath of the Wild… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/zelda-breath-of-the-wild-2-trailer-gameplay",
           "publishedOn": "2021-06-15T16:40:20.000Z",
-          "wordCount": 862,
+          "wordCount": 856,
           "title": "Primer tráiler con gameplay de la secuela de Zelda: Breath of the Wild, que llegará en 2022"
         },
         {
@@ -270,7 +369,7 @@
           "description": "Nintendo ha anunciado que Advance Wars y Advance Wars 2: Black Hole Rising, las dos entregas originales de la saga, estarán disponibles en Nintendo Switch mediante Advance Wars 1+2: Re-Boot Camp, una colección que los reunirá con una versión gráficamente renovada. El juego, al que ha devuelto a la vida el equipo de desarrollo WayForward, el estudio responsable de la franquicia, estará disponible el 3 de diciembre. “Reimaginado y recreado desde cero”. Así es como Nintendo describe las versiones de Advance Wars y Advance Wars 2: Black Hole Rising que llegarán a Switch. Más allá de este… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/advance-wars-originales-switch",
           "publishedOn": "2021-06-15T16:37:53.000Z",
-          "wordCount": 796,
+          "wordCount": 790,
           "title": "Advance Wars y Advance Wars 2 llegarán reconstruidos a Nintendo Switch el 3 de diciembre"
         },
         {
@@ -279,7 +378,7 @@
           "description": "Project Zero: Maiden of Black Water, el juego de terror y aventura que se puso a la venta en Wii U durante el 2014 y que en Japón se le conoce como Fatal Frame, tendrá una versión para PS4, PS5, Xbox One, Xbox Series, Nintendo Switch y PC (Steam) que estará disponible a lo largo de este año, según ha anunciado Koei Tecmo. El título se ha presentado con un primer tráiler y una lista de mejoras respecto a la versión original. Project Zero: Maiden of Black Water ofrecerá unos gráficos remasterizados para ofrecer una experiencia “aún más inmersiva y aterradora”, nuevos atuendos para las… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/fatal-frame-maiden-of-black-ater-nintendo-switch",
           "publishedOn": "2021-06-15T16:31:42.000Z",
-          "wordCount": 724,
+          "wordCount": 718,
           "title": "Project Zero: Maiden of Black Water anunciado para PlayStation, Xbox, Switch y PC"
         },
         {
@@ -288,7 +387,7 @@
           "description": "Después de una larga temporada sin saber prácticamente nada del juego, finalmente Shin Megami Tensei V para Nintendo Switch sale de entre las sombras para mostrar su primer tráiler con gameplay y revelar una fecha de lanzamiento que sitúa la llegada del juego de Atlus para el 12 de noviembre en Europa. Esta información ha estado acompañada de nuevos detalles sobre la historia, que hasta ahora estaba envuelta por el misterio. Shin Megami Tensei V tiene como protagonista a un estudiante de instituto que lleva una vida normal hasta que se adentra en un mundo llamado Da'ath, donde se… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/shin-megami-tensei-v-gameplay-fecha-switch",
           "publishedOn": "2021-06-15T16:27:40.000Z",
-          "wordCount": 751,
+          "wordCount": 745,
           "title": "Primer tráiler con gameplay de Shin Megami Tensei V, que estará disponible el 12 de noviembre para Nintendo Switch"
         },
         {
@@ -297,16 +396,16 @@
           "description": "Wario está de vuelta con un nuevo título llamado WarioWare Get It Together que estará disponible el 10 de septiembre para Switch, según ha anunciado Nintendo. El juego, del que además de fecha de lanzamiento tenemos un primer tráiler con gameplay, incluye más de 200 microjuegos que se pueden completar solos o, por primera vez en la franquicia, en compañía de un amigo en la misma consola o de manera local. El desarrollo del juego corre a cargo de Intelligent Systems, responsable de la serie WarioWare. “Disfruta de más de 200 microjuegos rápidos y divertidos que son, en esencia,… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/warioware-get-it-together-anunciado",
           "publishedOn": "2021-06-15T16:25:33.000Z",
-          "wordCount": 745,
+          "wordCount": 739,
           "title": "Nintendo anuncia WarioWare Get It Together, disponible el 10 de noviembre para Switch"
         },
         {
           "id": "46361_v1",
           "author": null,
-          "description": "Después de encontrar el éxito con Metroid: Samus Returns, una reinvención del juego para Game Boy lanzado en 1991, el equipo de desarrollo español MercurySteam merecía otra oportunidad y Nintendo se la ha dado con Metroid Dread, una nueva entrega de la saga en 2D que el 8 de octubre estará disponible en Switch. El juego se podrá adquirir en edición estándar y especial con un libro de ilustraciones de 190 páginas, y además ese mismo día se podrá adquirir un un amiibo, según ha anunciado Nintendo. Metroid Dread es la primera entrega en 2D de la saga en 19 años y según explica el… Leer noticia completa y comentarios »",
+          "description": "Después de encontrar el éxito con Metroid: Samus Returns, una reinvención del juego para Game Boy lanzado en 1991, el equipo de desarrollo español MercurySteam merecía otra oportunidad y Nintendo se la ha dado con Metroid Dread, una nueva entrega de la saga en 2D que el 8 de octubre estará disponible en Switch. El juego se podrá adquirir en edición estándar y especial con un libro de ilustraciones de 190 páginas, y además ese mismo día se podrá adquirir un amiibo, según ha anunciado Nintendo. Metroid Dread es la primera entrega en 2D de la saga en 19 años y según explica el productor… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/metroid-mercurysteam-anunciado",
           "publishedOn": "2021-06-15T16:19:19.000Z",
-          "wordCount": 791,
+          "wordCount": 784,
           "title": "Nintendo anuncia Metroid Dread, una nueva entrega en 2D desarrollada por MercurySteam"
         },
         {
@@ -315,107 +414,8 @@
           "description": "Nintendo ha anunciado que Kazuya Mishima de la franquicia Tekken propiedad de Bandai Namco será el próximo luchador en unirse al plantel de Super Smash Bros. Ultimate para Switch. Durante el Direct E3 2021 se ha presentado el nuevo contendiente con un tráiler donde también se han ofrecido los primeros detalles, pero la presentación de verdad y en profundidad a cargo de Masahiro Sakurai, director del juego, será el 28 de junio a las 16:00 hora peninsular española. En Super Smash Bros. Ultimate el personaje de Kazuya llegará acompañado de algunos de sus icónicos movimientos y golpes así… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/super-smash-bros-ultimate-kazuya",
           "publishedOn": "2021-06-15T16:09:13.000Z",
-          "wordCount": 816,
+          "wordCount": 810,
           "title": "Kazuya Mishima de Tekken se unirá a Super Smash Bros. Ultimate"
-        },
-        {
-          "id": "46356_v1",
-          "author": null,
-          "description": "Después de los primeros platos, llegan los postres. Todo el mundo guarda un rincón en el estómago para la sobrecomida y más aún cuando está la ofrece Nintendo, a cuyos dulces es muy difícil renunciar. El 2020 no fue un año fácil para la compañía japonesa. Las ventas de software y hardware no lo notaron, pero posiblemente más de uno echó en falta algún que otro juego adicional. Pues bien, el remedio a esta situación es el Nintendo Direct que se podrá ver en directo vía YouTube a partir de las 18:00 horas. Cuando anunció el evento, Nintendo se limitó a decir que la presentación que hoy… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/nintendo-direct-e3-2021-switch",
-          "publishedOn": "2021-06-15T14:38:18.000Z",
-          "wordCount": 820,
-          "title": "Directo: Nintendo Direct E3 2021 con los próximos juegos para Switch"
-        },
-        {
-          "id": "46358_v1",
-          "author": null,
-          "description": "Desde hoy y hasta el 21 de junio tenemos en marcha el ID@Xbox Summer Game Demo Fest Showcases 2021, un evento que permite a los jugadores de Xbox One y Xbox Series descargar y jugar a demos de más de 40 juegos. Los títulos que se pueden probar serán publicados más adelante mediante el programa de desarrolladores independientes ID@Xbox y algunos de los nombres más destacados son Tunic, Arietta of Spirits y Sable. Antes de probar y juzgar cualquier juego por su demo, Microsoft recuerda que estas no son demos tradicionales, sino demostraciones tempranas que en algunos son para títulos… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/id-xbox-summer-game-demo-fest-2021",
-          "publishedOn": "2021-06-15T14:17:36.000Z",
-          "wordCount": 756,
-          "title": "Xbox ofrece demos de más de 40 juegos, incluyendo Tunic, Sable y Arietta of Spirits"
-        },
-        {
-          "id": "46357_v1",
-          "author": null,
-          "description": "Hacía bastante que no teníamos noticias de Razer. Desde abril, que es casi una barbaridad para la firma. Entonces el fabricante de ordenadores y accesorios gaming nos sorprendió con la noticia de que, tras años de espera, sus portátiles llegarían finalmente a España. Ahora sabemos que próximamente se sumará un nuevo equipo a la gama inicial: es el Blade 14, recién anunciado en el E3 2021 junto a un nuevo monitor de interesantes prestaciones. El Blade 14 es un portátil relativamente compacto que destaca tanto por su delgadez como por sus prestaciones. Su pantalla de 14 pulgadas posee… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/razer-blade-14-portatil-gaming-raptor-27-monitor-precio-detalles",
-          "publishedOn": "2021-06-15T11:49:31.000Z",
-          "wordCount": 930,
-          "title": "Razer anuncia el portátil Blade 14, con CPU AMD Ryzen 9, y el monitor Raptor 27, que presume de certificación THX"
-        },
-        {
-          "id": "46355_v1",
-          "author": null,
-          "description": "Arc System Works ha anunciado que entre la distribución en formato físico y las ventas digitales Guilty Gear: Strive ha conseguido colocar más de 300.000 unidades desde su lanzamiento el 11 de junio en PS4, PS5 y PC (Steam). En Steam, Guilty Gear: Strive debutó con 31.156 jugadores concurrentes, más que Street Fighter V, Tekken 7 y Mortal Kombat 11 el día de su lanzamiento. Guilty Gear: Strive se puso a la venta con 15 luchadores (Sol Badguy, Ky Kiske, May, Axl Low, Chipp Zanuff, Potemkin, Faust, Millia Rage, Zato, Ramlethal Valentine, Leo Whitefang, Nagoriyuki, Giovanna, Anji Mito y… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_guilty-gear-strive-debuta-con-300-000-unidades-vendidas_2426144",
-          "publishedOn": "2021-06-15T10:28:45.000Z",
-          "wordCount": 666,
-          "title": "Breve: Guilty Gear: Strive debuta con 300.000 unidades vendidas"
-        },
-        {
-          "id": "46354_v1",
-          "author": null,
-          "description": "El estudio de desarrollo alemán Piranha Bytes (Gothic y Risen) ha anunciado junto a THQ Nordic que se encuentra trabajando en ELEX II, la segunda entrega de su nueva saga de rol y mundo abierto. El título ha sido presentado junto a los primeros detalles, un tráiler de corte cinematográfico sin gameplay y prometiendo un lanzamiento para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC en una fecha aún por determinar. Al igual que el juego original, ELEX II se presenta como una “experiencia clásica de rol y mundo abierto” cuya acción se mantiene en Magalan, un planeta… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/elex-ii-anunciado-trailer",
-          "publishedOn": "2021-06-15T10:18:28.000Z",
-          "wordCount": 725,
-          "title": "Piranha Bytes anuncia ELEX II, la secuela del juego de rol y mundo abierto"
-        },
-        {
-          "id": "46353_v1",
-          "author": null,
-          "description": "Capcom ha aprovechado su breve paso por el E3 2021 para hablar sobre The Great Ace Attorney Chronicles, que estará disponible el 27 de julio en formato digital para PlayStation 4, Nintendo Switch y PC (Steam) con voces y texto en inglés y japonés. En concreto, el editor japonés ha revelado mediante un vídeo las dos nuevas funciones del juego: la Danza de la deducción (Dance of Deduction) y el Examen sumarial (Summation Examination). La Danza de la deducción aparecerá en medio de una investigación para exonerar a un cliente y servirá para hacer un examen con más en detalle de la… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/great-ace-attorney-chronicles-funciones",
-          "publishedOn": "2021-06-15T09:11:34.000Z",
-          "wordCount": 776,
-          "title": "The Great Ace Attorney Chronicles detalla sus dos nuevas funciones: Danza de la deducción y Examen sumarial"
-        },
-        {
-          "id": "46352_v1",
-          "author": null,
-          "description": "Capcom ha anunciado que los jugadores de Nintendo Switch que quieran probar Monster Hunter Stories 2: Wings of Ruin antes de que salga a la venta podrán hacerlo a partir del 25 de junio con una demo. La misma versión de prueba que permitirá echar un vistazo al principio del juego estará disponible el 9 de julio para PC mediante Steam. El progreso que los jugadores consigan con la demo lo podrán trasladar al juego final si deciden comprar Monster Hunter Stories 2: Wings of Ruin. Para poder adquirir el juego en Nintendo Switch y PC tocará esperar hasta el 9 de julio. Capcom también ha… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_la-demo-de-monster-hunter-stories-2-wings-of-ruin-estara-disponible-el-25-de-junio_2426117",
-          "publishedOn": "2021-06-14T23:03:30.000Z",
-          "wordCount": 331,
-          "title": "Breve: La demo de Monster Hunter Stories 2: Wings of Ruin estará disponible el 25 de junio"
-        },
-        {
-          "id": "46351_v1",
-          "author": null,
-          "description": "El desarrollador WayForward ha anunciado tres nuevos trabajos. Por un lado tenemos River City Girls 2 y River City Girls Zero, que serán editados por Arc System Works, y por otro BloodRayne Betrayal: Fresh Bites, una remaster del hack 'n slash en 2D originalmente lanzado en 2011. El trío de juegos han sido presentados durante un evento celebrado en el marco del E3 2021 organizado por Limited Run Games, que se encargará de editar las ediciones en formato físico. La historia River City Girls 2 tiene lugar poco después de los hechos narrados en la primera entrega y vuelve a poner a los… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/wayforward-river-city-girls-bloodrayne",
-          "publishedOn": "2021-06-14T22:42:00.000Z",
-          "wordCount": 804,
-          "title": "WayForward anuncia dos nuevos River City Girls y un remaster de BloodRayne Betrayal"
-        },
-        {
-          "id": "46350_v1",
-          "author": null,
-          "description": "Capcom ha anunciado que debido a la \"demanda popular\" ha decido iniciar el desarrollo de contenido adicional para Resident Evil Village, la última entrega de la saga que se puso a la venta el pasado abril en PS4, PS5, Xbox One, Xbox Series y PC. La compañía ha anunciado esta novedad en su evento del E3 2021 y no ha ofrecido ningún detalle sobre qué pueden esperar los jugadores. Resident Evil Village ha logrado vender más de 4 millones de unidades, una cifra muy alta para un juego que lleva pocos meses a la venta. De momento los jugadores interesados en recibir más contenido deberán… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_resident-evil-village-tendra-contenido-adicional-por-demanda-popular_2426111",
-          "publishedOn": "2021-06-14T21:40:04.000Z",
-          "wordCount": 2973,
-          "title": "Breve: Resident Evil Village tendrá contenido adicional por \"demanda popular\""
-        },
-        {
-          "id": "46349_v1",
-          "author": null,
-          "description": "Everwild, una nueva propiedad intelectual que Rare presentó en 2019, fue uno de los juegos que no se dejaron ver durante el evento Xbox & Bethesda Games Showcase y parece que el motivo es un reinicio en su desarrollo, según las fuentes de Video Games Chronicle. Esta decisión se habría tomado después de que Simon Woodroffe, director creativo de Everwild, abandonase el equipo británico en octubre de 2020. Según el mencionado medio, cuando Woodroffe dejó Rare el año pasado el estudio llevó a cabo una completa revisión del diseño y la dirección del proyecto, y se aprovechó la ocasión para… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/rare-everwild-reinicio",
-          "publishedOn": "2021-06-14T21:11:04.000Z",
-          "wordCount": 716,
-          "title": "Rare habría reiniciado el desarrollo de Everwild"
-        },
-        {
-          "id": "46348_v1",
-          "author": null,
-          "description": "Después de un largo silencio finalmente FromSoftware volvió a mostrar a Elden Ring con un tráiler acompañado de una fecha de lanzamiento (21 de enero de 2022), y ahora Hidetaka Miyazaki, el director del juego, ha concedido entrevistas a IGN y Famitsu donde ha revelado nuevos detalles sobre el título. El desarrollador japonés ha abordado varios aspectos Elden Ring, incluyendo el mundo donde transcurre la historia, el sistema de combate, la dificultad y la duración de la campaña (spoiler: lo pone al final de la noticia). La acción de Elden Ring se desarrolla en un mundo que recibe el… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/elden-ring-nuevos-detalles-miyazaki",
-          "publishedOn": "2021-06-14T19:34:44.000Z",
-          "wordCount": 950,
-          "title": "Nuevos detalles de Elden Ring: áreas, sistema combate, dificultad y duración de la campaña"
         }
       ]
     },
@@ -603,24 +603,6 @@
           "publishedOn": "2021-05-19T05:41:00.000Z",
           "wordCount": 476,
           "title": "Akiba’s Trip: Hellbound & Debriefed Launches July 20 in North America, July 23 in Europe"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-7879705900456888888",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "PC – The PC footage runs in 4K resolution at 60 frames per second, but the PC version will not be capped frame rate-wise outside of your monitor’s refresh rate and hardware.\n    PlayStation 4 Pro / Xbox One X – These versions run in 1080p dynamic resolution at 60 frames per second.\n    PlayStation 4 (Base) / Xbox One (Base) – These versions run in 1080p dynamic resolution at 30 frames per second.",
-          "link": "https://www.allgamesdelta.net/2021/05/biomutant-pc-ps4-pro-xbox-one-x-ps4.html",
-          "publishedOn": "2021-05-17T19:14:00.000Z",
-          "wordCount": 115,
-          "title": "Biomutant ~ PC, PS4 Pro, Xbox One X, PS4 Base and Xbox One Base Gameplay Videos"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-6752074960104712501.post-1405083748540859644",
-          "author": "noreply@blogger.com (AllGamesDelta)",
-          "description": "Former Epic and Blizzard Veterans Join Forces to Create Lightforge Games\n Longtime Epic Games and Blizzard Entertainment developers have united to create Lightforge Games, and they're on a quest to change how RPGs are played. The team is developing a new cross-platform, social video game where players have the power to create worlds and tell stories with unprecedented freedom.\n \"We all love highly social, creative games, and we particularly love games where players drive the narrative,\" CEO Matt Schembari said. \"We are looking to combine elements from Minecraft or Roblox with tabletop RPGs to form a new way to play roleplaying games. Given our backgrounds, making a game that looks to revolutionize RPGs was an obvious choice.\"\n Lightforge recently raised $5 million with investments from Gal…",
-          "link": "https://www.allgamesdelta.net/2021/05/blizzard-and-epic-veterans-announce-new.html",
-          "publishedOn": "2021-05-17T13:20:00.000Z",
-          "wordCount": 353,
-          "title": "Blizzard and Epic Veterans Announce New RPG Studio, Lightforge Games"
         }
       ]
     }

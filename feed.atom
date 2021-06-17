@@ -2,34 +2,377 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T01:03:36.607Z</updated>
+    <updated>2021-06-17T01:01:36.879Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Airbnb is spending millions of dollars to make nightmares go away]]></title>
-        <id>https://news.ycombinator.com/item?id=27523405</id>
-        <link href="https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235"/>
-        <updated>2021-06-16T00:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235
-Comments URL: https://news.ycombinator.com/item?id=27523405
-Points: 30
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[Stripe Terminal]]></title>
+        <id>https://news.ycombinator.com/item?id=27534884</id>
+        <link href="https://stripe.com/terminal"/>
+        <updated>2021-06-17T00:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stripe.com/terminal
+Comments URL: https://news.ycombinator.com/item?id=27534884
+Points: 34
+# Comments: 14]]></summary>
         <author>
-            <name>elsewhen</name>
+            <name>dominicwhyte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fsspec: Filesystem Interfaces for Python]]></title>
-        <id>https://news.ycombinator.com/item?id=27523377</id>
-        <link href="https://filesystem-spec.readthedocs.io/en/latest/index.html#"/>
-        <updated>2021-06-16T00:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://filesystem-spec.readthedocs.io/en/latest/index.html#
-Comments URL: https://news.ycombinator.com/item?id=27523377
-Points: 18
+        <title type="html"><![CDATA[National Parks Are Overcrowded and Closing Their Gates]]></title>
+        <id>https://news.ycombinator.com/item?id=27534751</id>
+        <link href="https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002"/>
+        <updated>2021-06-16T23:42:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002
+Comments URL: https://news.ycombinator.com/item?id=27534751
+Points: 32
+# Comments: 43]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Representing SHA-256 Hashes as Avatars]]></title>
+        <id>https://news.ycombinator.com/item?id=27534379</id>
+        <link href="https://francoisbest.com/posts/2021/hashvatars"/>
+        <updated>2021-06-16T22:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://francoisbest.com/posts/2021/hashvatars
+Comments URL: https://news.ycombinator.com/item?id=27534379
+Points: 27
+# Comments: 9]]></summary>
+        <author>
+            <name>flurly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Boost Self Esteem and Stop Procrastinating]]></title>
+        <id>https://news.ycombinator.com/item?id=27533988</id>
+        <link href="https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination"/>
+        <updated>2021-06-16T22:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination
+Comments URL: https://news.ycombinator.com/item?id=27533988
+Points: 36
+# Comments: 11]]></summary>
+        <author>
+            <name>CommitLock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4-day workweek boosted workers' productivity by 40%, Microsoft Japan says]]></title>
+        <id>https://news.ycombinator.com/item?id=27533755</id>
+        <link href="https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40"/>
+        <updated>2021-06-16T21:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40
+Comments URL: https://news.ycombinator.com/item?id=27533755
+Points: 185
+# Comments: 62]]></summary>
+        <author>
+            <name>evo_9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most copied StackOverflow snippet of all time is flawed (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27533684</id>
+        <link href="https://programming.guide/worlds-most-copied-so-snippet.html"/>
+        <updated>2021-06-16T21:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
+Comments URL: https://news.ycombinator.com/item?id=27533684
+Points: 245
+# Comments: 117]]></summary>
+        <author>
+            <name>vinnyglennon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: StarQueue – a free hosted HTTP message queue with a Postgres back end]]></title>
+        <id>https://news.ycombinator.com/item?id=27533620</id>
+        <link href="https://www.starqueue.org/"/>
+        <updated>2021-06-16T21:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.starqueue.org/
+Comments URL: https://news.ycombinator.com/item?id=27533620
+Points: 11
+# Comments: 1]]></summary>
+        <author>
+            <name>andrewstuart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cortex (YC W20) Is Hiring Founding Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27533417</id>
+        <link href="https://www.workatastartup.com/jobs/29595"/>
+        <updated>2021-06-16T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/29595
+Comments URL: https://news.ycombinator.com/item?id=27533417
+Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>gilad</name>
+            <name>anishdhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source HIPAA compliance benchmark for AWS]]></title>
+        <id>https://news.ycombinator.com/item?id=27533347</id>
+        <link href="https://github.com/turbot/steampipe-mod-aws-compliance"/>
+        <updated>2021-06-16T20:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/turbot/steampipe-mod-aws-compliance
+Comments URL: https://news.ycombinator.com/item?id=27533347
+Points: 24
+# Comments: 3]]></summary>
+        <author>
+            <name>dboeke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to track users for analytics in a privacy-first, cookie-less future]]></title>
+        <id>https://news.ycombinator.com/item?id=27533299</id>
+        <link href="https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/"/>
+        <updated>2021-06-16T20:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/
+Comments URL: https://news.ycombinator.com/item?id=27533299
+Points: 44
+# Comments: 35]]></summary>
+        <author>
+            <name>mattjstar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F1 2021 revela sus características en un nuevo tráiler]]></title>
+        <id>46383_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/f1-2021-trailer-caracteristicas"/>
+        <updated>2021-06-16T19:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Cuando queda justo un mes para el lanzamiento de F1 2021, Codemasters ha mostrado un nuevo tráiler del juego destinado a mostrar las características principales del título. Si nada se complica F1 2021 estará disponible el 16 de julio, la misma semana en la que se celebra el Gran Premio de Gran Bretaña en el Circuito de Silverstone, con versión para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam). El modo historia de F1 2021 se llama Braking Point y también es una de las novedades que presenta esta edición. La campaña permitirá a los jugadores ponerse en la piel de un… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayfinder – a relaxing 'art game' in the browser]]></title>
+        <id>https://news.ycombinator.com/item?id=27532068</id>
+        <link href="https://wayfinder.nfb.ca/"/>
+        <updated>2021-06-16T18:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
+Comments URL: https://news.ycombinator.com/item?id=27532068
+Points: 349
+# Comments: 62]]></summary>
+        <author>
+            <name>vnglst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-downtime schema migrations in Postgres using views]]></title>
+        <id>https://news.ycombinator.com/item?id=27531934</id>
+        <link href="https://fabianlindfors.se/blog/schema-migrations-in-postgres/"/>
+        <updated>2021-06-16T18:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fabianlindfors.se/blog/schema-migrations-in-postgres/
+Comments URL: https://news.ycombinator.com/item?id=27531934
+Points: 97
+# Comments: 40]]></summary>
+        <author>
+            <name>fabianlindfors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empieza el Steam Next Fest con cientos de demos disponibles hasta el 22 de junio]]></title>
+        <id>46382_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/steam-next-fest-2021-demos"/>
+        <updated>2021-06-16T17:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Valve ha puesto en marcha el Steam Next Fest, un evento que desde hoy y hasta el 22 de junio permite a los jugadores de PC probar de forma gratuita las demos de más de 700 juegos que están o estarán disponibles en la tienda digital. Faltarán horas echar un vistazo a solo una parte de los títulos. Además de demos, durante el evento los desarrolladores participarán de transmisiones en directo y charlas para hablar sobre los proyectos que tienen en marcha. “Con tantos juegos increíbles para elegir, puede ser difícil saber por dónde empezar”, reconoce Valve. Para ayudar a los jugadores a… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids need freedom, too]]></title>
+        <id>https://news.ycombinator.com/item?id=27530365</id>
+        <link href="https://www.persuasion.community/p/kids-need-freedom-too"/>
+        <updated>2021-06-16T16:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/kids-need-freedom-too
+Comments URL: https://news.ycombinator.com/item?id=27530365
+Points: 244
+# Comments: 237]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Blaster Master Zero y Blaster Master Zero II llegan en julio a Xbox One y Xbox Series]]></title>
+        <id>46381_v1</id>
+        <link href="https://www.elotrolado.net/hilo_blaster-master-zero-y-blaster-master-zero-ii-llegan-en-julio-a-xbox-one-y-xbox-series_2426295"/>
+        <updated>2021-06-16T16:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Inti Creates ha comunicado que Blaster Master Zero para Xbox One y Xbox Series estará disponible el 1 de julio, mientras que Blaster Master Zero II debutará en las mismas consolas el 15 de julio. Los juegos se venderán de forma individual por 9,99 euros cada uno. Blaster Master Zero es un juego de acción y exploración realizado en estilo de 8 bits con perspectiva vertical y lateral que se basa en el título del mismo nombre que se lanzó en 1988 para NES. Por su parte, Blaster Master Zero 2 sigue la historia de la primera entrega pero la acción se traslada al planeta Sophia. Ambos… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Execute Docker Containers as QEMU MicroVMs]]></title>
+        <id>https://news.ycombinator.com/item?id=27530074</id>
+        <link href="https://mergeboard.com/blog/2-qemu-microvm-docker/"/>
+        <updated>2021-06-16T16:05:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/
+Comments URL: https://news.ycombinator.com/item?id=27530074
+Points: 134
+# Comments: 56]]></summary>
+        <author>
+            <name>DarkPlayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: The Elder Scrolls Online recibe la actualización para PS5 y Xbox Series]]></title>
+        <id>46380_v1</id>
+        <link href="https://www.elotrolado.net/hilo_the-elder-scrolls-online-recibe-la-actualizacion-para-ps5-y-xbox-series_2426294"/>
+        <updated>2021-06-16T15:58:16.000Z</updated>
+        <summary type="html"><![CDATA[Una semana después de Blackwood, los jugadores de The Elder Scrolls Online que tengan una copia del juego para PS4 y Xbox One reciben una actualización gratuita que aprovecha las prestaciones de PlayStation 5 y Xbox Series. The Elder Scrolls Online: Versión Mejorada para Consolas, así de descriptiva ha sido bautizada esta versión, incluye las siguientes mejoras: Personalización visual: modo de rendimiento para jugar a 60 FPS y modo fidelidad para 4K nativos y 30 FPS. En Xbox Series S son 1440p a 30 FPS Mayor distancia de dibujado: la distancia de dibujado del juego casi se ha… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness]]></title>
+        <id>https://news.ycombinator.com/item?id=27529768</id>
+        <link href="https://eprint.iacr.org/2021/819"/>
+        <updated>2021-06-16T15:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
+Comments URL: https://news.ycombinator.com/item?id=27529768
+Points: 377
+# Comments: 79]]></summary>
+        <author>
+            <name>anonymfus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bear plus snowflake equals polar bear]]></title>
+        <id>https://news.ycombinator.com/item?id=27529697</id>
+        <link href="https://andysalerno.com/posts/weird-emojis/"/>
+        <updated>2021-06-16T15:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://andysalerno.com/posts/weird-emojis/
+Comments URL: https://news.ycombinator.com/item?id=27529697
+Points: 155
+# Comments: 37]]></summary>
+        <author>
+            <name>soopurman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you think psychological science is bad, imagine how bad it was in 1999]]></title>
+        <id>https://news.ycombinator.com/item?id=27529119</id>
+        <link href="https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/"/>
+        <updated>2021-06-16T14:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/
+Comments URL: https://news.ycombinator.com/item?id=27529119
+Points: 249
+# Comments: 196]]></summary>
+        <author>
+            <name>ruaraidh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does one get hired by a top cybercrime gang?]]></title>
+        <id>https://news.ycombinator.com/item?id=27529049</id>
+        <link href="https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/"/>
+        <updated>2021-06-16T14:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/
+Comments URL: https://news.ycombinator.com/item?id=27529049
+Points: 183
+# Comments: 104]]></summary>
+        <author>
+            <name>wyldfire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA Online cerrará los servidores de PlayStation 3 y Xbox 360 el 16 de diciembre]]></title>
+        <id>46379_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/gta-online-desconexion-ps3-xbox-360"/>
+        <updated>2021-06-16T14:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Rockstar Games ha anunciado su intención de desconectar los servidores de Grand Theft Auto Online para PlayStation 3 y Xbox 360 el 16 de diciembre. Para entonces habrán pasado poco más de ocho años desde que el juego se pusiera a disposición de todos los propietarios de una copia de Grand Theft Auto V, un título originalmente desarrollado para las dos mencionadas consolas. Por otro lado, los servicios online de L.A. Noire y Max Payne 3 para PS3 y Xbox 360 sufrirán una desconexión el 16 de septiembre. “Mientras seguimos adelante con actualizaciones y asistencia para las versiones de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Svix (YC W21) – Webhooks as a Service]]></title>
+        <id>https://news.ycombinator.com/item?id=27528202</id>
+        <link href="https://news.ycombinator.com/item?id=27528202"/>
+        <updated>2021-06-16T13:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Tom, and I'm the founder of Svix (https://www.svix.com) - previously known as Diahook. Svix makes it easy for developers to send webhooks from their service using a simple API. Think Twilio or SendGrid but for webhooks.
+Webhooks are how servers notify each other of events, so they are a key component of many APIs such as Stripe, Shopify, Slack, Dropbox and Github.
+They look easy to implement (just a POST request), but they come with a variety of challenges. For example, customer endpoints fail or hang much more often than you would think, so you would need to implement retries. You need to make sure such failures don't clog your send queue or the rest of your system. The webhook system is an additional system separate from your normal web server that needs to be sc…]]></summary>
+        <author>
+            <name>tasn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's iCloud+ “VPN”]]></title>
+        <id>https://news.ycombinator.com/item?id=27527559</id>
+        <link href="https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html"/>
+        <updated>2021-06-16T12:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
+Comments URL: https://news.ycombinator.com/item?id=27527559
+Points: 801
+# Comments: 343]]></summary>
+        <author>
+            <name>n1000</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft llevará los juegos de Xbox Series a Xbox One mediante xCloud]]></title>
+        <id>46378_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/xbox-series-one-xcloud"/>
+        <updated>2021-06-16T11:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Una vez pasada la vorágine de novedades que nos dejó el evento Xbox & Bethesda Games Showcase, alguien ha leído al completo el resumen que Microsoft publicó en su blog oficial y con ello ha descubierto un detalle no menor que sin embargo pasó desapercibido: Xbox One tendrá soporte para Xbox Cloud Gaming (xCloud). Gracias a ello la veterana consola servirá para jugar en la nube a títulos de nueva generación que han sido desarrollados para Xbox Series. “Nos entusiasma ver a los desarrolladores hacer realidad sus visiones en formas que solo la nueva generación de hardware les permite… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Astria Ascending estará disponible el 30 de septiembre]]></title>
+        <id>46377_v1</id>
+        <link href="https://www.elotrolado.net/hilo_astria-ascending-estara-disponible-el-30-de-septiembre_2426265"/>
+        <updated>2021-06-16T10:20:03.000Z</updated>
+        <summary type="html"><![CDATA[El JRPG Astria Ascending se pondrá a la venta el 30 de septiembre con versión para PS4, PS4, Xbox One, Xbox Series, Nintendo Switch y PC (Steam, Epic Games Store), según han anunciado el editor Dear Villagers y el desarrollador Artisan Studios. El título ha revelado su fecha de lanzamiento junto a un tráiler con gameplay donde también se presentan algunos de sus protagonistas. Astria Ascending es un JRPG con combates por turnos que promete más de 50 horas de juego en una aventura que se desarrolla en el mundo de Orcanon, donde además de cinco grandes ciudades tenemos más de 20… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 se filtra a escasos días de su presentación oficial]]></title>
+        <id>46373_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/windows-11-filtrado-capturas"/>
+        <updated>2021-06-16T09:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Hace algunas semanas Satya Nadella daba a entender que el próximo capítulo en la historia de Windows estaba a la vuelta de la esquina. Lo que el CEO de Microsoft no dejaba claro es si estaba hablando de una gran actualización para Windows 10 o de una nueva iteración de su sistema operativo. Bien, ya no hace falta esperar al evento especial que tendrá lugar a finales de mes. Windows 11 está en camino, y lo sabemos porque una build ya flota en Internet. Tras una pequeña filtración de capturas, varios sitios especializados como The Verge y Windows Central han podido poner sus manos en… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Judgment alcanza el millón de unidades vendidas]]></title>
+        <id>46376_v1</id>
+        <link href="https://www.elotrolado.net/hilo_judgment-alcanza-el-millon-de-unidades-vendidas_2426261"/>
+        <updated>2021-06-16T09:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Sega y Ryu Ga Gotoku Studio han comunicado vía Twitter que Judgment, un spin-off de la franquicia Yakuza, ya ha conseguido colocar un millón de unidades entre las copias vendidas en formato digital y las distribuidas en formato físico. Esta cifra se alcanza poco después de que el juego, originalmente desarrollado para PS4, se pusiera a la venta en PS5, Xbox One y Stadia. La saga Judgment seguirá adelante el 24 de septiembre con el lanzamiento de Lost Judgment, una secuela en la que el detective privado Takayuki Yagami se verá envuelto en un misterio después de que Akihiro Ehara sea… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Strange Brigade a la venta para Nintendo Switch]]></title>
+        <id>46375_v1</id>
+        <link href="https://www.elotrolado.net/hilo_strange-brigade-a-la-venta-para-nintendo-switch_2426260"/>
+        <updated>2021-06-16T09:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Rebellion ha anunciado que Strange Brigade, un shooter cooperativo (local y online) en tercera persona para un máximo de cuatro participantes, ya se encuentra disponible para Nintendo Switch mediante la eShop a cambio de 29,99 euros. El título se ejecuta a 30 FPS y resolución dinámica (1080p en TV y 720p en portátil). Strange Brigade ofrece una campaña ambientada en Egipto durante 1930 que tiene como antagonista a Seteki, la Reina Bruja, que vuelve a la vida después de 4.000 años enterrada en una tumba sin nombre. El título de Rebellion llega acompañado de un pase de temporada que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Doom Eternal - The Ancient Gods, primera parte ya disponible para Nintendo Switch]]></title>
+        <id>46374_v1</id>
+        <link href="https://www.elotrolado.net/hilo_doom-eternal-the-ancient-gods-primera-parte-ya-disponible-para-nintendo-switch_2426259"/>
+        <updated>2021-06-16T08:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Los jugadores de Nintendo Switch interesados en expandir la campaña para un jugador de Doom Eternal ya pueden pasarse por la eShop para hacerse con The Ancient Gods, primera parte, que se vende por separado a cambio de 19,99 euros o junto al título con la Deluxe Edition. A este contenido adicional se puede jugar sin necesidad de tener una copia de Doom Eternal. The Ancient Gods, primera parte ofrece una nueva campaña que tiene como antagonista a los Maykr. Para luchar contra esta antigua raza los jugadores viajarán hasta nuevas localizaciones que van desde las cubiertas industriales… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -53,45 +396,6 @@ Points: 18
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senate Unanimously Approves a Bill to Make Juneteenth a Public Holiday]]></title>
-        <id>https://news.ycombinator.com/item?id=27522427</id>
-        <link href="https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday"/>
-        <updated>2021-06-15T22:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday
-Comments URL: https://news.ycombinator.com/item?id=27522427
-Points: 266
-# Comments: 210]]></summary>
-        <author>
-            <name>erehweb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC for 700 HTTP Status Codes]]></title>
-        <id>https://news.ycombinator.com/item?id=27522353</id>
-        <link href="https://github.com/joho/7XX-rfc"/>
-        <updated>2021-06-15T22:25:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/joho/7XX-rfc
-Comments URL: https://news.ycombinator.com/item?id=27522353
-Points: 194
-# Comments: 54]]></summary>
-        <author>
-            <name>kaeruct</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lina Khan, Big Tech Critic, Will Lead the FTC]]></title>
-        <id>https://news.ycombinator.com/item?id=27521826</id>
-        <link href="https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc"/>
-        <updated>2021-06-15T21:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc
-Comments URL: https://news.ycombinator.com/item?id=27521826
-Points: 65
-# Comments: 26]]></summary>
-        <author>
-            <name>tomdell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: Hyrule Warriors: La era del cataclismo recibirá el contenido El Latido Ancestral el 18 de junio]]></title>
         <id>46370_v1</id>
         <link href="https://www.elotrolado.net/hilo_hyrule-warriors-la-era-del-cataclismo-recibira-el-contenido-el-latido-ancestral-el-18-de-junio_2426232"/>
@@ -112,58 +416,6 @@ Points: 65
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA]]></title>
-        <id>https://news.ycombinator.com/item?id=27521426</id>
-        <link href="https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5"/>
-        <updated>2021-06-15T21:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5
-Comments URL: https://news.ycombinator.com/item?id=27521426
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>ankitvgupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Influence, a Go-inspired 1-minute board game]]></title>
-        <id>https://news.ycombinator.com/item?id=27520884</id>
-        <link href="http://cintrest.com/influence/"/>
-        <updated>2021-06-15T20:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://cintrest.com/influence/
-Comments URL: https://news.ycombinator.com/item?id=27520884
-Points: 139
-# Comments: 46]]></summary>
-        <author>
-            <name>jawslouis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Johnny Knoxville’s Last Rodeo]]></title>
-        <id>https://news.ycombinator.com/item?id=27520806</id>
-        <link href="https://www.gq.com/story/johnny-knoxvilles-last-rodeo/"/>
-        <updated>2021-06-15T20:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gq.com/story/johnny-knoxvilles-last-rodeo/
-Comments URL: https://news.ycombinator.com/item?id=27520806
-Points: 96
-# Comments: 60]]></summary>
-        <author>
-            <name>spunker540</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A pencil sharpener that creates a never-ending pencil (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27520795</id>
-        <link href="https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/"/>
-        <updated>2021-06-15T20:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/
-Comments URL: https://news.ycombinator.com/item?id=27520795
-Points: 55
-# Comments: 15]]></summary>
-        <author>
-            <name>wholeness</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sega anuncia Super Monkey Ball Banana Mania, que incluye la remasterización de las tres primeras entregas de la saga]]></title>
         <id>46368_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/super-monkey-ball-banana-mania-anunciado"/>
@@ -181,45 +433,6 @@ Points: 55
         <summary type="html"><![CDATA[Los juegos first-party han sido los protagonistas del Direct E3 2021, nadie esperaba lo contrario, pero Nintendo también ha querido mostrar el apoyo third-party con juegos nuevos o que han ganado una versión para Nintendo Switch. Entre ellos tenemos a Danganronpa Decadence, Danganronpa S: Ultimate Summer Camp, versiones de tres juegos en manos de Square Enix: Guardians of the Galaxy (en la nube), Life is Strange True Colors y Life is Strange Remastered, de parte Bandai Namco tenemos a Dragon Ball Z: Kakarot. Danganronpa Decadence es una colección que celebra el décimo aniversario de… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’re no longer naming suspects in minor crime stories]]></title>
-        <id>https://news.ycombinator.com/item?id=27520496</id>
-        <link href="https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories"/>
-        <updated>2021-06-15T19:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories
-Comments URL: https://news.ycombinator.com/item?id=27520496
-Points: 183
-# Comments: 82]]></summary>
-        <author>
-            <name>anigbrowl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=27520016</id>
-        <link href="https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/"/>
-        <updated>2021-06-15T19:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/
-Comments URL: https://news.ycombinator.com/item?id=27520016
-Points: 62
-# Comments: 18]]></summary>
-        <author>
-            <name>pmoriarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Comments in Code]]></title>
-        <id>https://news.ycombinator.com/item?id=27519445</id>
-        <link href="https://henrikwarne.com/2021/06/15/on-comments-in-code/"/>
-        <updated>2021-06-15T18:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://henrikwarne.com/2021/06/15/on-comments-in-code/
-Comments URL: https://news.ycombinator.com/item?id=27519445
-Points: 96
-# Comments: 134]]></summary>
-        <author>
-            <name>nikbackm</name>
         </author>
     </entry>
     <entry>
@@ -287,35 +500,9 @@ Points: 96
         <id>46361_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/metroid-mercurysteam-anunciado"/>
         <updated>2021-06-15T16:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Después de encontrar el éxito con Metroid: Samus Returns, una reinvención del juego para Game Boy lanzado en 1991, el equipo de desarrollo español MercurySteam merecía otra oportunidad y Nintendo se la ha dado con Metroid Dread, una nueva entrega de la saga en 2D que el 8 de octubre estará disponible en Switch. El juego se podrá adquirir en edición estándar y especial con un libro de ilustraciones de 190 páginas, y además ese mismo día se podrá adquirir un un amiibo, según ha anunciado Nintendo. Metroid Dread es la primera entrega en 2D de la saga en 19 años y según explica el… Leer noticia completa y comentarios »]]></summary>
+        <summary type="html"><![CDATA[Después de encontrar el éxito con Metroid: Samus Returns, una reinvención del juego para Game Boy lanzado en 1991, el equipo de desarrollo español MercurySteam merecía otra oportunidad y Nintendo se la ha dado con Metroid Dread, una nueva entrega de la saga en 2D que el 8 de octubre estará disponible en Switch. El juego se podrá adquirir en edición estándar y especial con un libro de ilustraciones de 190 páginas, y además ese mismo día se podrá adquirir un amiibo, según ha anunciado Nintendo. Metroid Dread es la primera entrega en 2D de la saga en 19 años y según explica el productor… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do I opt my access point out of Google Location services?]]></title>
-        <id>https://news.ycombinator.com/item?id=27517547</id>
-        <link href="https://support.google.com/maps/answer/1725632#how_opt_out&amp;zippy="/>
-        <updated>2021-06-15T16:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://support.google.com/maps/answer/1725632#how_opt_out&zippy=
-Comments URL: https://news.ycombinator.com/item?id=27517547
-Points: 358
-# Comments: 249]]></summary>
-        <author>
-            <name>client4</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't just shorten your URL, make it suspicious and frightening (2010)]]></title>
-        <id>https://news.ycombinator.com/item?id=27517524</id>
-        <link href="http://shadyurl.com/create.php"/>
-        <updated>2021-06-15T16:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://shadyurl.com/create.php
-Comments URL: https://news.ycombinator.com/item?id=27517524
-Points: 186
-# Comments: 24]]></summary>
-        <author>
-            <name>client4</name>
         </author>
     </entry>
     <entry>
@@ -324,193 +511,6 @@ Points: 186
         <link href="https://www.elotrolado.net/noticias/juegos/super-smash-bros-ultimate-kazuya"/>
         <updated>2021-06-15T16:09:13.000Z</updated>
         <summary type="html"><![CDATA[Nintendo ha anunciado que Kazuya Mishima de la franquicia Tekken propiedad de Bandai Namco será el próximo luchador en unirse al plantel de Super Smash Bros. Ultimate para Switch. Durante el Direct E3 2021 se ha presentado el nuevo contendiente con un tráiler donde también se han ofrecido los primeros detalles, pero la presentación de verdad y en profundidad a cargo de Masahiro Sakurai, director del juego, será el 28 de junio a las 16:00 hora peninsular española. En Super Smash Bros. Ultimate el personaje de Kazuya llegará acompañado de algunos de sus icónicos movimientos y golpes así… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIH study offers new evidence of early SARS-CoV-2 infections in U.S.]]></title>
-        <id>https://news.ycombinator.com/item?id=27516977</id>
-        <link href="https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us"/>
-        <updated>2021-06-15T15:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us
-Comments URL: https://news.ycombinator.com/item?id=27516977
-Points: 124
-# Comments: 227]]></summary>
-        <author>
-            <name>infodocket</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utopia, a visual design tool for React, with code as the source of truth]]></title>
-        <id>https://news.ycombinator.com/item?id=27516212</id>
-        <link href="https://utopia.app/"/>
-        <updated>2021-06-15T14:42:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://utopia.app/
-Comments URL: https://news.ycombinator.com/item?id=27516212
-Points: 223
-# Comments: 66]]></summary>
-        <author>
-            <name>rheeseyb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Directo: Nintendo Direct E3 2021 con los próximos juegos para Switch]]></title>
-        <id>46356_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/nintendo-direct-e3-2021-switch"/>
-        <updated>2021-06-15T14:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Después de los primeros platos, llegan los postres. Todo el mundo guarda un rincón en el estómago para la sobrecomida y más aún cuando está la ofrece Nintendo, a cuyos dulces es muy difícil renunciar. El 2020 no fue un año fácil para la compañía japonesa. Las ventas de software y hardware no lo notaron, pero posiblemente más de uno echó en falta algún que otro juego adicional. Pues bien, el remedio a esta situación es el Nintendo Direct que se podrá ver en directo vía YouTube a partir de las 18:00 horas. Cuando anunció el evento, Nintendo se limitó a decir que la presentación que hoy… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emacs Love Tale by sdp]]></title>
-        <id>https://news.ycombinator.com/item?id=27516073</id>
-        <link href="https://emacs.love/tales/emacs-love-tale-by-sdp.html"/>
-        <updated>2021-06-15T14:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html
-Comments URL: https://news.ycombinator.com/item?id=27516073
-Points: 194
-# Comments: 64]]></summary>
-        <author>
-            <name>SuperNinKenDo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox ofrece demos de más de 40 juegos, incluyendo Tunic, Sable y Arietta of Spirits]]></title>
-        <id>46358_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/id-xbox-summer-game-demo-fest-2021"/>
-        <updated>2021-06-15T14:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Desde hoy y hasta el 21 de junio tenemos en marcha el ID@Xbox Summer Game Demo Fest Showcases 2021, un evento que permite a los jugadores de Xbox One y Xbox Series descargar y jugar a demos de más de 40 juegos. Los títulos que se pueden probar serán publicados más adelante mediante el programa de desarrolladores independientes ID@Xbox y algunos de los nombres más destacados son Tunic, Arietta of Spirits y Sable. Antes de probar y juzgar cualquier juego por su demo, Microsoft recuerda que estas no son demos tradicionales, sino demostraciones tempranas que en algunos son para títulos… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finish Your Stuff (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27515645</id>
-        <link href="https://250bpm.com/blog:50/"/>
-        <updated>2021-06-15T14:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
-Comments URL: https://news.ycombinator.com/item?id=27515645
-Points: 139
-# Comments: 56]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical entities targeted in suspected Chinese cyber spying]]></title>
-        <id>https://news.ycombinator.com/item?id=27515615</id>
-        <link href="https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9"/>
-        <updated>2021-06-15T13:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9
-Comments URL: https://news.ycombinator.com/item?id=27515615
-Points: 88
-# Comments: 23]]></summary>
-        <author>
-            <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Axolo (YC W21) – Faster pull requests and code reviews]]></title>
-        <id>https://news.ycombinator.com/item?id=27515468</id>
-        <link href="https://news.ycombinator.com/item?id=27515468"/>
-        <updated>2021-06-15T13:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN!
-We’re Arthur and Sydney (cosydney). We’re building Axolo (https://axolo.co) a bidirectional Github-Slack integration to help tech teams reduce pull request time and improve code review’s feedback.
-Sydney and I met in 42, a software engineering school in Paris, and started working together on different tech projects last year. While working on our last business, a SaaS management platform for SMEs, we were in a squad of 4 to 5 people and often found ourselves writing direct messages in Slack about pull requests. We were telling each other things like ‘Hey Arthur, I’ve updated my last pull request feature/zoom_integration, do you have time to check it out soon?’ or “it’s been two days, do you have time to review feature/user_settings today, here is the link: github/axolo-co/api.axolo.…]]></summary>
-        <author>
-            <name>arthurcoudouy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer anuncia el portátil Blade 14, con CPU AMD Ryzen 9, y el monitor Raptor 27, que presume de certificación THX]]></title>
-        <id>46357_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/razer-blade-14-portatil-gaming-raptor-27-monitor-precio-detalles"/>
-        <updated>2021-06-15T11:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Hacía bastante que no teníamos noticias de Razer. Desde abril, que es casi una barbaridad para la firma. Entonces el fabricante de ordenadores y accesorios gaming nos sorprendió con la noticia de que, tras años de espera, sus portátiles llegarían finalmente a España. Ahora sabemos que próximamente se sumará un nuevo equipo a la gama inicial: es el Blade 14, recién anunciado en el E3 2021 junto a un nuevo monitor de interesantes prestaciones. El Blade 14 es un portátil relativamente compacto que destaca tanto por su delgadez como por sus prestaciones. Su pantalla de 14 pulgadas posee… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Guilty Gear: Strive debuta con 300.000 unidades vendidas]]></title>
-        <id>46355_v1</id>
-        <link href="https://www.elotrolado.net/hilo_guilty-gear-strive-debuta-con-300-000-unidades-vendidas_2426144"/>
-        <updated>2021-06-15T10:28:45.000Z</updated>
-        <summary type="html"><![CDATA[Arc System Works ha anunciado que entre la distribución en formato físico y las ventas digitales Guilty Gear: Strive ha conseguido colocar más de 300.000 unidades desde su lanzamiento el 11 de junio en PS4, PS5 y PC (Steam). En Steam, Guilty Gear: Strive debutó con 31.156 jugadores concurrentes, más que Street Fighter V, Tekken 7 y Mortal Kombat 11 el día de su lanzamiento. Guilty Gear: Strive se puso a la venta con 15 luchadores (Sol Badguy, Ky Kiske, May, Axl Low, Chipp Zanuff, Potemkin, Faust, Millia Rage, Zato, Ramlethal Valentine, Leo Whitefang, Nagoriyuki, Giovanna, Anji Mito y… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piranha Bytes anuncia ELEX II, la secuela del juego de rol y mundo abierto]]></title>
-        <id>46354_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/elex-ii-anunciado-trailer"/>
-        <updated>2021-06-15T10:18:28.000Z</updated>
-        <summary type="html"><![CDATA[El estudio de desarrollo alemán Piranha Bytes (Gothic y Risen) ha anunciado junto a THQ Nordic que se encuentra trabajando en ELEX II, la segunda entrega de su nueva saga de rol y mundo abierto. El título ha sido presentado junto a los primeros detalles, un tráiler de corte cinematográfico sin gameplay y prometiendo un lanzamiento para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC en una fecha aún por determinar. Al igual que el juego original, ELEX II se presenta como una “experiencia clásica de rol y mundo abierto” cuya acción se mantiene en Magalan, un planeta… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Great Ace Attorney Chronicles detalla sus dos nuevas funciones: Danza de la deducción y Examen sumarial]]></title>
-        <id>46353_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/great-ace-attorney-chronicles-funciones"/>
-        <updated>2021-06-15T09:11:34.000Z</updated>
-        <summary type="html"><![CDATA[Capcom ha aprovechado su breve paso por el E3 2021 para hablar sobre The Great Ace Attorney Chronicles, que estará disponible el 27 de julio en formato digital para PlayStation 4, Nintendo Switch y PC (Steam) con voces y texto en inglés y japonés. En concreto, el editor japonés ha revelado mediante un vídeo las dos nuevas funciones del juego: la Danza de la deducción (Dance of Deduction) y el Examen sumarial (Summation Examination). La Danza de la deducción aparecerá en medio de una investigación para exonerar a un cliente y servirá para hacer un examen con más en detalle de la… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: La demo de Monster Hunter Stories 2: Wings of Ruin estará disponible el 25 de junio]]></title>
-        <id>46352_v1</id>
-        <link href="https://www.elotrolado.net/hilo_la-demo-de-monster-hunter-stories-2-wings-of-ruin-estara-disponible-el-25-de-junio_2426117"/>
-        <updated>2021-06-14T23:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Capcom ha anunciado que los jugadores de Nintendo Switch que quieran probar Monster Hunter Stories 2: Wings of Ruin antes de que salga a la venta podrán hacerlo a partir del 25 de junio con una demo. La misma versión de prueba que permitirá echar un vistazo al principio del juego estará disponible el 9 de julio para PC mediante Steam. El progreso que los jugadores consigan con la demo lo podrán trasladar al juego final si deciden comprar Monster Hunter Stories 2: Wings of Ruin. Para poder adquirir el juego en Nintendo Switch y PC tocará esperar hasta el 9 de julio. Capcom también ha… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WayForward anuncia dos nuevos River City Girls y un remaster de BloodRayne Betrayal]]></title>
-        <id>46351_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/wayforward-river-city-girls-bloodrayne"/>
-        <updated>2021-06-14T22:42:00.000Z</updated>
-        <summary type="html"><![CDATA[El desarrollador WayForward ha anunciado tres nuevos trabajos. Por un lado tenemos River City Girls 2 y River City Girls Zero, que serán editados por Arc System Works, y por otro BloodRayne Betrayal: Fresh Bites, una remaster del hack 'n slash en 2D originalmente lanzado en 2011. El trío de juegos han sido presentados durante un evento celebrado en el marco del E3 2021 organizado por Limited Run Games, que se encargará de editar las ediciones en formato físico. La historia River City Girls 2 tiene lugar poco después de los hechos narrados en la primera entrega y vuelve a poner a los… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Resident Evil Village tendrá contenido adicional por "demanda popular"]]></title>
-        <id>46350_v1</id>
-        <link href="https://www.elotrolado.net/hilo_resident-evil-village-tendra-contenido-adicional-por-demanda-popular_2426111"/>
-        <updated>2021-06-14T21:40:04.000Z</updated>
-        <summary type="html"><![CDATA[Capcom ha anunciado que debido a la "demanda popular" ha decido iniciar el desarrollo de contenido adicional para Resident Evil Village, la última entrega de la saga que se puso a la venta el pasado abril en PS4, PS5, Xbox One, Xbox Series y PC. La compañía ha anunciado esta novedad en su evento del E3 2021 y no ha ofrecido ningún detalle sobre qué pueden esperar los jugadores. Resident Evil Village ha logrado vender más de 4 millones de unidades, una cifra muy alta para un juego que lleva pocos meses a la venta. De momento los jugadores interesados en recibir más contenido deberán… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare habría reiniciado el desarrollo de Everwild]]></title>
-        <id>46349_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/rare-everwild-reinicio"/>
-        <updated>2021-06-14T21:11:04.000Z</updated>
-        <summary type="html"><![CDATA[Everwild, una nueva propiedad intelectual que Rare presentó en 2019, fue uno de los juegos que no se dejaron ver durante el evento Xbox & Bethesda Games Showcase y parece que el motivo es un reinicio en su desarrollo, según las fuentes de Video Games Chronicle. Esta decisión se habría tomado después de que Simon Woodroffe, director creativo de Everwild, abandonase el equipo británico en octubre de 2020. Según el mencionado medio, cuando Woodroffe dejó Rare el año pasado el estudio llevó a cabo una completa revisión del diseño y la dirección del proyecto, y se aprovechó la ocasión para… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuevos detalles de Elden Ring: áreas, sistema combate, dificultad y duración de la campaña]]></title>
-        <id>46348_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/elden-ring-nuevos-detalles-miyazaki"/>
-        <updated>2021-06-14T19:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Después de un largo silencio finalmente FromSoftware volvió a mostrar a Elden Ring con un tráiler acompañado de una fecha de lanzamiento (21 de enero de 2022), y ahora Hidetaka Miyazaki, el director del juego, ha concedido entrevistas a IGN y Famitsu donde ha revelado nuevos detalles sobre el título. El desarrollador japonés ha abordado varios aspectos Elden Ring, incluyendo el mundo donde transcurre la historia, el sistema de combate, la dificultad y la duración de la campaña (spoiler: lo pone al final de la noticia). La acción de Elden Ring se desarrolla en un mundo que recibe el… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
@@ -785,31 +785,6 @@ Sydney and I met in 42, a software engineering school in Paris, and started work
         <updated>2021-05-19T05:41:00.000Z</updated>
         <summary type="html"><![CDATA[XSEED Games to Launch Akiba’s Trip: Hellbound & Debriefed in North America on July 20
  XSEED Games, the independent-minded publishing brand of Marvelous USA, today announced that Akiba’s Trip: Hellbound & Debriefed, will be launching in North America on July 20 for the Nintendo Switch, PlayStation 4, and Windows PC via Steam, GoG and The Humble Store by Humble Bundle. The “debriefing action RPG” where players must expose vampires to the sun, arrives with a physical Day 1 ‘10th Anniversary Edition’ currently available for pre-order for the PS4 system and Nintendo Switch on the XSEED Games Store and participating retailers for a MSRP $49.99. The base game will be available digitally on all three platforms for $39.99,  while digital deluxe editions are also available on PS4 and PC for $49.99.…]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biomutant ~ PC, PS4 Pro, Xbox One X, PS4 Base and Xbox One Base Gameplay Videos]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7879705900456888888</id>
-        <link href="https://www.allgamesdelta.net/2021/05/biomutant-pc-ps4-pro-xbox-one-x-ps4.html"/>
-        <updated>2021-05-17T19:14:00.000Z</updated>
-        <summary type="html"><![CDATA[PC – The PC footage runs in 4K resolution at 60 frames per second, but the PC version will not be capped frame rate-wise outside of your monitor’s refresh rate and hardware.
-    PlayStation 4 Pro / Xbox One X – These versions run in 1080p dynamic resolution at 60 frames per second.
-    PlayStation 4 (Base) / Xbox One (Base) – These versions run in 1080p dynamic resolution at 30 frames per second.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blizzard and Epic Veterans Announce New RPG Studio, Lightforge Games]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-1405083748540859644</id>
-        <link href="https://www.allgamesdelta.net/2021/05/blizzard-and-epic-veterans-announce-new.html"/>
-        <updated>2021-05-17T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Former Epic and Blizzard Veterans Join Forces to Create Lightforge Games
- Longtime Epic Games and Blizzard Entertainment developers have united to create Lightforge Games, and they're on a quest to change how RPGs are played. The team is developing a new cross-platform, social video game where players have the power to create worlds and tell stories with unprecedented freedom.
- "We all love highly social, creative games, and we particularly love games where players drive the narrative," CEO Matt Schembari said. "We are looking to combine elements from Minecraft or Roblox with tabletop RPGs to form a new way to play roleplaying games. Given our backgrounds, making a game that looks to revolutionize RPGs was an obvious choice."
- Lightforge recently raised $5 million with investments from Gal…]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
