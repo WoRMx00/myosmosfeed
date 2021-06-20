@@ -2,203 +2,289 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T01:03:55.838Z</updated>
+    <updated>2021-06-20T01:06:17.336Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Adafruit interviews Siemens SupplyFrame, the future of Hackaday, Tindie and more]]></title>
-        <id>https://news.ycombinator.com/item?id=27556552</id>
-        <link href="https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/"/>
-        <updated>2021-06-19T00:16:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/
-Comments URL: https://news.ycombinator.com/item?id=27556552
-Points: 15
-# Comments: 3]]></summary>
-        <author>
-            <name>ptorrone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CatMeows: A Publicly-Available Dataset of Cat Vocalizations]]></title>
-        <id>https://news.ycombinator.com/item?id=27556544</id>
-        <link href="https://zenodo.org/record/4008297"/>
-        <updated>2021-06-19T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zenodo.org/record/4008297
-Comments URL: https://news.ycombinator.com/item?id=27556544
-Points: 9
-# Comments: 0]]></summary>
-        <author>
-            <name>diplodocusaur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confessions of a bitter cripple (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27556381</id>
-        <link href="https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/"/>
-        <updated>2021-06-18T23:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/
-Comments URL: https://news.ycombinator.com/item?id=27556381
-Points: 18
+        <title type="html"><![CDATA[The EU: Made in America]]></title>
+        <id>https://news.ycombinator.com/item?id=27565758</id>
+        <link href="https://www.economist.com/europe/2021/06/19/the-eu-made-in-america"/>
+        <updated>2021-06-20T00:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/europe/2021/06/19/the-eu-made-in-america
+Comments URL: https://news.ycombinator.com/item?id=27565758
+Points: 8
 # Comments: 2]]></summary>
         <author>
-            <name>breathenew</name>
+            <name>systemvoltage</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minimum Viable Self]]></title>
-        <id>https://news.ycombinator.com/item?id=27556092</id>
-        <link href="https://kneelingbus.substack.com/p/162-minimum-viable-self"/>
-        <updated>2021-06-18T23:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kneelingbus.substack.com/p/162-minimum-viable-self
-Comments URL: https://news.ycombinator.com/item?id=27556092
-Points: 37
+        <title type="html"><![CDATA[Renoise – a DAW with a tracker-like interface]]></title>
+        <id>https://news.ycombinator.com/item?id=27565392</id>
+        <link href="https://www.renoise.com/"/>
+        <updated>2021-06-19T23:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.renoise.com/
+Comments URL: https://news.ycombinator.com/item?id=27565392
+Points: 44
 # Comments: 18]]></summary>
         <author>
-            <name>silt</name>
+            <name>1_player</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[America’s weirdest guidebooks were funded by the government]]></title>
-        <id>https://news.ycombinator.com/item?id=27556077</id>
-        <link href="https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html"/>
-        <updated>2021-06-18T23:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html
-Comments URL: https://news.ycombinator.com/item?id=27556077
-Points: 16
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[Korea revokes approvals for 1,700 communication equipment, devices]]></title>
+        <id>https://news.ycombinator.com/item?id=27565097</id>
+        <link href="http://www.koreaherald.com/view.php?ud=20210617000953"/>
+        <updated>2021-06-19T22:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.koreaherald.com/view.php?ud=20210617000953
+Comments URL: https://news.ycombinator.com/item?id=27565097
+Points: 11
+# Comments: 0]]></summary>
         <author>
-            <name>axiomdata316</name>
+            <name>FridayoLeary</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BBC Programme Index: 9M listings and 221k playable programmes]]></title>
-        <id>https://news.ycombinator.com/item?id=27555918</id>
-        <link href="https://genome.ch.bbc.co.uk/"/>
-        <updated>2021-06-18T22:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://genome.ch.bbc.co.uk/
-Comments URL: https://news.ycombinator.com/item?id=27555918
-Points: 35
-# Comments: 43]]></summary>
+        <title type="html"><![CDATA[A specific network name can completely disable Wi-Fi on your iPhone]]></title>
+        <id>https://news.ycombinator.com/item?id=27564654</id>
+        <link href="https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/"/>
+        <updated>2021-06-19T21:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/
+Comments URL: https://news.ycombinator.com/item?id=27564654
+Points: 48
+# Comments: 10]]></summary>
         <author>
-            <name>timthorn</name>
+            <name>laktak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fly Straight, Dammit (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27555904</id>
-        <link href="http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/"/>
-        <updated>2021-06-18T22:55:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/
-Comments URL: https://news.ycombinator.com/item?id=27555904
-Points: 9
-# Comments: 1]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyPost is building the logistics platform for ecommerce]]></title>
-        <id>https://news.ycombinator.com/item?id=27554998</id>
-        <link href="https://www.easypost.com/careers"/>
-        <updated>2021-06-18T21:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
-Comments URL: https://news.ycombinator.com/item?id=27554998
+        <title type="html"><![CDATA[Community Phone Company (YC W19) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27564428</id>
+        <link href="https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist"/>
+        <updated>2021-06-19T21:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist
+Comments URL: https://news.ycombinator.com/item?id=27564428
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>jstreebin</name>
+            <name>wittedhaddock</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vespucci – OpenStreetMap Editor for Android]]></title>
-        <id>https://news.ycombinator.com/item?id=27554789</id>
-        <link href="http://vespucci.io/"/>
-        <updated>2021-06-18T20:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://vespucci.io/
-Comments URL: https://news.ycombinator.com/item?id=27554789
-Points: 33
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[Ivermectin for Prevention and Treatment of Covid-19 Infection]]></title>
+        <id>https://news.ycombinator.com/item?id=27562412</id>
+        <link href="https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx"/>
+        <updated>2021-06-19T17:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx
+Comments URL: https://news.ycombinator.com/item?id=27562412
+Points: 241
+# Comments: 399]]></summary>
         <author>
-            <name>pwg</name>
+            <name>stephc_int13</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SNES – Super Mario World Widescreen]]></title>
-        <id>https://news.ycombinator.com/item?id=27554765</id>
-        <link href="https://github.com/VitorVilela7/wide-snes"/>
-        <updated>2021-06-18T20:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/VitorVilela7/wide-snes
-Comments URL: https://news.ycombinator.com/item?id=27554765
-Points: 227
-# Comments: 31]]></summary>
+        <title type="html"><![CDATA[U.S. senators propose 25% tax credit for semiconductor manufacturing]]></title>
+        <id>https://news.ycombinator.com/item?id=27561238</id>
+        <link href="https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC"/>
+        <updated>2021-06-19T15:20:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC
+Comments URL: https://news.ycombinator.com/item?id=27561238
+Points: 274
+# Comments: 268]]></summary>
         <author>
-            <name>gtonioli</name>
+            <name>elorant</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verkle Trees]]></title>
-        <id>https://news.ycombinator.com/item?id=27554404</id>
-        <link href="https://vitalik.ca/general/2021/06/18/verkle.html"/>
-        <updated>2021-06-18T20:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/06/18/verkle.html
-Comments URL: https://news.ycombinator.com/item?id=27554404
-Points: 89
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[I'm Peter Roberts, immigration attorney who does work for YC startups. AMA]]></title>
+        <id>https://news.ycombinator.com/item?id=27560781</id>
+        <link href="https://news.ycombinator.com/item?id=27560781"/>
+        <updated>2021-06-19T14:39:45.000Z</updated>
+        <summary type="html"><![CDATA[I’ll be here for the next 3 hours and then again at around 12 pm for another 3 hours. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with but as much as possible I’d like to focus on the recently reinstated International Entrepreneur Parole Program (or IEPP).  Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won’t have access to all the facts. Please stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!
+Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.
+Comments URL: https://news.ycombinator.com/item?id=27560781
+Points: 235
+# Comments: 216]]></summary>
         <author>
-            <name>felixbraun</name>
+            <name>proberts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can programming be liberated from the von Neumann style? (1978)]]></title>
-        <id>https://news.ycombinator.com/item?id=27554355</id>
-        <link href="https://dl.acm.org/doi/10.1145/359576.359579"/>
-        <updated>2021-06-18T20:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/359576.359579
-Comments URL: https://news.ycombinator.com/item?id=27554355
-Points: 78
-# Comments: 51]]></summary>
+        <title type="html"><![CDATA[EventBus 3.1 with plain Java support]]></title>
+        <id>https://news.ycombinator.com/item?id=27560587</id>
+        <link href="https://greenrobot.org/release/eventbus-3-1-plain-java-support/"/>
+        <updated>2021-06-19T14:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://greenrobot.org/release/eventbus-3-1-plain-java-support/
+Comments URL: https://news.ycombinator.com/item?id=27560587
+Points: 43
+# Comments: 29]]></summary>
         <author>
-            <name>tosh</name>
+            <name>qdghmkop</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mars helicopter employs advanced control techniques to survive in-flight anomaly]]></title>
-        <id>https://news.ycombinator.com/item?id=27553718</id>
-        <link href="https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/"/>
-        <updated>2021-06-18T19:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/
-Comments URL: https://news.ycombinator.com/item?id=27553718
-Points: 137
-# Comments: 67]]></summary>
+        <title type="html"><![CDATA[Coober Pedy, the Australian mining town where residents live underground (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27560574</id>
+        <link href="https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1"/>
+        <updated>2021-06-19T14:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1
+Comments URL: https://news.ycombinator.com/item?id=27560574
+Points: 117
+# Comments: 55]]></summary>
         <author>
-            <name>dougmany</name>
+            <name>tomhoward</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD vs. Intel CPU Market Share]]></title>
-        <id>https://news.ycombinator.com/item?id=27553451</id>
-        <link href="https://www.cpubenchmark.net/market_share.html"/>
-        <updated>2021-06-18T18:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cpubenchmark.net/market_share.html
-Comments URL: https://news.ycombinator.com/item?id=27553451
-Points: 163
-# Comments: 118]]></summary>
+        <title type="html"><![CDATA[Life as a public school teacher in the San Francisco Bay Area in 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27560440</id>
+        <link href="http://adamcadre.ac/calendar/202105m.html"/>
+        <updated>2021-06-19T13:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://adamcadre.ac/calendar/202105m.html
+Comments URL: https://news.ycombinator.com/item?id=27560440
+Points: 282
+# Comments: 350]]></summary>
         <author>
-            <name>temp8964</name>
+            <name>rossvor</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[80% of orgs that paid the ransom were hit again]]></title>
-        <id>https://news.ycombinator.com/item?id=27552611</id>
-        <link href="https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/"/>
-        <updated>2021-06-18T17:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/
-Comments URL: https://news.ycombinator.com/item?id=27552611
-Points: 567
-# Comments: 307]]></summary>
+        <title type="html"><![CDATA[Taking students from schematic to silicon in one semester (2018) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27560368</id>
+        <link href="https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf"/>
+        <updated>2021-06-19T13:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf
+Comments URL: https://news.ycombinator.com/item?id=27560368
+Points: 110
+# Comments: 20]]></summary>
         <author>
-            <name>prostoalex</name>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casu Martzu]]></title>
+        <id>https://news.ycombinator.com/item?id=27560251</id>
+        <link href="https://en.wikipedia.org/wiki/Casu_martzu"/>
+        <updated>2021-06-19T13:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Casu_martzu
+Comments URL: https://news.ycombinator.com/item?id=27560251
+Points: 167
+# Comments: 125]]></summary>
+        <author>
+            <name>nojs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las noticias de la semana - Especial E3 2021]]></title>
+        <id>46403_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/semana-12-19-junio-2021"/>
+        <updated>2021-06-19T12:41:06.000Z</updated>
+        <summary type="html"><![CDATA[No ha sido el E3 que todo el mundo quería, pero como mínimo este año el evento se ha podido celebrar en formato digital. Hace una semana Ubisoft abrió fuego con la presentación del largamente esperado Avatar: Frontiers of Pandora para la nueva generación y Mario + Rabbids Sparks of Hope para Nintendo Switch. Pocas horas después Devolver Digital nos dejo con algunas de sus propuestas como Trek to Yomi, Wizard with a Gun y Shadow Warrior 3. El domingo fue el día más activo y se inició con el Xbox & Bethesda Games Showcase, un evento que sirvió para decirle al mundo que todos los juegos… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians welcome computer-assisted proof in ‘grand unification’ theory]]></title>
+        <id>https://news.ycombinator.com/item?id=27559917</id>
+        <link href="https://www.nature.com/articles/d41586-021-01627-2"/>
+        <updated>2021-06-19T12:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01627-2
+Comments URL: https://news.ycombinator.com/item?id=27559917
+Points: 242
+# Comments: 89]]></summary>
+        <author>
+            <name>Wxc2jjJmST9XWWL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15 on Mac OS, a user interface mess]]></title>
+        <id>https://news.ycombinator.com/item?id=27559832</id>
+        <link href="https://morrick.me/archives/9368"/>
+        <updated>2021-06-19T12:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://morrick.me/archives/9368
+Comments URL: https://news.ycombinator.com/item?id=27559832
+Points: 408
+# Comments: 321]]></summary>
+        <author>
+            <name>freediver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Carolina tells retired engineer he can't talk about engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=27559804</id>
+        <link href="https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/"/>
+        <updated>2021-06-19T12:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/
+Comments URL: https://news.ycombinator.com/item?id=27559804
+Points: 428
+# Comments: 310]]></summary>
+        <author>
+            <name>tomohawk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectre mitigations murder userspace performance]]></title>
+        <id>https://news.ycombinator.com/item?id=27559795</id>
+        <link href="https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html"/>
+        <updated>2021-06-19T12:07:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html
+Comments URL: https://news.ycombinator.com/item?id=27559795
+Points: 311
+# Comments: 237]]></summary>
+        <author>
+            <name>hasheddan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Scarlet Nexus, la nueva propiedad intelectual de Bandai Namco]]></title>
+        <id>46404_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/scarlet-nexus-lanzamiento"/>
+        <updated>2021-06-19T11:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Una semana antes de que el juego se ponga a la venta Bandai Namco ha mostrado el tráiler de lanzamiento de Scarlet Nexus, que debutará el 25 de junio con versión para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam). El metraje es una combinación de vídeos cinematográficos y gameplay amenizada con la canción Dream in Drive, un tema compuesto por el grupo de rock The Oral Cigarettes. Respecto al juego, estamos ante la nueva propiedad intelectual del equipo que actualmente se encarga de la saga Tales of. La historia de Scarlet Nexus nos sitúa en un futuro muy lejano… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly discovered Vigilante malware outs software pirates and blocks them]]></title>
+        <id>https://news.ycombinator.com/item?id=27559290</id>
+        <link href="https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/"/>
+        <updated>2021-06-19T10:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/
+Comments URL: https://news.ycombinator.com/item?id=27559290
+Points: 117
+# Comments: 90]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tour of Safe Tracing GC Designs in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27559239</id>
+        <link href="https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"/>
+        <updated>2021-06-19T10:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
+Comments URL: https://news.ycombinator.com/item?id=27559239
+Points: 103
+# Comments: 46]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside The Tombs of Saqqara]]></title>
+        <id>https://news.ycombinator.com/item?id=27559235</id>
+        <link href="https://www.smithsonianmag.com/history/inside-tombs-saqqara-180977932/"/>
+        <updated>2021-06-19T10:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/history/inside-tombs-saqqara-180977932/
+Comments URL: https://news.ycombinator.com/item?id=27559235
+Points: 39
+# Comments: 3]]></summary>
+        <author>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -212,31 +298,6 @@ Points: 567
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prossimo – Memory safety for the Internet's most critical infrastructure]]></title>
-        <id>https://news.ycombinator.com/item?id=27550703</id>
-        <link href="https://www.memorysafety.org/"/>
-        <updated>2021-06-18T14:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.memorysafety.org/
-Comments URL: https://news.ycombinator.com/item?id=27550703
-Points: 110
-# Comments: 60]]></summary>
-        <author>
-            <name>eplanit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager]]></title>
-        <id>https://news.ycombinator.com/item?id=27550255</id>
-        <link href="https://news.ycombinator.com/item?id=27550255"/>
-        <updated>2021-06-18T13:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN! We're Taylor, Colton, and Jason, the founders of Hedgehog (https://hedgehog.app). We're building a portfolio manager to help you learn about, keep track of, and trade cryptocurrency in one place.
-We track 2000+ actively traded currencies across 550+ wallets, aggregate data from 20 different providers, and support trading on 130+ exchanges. This helps users make informed choices about investments and find the best prices across exchanges, with price differences as high as 0.5%. We also combine live usage data with detailed research on how each coin works, so you can see for yourself why a coin could be valuable--or not.
-We know that HN tends to be divided on cryptocurrency-related topics, with some people interested and involved and others skeptical or critical. Obviously we find ou…]]></summary>
-        <author>
-            <name>cadillion</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Baldur's Gate III no abandonará el acceso anticipado este año]]></title>
         <id>46401_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/baldurs-gate-iii-acceso-anticipado-paciencia"/>
@@ -247,32 +308,6 @@ We know that HN tends to be divided on cryptocurrency-related topics, with some 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oregon Has Legalized Human Composting]]></title>
-        <id>https://news.ycombinator.com/item?id=27549652</id>
-        <link href="https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting"/>
-        <updated>2021-06-18T12:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting
-Comments URL: https://news.ycombinator.com/item?id=27549652
-Points: 219
-# Comments: 186]]></summary>
-        <author>
-            <name>elsewhen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuclear Power at McMurdo Station, Antarctica]]></title>
-        <id>https://news.ycombinator.com/item?id=27549484</id>
-        <link href="http://large.stanford.edu/courses/2014/ph241/reid2/"/>
-        <updated>2021-06-18T12:05:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://large.stanford.edu/courses/2014/ph241/reid2/
-Comments URL: https://news.ycombinator.com/item?id=27549484
-Points: 212
-# Comments: 175]]></summary>
-        <author>
-            <name>aww_dang</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sherlock Holmes Chapter One detalla en un tráiler su mundo y la mecánica de disfraces]]></title>
         <id>46400_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/sherlock-holmes-chapter-one-disfraz-gameplay"/>
@@ -280,19 +315,6 @@ Points: 212
         <summary type="html"><![CDATA[El desarrollador ucraniano Frogwares (The Sinking City) ha mostrado un nuevo tráiler con gameplay de Sherlock Holmes Chapter One, un juego de investigación y acción de mundo abierto que estará disponible este año en PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam, Epic Games Store y GOG). El metraje está centrado en mostrar el mundo del juego y enseñar en profundidad cómo funciona la mecánica de disfraces, una característica indispensable para que el investigador pueda resolver los casos. En Sherlock Holmes Chapter One nuestro protagonista es un joven Sherlock al borde… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StreetComplete: Easy to use editor of OpenStreetMap data]]></title>
-        <id>https://news.ycombinator.com/item?id=27549300</id>
-        <link href="https://github.com/streetcomplete/StreetComplete"/>
-        <updated>2021-06-18T11:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/streetcomplete/StreetComplete
-Comments URL: https://news.ycombinator.com/item?id=27549300
-Points: 381
-# Comments: 45]]></summary>
-        <author>
-            <name>rjzzleep</name>
         </author>
     </entry>
     <entry>
@@ -496,26 +518,6 @@ Points: 381
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA Online cerrará los servidores de PlayStation 3 y Xbox 360 el 16 de diciembre]]></title>
-        <id>46379_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/gta-online-desconexion-ps3-xbox-360"/>
-        <updated>2021-06-16T14:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Rockstar Games ha anunciado su intención de desconectar los servidores de Grand Theft Auto Online para PlayStation 3 y Xbox 360 el 16 de diciembre. Para entonces habrán pasado poco más de ocho años desde que el juego se pusiera a disposición de todos los propietarios de una copia de Grand Theft Auto V, un título originalmente desarrollado para las dos mencionadas consolas. Por otro lado, los servicios online de L.A. Noire y Max Payne 3 para PS3 y Xbox 360 sufrirán una desconexión el 16 de septiembre. “Mientras seguimos adelante con actualizaciones y asistencia para las versiones de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft llevará los juegos de Xbox Series a Xbox One mediante xCloud]]></title>
-        <id>46378_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/xbox-series-one-xcloud"/>
-        <updated>2021-06-16T11:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Una vez pasada la vorágine de novedades que nos dejó el evento Xbox & Bethesda Games Showcase, alguien ha leído al completo el resumen que Microsoft publicó en su blog oficial y con ello ha descubierto un detalle no menor que sin embargo pasó desapercibido: Xbox One tendrá soporte para Xbox Cloud Gaming (xCloud). Gracias a ello la veterana consola servirá para jugar en la nube a títulos de nueva generación que han sido desarrollados para Xbox Series. “Nos entusiasma ver a los desarrolladores hacer realidad sus visiones en formas que solo la nueva generación de hardware les permite… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rogue Lords 'Disciples' Trailer]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-5686916792620964060</id>
         <link href="https://www.allgamesdelta.net/2021/05/rogue-lords-disciples-trailer.html"/>
@@ -686,19 +688,6 @@ Points: 381
  In other words, you’re invited to Zurkon Jr.’s Almost Launch Party!
    Planets & Exploration
  Our heroes will travel across a variety of planets in Ratchet & Clank: Rift Apart – a few you might remember, while others are entirely new. Thanks to the PlayStation 5 console’s ultra-fast SSD, you can traverse a variety of planets and their interdimensional counterparts near…]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ascent Launches July 29]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7368142271399083649</id>
-        <link href="https://www.allgamesdelta.net/2021/05/the-ascent-launches-july-29.html"/>
-        <updated>2021-05-20T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Single/co-op action-shooter RPG The Ascent shoots its way on to Xbox consoles and PC on 29 July
- Video games publisher Curve Digital is delighted to announce that the highly anticipated debut title from Swedish indie studio Neon Giant, The Ascent will be released on 29 July 2021 on Xbox Series X|S, Xbox One and PC and be available on Xbox Game Pass.
- A solo and co-op action-shooter RPG set in a sci-fi cyberpunk world, The Ascent is the first title from Neon Giant, a new 12-person studio composed of games industry veterans who were some of the minds behind iconic AAA titles such as the Gears of War, Bulletstorm and Wolfenstein franchises. The game will target 60 fps and have full 4K support on the Xbox Series X, offering amazing gameplay performance for new generation console players.
-   “W…]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
