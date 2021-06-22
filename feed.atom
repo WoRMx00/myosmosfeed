@@ -2,99 +2,339 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T01:08:50.722Z</updated>
+    <updated>2021-06-22T01:00:57.518Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Our Politicians Are Losing Their Grip on Reality]]></title>
-        <id>https://news.ycombinator.com/item?id=27575211</id>
-        <link href="https://jessicalexicus.medium.com/our-politicians-are-losing-their-minds-d9e554da2949"/>
-        <updated>2021-06-21T00:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jessicalexicus.medium.com/our-politicians-are-losing-their-minds-d9e554da2949
-Comments URL: https://news.ycombinator.com/item?id=27575211
-Points: 10
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Deloitte tells staff they can work from home forever]]></title>
+        <id>https://news.ycombinator.com/item?id=27586237</id>
+        <link href="https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/"/>
+        <updated>2021-06-22T00:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/
+Comments URL: https://news.ycombinator.com/item?id=27586237
+Points: 33
+# Comments: 2]]></summary>
         <author>
-            <name>paulpauper</name>
+            <name>rchaudhary</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hundreds of vaccinated Indonesian health workers get Covid-19,dozens in hospital]]></title>
-        <id>https://news.ycombinator.com/item?id=27575150</id>
-        <link href="https://www.reuters.com/world/asia-pacific/hundreds-indonesian-doctors-contract-covid-19-despite-vaccination-dozens-2021-06-17/"/>
-        <updated>2021-06-21T00:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/asia-pacific/hundreds-indonesian-doctors-contract-covid-19-despite-vaccination-dozens-2021-06-17/
-Comments URL: https://news.ycombinator.com/item?id=27575150
-Points: 5
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Ditching OpenPGP, a new approach to signing APT repositories]]></title>
+        <id>https://news.ycombinator.com/item?id=27586146</id>
+        <link href="https://wiki.debian.org/Teams/Apt/Spec/AptSign"/>
+        <updated>2021-06-21T23:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wiki.debian.org/Teams/Apt/Spec/AptSign
+Comments URL: https://news.ycombinator.com/item?id=27586146
+Points: 15
+# Comments: 2]]></summary>
         <author>
-            <name>dsr12</name>
+            <name>FiloSottile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Curcumin: A bioavailable blocker of TNF and other pro-inflammatory biomarkers (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=27574811</id>
-        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753829/"/>
-        <updated>2021-06-20T23:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753829/
-Comments URL: https://news.ycombinator.com/item?id=27574811
-Points: 13
-# Comments: 16]]></summary>
+        <title type="html"><![CDATA['game of life' with rules to enable evolution]]></title>
+        <id>https://news.ycombinator.com/item?id=27585953</id>
+        <link href="https://github.com/ShprAlex/SproutLife"/>
+        <updated>2021-06-21T23:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ShprAlex/SproutLife
+Comments URL: https://news.ycombinator.com/item?id=27585953
+Points: 11
+# Comments: 2]]></summary>
         <author>
-            <name>tediousdemise</name>
+            <name>MichaelMoser123</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gramps – Free Genealogy Software]]></title>
-        <id>https://news.ycombinator.com/item?id=27574273</id>
-        <link href="https://gramps-project.org"/>
-        <updated>2021-06-20T21:58:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gramps-project.org
-Comments URL: https://news.ycombinator.com/item?id=27574273
-Points: 31
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Xbox desarrollará juegos nativos para la nube bajo la dirección de Kim Swift, creadora de Portal]]></title>
+        <id>46413_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/xbox-nativos-nube-xcloud"/>
+        <updated>2021-06-21T22:31:46.000Z</updated>
+        <summary type="html"><![CDATA[El pasado febrero Google cerró los estudios internos de Stadia y junto a ellos se desechó la idea de crear juegos nativos para la nube, un proyecto que lideraba Kim Swift, creadora y diseñadora de Portal (2007). Sin embargo, no todo está perdido. Microsoft ha anunciado la contratación de Swift para que siga con su actividad, pero en lugar de para Google y Stadia trabajará para Xbox Game Studios como líder de un equipo de Xbox Cloud Gaming dedicado a los juegos en la nube. “Kim va a formar un equipo centrado en nuevas experiencias en la nube [...]”, explica Peter Wyse, responsable de… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>danboarder</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imp: A full-stack relational language built around incremental maintenance]]></title>
-        <id>https://news.ycombinator.com/item?id=27574234</id>
-        <link href="https://github.com/jamii/imp"/>
-        <updated>2021-06-20T21:51:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/jamii/imp
-Comments URL: https://news.ycombinator.com/item?id=27574234
-Points: 12
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Apple Daily to shut in days unless government agrees to plea to unfreeze assets]]></title>
+        <id>https://news.ycombinator.com/item?id=27585208</id>
+        <link href="https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4"/>
+        <updated>2021-06-21T22:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4
+Comments URL: https://news.ycombinator.com/item?id=27585208
+Points: 129
+# Comments: 31]]></summary>
         <author>
-            <name>luu</name>
+            <name>dan-robertson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero-Knowledge Proofs]]></title>
-        <id>https://news.ycombinator.com/item?id=27573910</id>
-        <link href="https://zkp.science/"/>
-        <updated>2021-06-20T21:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zkp.science/
-Comments URL: https://news.ycombinator.com/item?id=27573910
-Points: 92
-# Comments: 27]]></summary>
+        <title type="html"><![CDATA[Turning a Classic CRT into a Smart TV]]></title>
+        <id>https://news.ycombinator.com/item?id=27585051</id>
+        <link href="https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html"/>
+        <updated>2021-06-21T21:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html
+Comments URL: https://news.ycombinator.com/item?id=27585051
+Points: 16
+# Comments: 8]]></summary>
         <author>
-            <name>eruleman</name>
+            <name>boyter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product]]></title>
-        <id>https://news.ycombinator.com/item?id=27573864</id>
-        <link href="https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"/>
-        <updated>2021-06-20T21:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567
-Comments URL: https://news.ycombinator.com/item?id=27573864
+        <title type="html"><![CDATA[Bright (YC W15) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27584424</id>
+        <link href="https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer"/>
+        <updated>2021-06-21T21:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer
+Comments URL: https://news.ycombinator.com/item?id=27584424
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>sangwen</name>
+            <name>JGreenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Final Fantasy IX tendrá una serie de animación]]></title>
+        <id>46412_v1</id>
+        <link href="https://www.elotrolado.net/hilo_final-fantasy-ix-tendra-una-serie-de-animacion_2426778"/>
+        <updated>2021-06-21T20:10:02.000Z</updated>
+        <summary type="html"><![CDATA[El estudio francés Cyber Group Studios ha anunciado que se encuentra trabajando junto a Square Enix en una serie de animación que adaptará Final Fantasy IX. Además de producir la serie, Cyber Group Studios se encargará de la distribución, licencias y merchandising en todo el mundo. Se desconoce por ahora cuántos capítulos tendrá la serie de Final Fantasy IX y cuál será su duración o servicio de streaming que la acogerá, pero Cyber Group Studios ya ha avanzado que el público objetivo son los niños de 8 a 13 años. Está previsto que la producción empiece a finales de 2021 o principios de 2022. Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accidentally exponential behavior in Spark]]></title>
+        <id>https://news.ycombinator.com/item?id=27582645</id>
+        <link href="https://heap.io/blog/accidentally-exponential-behavior-in-spark"/>
+        <updated>2021-06-21T18:54:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://heap.io/blog/accidentally-exponential-behavior-in-spark
+Comments URL: https://news.ycombinator.com/item?id=27582645
+Points: 45
+# Comments: 16]]></summary>
+        <author>
+            <name>drob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple is building the metaverse substrate]]></title>
+        <id>https://news.ycombinator.com/item?id=27582568</id>
+        <link href="https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html"/>
+        <updated>2021-06-21T18:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html
+Comments URL: https://news.ycombinator.com/item?id=27582568
+Points: 178
+# Comments: 163]]></summary>
+        <author>
+            <name>grork</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A reference counting bug which leads to local privilege escalation in io_uring]]></title>
+        <id>https://news.ycombinator.com/item?id=27582396</id>
+        <link href="https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a"/>
+        <updated>2021-06-21T18:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
+Comments URL: https://news.ycombinator.com/item?id=27582396
+Points: 85
+# Comments: 27]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internal Amazon documents shed light on how company pressures out office workers]]></title>
+        <id>https://news.ycombinator.com/item?id=27581797</id>
+        <link href="https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/"/>
+        <updated>2021-06-21T18:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/
+Comments URL: https://news.ycombinator.com/item?id=27581797
+Points: 349
+# Comments: 264]]></summary>
+        <author>
+            <name>flowerlad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Windows 10 slow down with each feature update?]]></title>
+        <id>https://news.ycombinator.com/item?id=27581762</id>
+        <link href="https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/"/>
+        <updated>2021-06-21T17:58:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/
+Comments URL: https://news.ycombinator.com/item?id=27581762
+Points: 216
+# Comments: 226]]></summary>
+        <author>
+            <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Dungeons & Dragons: Dark Alliance, un ARPG cooperativo basado en The Legend of Drizzt]]></title>
+        <id>46410_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/dark-alliance-trailer-lanzamiento"/>
+        <updated>2021-06-21T17:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Wizards of the Coast y el desarrollador Tuque Games, dos filiales de Hasbro, han celebrado con un tráiler cinematográfico el inminente lanzamiento de Dungeons & Dragons: Dark Alliance, un ARPG cooperativo que se pondrá a la venta el 22 de junio en PS4, PS5, Xbox One, Xbox Series y PC tanto en formato digital como físico por 39,99 euros. También se ofrece una edición Deluxe, que por 59,99 euros incluye acceso a la futura expansión Ecos de la Guerra de sangre. Además, desde el primer día el juego estará disponible en Xbox Game Pass. Dungeons & Dragons: Dark Alliance es un juego de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rhode island makes financial literacy classes required for high school students]]></title>
+        <id>https://news.ycombinator.com/item?id=27581359</id>
+        <link href="https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/"/>
+        <updated>2021-06-21T17:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/
+Comments URL: https://news.ycombinator.com/item?id=27581359
+Points: 213
+# Comments: 166]]></summary>
+        <author>
+            <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plotly.py 5.0]]></title>
+        <id>https://news.ycombinator.com/item?id=27581336</id>
+        <link href="https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039"/>
+        <updated>2021-06-21T17:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039
+Comments URL: https://news.ycombinator.com/item?id=27581336
+Points: 93
+# Comments: 24]]></summary>
+        <author>
+            <name>nicolaskruchten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rhizome – A pedagogical example of a JIT for Ruby, implemented in Ruby]]></title>
+        <id>https://news.ycombinator.com/item?id=27581257</id>
+        <link href="https://github.com/chrisseaton/rhizome"/>
+        <updated>2021-06-21T17:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/chrisseaton/rhizome
+Comments URL: https://news.ycombinator.com/item?id=27581257
+Points: 237
+# Comments: 30]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What it felt like to be awake during invasive brain surgery]]></title>
+        <id>https://news.ycombinator.com/item?id=27581108</id>
+        <link href="https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/"/>
+        <updated>2021-06-21T17:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/
+Comments URL: https://news.ycombinator.com/item?id=27581108
+Points: 57
+# Comments: 13]]></summary>
+        <author>
+            <name>masijo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic Arts podría revivir una de sus franquicias y los rumores apuntan a Dead Space]]></title>
+        <id>46409_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/dead-space-revive"/>
+        <updated>2021-06-21T16:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Hace unos días Jeff Grubb, periodista de GamesBeat, afirmó durante la transmisión de su programa en YouTube que Electronic Arts y su equipo interno Motive Studios se encuentran trabajando en “revivir” una propiedad intelectual existente muy querida por los fans. Grubb no dijo cuál era, pero sí avanzó que el proyecto sería presentado en el EA Play que se celebrará el 22 de julio y como pista añadió que “lo veremos... Si no morimos antes”. Ahora, EuroGamer afirma que sus fuentes concuerdan con lo que dice e insinúa Grubb. En resumen, una querida propiedad intelectual ya conocida que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrej Karpathy (Tesla): CVPR 2021 Workshop on Autonomous Vehicles [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=27580744</id>
+        <link href="https://www.youtube.com/watch?v=eOL_rCK59ZI&amp;t=28293s"/>
+        <updated>2021-06-21T16:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=eOL_rCK59ZI&t=28293s
+Comments URL: https://news.ycombinator.com/item?id=27580744
+Points: 134
+# Comments: 106]]></summary>
+        <author>
+            <name>vpj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-Tuning Transformers for NLP]]></title>
+        <id>https://news.ycombinator.com/item?id=27579702</id>
+        <link href="https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp"/>
+        <updated>2021-06-21T14:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
+Comments URL: https://news.ycombinator.com/item?id=27579702
+Points: 61
+# Comments: 5]]></summary>
+        <author>
+            <name>dylanbfox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git undo: We can do better]]></title>
+        <id>https://news.ycombinator.com/item?id=27579701</id>
+        <link href="https://blog.waleedkhan.name/git-undo/"/>
+        <updated>2021-06-21T14:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.waleedkhan.name/git-undo/
+Comments URL: https://news.ycombinator.com/item?id=27579701
+Points: 558
+# Comments: 348]]></summary>
+        <author>
+            <name>arxanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: I was hit with a patent troll lawsuit, how do I deal with it?]]></title>
+        <id>https://news.ycombinator.com/item?id=27579693</id>
+        <link href="https://news.ycombinator.com/item?id=27579693"/>
+        <updated>2021-06-21T14:48:27.000Z</updated>
+        <summary type="html"><![CDATA[This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...
+I'm a one person company and have no idea what to do.
+Comments URL: https://news.ycombinator.com/item?id=27579693
+Points: 683
+# Comments: 269]]></summary>
+        <author>
+            <name>jblake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Después de once años, Katsuhiro Harada confirma que Tekken x Street Fighter ha muerto]]></title>
+        <id>46408_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/tekken-x-street-fighter-cancelado"/>
+        <updated>2021-06-21T14:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Aquellos que todavía mantienen la esperanza de ver a Tekken x Street Fighter, un juego de lucha en 3D con los personajes de ambas franquicias, ya pueden deshacerse de ella. Once años después de su anuncio oficial, Katsuhiro Harada, productor y creador de la saga Tekken, ha confirmado que Tekken x Street Fighter ha sido cancelado. Durante la última emisión del Harada's Bar, un canal de YouTube en el que Harada habla con diferentes miembros de la industria de los videojuegos japonesa, el desarrollador ha reconocido que el proyecto Tekken x Street Fighter en el que se encontraba… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocky Linux 8.4 GA]]></title>
+        <id>https://news.ycombinator.com/item?id=27579297</id>
+        <link href="https://rockylinux.org/news/rocky-linux-8-4-ga-release/"/>
+        <updated>2021-06-21T14:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rockylinux.org/news/rocky-linux-8-4-ga-release/
+Comments URL: https://news.ycombinator.com/item?id=27579297
+Points: 51
+# Comments: 4]]></summary>
+        <author>
+            <name>tkuraku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung amplía sus monitores gaming Odyssey sumando tres modelos planos con opciones 4K y a 165 Hz]]></title>
+        <id>46406_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/samsung-oddyssey-monitores-gaming-detalles"/>
+        <updated>2021-06-21T11:02:08.000Z</updated>
+        <summary type="html"><![CDATA[La irrupción de Samsung como fabricante de monitores gaming de cierto calibre comenzó con muy bien pie gracias a la gama Odyssey, que el año pasado subió varios niveles con la incorporación de nuevos modelos. Ahora toca seguir actualizándola, y si hasta ahora la línea estaba formada por pantallas VA de tipo curvo, muy curiosamente la última hornada se pasa al IPS plano. Sorprendentemente ausente en la Computex de este año (donde hubiera tenido un encaje natural), la gama Samsung Odyssey 2021 está compuesta por los modelos G3 (24 y 27 pulgadas), G5 (27 pulgadas) y G7 (28 pulgadas).… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk 2077 vuelve a la PlayStation Store con la recomendación de no comprarlo para PS4]]></title>
+        <id>46407_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/cyberpunk-2077-disponible-playsation-store"/>
+        <updated>2021-06-21T10:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Como se esperaba, desde hoy Cyberpunk 2077 se encuentra de nuevo disponible en la PlayStation Store. Han pasado seis meses desde que el juego fue retirado por su bajo rendimiento y numerosos problemas, un gesto poco habitual que también abrió una insólita campaña de reembolsos. Hoy todo esto queda atrás, pero Sony y la propia CD Projekt Red consideran que aún hay trabajo por hacer, así que el título se despacha por 49,99 euros y la recomendación de no comprar en caso de querer jugar en una PlayStation 4. “AVISO IMPORTANTE: Algunos usuarios siguen teniendo problemas de rendimiento con… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -105,175 +345,6 @@ Points: 1
         <summary type="html"><![CDATA[Durante el Xbox & Bethesda Games Showcase de la semana pasada Rare presentó Sea of Thieves: A Pirate’s Life, una nueva campaña que tiene como principal atractivo un crossover con Piratas del Caribe, la licencia cinematográfica de Disney. Hoy, el desarrollador británico ha protagonizado un showcase dedicado al mencionado contenido, que llegará de forma gratuita a, Xbox One, Xbox Series, PC y Xbox Game Pass el martes 22 de junio. Ese mismo día también se pondrá en marcha la tercera temporada en todas las plataformas La campaña A Pirate’s Life introduce en el juego cinco nuevos Tall… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nixos-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible]]></title>
-        <id>https://news.ycombinator.com/item?id=27573393</id>
-        <link href="https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723"/>
-        <updated>2021-06-20T20:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723
-Comments URL: https://news.ycombinator.com/item?id=27573393
-Points: 326
-# Comments: 94]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If the Moon Were Only 1 Pixel (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27573172</id>
-        <link href="https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"/>
-        <updated>2021-06-20T19:32:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
-Comments URL: https://news.ycombinator.com/item?id=27573172
-Points: 114
-# Comments: 34]]></summary>
-        <author>
-            <name>_Microft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A dwarf planet coming within 11 AU of the sun over the next 10 years]]></title>
-        <id>https://news.ycombinator.com/item?id=27572746</id>
-        <link href="https://groups.io/g/mpml/topic/83645454#36493"/>
-        <updated>2021-06-20T18:39:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://groups.io/g/mpml/topic/83645454#36493
-Comments URL: https://news.ycombinator.com/item?id=27572746
-Points: 349
-# Comments: 176]]></summary>
-        <author>
-            <name>MKais</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our journey from office-centric to remote-first]]></title>
-        <id>https://news.ycombinator.com/item?id=27572741</id>
-        <link href="https://www.docker.com/blog/our-journey-from-office-centric-to-remote-first/"/>
-        <updated>2021-06-20T18:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.docker.com/blog/our-journey-from-office-centric-to-remote-first/
-Comments URL: https://news.ycombinator.com/item?id=27572741
-Points: 44
-# Comments: 12]]></summary>
-        <author>
-            <name>kiyanwang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Father's Day (2008)]]></title>
-        <id>https://news.ycombinator.com/item?id=27572650</id>
-        <link href="https://www.davidgodman.org/fathers-day/"/>
-        <updated>2021-06-20T18:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.davidgodman.org/fathers-day/
-Comments URL: https://news.ycombinator.com/item?id=27572650
-Points: 41
-# Comments: 7]]></summary>
-        <author>
-            <name>dang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bee-friendly urban wildflower meadows prove a hit with German city dwellers]]></title>
-        <id>https://news.ycombinator.com/item?id=27572355</id>
-        <link href="https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers"/>
-        <updated>2021-06-20T17:55:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers
-Comments URL: https://news.ycombinator.com/item?id=27572355
-Points: 168
-# Comments: 49]]></summary>
-        <author>
-            <name>rapnie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What every programmer should know about SSDs]]></title>
-        <id>https://news.ycombinator.com/item?id=27572218</id>
-        <link href="https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html"/>
-        <updated>2021-06-20T17:39:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html
-Comments URL: https://news.ycombinator.com/item?id=27572218
-Points: 237
-# Comments: 80]]></summary>
-        <author>
-            <name>sprachspiel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitochondria may contribute to neurological and psychiatric disorders: research]]></title>
-        <id>https://news.ycombinator.com/item?id=27571818</id>
-        <link href="https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/"/>
-        <updated>2021-06-20T16:56:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/
-Comments URL: https://news.ycombinator.com/item?id=27571818
-Points: 168
-# Comments: 72]]></summary>
-        <author>
-            <name>LinuxBender</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watchy: Open-source E-Paper Watch with ESP32]]></title>
-        <id>https://news.ycombinator.com/item?id=27571322</id>
-        <link href="https://watchy.sqfmi.com/"/>
-        <updated>2021-06-20T15:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://watchy.sqfmi.com/
-Comments URL: https://news.ycombinator.com/item?id=27571322
-Points: 131
-# Comments: 31]]></summary>
-        <author>
-            <name>lnyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julia: Faster than Fortran, cleaner than Numpy]]></title>
-        <id>https://news.ycombinator.com/item?id=27571019</id>
-        <link href="https://www.matecdev.com/posts/numpy-julia-fortran.html"/>
-        <updated>2021-06-20T15:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.matecdev.com/posts/numpy-julia-fortran.html
-Comments URL: https://news.ycombinator.com/item?id=27571019
-Points: 183
-# Comments: 146]]></summary>
-        <author>
-            <name>cs702</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LDtk: A modern and open-source 2D level editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27570556</id>
-        <link href="https://deepnight.itch.io/ldtk"/>
-        <updated>2021-06-20T14:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepnight.itch.io/ldtk
-Comments URL: https://news.ycombinator.com/item?id=27570556
-Points: 253
-# Comments: 43]]></summary>
-        <author>
-            <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AES67 Stream Monitor – An app to monitor audio over IP streams]]></title>
-        <id>https://news.ycombinator.com/item?id=27570320</id>
-        <link href="https://aes67.app/"/>
-        <updated>2021-06-20T14:25:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aes67.app/
-Comments URL: https://news.ycombinator.com/item?id=27570320
-Points: 70
-# Comments: 21]]></summary>
-        <author>
-            <name>phlhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres to TypeScript Interfaces and Enums]]></title>
-        <id>https://news.ycombinator.com/item?id=27570058</id>
-        <link href="https://github.com/vramework/schemats"/>
-        <updated>2021-06-20T14:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/vramework/schemats
-Comments URL: https://news.ycombinator.com/item?id=27570058
-Points: 93
-# Comments: 60]]></summary>
-        <author>
-            <name>yasserf</name>
         </author>
     </entry>
     <entry>
@@ -447,76 +518,6 @@ Points: 93
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disney quiere que los desarrolladores indie usen sus propiedades intelectuales]]></title>
-        <id>46387_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/disney-desarrolladores-indie"/>
-        <updated>2021-06-17T12:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Hace poco más de un año Sean Shoptaw, vicepresidente sénior de juegos y experiencias interactivas de Disney, invitó a los desarrolladores a usar sus propiedades intelectuales para hacer juegos y el llamamiento ha dado sus resultados entre las grandes compañías. Ahora el mismo ejecutivo pide de nuevo que los estudios se acerquen a él, pero en esta ocasión se ha interesado de forma especial por los equipos indie, ya que su objetivo es trabajar con “los mejores” independientemente de su tamaño. “Evidentemente, trabajamos con muchos socios AAA como Ubisoft, Bethesda Softworks y Electronic… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethesda entiende que los usuarios de PlayStation se enfaden por la exclusividad de sus juegos en Xbox]]></title>
-        <id>46386_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/bethesda-playstation-enfadados"/>
-        <updated>2021-06-17T11:32:13.000Z</updated>
-        <summary type="html"><![CDATA[El pasado domingo se confirmó lo que parecía evidente. Si Microsoft pagó 7.500 millones de dólares por ZeniMax Media, matriz de Bethesda Softworks, fue para tener en exclusiva sus próximos juegos y hacer crecer Xbox Game Pass. Ante esta nueva realidad Pete Hines, vicepresidente sénior de Bethesda Softworks y responsable de comunicaciones, entiende que algunos usuarios de PlayStation estén enfadados. Sin embargo, también encuentra ventajas de desarrollo al tener que centrarse en menos plataformas. “Si eres un gran seguidor de los juegos que hacemos y ya no estarán disponibles en tu… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook empezará a integrar publicidad en juegos y aplicaciones para Oculus]]></title>
-        <id>46385_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/facebook-publicidad-juegos-oculus"/>
-        <updated>2021-06-17T09:33:54.000Z</updated>
-        <summary type="html"><![CDATA[La integración de Oculus en el seno de Facebook ha seguido la progresión esperada. Si hace algunos meses la compañía de Mark Zuckerberg anunciaba que sería necesario tener una cuenta de Facebook para poder utilizar los visores de realidad virtual y poco después se informó de que infringir las normas de la red social podría comportar la pérdida de acceso a contenidos, ahora sabemos que Facebook empezará a mostrar publicidad en aplicaciones de realidad virtual. Según ha anunciado Oculus, Blaston y otras dos aplicaciones aún no desveladas empezarán a mostrar publicidad con carácter… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorola anuncia el móvil reforzado Defy, resistente a inmersiones de 35 minutos y caídas desde 1,8 metros]]></title>
-        <id>46384_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/motorola-defy-movil-rugerizado-sumergible-precio-detalles"/>
-        <updated>2021-06-17T08:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Allá por 2010, Motorola aún independiente sorprendió con el lanzamiento del Defy. Este smartphone acaparó no poca atención por su elevada resistencia, y es que era uno de los primeros smartphones resistentes al agua, el polvo y las caídas con un diseño y un precio aptos para el mercado generalista. Ahora, una década después, Moto se ha aliado con Bullit Group, responsable de los teléfonos CAT, para recuperar la gama rugerizada de la marca estadounidense propiedad de Lenovo. El nuevo Motorola Defy posee una elevada resistencia gracias a una carcasa con doble sellado que le permite… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1 2021 revela sus características en un nuevo tráiler]]></title>
-        <id>46383_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/f1-2021-trailer-caracteristicas"/>
-        <updated>2021-06-16T19:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Cuando queda justo un mes para el lanzamiento de F1 2021, Codemasters ha mostrado un nuevo tráiler del juego destinado a mostrar las características principales del título. Si nada se complica F1 2021 estará disponible el 16 de julio, la misma semana en la que se celebra el Gran Premio de Gran Bretaña en el Circuito de Silverstone, con versión para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam). El modo historia de F1 2021 se llama Braking Point y también es una de las novedades que presenta esta edición. La campaña permitirá a los jugadores ponerse en la piel de un… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empieza el Steam Next Fest con cientos de demos disponibles hasta el 22 de junio]]></title>
-        <id>46382_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/steam-next-fest-2021-demos"/>
-        <updated>2021-06-16T17:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Valve ha puesto en marcha el Steam Next Fest, un evento que desde hoy y hasta el 22 de junio permite a los jugadores de PC probar de forma gratuita las demos de más de 700 juegos que están o estarán disponibles en la tienda digital. Faltarán horas echar un vistazo a solo una parte de los títulos. Además de demos, durante el evento los desarrolladores participarán de transmisiones en directo y charlas para hablar sobre los proyectos que tienen en marcha. “Con tantos juegos increíbles para elegir, puede ser difícil saber por dónde empezar”, reconoce Valve. Para ayudar a los jugadores a… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Blaster Master Zero y Blaster Master Zero II llegan en julio a Xbox One y Xbox Series]]></title>
-        <id>46381_v1</id>
-        <link href="https://www.elotrolado.net/hilo_blaster-master-zero-y-blaster-master-zero-ii-llegan-en-julio-a-xbox-one-y-xbox-series_2426295"/>
-        <updated>2021-06-16T16:10:33.000Z</updated>
-        <summary type="html"><![CDATA[Inti Creates ha comunicado que Blaster Master Zero para Xbox One y Xbox Series estará disponible el 1 de julio, mientras que Blaster Master Zero II debutará en las mismas consolas el 15 de julio. Los juegos se venderán de forma individual por 9,99 euros cada uno. Blaster Master Zero es un juego de acción y exploración realizado en estilo de 8 bits con perspectiva vertical y lateral que se basa en el título del mismo nombre que se lanzó en 1988 para NES. Por su parte, Blaster Master Zero 2 sigue la historia de la primera entrega pero la acción se traslada al planeta Sophia. Ambos… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rogue Lords 'Disciples' Trailer]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-5686916792620964060</id>
         <link href="https://www.allgamesdelta.net/2021/05/rogue-lords-disciples-trailer.html"/>
@@ -627,66 +628,6 @@ Points: 93
  In The Dark Pictures Anthology: House of Ashes, the year is 2003, and in the shadow of the Zagros mountains in Iraq, a military unit comes under fire from Iraqi forces. The resulting firefight causes a heavy tremor, opening up a rift in the earth that swallows both sides, causing soldiers to fall into the ruins of a buried Sumerian temple. With all communication severed, our protagonists are trapped in a terrifying underworld they must navigate to escape, unaware that something ancient and evil has awakened in the shadows and has found a new prey to hunt.
   Before a more in-depth look at House of Ashes’ gameplay, which will be revealed on Thursday, May 27 at 9:00am PT, you can get a first glimpse of its unique atmosphere in this teaser trailer.
    The Dark Pictures Anthology: House of Ashes will be available this year on Xbox Series X|S, Xbox One, PlayStation 5, PlayStation 4 and PC.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rustler Launches August 31]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-965285272023836216</id>
-        <link href="https://www.allgamesdelta.net/2021/05/rustler-launches-august-31.html"/>
-        <updated>2021-05-23T09:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Win The Grand Tournament and Commit all the Crimes in Rustler When it Launches August 31
- Modus Games has announced that you don’t have much longer to wait to blow up the townspeople’s hay bales for absolutely no other reason than choosing violence, because Rustler is launching on August 31 across PC, Xbox One, Xbox Series X|S, PS4, PS5 and Nintendo Switch. Pre-order the game here: rustlergame.com
-   The news was accompanied by a brand-new trailer that showcases horse larceny and other crimes that will be committed during Guy’s quest to win The Grand Tournament. When it isn’t crime, it’s generally being a problem for everyone around you in this ‘Grand Theft Horse’ display of mayhem.
-   In Rustler, you’ll play as anti-hero Guy, a brigand determined to win The Grand Tournament for its illustrious prize. Saddle up and prepare to complete quests, terrorize townspeople, shoot cows into the sky, and cause absolute ruckus as a medieval marauder in Rustler. For those who can’t wait to get a taste of the action, you can try the game out on Steam Early Access now.
-   For news on Rustler and Modus Games’ full lineup, head over to modusgames.com.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil: Infinite Darkness Begins Airing July 8]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-533559739500968373</id>
-        <link href="https://www.allgamesdelta.net/2021/05/resident-evil-infinite-darkness-begins.html"/>
-        <updated>2021-05-23T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Resident Evil: Infinite Darkness Overview
- Known as the gold standard of survival horror games with over 100 million units from the game series shipped worldwide, Resident Evil has now been transformed into a Netflix original CG anime series.
- This series is scheduled for a global launch in 2021 exclusively on Netflix. Three years after 2017’s CG film Resident Evil: Vendetta, technology has further evolved, creating the groundwork for a new series in unprecedented full 3D CG animation.
- Since the first game was released in 1996 on Sony PlayStation, the Resident Evil series is nearing its 25th anniversary. With the series continuing to evolve even now, a new title carves itself into the series’ history. This series is entitled Resident Evil: Infinite Darkness.
- This new series will be produced and supervised by Capcom’s Hiroyuki Kobayashi, who is responsible for bringing numerous titles in the Resident Evil series into existence. TMS Entertainment, which has birthed various anime series, will produce the series, while Quebico, led by Kei Miyamoto, the producer of Resident Evil: Vendetta, will be in charge of the full 3D CG animation production.
- This will be a horror-action series based around the stories of the two popular characters, Leon S. Kennedy and Claire Redfield. By adding suspense into dynamic action scenes, this series will reveal a Resident Evil world unlike anything seen before.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Legend of Zelda: Skyward Sword HD ~ Zelda & Loftwing amiibo Announced]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-617718873992964139</id>
-        <link href="https://www.allgamesdelta.net/2021/05/the-legend-of-zelda-skyward-sword-hd.html"/>
-        <updated>2021-05-22T20:13:00.000Z</updated>
-        <summary type="html"><![CDATA[About the amiibo
-     The Zelda & Loftwing amiibo features two characters on a single base: Zelda as she appears in The Legend of Zelda: Skyward Sword HD, and her trusty Loftwing.
-     In The Legend of Zelda: Skyward Sword HD, Zelda is the hero Link’s childhood friend, and is always looking out for him. Loftwings are large birds living on the floating islands of Skyloft and are ridden by the people there to travel across the skies.
-     How to Use in the Game
-     In The Legend of Zelda: Skyward Sword HD, the adventure takes place between the skies where Link and his friends reside, and the vast world of the surface that lies beneath the clouds.
-     Normally, you can only return from the surface to the sky by way of designated save points, but using the Zelda & Loftwing amiibo while on the surface in the game will allow you to return to the skies from anywhere on the surface, even inside dungeons.
-     If you then use the Zelda & Loftwing amiibo again while in the sky, you can return to the spot on the surface where you used it before.
-     If you run out of items while exploring the surface, for example, you can quickly return to the Bazaar in Skyloft to replenish your supplies. Once you’re done shopping, the amiibo allows you to quickly zip back to the surface and pick up where you left off!]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ratchet & Clank: Rift Apart New Gameplay Trailers Released]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-87360948043887725</id>
-        <link href="https://www.allgamesdelta.net/2021/05/ratchet-clank-rift-apart-new-gameplay.html"/>
-        <updated>2021-05-22T17:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The planets you’ll explore in Ratchet & Clank: Rift Apart
- Hey there, creatures of destruction! I’m delighted to point out that in less than a month, you’ll be able to play Ratchet & Clank: Rift Apart on the PlayStation 5 console. To celebrate the occasion, the highly mischievous member of the Zurkons has appointed himself as the MC of our new episodic info bash showing you what’s in store when the game launches on June 11.
- In other words, you’re invited to Zurkon Jr.’s Almost Launch Party!
-   Planets & Exploration
- Our heroes will travel across a variety of planets in Ratchet & Clank: Rift Apart – a few you might remember, while others are entirely new. Thanks to the PlayStation 5 console’s ultra-fast SSD, you can traverse a variety of planets and their interdimensional counterparts near…]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
