@@ -2,47 +2,389 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T01:00:57.518Z</updated>
+    <updated>2021-06-23T00:56:10.973Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Deloitte tells staff they can work from home forever]]></title>
-        <id>https://news.ycombinator.com/item?id=27586237</id>
-        <link href="https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/"/>
-        <updated>2021-06-22T00:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/
-Comments URL: https://news.ycombinator.com/item?id=27586237
-Points: 33
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Rival weightlifter speaks out on transgender Hubbard's Olympic place]]></title>
+        <id>https://news.ycombinator.com/item?id=27598383</id>
+        <link href="https://www.insidethegames.biz/articles/1108399/anna-vanbellinghen-hubbard"/>
+        <updated>2021-06-22T22:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.insidethegames.biz/articles/1108399/anna-vanbellinghen-hubbard
+Comments URL: https://news.ycombinator.com/item?id=27598383
+Points: 43
+# Comments: 32]]></summary>
         <author>
-            <name>rchaudhary</name>
+            <name>leephillips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ditching OpenPGP, a new approach to signing APT repositories]]></title>
-        <id>https://news.ycombinator.com/item?id=27586146</id>
-        <link href="https://wiki.debian.org/Teams/Apt/Spec/AptSign"/>
-        <updated>2021-06-21T23:58:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wiki.debian.org/Teams/Apt/Spec/AptSign
-Comments URL: https://news.ycombinator.com/item?id=27586146
-Points: 15
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Effects of cat ownership on the gut microbiota of owners]]></title>
+        <id>https://news.ycombinator.com/item?id=27598292</id>
+        <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133"/>
+        <updated>2021-06-22T22:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133
+Comments URL: https://news.ycombinator.com/item?id=27598292
+Points: 79
+# Comments: 35]]></summary>
         <author>
-            <name>FiloSottile</name>
+            <name>mleonhard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['game of life' with rules to enable evolution]]></title>
-        <id>https://news.ycombinator.com/item?id=27585953</id>
-        <link href="https://github.com/ShprAlex/SproutLife"/>
-        <updated>2021-06-21T23:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ShprAlex/SproutLife
-Comments URL: https://news.ycombinator.com/item?id=27585953
-Points: 11
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Cyberpunk 2077 volverá a la política estándar de reembolsos de Microsoft el 6 de julio]]></title>
+        <id>46425_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/cyberpunk-2077-reembolsos-xbox-julio"/>
+        <updated>2021-06-22T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[El 18 de diciembre del año pasado Microsoft amplió de forma excepcional, solo para Cyberpunk 2077 y “hasta nuevo aviso”, su política de reembolsos para que los jugadores decepcionados con el rendimiento del juego y sus errores lo pudieran devolver independientemente de la situación. Seis meses después el título de CD Projekt Red ha mejorado su estado mediante actualizaciones y ante la nueva situación Microsoft ha anunciado que el 6 de julio pondrá fin a su generosa política de reembolsos. “El equipo de CD Projekt Red sigue trabajando duro para mejorar la experiencia de Cyberpunk 2077… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>MichaelMoser123</name>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racing Game in ClojureScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27597987</id>
+        <link href="https://github.com/ertugrulcetin/racing-game-cljs"/>
+        <updated>2021-06-22T22:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ertugrulcetin/racing-game-cljs
+Comments URL: https://news.ycombinator.com/item?id=27597987
+Points: 53
+# Comments: 11]]></summary>
+        <author>
+            <name>winkywooster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is ranked-choice voting and why is New York using it?]]></title>
+        <id>https://news.ycombinator.com/item?id=27597662</id>
+        <link href="https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race"/>
+        <updated>2021-06-22T21:50:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race
+Comments URL: https://news.ycombinator.com/item?id=27597662
+Points: 189
+# Comments: 240]]></summary>
+        <author>
+            <name>elsewhen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SafeButler (YC S17) Is Hiring a Marketing Associate]]></title>
+        <id>https://news.ycombinator.com/item?id=27597136</id>
+        <link href="https://www.safebutler.com/careers"/>
+        <updated>2021-06-22T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.safebutler.com/careers
+Comments URL: https://news.ycombinator.com/item?id=27597136
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>eastdark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Dangerous Censorship]]></title>
+        <id>https://news.ycombinator.com/item?id=27595902</id>
+        <link href="https://edwardsnowden.substack.com/p/on-censorship-pt-1"/>
+        <updated>2021-06-22T19:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/on-censorship-pt-1
+Comments URL: https://news.ycombinator.com/item?id=27595902
+Points: 238
+# Comments: 234]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reply of the Zaporozhian Cossacks]]></title>
+        <id>https://news.ycombinator.com/item?id=27595429</id>
+        <link href="https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks"/>
+        <updated>2021-06-22T18:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks
+Comments URL: https://news.ycombinator.com/item?id=27595429
+Points: 105
+# Comments: 44]]></summary>
+        <author>
+            <name>slater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regularization is all you need: simple neural nets can excel on tabular data]]></title>
+        <id>https://news.ycombinator.com/item?id=27595309</id>
+        <link href="https://arxiv.org/abs/2106.11189"/>
+        <updated>2021-06-22T18:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.11189
+Comments URL: https://news.ycombinator.com/item?id=27595309
+Points: 126
+# Comments: 58]]></summary>
+        <author>
+            <name>tracyhenry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ya disponible FidelityFX Super Resolution, la respuesta de AMD al DLSS de Nvidia]]></title>
+        <id>46424_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/fidelityfx-super-resolution-disponible"/>
+        <updated>2021-06-22T18:22:21.000Z</updated>
+        <summary type="html"><![CDATA[AMD ha liberado FidelityFX Super Resolution (FSR), su respuesta de código abierto a la tecnología propietaria DLSS de Nvidia, que desde hoy se encuentra disponible para una pequeña lista de títulos que promete aumentar con el tiempo. FSR tiene el mismo objetivo que su competidor: aumentar la tasa de fotogramas de los juegos minimizando el impacto en la calidad de imagen (y sin tener que cambiar la tarjeta gráfica). AMD ha dejado que algunos medios como PC Gamer, Techspot, Digital Foundry, Hexus y Guru 3D prueben la tecnología FidelityFX Super Resolution, así que ya tenemos la… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curiosity damned the cat]]></title>
+        <id>https://news.ycombinator.com/item?id=27594742</id>
+        <link href="https://edwardfeser.blogspot.com/2021/06/curiosity-damned-cat.html"/>
+        <updated>2021-06-22T17:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://edwardfeser.blogspot.com/2021/06/curiosity-damned-cat.html
+Comments URL: https://news.ycombinator.com/item?id=27594742
+Points: 19
+# Comments: 3]]></summary>
+        <author>
+            <name>danielam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Tráiler de lanzamiento del juego oficial de Juegos Olímpicos Tokio 2020]]></title>
+        <id>46423_v1</id>
+        <link href="https://www.elotrolado.net/hilo_trailer-de-lanzamiento-del-juego-oficial-de-juegos-olimpicos-tokio-2020_2426865"/>
+        <updated>2021-06-22T16:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Sega ha mostrado el tráiler de lanzamiento de Juegos Olímpicos Tokio 2020 - El Videojuego Oficial, que desde hoy se encuentra disponible en PlayStation 4, Xbox One, Nintendo Switch, PC (Steam) y Stadia a cambio de 39,99 euros. La Olimpiada oficial y real tendrá lugar si todo va según lo previsto del 23 de julio al 8 de agosto, un año más tarde de lo planeado debido a la pandemia de COVID-19 Juegos Olímpicos Tokio 2020 incluye un completo creador de avatares para personalizar el atleta olímpico, permite a los jugadores jugar online con hasta ocho participantes y competir en las… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tráiler de lanzamiento de Alex Kidd in Miracle World DX, un remake del clásico juego de Master System]]></title>
+        <id>46422_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/trailer-lanzamiento-alex-kid-remake"/>
+        <updated>2021-06-22T16:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Alex Kidd, una saga olvidada por Sega pero no por los jugadores, regresa hoy mismo con un remake del clásico Alex Kidd in Miracle World de Master System que ha celebrado su llegada al mercado con un tráiler de lanzamiento. El juego, desarrollado por el estudio español Jankenteam, se encuentra disponible en formato físico y digital para PS4, PS5, Xbox One, Xbox Series y Nintendo Switch. Los jugadores de PC pueden acudir a Steam y la Epic Games Store. Lo primero que llama la atención de Alex Kidd in Miracle World DX salta a la vista y es su modernizado aspecto gráfico en alta… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A from-scratch tour of Bitcoin in Python]]></title>
+        <id>https://news.ycombinator.com/item?id=27593772</id>
+        <link href="https://karpathy.github.io/2021/06/21/blockchain/"/>
+        <updated>2021-06-22T16:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://karpathy.github.io/2021/06/21/blockchain/
+Comments URL: https://news.ycombinator.com/item?id=27593772
+Points: 641
+# Comments: 201]]></summary>
+        <author>
+            <name>yigitdemirag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Feeling guilty for doing the bare minimum at work]]></title>
+        <id>https://news.ycombinator.com/item?id=27593462</id>
+        <link href="https://news.ycombinator.com/item?id=27593462"/>
+        <updated>2021-06-22T16:08:55.000Z</updated>
+        <summary type="html"><![CDATA[For as long as I've been working professionally, I have been slacking around a lot of the time, reading blog posts, HN, often even reading (tech, biz-related) books and just doing the bare minimum for appearances sake but no one seems to notice. In the office I book a booth to work in to have some peace & quiet and have a couple of code commits prepared to not arouse suspicion. In companies with perf reviews I get some useful feedback here and there but most of the time it's positive, people love to work with me, I do get stuff done if I have to, but as soon as I can get away with doing close to nothing, I'll take the chance. I don't think I'm blocking other teams and I don't think I'm preventing my own team from having accomplishments and often people refer to me as being either partially or mostly responsible for shipping something because I manage to have a clear mind and focus when things get close to a deadline.
+If I am motivated and the task/project/product is fun I throw myself into it but that isn't sustainable. I've read a few of these posts from people at FAANG doing almost the same so I don't really feel bad about it. I'm just wondering how wide-spread this is. One of my theories for this behavior is that this is related to 40+ hour work weeks. I think I'd be able to get my devopsy work done in ~3 hours/day if I manage my time well and schedule most meetings on Mondays.
+Comments URL: https://news.ycombinator.com/item?id=27593462
+Points: 381
+# Comments: 247]]></summary>
+        <author>
+            <name>awaythrown1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Identifiers (DIDs) v1.0 (W3C draft)]]></title>
+        <id>https://news.ycombinator.com/item?id=27593406</id>
+        <link href="https://www.w3.org/TR/did-core/"/>
+        <updated>2021-06-22T16:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.w3.org/TR/did-core/
+Comments URL: https://news.ycombinator.com/item?id=27593406
+Points: 151
+# Comments: 63]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brave Search beta]]></title>
+        <id>https://news.ycombinator.com/item?id=27593360</id>
+        <link href="https://search.brave.com/"/>
+        <updated>2021-06-22T16:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://search.brave.com/
+Comments URL: https://news.ycombinator.com/item?id=27593360
+Points: 494
+# Comments: 401]]></summary>
+        <author>
+            <name>vmullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony espera que PS5 rompa su récord de ventas anual y despache más de 22,6 millones de unidades el próximo año fiscal]]></title>
+        <id>46421_v1</id>
+        <link href="https://www.elotrolado.net/noticias/consolas/ps5-record-ventas-anual"/>
+        <updated>2021-06-22T15:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Kenichiro Yoshida, director ejecutivo de Sony, ha ratificado durante una reunión con accionistas que la previsión de la compañía es que en el año fiscal 2022 (que terminará el 31 de marzo de 2023) PlayStation 5 rompa su récord de ventas anual y consiga colocar 22,6 millones de unidades. Hace unas semanas Jim Ryan, director ejecutivo de Sony Interactive Entertainment, ya apuntaba en esta dirección, pero ahora ha sido el máximo responsable de la firma japonesa quien ha lanzado el ambicioso pronóstico. Si durante el próximo año fiscal Sony logra fabricar y llevar al mercado más de 22,6… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Then – Understand how you spend your time and what influences your mood]]></title>
+        <id>https://news.ycombinator.com/item?id=27592876</id>
+        <link href="https://pupishi.com/then"/>
+        <updated>2021-06-22T15:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pupishi.com/then
+Comments URL: https://news.ycombinator.com/item?id=27592876
+Points: 83
+# Comments: 45]]></summary>
+        <author>
+            <name>alexpotrivaev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I wrote a book about Python]]></title>
+        <id>https://news.ycombinator.com/item?id=27592822</id>
+        <link href="https://pragprog.com/titles/dmpython/intuitive-python/"/>
+        <updated>2021-06-22T15:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pragprog.com/titles/dmpython/intuitive-python/
+Comments URL: https://news.ycombinator.com/item?id=27592822
+Points: 129
+# Comments: 39]]></summary>
+        <author>
+            <name>dmuller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a new kind of Bible app]]></title>
+        <id>https://news.ycombinator.com/item?id=27592473</id>
+        <link href="https://sparkbible.com"/>
+        <updated>2021-06-22T14:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sparkbible.com
+Comments URL: https://news.ycombinator.com/item?id=27592473
+Points: 242
+# Comments: 185]]></summary>
+        <author>
+            <name>theoblank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SiFive P550 Core: High-Performance RISC-V Processor]]></title>
+        <id>https://news.ycombinator.com/item?id=27592187</id>
+        <link href="https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest"/>
+        <updated>2021-06-22T14:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest
+Comments URL: https://news.ycombinator.com/item?id=27592187
+Points: 155
+# Comments: 54]]></summary>
+        <author>
+            <name>andrewnc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games lanza de forma gratuita su servicio de chat de voz y antitrampas]]></title>
+        <id>46420_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/epic-online-services-antitrampas-chat"/>
+        <updated>2021-06-22T14:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games ha ampliado el conjunto de herramientas que ofrece mediante Epic Online Services con dos nuevos servicios gratuitos: Voice y Easy Anti-Cheat. Epic Online Services está disponible para todos los desarrolladores, se puede usar en cualquier motor gráfico y tienda digital, y es multiplataforma con soporte para PC (Windows y MacOS), PlayStation, Xbox, Nintendo Switch, iOS y Android. Voice es un servicio de chat de voz multiplataforma con soporte para chats individuales y de grupo que funciona tanto en salas de espera como durante las partidas. Al usar este servicio, los datos de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSP bypass: How one Chrome XSS bug took 2.5 years and an HTML spec change to fix]]></title>
+        <id>https://news.ycombinator.com/item?id=27591657</id>
+        <link href="https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix"/>
+        <updated>2021-06-22T13:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix
+Comments URL: https://news.ycombinator.com/item?id=27591657
+Points: 57
+# Comments: 12]]></summary>
+        <author>
+            <name>weinzierl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Tencent adquiere una participación mayoritaria de Yager (Spec Ops: The Line)]]></title>
+        <id>46419_v1</id>
+        <link href="https://www.elotrolado.net/hilo_tencent-adquiere-una-participacion-mayoritaria-de-yager-spec-ops-the-line_2426839"/>
+        <updated>2021-06-22T13:22:28.000Z</updated>
+        <summary type="html"><![CDATA[En febrero de 2020 Tencent realizó una inversión en Yager y ahora la compañía ha anunciado haber llegado a un acuerdo para hacerse con la mayor parte del desarrollador alemán. Se trata del enésimo estudio que el conglomerado chino suma a su catálogo, donde figuran nombres como Riot Games, SuperCell, Funcom y Sharkmob. Yager es un estudio al que siempre se asocia a Spec Ops: The Line (2012), un juego muy bien valorado y el único del equipo alemán que realmente ha logrado trascender. Después del shooter, Yager desarrolló Dreadnought y actualmente mantiene el juego free-to-play The… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europa abre una investigación antimonopolio a Google por su tecnología de publicidad en línea]]></title>
+        <id>46418_v1</id>
+        <link href="https://www.elotrolado.net/noticias/internet/europa-google-antimonopolio-publicidad"/>
+        <updated>2021-06-22T13:06:01.000Z</updated>
+        <summary type="html"><![CDATA[La Comisión Europea abre una nueva investigación antimonopolio a Google. En esta ocasión Bruselas busca determinar si el gigante estadounidense usa su tecnología de publicidad en línea para distorsionar la competencia, al restringir a otras empresas del sector acceso a los datos de sus usuarios. Esta investigación es importante debido a que la publicidad online es el mayor negocio de Google. Según Reuters, el año pasado la compañía registró 147.000 millones de dólares en ingresos por este concepto. “Los servicios de publicidad online son la base de cómo Google y los editores monetizan… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lego Mario y Lego Luigi se podrán sincronizar y crear un modo para dos jugadores]]></title>
+        <id>46417_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/lego-mario-luigi-cooperativo"/>
+        <updated>2021-06-22T12:15:20.000Z</updated>
+        <summary type="html"><![CDATA[El aterrizaje de Luigi al universo de Lego Super Mario no se limitará al lanzamiento de un pack inicial de aventuras. Nintendo y Lego han anunciado que las figuras de los dos hermanos gemelos se podrán sincronizar para dar vida a una nueva función de juego dual, que introducirá un modo para dos jugadores cooperativo y competitivo. El objetivo de la compañía danesa es que su propuesta sea más social y promueva las actividades en familia. “Una vez conectados a través de Bluetooth, las aventuras para dos jugadores con Lego Mario y Lego Luigi (o cualquier combinación con las dos figuras)… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool]]></title>
+        <id>https://news.ycombinator.com/item?id=27590583</id>
+        <link href="https://github.com/d-edge/fasm"/>
+        <updated>2021-06-22T11:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/d-edge/fasm
+Comments URL: https://news.ycombinator.com/item?id=27590583
+Points: 111
+# Comments: 12]]></summary>
+        <author>
+            <name>aloisdg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elfcat: Visualize ELF Binaries]]></title>
+        <id>https://news.ycombinator.com/item?id=27590508</id>
+        <link href="https://github.com/ruslashev/elfcat"/>
+        <updated>2021-06-22T11:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ruslashev/elfcat
+Comments URL: https://news.ycombinator.com/item?id=27590508
+Points: 174
+# Comments: 29]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Phantom Abyss ya disponible en el acceso anticipado de Steam]]></title>
+        <id>46416_v1</id>
+        <link href="https://www.elotrolado.net/hilo_phantom-abyss-ya-disponible-en-el-acceso-anticipado-de-steam_2426823"/>
+        <updated>2021-06-22T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Devolver Digital y el desarrollador Team WIBY han recordado que desde hoy Phantom Abyss se encuentra disponible para PC mediante el acceso anticipado de Steam a cambio de 22,99 euros. El juego espera mantenerse en desarrollo durante “al menos un año”, tiempo durante el cual se añadirán nuevas características y contenido. Phantom Abyss es un juego de acción y plataformas en primera persona que reta a los jugadores a superar templos generados de manera procedimental con la misión de recuperar una serie de reliquias sagradas. El título cuenta con un modo multijugador asíncrono que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: NieR Replicant supera el millón de unidades vendidas]]></title>
+        <id>46415_v1</id>
+        <link href="https://www.elotrolado.net/hilo_nier-replicant-supera-el-millon-de-unidades-vendidas_2426822"/>
+        <updated>2021-06-22T10:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Square Enix ha revelado que desde su lanzamiento NieR Replicant ha conseguido colocar un millón de unidades entre las vendidas en formato digital y las distribuidas en formato físico. NieR Replicant, que pasa por ser una “reconstrucción moderna” del juego desarrollado por Cavia para PS3, se puso a la venta en abril para PS4, Xbox One y PC (Steam) y esta es la primera vez que trascienden sus ventas. Además, Square Enix ha actualizado las unidades despachadas de NieR: Automata, que ya suma 7 millones de copias después de cuatro años en el mercado. A día de hoy y que sepamos no hay… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sega espera que el próximo Sonic siente las bases para los siguientes juegos, como hizo Sonic Adventure hace 20 años]]></title>
+        <id>46414_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/nuevo-sonic-influyente"/>
+        <updated>2021-06-22T10:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Los detalles del nuevo Sonic son casi inexistentes, pero en Sega las expectativas son muy altas. Así lo ha reconocido Takashi Iizuka, director del Sonic Team, que en una entrevista concedida a Sonic Stadium ha reconocido que la próxima entrega de Sonic aspira a ser tan influyente como en su día lo fue Sonic Adventure (1998), un título que en opinión del diseñador japonés puso los cimientos para los juegos de la franquicia que han llegado a lo largo de los últimos 20 años. Cuando a Iizuka le preguntan si Sonic Rangers, nombre que según los rumores tendría la próxima entrega de la saga,… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -56,45 +398,6 @@ Points: 11
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Daily to shut in days unless government agrees to plea to unfreeze assets]]></title>
-        <id>https://news.ycombinator.com/item?id=27585208</id>
-        <link href="https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4"/>
-        <updated>2021-06-21T22:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4
-Comments URL: https://news.ycombinator.com/item?id=27585208
-Points: 129
-# Comments: 31]]></summary>
-        <author>
-            <name>dan-robertson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning a Classic CRT into a Smart TV]]></title>
-        <id>https://news.ycombinator.com/item?id=27585051</id>
-        <link href="https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html"/>
-        <updated>2021-06-21T21:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html
-Comments URL: https://news.ycombinator.com/item?id=27585051
-Points: 16
-# Comments: 8]]></summary>
-        <author>
-            <name>boyter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bright (YC W15) Is Hiring]]></title>
-        <id>https://news.ycombinator.com/item?id=27584424</id>
-        <link href="https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer"/>
-        <updated>2021-06-21T21:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer
-Comments URL: https://news.ycombinator.com/item?id=27584424
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>JGreenberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: Final Fantasy IX tendrá una serie de animación]]></title>
         <id>46412_v1</id>
         <link href="https://www.elotrolado.net/hilo_final-fantasy-ix-tendra-una-serie-de-animacion_2426778"/>
@@ -102,71 +405,6 @@ Points: 1
         <summary type="html"><![CDATA[El estudio francés Cyber Group Studios ha anunciado que se encuentra trabajando junto a Square Enix en una serie de animación que adaptará Final Fantasy IX. Además de producir la serie, Cyber Group Studios se encargará de la distribución, licencias y merchandising en todo el mundo. Se desconoce por ahora cuántos capítulos tendrá la serie de Final Fantasy IX y cuál será su duración o servicio de streaming que la acogerá, pero Cyber Group Studios ya ha avanzado que el público objetivo son los niños de 8 a 13 años. Está previsto que la producción empiece a finales de 2021 o principios de 2022. Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accidentally exponential behavior in Spark]]></title>
-        <id>https://news.ycombinator.com/item?id=27582645</id>
-        <link href="https://heap.io/blog/accidentally-exponential-behavior-in-spark"/>
-        <updated>2021-06-21T18:54:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://heap.io/blog/accidentally-exponential-behavior-in-spark
-Comments URL: https://news.ycombinator.com/item?id=27582645
-Points: 45
-# Comments: 16]]></summary>
-        <author>
-            <name>drob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple is building the metaverse substrate]]></title>
-        <id>https://news.ycombinator.com/item?id=27582568</id>
-        <link href="https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html"/>
-        <updated>2021-06-21T18:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html
-Comments URL: https://news.ycombinator.com/item?id=27582568
-Points: 178
-# Comments: 163]]></summary>
-        <author>
-            <name>grork</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A reference counting bug which leads to local privilege escalation in io_uring]]></title>
-        <id>https://news.ycombinator.com/item?id=27582396</id>
-        <link href="https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a"/>
-        <updated>2021-06-21T18:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
-Comments URL: https://news.ycombinator.com/item?id=27582396
-Points: 85
-# Comments: 27]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internal Amazon documents shed light on how company pressures out office workers]]></title>
-        <id>https://news.ycombinator.com/item?id=27581797</id>
-        <link href="https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/"/>
-        <updated>2021-06-21T18:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/
-Comments URL: https://news.ycombinator.com/item?id=27581797
-Points: 349
-# Comments: 264]]></summary>
-        <author>
-            <name>flowerlad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Windows 10 slow down with each feature update?]]></title>
-        <id>https://news.ycombinator.com/item?id=27581762</id>
-        <link href="https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/"/>
-        <updated>2021-06-21T17:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/
-Comments URL: https://news.ycombinator.com/item?id=27581762
-Points: 216
-# Comments: 226]]></summary>
-        <author>
-            <name>pcr910303</name>
         </author>
     </entry>
     <entry>
@@ -180,58 +418,6 @@ Points: 216
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rhode island makes financial literacy classes required for high school students]]></title>
-        <id>https://news.ycombinator.com/item?id=27581359</id>
-        <link href="https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/"/>
-        <updated>2021-06-21T17:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/
-Comments URL: https://news.ycombinator.com/item?id=27581359
-Points: 213
-# Comments: 166]]></summary>
-        <author>
-            <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plotly.py 5.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27581336</id>
-        <link href="https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039"/>
-        <updated>2021-06-21T17:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039
-Comments URL: https://news.ycombinator.com/item?id=27581336
-Points: 93
-# Comments: 24]]></summary>
-        <author>
-            <name>nicolaskruchten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhizome – A pedagogical example of a JIT for Ruby, implemented in Ruby]]></title>
-        <id>https://news.ycombinator.com/item?id=27581257</id>
-        <link href="https://github.com/chrisseaton/rhizome"/>
-        <updated>2021-06-21T17:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/chrisseaton/rhizome
-Comments URL: https://news.ycombinator.com/item?id=27581257
-Points: 237
-# Comments: 30]]></summary>
-        <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What it felt like to be awake during invasive brain surgery]]></title>
-        <id>https://news.ycombinator.com/item?id=27581108</id>
-        <link href="https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/"/>
-        <updated>2021-06-21T17:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/
-Comments URL: https://news.ycombinator.com/item?id=27581108
-Points: 57
-# Comments: 13]]></summary>
-        <author>
-            <name>masijo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Electronic Arts podría revivir una de sus franquicias y los rumores apuntan a Dead Space]]></title>
         <id>46409_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/dead-space-revive"/>
@@ -242,79 +428,13 @@ Points: 57
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrej Karpathy (Tesla): CVPR 2021 Workshop on Autonomous Vehicles [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27580744</id>
-        <link href="https://www.youtube.com/watch?v=eOL_rCK59ZI&amp;t=28293s"/>
-        <updated>2021-06-21T16:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=eOL_rCK59ZI&t=28293s
-Comments URL: https://news.ycombinator.com/item?id=27580744
-Points: 134
-# Comments: 106]]></summary>
-        <author>
-            <name>vpj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Tuning Transformers for NLP]]></title>
-        <id>https://news.ycombinator.com/item?id=27579702</id>
-        <link href="https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp"/>
-        <updated>2021-06-21T14:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
-Comments URL: https://news.ycombinator.com/item?id=27579702
-Points: 61
-# Comments: 5]]></summary>
-        <author>
-            <name>dylanbfox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git undo: We can do better]]></title>
-        <id>https://news.ycombinator.com/item?id=27579701</id>
-        <link href="https://blog.waleedkhan.name/git-undo/"/>
-        <updated>2021-06-21T14:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.waleedkhan.name/git-undo/
-Comments URL: https://news.ycombinator.com/item?id=27579701
-Points: 558
-# Comments: 348]]></summary>
-        <author>
-            <name>arxanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: I was hit with a patent troll lawsuit, how do I deal with it?]]></title>
-        <id>https://news.ycombinator.com/item?id=27579693</id>
-        <link href="https://news.ycombinator.com/item?id=27579693"/>
-        <updated>2021-06-21T14:48:27.000Z</updated>
-        <summary type="html"><![CDATA[This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...
-I'm a one person company and have no idea what to do.
-Comments URL: https://news.ycombinator.com/item?id=27579693
-Points: 683
-# Comments: 269]]></summary>
-        <author>
-            <name>jblake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Después de once años, Katsuhiro Harada confirma que Tekken x Street Fighter ha muerto]]></title>
-        <id>46408_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/tekken-x-street-fighter-cancelado"/>
+        <title type="html"><![CDATA[Después de once años, Katsuhiro Harada confirma que Tekken x Street Fighter sigue en pausa (Actualizada)]]></title>
+        <id>46408_v5</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/tekken-x-street-fighter-vivo"/>
         <updated>2021-06-21T14:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Aquellos que todavía mantienen la esperanza de ver a Tekken x Street Fighter, un juego de lucha en 3D con los personajes de ambas franquicias, ya pueden deshacerse de ella. Once años después de su anuncio oficial, Katsuhiro Harada, productor y creador de la saga Tekken, ha confirmado que Tekken x Street Fighter ha sido cancelado. Durante la última emisión del Harada's Bar, un canal de YouTube en el que Harada habla con diferentes miembros de la industria de los videojuegos japonesa, el desarrollador ha reconocido que el proyecto Tekken x Street Fighter en el que se encontraba… Leer noticia completa y comentarios »]]></summary>
+        <summary type="html"><![CDATA[Actualización: Katsuhiro Harada ha enviado un mensaje vía Twitter para aclarar la situación de Tekken x Street Fighter y reconocer que un error en la traducción de sus palabras ha causado un malentendido. En concreto, cuando el juego se describe como "muerto" en los subtítulos, en realidad Harada dijo "pausado". Esto significa que proyecto está detenido pero vivo y más adelante se podría retomar su producción. Noticia original: Aquellos que todavía mantienen la esperanza de ver a Tekken x Street Fighter, un juego de lucha en 3D con los personajes de ambas franquicias, ya pueden… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 8.4 GA]]></title>
-        <id>https://news.ycombinator.com/item?id=27579297</id>
-        <link href="https://rockylinux.org/news/rocky-linux-8-4-ga-release/"/>
-        <updated>2021-06-21T14:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rockylinux.org/news/rocky-linux-8-4-ga-release/
-Comments URL: https://news.ycombinator.com/item?id=27579297
-Points: 51
-# Comments: 4]]></summary>
-        <author>
-            <name>tkuraku</name>
         </author>
     </entry>
     <entry>
@@ -398,126 +518,6 @@ Points: 51
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oculus Quest también se actualiza con Air Link para jugar sin cables]]></title>
-        <id>46399_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/visor-oculus-quest-sin-cables-air-link"/>
-        <updated>2021-06-18T10:35:27.000Z</updated>
-        <summary type="html"><![CDATA[A mediados de abril Oculus daba una excelente noticia a los propietarios de un visor autónomo Quest 2 al anunciar que serían actualizados con la tecnología Air Link para poder utilizarlos como si fueran visores de PC sin cables. En ese momento algunas personas se preguntaban por qué la segunda generación sí y la primera no. Bien, hoy el fabricante de visores de realidad virtual también ha querido alegrarles el día a ellos, puesto que el primer Oculus Quest también será actualizado. Según ha indicado Oculus en su blog oficial, gracias a la actualización v30 los visores Quest ganarán… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metro Exodus debuta en PS5 y Xbox Series con 4K, 60 FPS e iluminación con trazado de rayos]]></title>
-        <id>46398_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/metro-exodus-ps5-xbox-series-lanzamiento"/>
-        <updated>2021-06-18T10:18:21.000Z</updated>
-        <summary type="html"><![CDATA[4A Games ha mostrado el tráiler de lanzamiento de Metro Exodus para celebrar que la Enhanced Edition ya se encuentra disponible para PlayStation 5 y Xbox Series. Esta versión se ofrece mediante una actualización gratuita para los propietarios de una copia de PlayStation 4 y Xbox One. Además, desde hoy en las tiendas físicas se puede encontrar Metro Exodus Complete Collection, que incluye el juego original y las expansiones The Two Colonels y Sam's Story a cambio de 39,99 euros. Para llevar Metro Exodus a las consolas de nueva generación 4A Game ha renovado su motor gráfico y gracias a… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: A Plague Tale: Innocence llegará a PS5, Xbox Series y Switch el 6 de julio]]></title>
-        <id>46397_v1</id>
-        <link href="https://www.elotrolado.net/hilo_a-plague-tale-innocence-llegara-a-ps5-xbox-series-y-switch-el-6-de-julio_2426454"/>
-        <updated>2021-06-18T08:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Focus Home Interactive ha anunciado que A Plague Tale: Innocence mejorará para PS5 y Xbox Series, consolas en las que el juego se ejecutará a 4K/60 FPS y tendrá soporte para audio 3D. Esta versión estará disponible el 6 de julio, el mismo día que el juego de Asobo Studio llegará a Nintendo Switch mediante una versión en la nube. A Plague Tale: Innocence sigue la historia de Amicia y su hermano pequeño Hugo, que en 1349, cuando la peste negra asola el Reino de Francia, son perseguidos por la Inquisición. Su objetivo es sobrevivir. La campaña de los hermanos tendrá continuidad en 2022… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Flight Simulator recibirá cinco mejoras para que sea más accesible cuando llegue a Xbox Series]]></title>
-        <id>46396_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/microsoft-flight-simulator-xbox-series-accesibilidad"/>
-        <updated>2021-06-17T23:05:18.000Z</updated>
-        <summary type="html"><![CDATA[Por primera vez en la historia Microsoft Flight Simulator llegará a una consola, en concreto a Xbox Series el 27 de julio. Esto significa que la audiencia aumentará considerablemente y muchos de los nuevos jugadores no habrán probado antes una entrega de esta veterana saga. Por este motivo Asobo Studio ha trabajado en aumentar y mejorar las opciones de accesibilidad. “Si te vas a convertir en piloto, lo primero que debes hacer es un vuelo Discovery”, dice Jorg Neumann, responsable de Flight Simulator en Microsoft. “Básicamente es un instructor de vuelo que hace la mayor parte del… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Age of Empires IV completa sus ocho civilizaciones iniciales con el Sacro Imperio Romano Germánico y los Rus]]></title>
-        <id>46395_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/age-of-empires-iv-civilizaciones"/>
-        <updated>2021-06-17T21:48:25.000Z</updated>
-        <summary type="html"><![CDATA[World’s Edge, el estudio que apoya a Relic Entertainment en el desarrollo Age of Empires IV, ha revelado las dos últimas civilizaciones que estarán disponibles desde el primer día en el juego de estrategia en tiempo real. Se trata del Sacro Imperio Romano Germánico y los Rus, que llegarán acompañados de la campaña El Ascenso de Moscú. Además, Adam Isgreen, director creativo de World’s Edge, ha ofrecido algunos detalles sobre los franceses y el califato abasí, las dos civilizaciones que se revelaron la semana pasada, y hablado de los combates navales. A continuación, las ocho… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninja Theory está creando una “buena parte” de Hellblade II antes de meterse de lleno en la producción]]></title>
-        <id>46394_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/hellblade-ii-desarrollo-trailer"/>
-        <updated>2021-06-17T20:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Senua’s Saga: Hellblade II se presentó junto al diseño de Xbox Series X a finales de 2019 y muchos esperaban ver el nuevo juego de Ninja Theory en el E3 2021, pero fue así. Hoy, durante un evento llamado Xbox Games Showcase Extended, la cosa ha cambiado y el estudio británico ha ofrecido una actualización sobre el estado de desarrollo del juego, que aún no está en plena producción. Parece que los jugadores deberán armarse de paciencia. “Quería contaros las últimas novedades sobre el trabajo realizado hasta la fecha en Senua’s Saga: Hellblade II”, dice Tameen Antoniades, director… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Design Lab vuelve para personalizar el mando de Xbox Series]]></title>
-        <id>46393_v1</id>
-        <link href="https://www.elotrolado.net/noticias/consolas/xbox-design-lab-mando-series"/>
-        <updated>2021-06-17T18:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft ha anunciado que Xbox Design Lab, una iniciativa que permite personalizar de diferentes formas el mando de Xbox, vuelve a estar disponible y ofrece soporte para el mando de nueva generación que debutó junto a Xbox Series. Los interesados ya pueden pasarse por la web oficial para configurar su propio periférico con “millones de combinaciones”. Los mandos de Xbox Design Lab tienen un precio de 69,99 dólares. Gracias al programa Xbox Design Lab los usuarios pueden personalizar casi todas las partes externas del mando, incluyendo el esquema de color del cuerpo, la cruceta… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Boomerang X estará disponible el 8 de julio]]></title>
-        <id>46392_v1</id>
-        <link href="https://www.elotrolado.net/hilo_boomerang-x-estara-disponible-el-8-de-julio_2426401"/>
-        <updated>2021-06-17T15:50:40.000Z</updated>
-        <summary type="html"><![CDATA[El editor Devolver Digital ha anunciado que Boomerang X un “FPB (First Person Boomeranger)” desarrollado por DANG!, estará disponible el 8 de julio en Nintendo Switch y PC (Steam). Aquellos que quieran probar el juego tienen a su disposición una demo en la plataforma de Valve. Boomerang X es un juego de acción y plataformas en primera persona donde los jugadores deben usar un boomerang dentado como una sierra para acabar con los enemigos a la vez que usan poderes como ralentizar el tiempo y la habilidad de catapultarse por el aire. Viaja por escenarios otrora bulliciosos, sacrificados… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Overcooked! 2 y Hell is Other Demons gratis en la Epic Games Store]]></title>
-        <id>46391_v1</id>
-        <link href="https://www.elotrolado.net/hilo_overcooked-2-y-hell-is-other-demons-gratis-en-la-epic-games-store_2426398"/>
-        <updated>2021-06-17T15:11:06.000Z</updated>
-        <summary type="html"><![CDATA[Desde hoy y hasta el 24 de junio a las 17:00 horas los usuarios de la Epic Games Store pueden sumar a la biblioteca digital los juegos Overcooked! 2 y Hell is Other Demons. La próxima semana será el turno de Sonic Mania y Horizon Chase Turbo. Overcooked! 2 es un juego de acción culinaria donde los jugadores deben viajar hasta el Reino de la Cebolla para participar en clásicas partidas multijugador en modo cooperativo local o en línea para hasta cuatro participantes. Por su parte, Hell is Other Demons es un bullet hell con elementos de roguelike con un mundo dibujado a mano y una banda… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: It Takes Two alcanza los 2 millones de unidades vendidas]]></title>
-        <id>46390_v1</id>
-        <link href="https://www.elotrolado.net/hilo_it-takes-two-alcanza-los-2-millones-de-unidades-vendidas_2426397"/>
-        <updated>2021-06-17T14:55:37.000Z</updated>
-        <summary type="html"><![CDATA[Hazelight Studios ha comunicado vía Twitter que el juego cooperativo It Takes Two ha conseguido llegar a los 2 millones de unidades después de tres meses en el mercado. El título no ofrece una campaña en solitario y eso significa que 4 millones de jugadores han vivido la aventura protagonizada por Cody y May. It Takes Two se puso a la venta a finales de marzo con versión para PS4, PS5, Xbox One, Xbox Series y PC (Steam, Origin), y el primer millón de unidades vendidas lo consiguió despachar en un mes. Actualmente Hazelight Studios y Josef Fares, máximo responsable del estudio, ya se… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El MOBA Pokémon Unite estará disponible en julio para Switch y en septiembre llegará a los móviles]]></title>
-        <id>46389_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/pokemon-unite-lanzamiento-switch-movil"/>
-        <updated>2021-06-17T14:29:28.000Z</updated>
-        <summary type="html"><![CDATA[The Pokémon Company ha anunciado que Pokémon Unite estará disponible en julio para Nintendo Switch, mientras que la versión para los dispositivos móviles se podrá descargar en septiembre. Junto al anuncio de la ventana de lanzamiento para el MOBA free-to-play desarrollado por TiMi Studio Group, una filial de Tencent, se han revelado los detalles sobre el juego y la progresión cruzada entre Nintendo Switch, iOS y Android. “Está planeado que haya conexión multiplataforma entre Nintendo Switch y dispositivos móviles, gracias a la cual los jugadores podrán conectarse y combatir entre… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Microsoft confirma el nuevo diseño de las cajas de Xbox]]></title>
-        <id>46388_v1</id>
-        <link href="https://www.elotrolado.net/hilo_microsoft-confirma-el-nuevo-diseno-de-las-cajas-de-xbox_2426386"/>
-        <updated>2021-06-17T13:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Hace unos días Best Buy listó varios juegos de Xbox con un nuevo diseño y ahora Microsoft ha confirmado que el cambio es real. La compañía afirma que el nuevo packaging ha sido diseñado para que el arte del juego ocupe un lugar central, al mismo tiempo que se deja más claro las plataformas y las funciones con las que es compatible el título (como Smart Delivery). En el pasado las cajas de Xbox han sido criticadas por diseño recargado que llegó a incluir un gran logo donde se indicaba que el juego estaba optimizado para Xbox Series. Como podéis ver en la comparación que tenéis a… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rogue Lords 'Disciples' Trailer]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-5686916792620964060</id>
         <link href="https://www.allgamesdelta.net/2021/05/rogue-lords-disciples-trailer.html"/>
@@ -560,74 +560,6 @@ Points: 51
    Blazing Strike features a 4-button system with six normal attacks: light, medium and heavy punches and kicks, as well as three defense moves: block, guard and parry. A Rush Trigger enables fighters to execute fast-paced attacks and movements, but using it will slowly drain the Rush Meter, sending the character into a temporary groggy state. This allows players to execute exciting combos while having to manage the Rush Meter. The game will include three play modes: Story Mode, Arcade Mode and VS Mode, with training, sparring and online match via Persona AI, and online play powered by GGPO.
    
  Blazing Strike has not yet been rated by the ESRB. To stay up to date on all the news, follow Aksys Games on Twitter and Instagram at @AksysGames, and join our Thursday livestreams on Twitch at aksysgames, with stream highlights and trailers on our YouTube channel.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Silver announces reformation of Free Radical Design to develop next TimeSplitters game]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7823084832112145693</id>
-        <link href="https://www.allgamesdelta.net/2021/05/deep-silver-announces-reformation-of.html"/>
-        <updated>2021-05-24T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Development Commencing on next TimeSplitters; Deep Silver confirmed as publisher
- Deep Silver has announced the formation of a new studio that will bring the much-loved TimeSplitters brand back to life. Key original members of the Free Radical Design team, including founders Steve Ellis and David Doak, have reunited to reform Free Radical Design.
-  The highly regarded Free Radical Design team has a twenty-two year heritage under various guises and is responsible for some of the best loved, most iconic video games of the early 2000s, including TimeSplitters – the first title it released in 2000.  The critically acclaimed TimeSplitters series went on to include two further iterations, all of which were loaded with humorous pop culture references as players battle across various locations and historical periods.
-  “It’s this unique style that earned the TimeSplitters series a large and passionate following who will, without doubt, be excited by the formation of Deep Silver’s latest studio and will look forward to learning more as the franchise moves forward,” said Paul Nicholls, Global Brand and Marketing Director at Deep Silver.
-  “To finally be able to confirm that the studio has been formed and that we have a plan for the next TimeSplitters game is incredible,” commented Steve Ellis, Studio Development Director at Free Radical Design. “While we cannot tell you anything more at the moment, we look forward to sharing information in the future.”
-  The Free Radical Design team will commence development on the next TimeSplitters game in the coming months; for now they are concentrating on building the studio, which will be situated in the Nottingham area. Open positions within the studio will be advertised in due course.
-  Free Radical Design is a Deep Silver studio following the purchase of the TimeSplitters IP IP by Deep Silver owners Koch Media in 2018.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The King of Fighters XV Ralf Jones and Clark Still Trailer and Screenshots]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-1734949059279327338</id>
-        <link href="https://www.allgamesdelta.net/2021/05/the-king-of-fighters-xv-ralf-jones-and.html"/>
-        <updated>2021-05-24T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Leona Heidern - Chris - Shermie - Mai Shiranui - Yashiro Nanakase - Yuri Sakazaki
-   Team Art of Fighting:     Ryo Sakazaki and Robert Garcia - King
-  Team Fatal Fury: Terry Bogard - Andy Bogard - Joe Higashi
- Team Sacred Treasures: Kyo Kusanagi - Chizuru Kagura - Iori Yagami
- Team Hero: Shun’ei - Meitenkun - Benimaru Nikaido]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project GAMM by Cygames First Screenshots and Artwork]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-8009314009227004739</id>
-        <link href="https://www.allgamesdelta.net/2021/05/project-gamm-by-cygames-first.html"/>
-        <updated>2021-05-24T09:04:00.000Z</updated>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinocchio-inspired Soulslike Action RPG Lies of P Announced for PS5, Xbox Series & PC]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-7096717664048932232</id>
-        <link href="https://www.allgamesdelta.net/2021/05/pinocchio-inspired-soulslike-action-rpg.html"/>
-        <updated>2021-05-24T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Neowiz Announces Lies of P - A Darkly Baroque Take on the Story of Pinocchio
- Neowiz and Round8 Studio announced Lies of P, a brand new Souls-like Action RPG inspired by the classic Italian novel from Carlo Collodi. Built from the ground up using Unreal Engine 4 for PC, PlayStation 5, and the Xbox Series S/X systems, Lies of P tells the story of Pinocchio like you’ve never seen it before. As Pinocchio himself, you must navigate through a dark Belle Epoque world where all of humanity is lost. The once beautiful city of Krat has become a living hell, and you must find the famed Mr. Geppetto to unravel the mystery of what happened to both yourself and the world around you.
-   
- “We’ve been toying with the idea of retelling Pinocchio’s tale in our own way for some time. Lies of P is the culmination of our dreams and our nightmares. It’s definitely a version of this classic story that you’ve never seen before,” said Jiwon Choi, the director of development for Lies of P. “To us, Pinocchio has always been a grimly dark tale of the lies we tell to get by in a world that’s not always black and white. We can’t wait to show you more of the game in the coming months.”
-  
- As the puppet mechanoid Pinocchio, you will wind your way through the streets of a ruined city, crafting weapons from the materials you find in the world, and interacting with the remaining few who manage to survive in this pre-industrial hellscape. The more you lie, the more human you become, with all the advantages and disadvantages that it entails. A richly detailed crafting system, profound narrative choices, and deeply customizable character progression round out the RPG features in Lies of P.
-  Stay tuned in the coming months for gameplay details, character reveals, and much more. Please visit the Steam page and wishlist the game to receive updates.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dark Pictures Anthology: House of Ashes Teaser Trailer]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-2844974234725147447</id>
-        <link href="https://www.allgamesdelta.net/2021/05/the-dark-pictures-anthology-house-of.html"/>
-        <updated>2021-05-24T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Teasser Trailer Unearthed for The Dark Pictures Anthology: House of Ashes Ahead of May 27 Gameplay Reveal
- In The Dark Pictures Anthology: House of Ashes, the year is 2003, and in the shadow of the Zagros mountains in Iraq, a military unit comes under fire from Iraqi forces. The resulting firefight causes a heavy tremor, opening up a rift in the earth that swallows both sides, causing soldiers to fall into the ruins of a buried Sumerian temple. With all communication severed, our protagonists are trapped in a terrifying underworld they must navigate to escape, unaware that something ancient and evil has awakened in the shadows and has found a new prey to hunt.
-  Before a more in-depth look at House of Ashes’ gameplay, which will be revealed on Thursday, May 27 at 9:00am PT, you can get a first glimpse of its unique atmosphere in this teaser trailer.
-   The Dark Pictures Anthology: House of Ashes will be available this year on Xbox Series X|S, Xbox One, PlayStation 5, PlayStation 4 and PC.]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
