@@ -2,34 +2,387 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:56:10.973Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:51:24.573Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Rival weightlifter speaks out on transgender Hubbard's Olympic place]]></title>
-        <id>https://news.ycombinator.com/item?id=27598383</id>
-        <link href="https://www.insidethegames.biz/articles/1108399/anna-vanbellinghen-hubbard"/>
-        <updated>2021-06-22T22:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.insidethegames.biz/articles/1108399/anna-vanbellinghen-hubbard
-Comments URL: https://news.ycombinator.com/item?id=27598383
-Points: 43
-# Comments: 32]]></summary>
+        <title type="html"><![CDATA[Los servidores de Xbox Cloud Gaming empiezan a recibir el hardware de Xbox Series X]]></title>
+        <id>46437_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/xcloud-hardware-xbox-series-x"/>
+        <updated>2021-06-23T23:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Dos semanas después de que Microsoft comentase que se encontraba en “las últimas etapas” del proceso de actualizar los centros de datos de Xbox Cloud Gaming (xCloud) con el hardware de nueva generación de Xbox Series X, llegan los primeros resultados. Medios como The Verge y Ars Technica han podido comprobar que algunos juegos disponibles en Xbox Game Pass han aumentado su rendimiento cuando se juega en la nube hasta ofrecer las mismas prestaciones que en Xbox Series X. Ahora que algunos servidores Xbox Cloud Gaming equipan el mismo chip que una Xbox Series X, cuando se juega en… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>leephillips</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Effects of cat ownership on the gut microbiota of owners]]></title>
-        <id>https://news.ycombinator.com/item?id=27598292</id>
-        <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133"/>
-        <updated>2021-06-22T22:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133
-Comments URL: https://news.ycombinator.com/item?id=27598292
-Points: 79
-# Comments: 35]]></summary>
+        <title type="html"><![CDATA[Pulling GitHub into the Linux kernel process]]></title>
+        <id>https://news.ycombinator.com/item?id=27611704</id>
+        <link href="https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/"/>
+        <updated>2021-06-23T23:07:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/
+Comments URL: https://news.ycombinator.com/item?id=27611704
+Points: 30
+# Comments: 29]]></summary>
         <author>
-            <name>mleonhard</name>
+            <name>chmaynard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lego Island Rebuilder]]></title>
+        <id>https://news.ycombinator.com/item?id=27611433</id>
+        <link href="https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder"/>
+        <updated>2021-06-23T22:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder
+Comments URL: https://news.ycombinator.com/item?id=27611433
+Points: 28
+# Comments: 8]]></summary>
+        <author>
+            <name>app4soft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Older unlisted videos will be made private unless you opt out”]]></title>
+        <id>https://news.ycombinator.com/item?id=27610409</id>
+        <link href="https://support.google.com/youtube/answer/9230970"/>
+        <updated>2021-06-23T21:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://support.google.com/youtube/answer/9230970
+Comments URL: https://news.ycombinator.com/item?id=27610409
+Points: 179
+# Comments: 106]]></summary>
+        <author>
+            <name>tech234a</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis]]></title>
+        <id>https://news.ycombinator.com/item?id=27610289</id>
+        <link href="https://www.workatastartup.com/jobs/44386"/>
+        <updated>2021-06-23T21:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/44386
+Comments URL: https://news.ycombinator.com/item?id=27610289
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>saurabh20n</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unravelling the Enigma of Bird Magnetoreception]]></title>
+        <id>https://news.ycombinator.com/item?id=27610181</id>
+        <link href="https://www.nature.com/articles/d41586-021-01596-6"/>
+        <updated>2021-06-23T20:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01596-6
+Comments URL: https://news.ycombinator.com/item?id=27610181
+Points: 23
+# Comments: 5]]></summary>
+        <author>
+            <name>onychomys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientist finds early virus sequences that had been mysteriously deleted]]></title>
+        <id>https://news.ycombinator.com/item?id=27609919</id>
+        <link href="https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html"/>
+        <updated>2021-06-23T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html
+Comments URL: https://news.ycombinator.com/item?id=27609919
+Points: 190
+# Comments: 111]]></summary>
+        <author>
+            <name>gumby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John McAfee found dead in Spanish jail after court approves extradition to US]]></title>
+        <id>https://news.ycombinator.com/item?id=27609027</id>
+        <link href="https://www.bbc.com/news/world-europe-57589822"/>
+        <updated>2021-06-23T19:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57589822
+Comments URL: https://news.ycombinator.com/item?id=27609027
+Points: 1332
+# Comments: 662]]></summary>
+        <author>
+            <name>ews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drug researchers discover potent class of molecules that kills malaria parasite]]></title>
+        <id>https://news.ycombinator.com/item?id=27608387</id>
+        <link href="https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite"/>
+        <updated>2021-06-23T18:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite
+Comments URL: https://news.ycombinator.com/item?id=27608387
+Points: 52
+# Comments: 4]]></summary>
+        <author>
+            <name>elorant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Siege Survival: Gloria Victis recibe el contenido gratuito La Caravana Perdida]]></title>
+        <id>46436_v1</id>
+        <link href="https://www.elotrolado.net/hilo_siege-survival-gloria-victis-recibe-el-contenido-gratuito-la-caravana-perdida_2426960"/>
+        <updated>2021-06-23T18:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Koch Media y el desarrollador Black Eye Games han anunciado que los jugadores de Siege Survival: Gloria Victis ya tienen disponible La Caravana Perdida, el primer DLC gratuito que recibe el juego. Su contenido incluye un escenario que relata la historia de la tripulación de una caravana que ha sufrido una emboscada y se encuentra atrapada dentro de un caravasar en desierto. “El escenario añade dimensiones adicionales al juego”, explica Black Eye Game. “El propio sol resulta ahora una amenaza, por lo que la búsqueda de tesoros se realiza ahora durante el día, cuando los enemigos están… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Sniper Ghost Warrior Contracts 2 para PS5 se estrenará el 24 de agosto]]></title>
+        <id>46435_v1</id>
+        <link href="https://www.elotrolado.net/hilo_sniper-ghost-warrior-contracts-2-para-ps5-se-estrenara-el-24-de-agosto_2426958"/>
+        <updated>2021-06-23T17:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Sniper Ghost Warrior Contracts 2 se puso a la venta el 4 de junio sin versión para PlayStation 5, pero con la promesa de que el juego llegaría a esta plataforma más adelante. Hoy ya sabemos que ese más adelante será el 24 de agosto, día en el que el juego desarrollado por el estudio polaco CI Games estará disponible en la nueva consola de Sony. En PS5, Sniper Ghost Warrior Contracts 2 ofrecerá soporte para los gatillos adaptativos del mando Dualsense, tiempos de carga mejorados, nuevas texturas y efectos visuales, así como la posibilidad de jugar en modo de rendimiento (2K a 60 FPS) o… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: La aventura narrativa Lost at Sea estará disponible el 15 de julio]]></title>
+        <id>46434_v1</id>
+        <link href="https://www.elotrolado.net/hilo_la-aventura-narrativa-lost-at-sea-estara-disponible-el-15-de-julio_2426957"/>
+        <updated>2021-06-23T17:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Studio Fizbin, un equipo independiente afincado en Alemania, y el editor Headup, han anunciado que la aventura narrativa Lost at Sea debutará el 15 de julio en PlayStation 5, Xbox Series y PC (Steam). Aquellos que quieran probar el título antes de que se ponga a la venta tienen disponible hasta el 27 de junio una demo en Steam. “En Lost at Sea, vivimos momentos de la vida de Anna, unos momentos que todos reconocemos y que nos hacen preguntarnos cómo se ha apoderado la vida de nosotros de repente y no al revés”, dice Studio Fizbin. Para vivir la vida de Anna los jugadores deberán… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: El juego de plataformas en 2D Vesper se pondrá a la venta el 30 de julio]]></title>
+        <id>46433_v1</id>
+        <link href="https://www.elotrolado.net/hilo_el-juego-de-plataformas-en-2d-vesper-se-pondra-a-la-venta-el-30-de-julio_2426956"/>
+        <updated>2021-06-23T17:25:29.000Z</updated>
+        <summary type="html"><![CDATA[El desarrollador italiano Cordens Interactive ha anunciado que Vesper, un juego de plataformas y rompecabezas en 2D, estará disponible el 30 de julio para PC mediante Steam y GOG bajo el sello de Deck13. Junto a la fecha de lanzamiento se ha liberado una nueva demo para que los interesados puedan probar el título. Vesper tiene como protagonista a Seven, un pequeño androide que vaga por un planeta donde todavía quedan rastros de una antigua civilización. Su única arma es un Cañón inyector que le permite absorber luces, crear oscuridad y controlar mentes, tres acciones con las que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEORV32: A customizable RISC-V SoC]]></title>
+        <id>https://news.ycombinator.com/item?id=27607161</id>
+        <link href="https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/"/>
+        <updated>2021-06-23T17:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/
+Comments URL: https://news.ycombinator.com/item?id=27607161
+Points: 54
+# Comments: 7]]></summary>
+        <author>
+            <name>_quarks_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Alpas (YC W21) – Software to find suppliers for industrial parts]]></title>
+        <id>https://news.ycombinator.com/item?id=27606860</id>
+        <link href="https://news.ycombinator.com/item?id=27606860"/>
+        <updated>2021-06-23T17:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we are Nils, Isabel, and Chris - the founders of Alpas (https://alpas.ai/). We make it fast and easy for medium to large size manufacturers to find suppliers for industrial parts.
+Why does this matter? Buyers at manufacturing companies face high pressure to cut costs. Supplier sourcing is still very manual and takes up to 45% of a buyer's time. Due to the lack of research time, buyers rarely close deals at optimal conditions. Recently, Covid-19 and material shortages have further accelerated the need for more transparent supply chains.
+Isabel came across this problem during her work as an investment analyst. She realized that optimizing procurement – the buying of goods and services – is one of the most important ways for industrial firms to save costs: more than 50% of revenue is s…]]></summary>
+        <author>
+            <name>NilsVollmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El shooter cooperativo Aliens: Fireteam Elite estará disponible el 24 de agosto]]></title>
+        <id>46432_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/aliens-fireteam-elite-fecha"/>
+        <updated>2021-06-23T16:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Después de varios años dando tumbos mientras desarrollaba en Aliens: Fireteam Elite (ese Elite ha aparecido por parte de magia desde el anuncio del juego), Cold Iron Studios ha anunciado junto a Focus Home Interactive que su título estará disponible el 24 de agosto en PS4, PS5, Xbox One, Xbox Series y PC (Steam). Además de la fecha de lanzamiento, desarrollador y editor han comunicado que el juego ya se puede reservar en dos ediciones diferentes, estándar (39,99 euros) y Digital Deluxe (69,99 euros). Aliens: Fireteam Elite es un shooter en tercera persona con elementos de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New GitHub Issues Beta]]></title>
+        <id>https://news.ycombinator.com/item?id=27606657</id>
+        <link href="https://github.com/features/issues"/>
+        <updated>2021-06-23T16:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/features/issues
+Comments URL: https://news.ycombinator.com/item?id=27606657
+Points: 395
+# Comments: 167]]></summary>
+        <author>
+            <name>splitbrain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Fuzzynote – terminal-based, CRDT-backed, collaborative note-taking]]></title>
+        <id>https://news.ycombinator.com/item?id=27606604</id>
+        <link href="https://github.com/Sambigeara/fuzzynote"/>
+        <updated>2021-06-23T16:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Sambigeara/fuzzynote
+Comments URL: https://news.ycombinator.com/item?id=27606604
+Points: 94
+# Comments: 18]]></summary>
+        <author>
+            <name>sambigeara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alias-Free GAN]]></title>
+        <id>https://news.ycombinator.com/item?id=27606347</id>
+        <link href="https://nvlabs.github.io/alias-free-gan/"/>
+        <updated>2021-06-23T16:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nvlabs.github.io/alias-free-gan/
+Comments URL: https://news.ycombinator.com/item?id=27606347
+Points: 273
+# Comments: 42]]></summary>
+        <author>
+            <name>nurpax</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: iPod.js – An online iPod that connects to Spotify and Apple Music]]></title>
+        <id>https://news.ycombinator.com/item?id=27606099</id>
+        <link href="https://tannerv.com/ipod"/>
+        <updated>2021-06-23T16:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tannerv.com/ipod
+Comments URL: https://news.ycombinator.com/item?id=27606099
+Points: 604
+# Comments: 112]]></summary>
+        <author>
+            <name>tonyhawkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Marae – my attempt to build the AR cloud]]></title>
+        <id>https://news.ycombinator.com/item?id=27606094</id>
+        <link href="http://scriber.tech/Marae.html"/>
+        <updated>2021-06-23T16:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://scriber.tech/Marae.html
+Comments URL: https://news.ycombinator.com/item?id=27606094
+Points: 21
+# Comments: 20]]></summary>
+        <author>
+            <name>realiswhatyoufe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Prosperous Software Consultant (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27605835</id>
+        <link href="https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd"/>
+        <updated>2021-06-23T15:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd
+Comments URL: https://news.ycombinator.com/item?id=27605835
+Points: 117
+# Comments: 56]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need for Speed: Hot Pursuit Remastered, Worms Rumble, Iron Harvest y más se unen a Xbox Game Pass]]></title>
+        <id>46431_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/xbox-game-pass-junio-julio-2021"/>
+        <updated>2021-06-23T15:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Xbox Game Pass fue una de las grandes estrellas del Xbox & Bethesda Games Showcase celebrado en el E3 2021, pero aún hay más. Hoy Microsoft ha anunciado una nueva oleada de juegos que durante los próximos días se unirán al servicio y entre ellos tenemos a Need for Speed: Hot Pursuit Remastered (EA Play), Worms Rumble y Iron Harvest. Además, los suscriptores de Xbox Game Pass Ultimate podrán acceder antes que nadie al juego free-to-play basado en la película Space Jam: A New Legacy, que se estrenará en los cines el 16 de julio. Empezamos por el final y la novedad: Space Jam: A New… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Librem 5 Evergreen vs. PinePhone (Part 2)]]></title>
+        <id>https://news.ycombinator.com/item?id=27605712</id>
+        <link href="https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/"/>
+        <updated>2021-06-23T15:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/
+Comments URL: https://news.ycombinator.com/item?id=27605712
+Points: 121
+# Comments: 81]]></summary>
+        <author>
+            <name>ThatGeoGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maplibre: community-driven Mapbox GL fork]]></title>
+        <id>https://news.ycombinator.com/item?id=27605656</id>
+        <link href="https://maplibre.org/"/>
+        <updated>2021-06-23T15:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://maplibre.org/
+Comments URL: https://news.ycombinator.com/item?id=27605656
+Points: 264
+# Comments: 63]]></summary>
+        <author>
+            <name>klokan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA paga 1.400 millones de dólares por Playdemic y el resto de Warner Bros. Games pasará a formar parte de WarnerMedia]]></title>
+        <id>46430_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/electronic-arts-compra-playdemic"/>
+        <updated>2021-06-23T14:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Electronic Arts ha anunciado haber llegado a un acuerdo con AT&T y WarnerMedia para adquirir Playdemic, el desarrollador de juegos para móviles responsable de Golf Clash, por el que pagará 1.400 millones de dólares. La compra llama la atención por el alto precio de la transacción y el párrafo en la nota de prensa en el que AT&T informa que el resto de Warner Bros. Games pasará a formar parte de WarnerMedia, que está pendiente de cerrar su fusión con Discovery. Es decir, Mortal Kombat, Batman Arkham y compañía no buscan comprador. Vayamos por partes. EA compra Playdemic como parte de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django for Startup Founders: A better software architecture for SaaS startups]]></title>
+        <id>https://news.ycombinator.com/item?id=27605052</id>
+        <link href="https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html"/>
+        <updated>2021-06-23T14:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
+Comments URL: https://news.ycombinator.com/item?id=27605052
+Points: 320
+# Comments: 88]]></summary>
+        <author>
+            <name>Alex3917</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Costa Rica Has Run on 100% Renewable Electricity for 299 Days]]></title>
+        <id>https://news.ycombinator.com/item?id=27604809</id>
+        <link href="https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days"/>
+        <updated>2021-06-23T14:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
+Comments URL: https://news.ycombinator.com/item?id=27604809
+Points: 552
+# Comments: 250]]></summary>
+        <author>
+            <name>Knajjars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El MMORPG Swords of Legends Online estará disponible el 9 de julio en Occidente]]></title>
+        <id>46429_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/swords-of-legends-online-fecha-lanzamiento-europa"/>
+        <updated>2021-06-23T13:39:20.000Z</updated>
+        <summary type="html"><![CDATA[El popular MMOARPG de origen asiático Swords of Legends Online estará disponible en Europa, Norteamérica y Sudamérica el 9 de julio con texto en inglés, francés y alemán y diálogos doblados al inglés, según ha anunciado Gameforge, que se encargará de distribuir el título más allá de China en cooperación con los desarrolladores Wangyuan Shengtang y Aurogon. El juego para PC se podrá adquirir mediante Steam, Epic Games Store y el cliente de Gameforge. Swords of Legends Online es un MMO con un sistema de combate de acción y elementos de rol, que se ambienta un mundo fantástico para… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft anuncia tres nuevos monitores "especiales para Xbox Series", con HDMI 2.1 y de 28 a 55 pulgadas]]></title>
+        <id>46428_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/monitores-especiales-xbox-hdmi-21"/>
+        <updated>2021-06-23T10:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Actualización: Buscando en el archivo, el modelo de ROG parece ser un simple rebranding del ROG Strix XG43UQ, presentado a finales de 2019 y actualizado hace muy poco con HDMI 2.1. Su precio ronda los 1.500 euros. Noticia original: Hace ya bastante tiempo que los monitores de PC gozan de cierta popularidad entre los jugadores de consola, pero solo recientemente han comenzado a aparecer pantallas específicas para este tipo de máquinas de juego. Algunas son de uso dual, pero otras se presentan como televisores sin sintonizador de TDT y desprovistas de funciones de posprocesamiento que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelda: Skyward Sword HD hace un repaso a su propuesta y novedades con un tráiler]]></title>
+        <id>46427_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/zelda-skyward-sword-hd-trailer-repaso-general"/>
+        <updated>2021-06-23T09:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo suele ser bastante generosa a la hora de explicar qué se puede esperar de sus juegos y Zelda: Skyward Sword HD no ha sido una excepción. Cuando queda menos de un mes para el lanzamiento del juego, que se pondrá a la venta el 16 de julio para Switch, la compañía japonesa ha liberado un nuevo tráiler donde se ofrecen detalles y hace un repaso general a los aspectos más importantes del título. Uno de ellos es el sistema de control, un tema no menor si tenemos en cuenta que se trata de un juego originalmente desarrollado para Wii. El lanzamiento de The Legend of Zelda: Skyward… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Worms Rumble ya disponible para Xbox One, Xbox Series y Nintendo Switch]]></title>
+        <id>46426_v1</id>
+        <link href="https://www.elotrolado.net/hilo_worms-rumble-ya-disponible-para-xbox-one-xbox-series-y-nintendo-switch_2426909"/>
+        <updated>2021-06-23T08:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Team17 ha anunciado que Worms Rumble ya se encuentra a la venta con versión para Xbox One, Xbox Series, Xbox Game Pass y Nintendo Switch. Desde hoy el juego también está disponible para PC mediante la Epic Games Store. El título llega a nuevas plataformas un año después de su debut en PlayStation 4, PlayStation 5 y PC mediante Steam. Worms Rumble es la primera entrega de la saga con acción en tiempo real, que además ofrece tres modos multijugador entre los que se incluye un battle royale para 32 jugadores con las variantes Last Worm Standing y Last Squad Standing. El tercer modo es un… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -43,84 +396,6 @@ Points: 79
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Racing Game in ClojureScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27597987</id>
-        <link href="https://github.com/ertugrulcetin/racing-game-cljs"/>
-        <updated>2021-06-22T22:22:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ertugrulcetin/racing-game-cljs
-Comments URL: https://news.ycombinator.com/item?id=27597987
-Points: 53
-# Comments: 11]]></summary>
-        <author>
-            <name>winkywooster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is ranked-choice voting and why is New York using it?]]></title>
-        <id>https://news.ycombinator.com/item?id=27597662</id>
-        <link href="https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race"/>
-        <updated>2021-06-22T21:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race
-Comments URL: https://news.ycombinator.com/item?id=27597662
-Points: 189
-# Comments: 240]]></summary>
-        <author>
-            <name>elsewhen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafeButler (YC S17) Is Hiring a Marketing Associate]]></title>
-        <id>https://news.ycombinator.com/item?id=27597136</id>
-        <link href="https://www.safebutler.com/careers"/>
-        <updated>2021-06-22T21:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.safebutler.com/careers
-Comments URL: https://news.ycombinator.com/item?id=27597136
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>eastdark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Dangerous Censorship]]></title>
-        <id>https://news.ycombinator.com/item?id=27595902</id>
-        <link href="https://edwardsnowden.substack.com/p/on-censorship-pt-1"/>
-        <updated>2021-06-22T19:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/on-censorship-pt-1
-Comments URL: https://news.ycombinator.com/item?id=27595902
-Points: 238
-# Comments: 234]]></summary>
-        <author>
-            <name>0xedb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reply of the Zaporozhian Cossacks]]></title>
-        <id>https://news.ycombinator.com/item?id=27595429</id>
-        <link href="https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks"/>
-        <updated>2021-06-22T18:39:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks
-Comments URL: https://news.ycombinator.com/item?id=27595429
-Points: 105
-# Comments: 44]]></summary>
-        <author>
-            <name>slater</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regularization is all you need: simple neural nets can excel on tabular data]]></title>
-        <id>https://news.ycombinator.com/item?id=27595309</id>
-        <link href="https://arxiv.org/abs/2106.11189"/>
-        <updated>2021-06-22T18:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.11189
-Comments URL: https://news.ycombinator.com/item?id=27595309
-Points: 126
-# Comments: 58]]></summary>
-        <author>
-            <name>tracyhenry</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ya disponible FidelityFX Super Resolution, la respuesta de AMD al DLSS de Nvidia]]></title>
         <id>46424_v1</id>
         <link href="https://www.elotrolado.net/noticias/tecnologia/fidelityfx-super-resolution-disponible"/>
@@ -128,19 +403,6 @@ Points: 126
         <summary type="html"><![CDATA[AMD ha liberado FidelityFX Super Resolution (FSR), su respuesta de código abierto a la tecnología propietaria DLSS de Nvidia, que desde hoy se encuentra disponible para una pequeña lista de títulos que promete aumentar con el tiempo. FSR tiene el mismo objetivo que su competidor: aumentar la tasa de fotogramas de los juegos minimizando el impacto en la calidad de imagen (y sin tener que cambiar la tarjeta gráfica). AMD ha dejado que algunos medios como PC Gamer, Techspot, Digital Foundry, Hexus y Guru 3D prueben la tecnología FidelityFX Super Resolution, así que ya tenemos la… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curiosity damned the cat]]></title>
-        <id>https://news.ycombinator.com/item?id=27594742</id>
-        <link href="https://edwardfeser.blogspot.com/2021/06/curiosity-damned-cat.html"/>
-        <updated>2021-06-22T17:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://edwardfeser.blogspot.com/2021/06/curiosity-damned-cat.html
-Comments URL: https://news.ycombinator.com/item?id=27594742
-Points: 19
-# Comments: 3]]></summary>
-        <author>
-            <name>danielam</name>
         </author>
     </entry>
     <entry>
@@ -164,59 +426,6 @@ Points: 19
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A from-scratch tour of Bitcoin in Python]]></title>
-        <id>https://news.ycombinator.com/item?id=27593772</id>
-        <link href="https://karpathy.github.io/2021/06/21/blockchain/"/>
-        <updated>2021-06-22T16:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://karpathy.github.io/2021/06/21/blockchain/
-Comments URL: https://news.ycombinator.com/item?id=27593772
-Points: 641
-# Comments: 201]]></summary>
-        <author>
-            <name>yigitdemirag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Feeling guilty for doing the bare minimum at work]]></title>
-        <id>https://news.ycombinator.com/item?id=27593462</id>
-        <link href="https://news.ycombinator.com/item?id=27593462"/>
-        <updated>2021-06-22T16:08:55.000Z</updated>
-        <summary type="html"><![CDATA[For as long as I've been working professionally, I have been slacking around a lot of the time, reading blog posts, HN, often even reading (tech, biz-related) books and just doing the bare minimum for appearances sake but no one seems to notice. In the office I book a booth to work in to have some peace & quiet and have a couple of code commits prepared to not arouse suspicion. In companies with perf reviews I get some useful feedback here and there but most of the time it's positive, people love to work with me, I do get stuff done if I have to, but as soon as I can get away with doing close to nothing, I'll take the chance. I don't think I'm blocking other teams and I don't think I'm preventing my own team from having accomplishments and often people refer to me as being either partially or mostly responsible for shipping something because I manage to have a clear mind and focus when things get close to a deadline.
-If I am motivated and the task/project/product is fun I throw myself into it but that isn't sustainable. I've read a few of these posts from people at FAANG doing almost the same so I don't really feel bad about it. I'm just wondering how wide-spread this is. One of my theories for this behavior is that this is related to 40+ hour work weeks. I think I'd be able to get my devopsy work done in ~3 hours/day if I manage my time well and schedule most meetings on Mondays.
-Comments URL: https://news.ycombinator.com/item?id=27593462
-Points: 381
-# Comments: 247]]></summary>
-        <author>
-            <name>awaythrown1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized Identifiers (DIDs) v1.0 (W3C draft)]]></title>
-        <id>https://news.ycombinator.com/item?id=27593406</id>
-        <link href="https://www.w3.org/TR/did-core/"/>
-        <updated>2021-06-22T16:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.w3.org/TR/did-core/
-Comments URL: https://news.ycombinator.com/item?id=27593406
-Points: 151
-# Comments: 63]]></summary>
-        <author>
-            <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave Search beta]]></title>
-        <id>https://news.ycombinator.com/item?id=27593360</id>
-        <link href="https://search.brave.com/"/>
-        <updated>2021-06-22T16:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://search.brave.com/
-Comments URL: https://news.ycombinator.com/item?id=27593360
-Points: 494
-# Comments: 401]]></summary>
-        <author>
-            <name>vmullin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sony espera que PS5 rompa su récord de ventas anual y despache más de 22,6 millones de unidades el próximo año fiscal]]></title>
         <id>46421_v1</id>
         <link href="https://www.elotrolado.net/noticias/consolas/ps5-record-ventas-anual"/>
@@ -227,58 +436,6 @@ Points: 494
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Then – Understand how you spend your time and what influences your mood]]></title>
-        <id>https://news.ycombinator.com/item?id=27592876</id>
-        <link href="https://pupishi.com/then"/>
-        <updated>2021-06-22T15:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pupishi.com/then
-Comments URL: https://news.ycombinator.com/item?id=27592876
-Points: 83
-# Comments: 45]]></summary>
-        <author>
-            <name>alexpotrivaev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I wrote a book about Python]]></title>
-        <id>https://news.ycombinator.com/item?id=27592822</id>
-        <link href="https://pragprog.com/titles/dmpython/intuitive-python/"/>
-        <updated>2021-06-22T15:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pragprog.com/titles/dmpython/intuitive-python/
-Comments URL: https://news.ycombinator.com/item?id=27592822
-Points: 129
-# Comments: 39]]></summary>
-        <author>
-            <name>dmuller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a new kind of Bible app]]></title>
-        <id>https://news.ycombinator.com/item?id=27592473</id>
-        <link href="https://sparkbible.com"/>
-        <updated>2021-06-22T14:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sparkbible.com
-Comments URL: https://news.ycombinator.com/item?id=27592473
-Points: 242
-# Comments: 185]]></summary>
-        <author>
-            <name>theoblank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SiFive P550 Core: High-Performance RISC-V Processor]]></title>
-        <id>https://news.ycombinator.com/item?id=27592187</id>
-        <link href="https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest"/>
-        <updated>2021-06-22T14:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest
-Comments URL: https://news.ycombinator.com/item?id=27592187
-Points: 155
-# Comments: 54]]></summary>
-        <author>
-            <name>andrewnc</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Epic Games lanza de forma gratuita su servicio de chat de voz y antitrampas]]></title>
         <id>46420_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/epic-online-services-antitrampas-chat"/>
@@ -286,19 +443,6 @@ Points: 155
         <summary type="html"><![CDATA[Epic Games ha ampliado el conjunto de herramientas que ofrece mediante Epic Online Services con dos nuevos servicios gratuitos: Voice y Easy Anti-Cheat. Epic Online Services está disponible para todos los desarrolladores, se puede usar en cualquier motor gráfico y tienda digital, y es multiplataforma con soporte para PC (Windows y MacOS), PlayStation, Xbox, Nintendo Switch, iOS y Android. Voice es un servicio de chat de voz multiplataforma con soporte para chats individuales y de grupo que funciona tanto en salas de espera como durante las partidas. Al usar este servicio, los datos de… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSP bypass: How one Chrome XSS bug took 2.5 years and an HTML spec change to fix]]></title>
-        <id>https://news.ycombinator.com/item?id=27591657</id>
-        <link href="https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix"/>
-        <updated>2021-06-22T13:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix
-Comments URL: https://news.ycombinator.com/item?id=27591657
-Points: 57
-# Comments: 12]]></summary>
-        <author>
-            <name>weinzierl</name>
         </author>
     </entry>
     <entry>
@@ -329,32 +473,6 @@ Points: 57
         <summary type="html"><![CDATA[El aterrizaje de Luigi al universo de Lego Super Mario no se limitará al lanzamiento de un pack inicial de aventuras. Nintendo y Lego han anunciado que las figuras de los dos hermanos gemelos se podrán sincronizar para dar vida a una nueva función de juego dual, que introducirá un modo para dos jugadores cooperativo y competitivo. El objetivo de la compañía danesa es que su propuesta sea más social y promueva las actividades en familia. “Una vez conectados a través de Bluetooth, las aventuras para dos jugadores con Lego Mario y Lego Luigi (o cualquier combinación con las dos figuras)… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool]]></title>
-        <id>https://news.ycombinator.com/item?id=27590583</id>
-        <link href="https://github.com/d-edge/fasm"/>
-        <updated>2021-06-22T11:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/d-edge/fasm
-Comments URL: https://news.ycombinator.com/item?id=27590583
-Points: 111
-# Comments: 12]]></summary>
-        <author>
-            <name>aloisdg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elfcat: Visualize ELF Binaries]]></title>
-        <id>https://news.ycombinator.com/item?id=27590508</id>
-        <link href="https://github.com/ruslashev/elfcat"/>
-        <updated>2021-06-22T11:51:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ruslashev/elfcat
-Comments URL: https://news.ycombinator.com/item?id=27590508
-Points: 174
-# Comments: 29]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -398,126 +516,6 @@ Points: 174
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breve: Final Fantasy IX tendrá una serie de animación]]></title>
-        <id>46412_v1</id>
-        <link href="https://www.elotrolado.net/hilo_final-fantasy-ix-tendra-una-serie-de-animacion_2426778"/>
-        <updated>2021-06-21T20:10:02.000Z</updated>
-        <summary type="html"><![CDATA[El estudio francés Cyber Group Studios ha anunciado que se encuentra trabajando junto a Square Enix en una serie de animación que adaptará Final Fantasy IX. Además de producir la serie, Cyber Group Studios se encargará de la distribución, licencias y merchandising en todo el mundo. Se desconoce por ahora cuántos capítulos tendrá la serie de Final Fantasy IX y cuál será su duración o servicio de streaming que la acogerá, pero Cyber Group Studios ya ha avanzado que el público objetivo son los niños de 8 a 13 años. Está previsto que la producción empiece a finales de 2021 o principios de 2022. Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Dungeons & Dragons: Dark Alliance, un ARPG cooperativo basado en The Legend of Drizzt]]></title>
-        <id>46410_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/dark-alliance-trailer-lanzamiento"/>
-        <updated>2021-06-21T17:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Wizards of the Coast y el desarrollador Tuque Games, dos filiales de Hasbro, han celebrado con un tráiler cinematográfico el inminente lanzamiento de Dungeons & Dragons: Dark Alliance, un ARPG cooperativo que se pondrá a la venta el 22 de junio en PS4, PS5, Xbox One, Xbox Series y PC tanto en formato digital como físico por 39,99 euros. También se ofrece una edición Deluxe, que por 59,99 euros incluye acceso a la futura expansión Ecos de la Guerra de sangre. Además, desde el primer día el juego estará disponible en Xbox Game Pass. Dungeons & Dragons: Dark Alliance es un juego de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic Arts podría revivir una de sus franquicias y los rumores apuntan a Dead Space]]></title>
-        <id>46409_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/dead-space-revive"/>
-        <updated>2021-06-21T16:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Hace unos días Jeff Grubb, periodista de GamesBeat, afirmó durante la transmisión de su programa en YouTube que Electronic Arts y su equipo interno Motive Studios se encuentran trabajando en “revivir” una propiedad intelectual existente muy querida por los fans. Grubb no dijo cuál era, pero sí avanzó que el proyecto sería presentado en el EA Play que se celebrará el 22 de julio y como pista añadió que “lo veremos... Si no morimos antes”. Ahora, EuroGamer afirma que sus fuentes concuerdan con lo que dice e insinúa Grubb. En resumen, una querida propiedad intelectual ya conocida que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Después de once años, Katsuhiro Harada confirma que Tekken x Street Fighter sigue en pausa (Actualizada)]]></title>
-        <id>46408_v5</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/tekken-x-street-fighter-vivo"/>
-        <updated>2021-06-21T14:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Actualización: Katsuhiro Harada ha enviado un mensaje vía Twitter para aclarar la situación de Tekken x Street Fighter y reconocer que un error en la traducción de sus palabras ha causado un malentendido. En concreto, cuando el juego se describe como "muerto" en los subtítulos, en realidad Harada dijo "pausado". Esto significa que proyecto está detenido pero vivo y más adelante se podría retomar su producción. Noticia original: Aquellos que todavía mantienen la esperanza de ver a Tekken x Street Fighter, un juego de lucha en 3D con los personajes de ambas franquicias, ya pueden… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung amplía sus monitores gaming Odyssey sumando tres modelos planos con opciones 4K y a 165 Hz]]></title>
-        <id>46406_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/samsung-oddyssey-monitores-gaming-detalles"/>
-        <updated>2021-06-21T11:02:08.000Z</updated>
-        <summary type="html"><![CDATA[La irrupción de Samsung como fabricante de monitores gaming de cierto calibre comenzó con muy bien pie gracias a la gama Odyssey, que el año pasado subió varios niveles con la incorporación de nuevos modelos. Ahora toca seguir actualizándola, y si hasta ahora la línea estaba formada por pantallas VA de tipo curvo, muy curiosamente la última hornada se pasa al IPS plano. Sorprendentemente ausente en la Computex de este año (donde hubiera tenido un encaje natural), la gama Samsung Odyssey 2021 está compuesta por los modelos G3 (24 y 27 pulgadas), G5 (27 pulgadas) y G7 (28 pulgadas).… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077 vuelve a la PlayStation Store con la recomendación de no comprarlo para PS4]]></title>
-        <id>46407_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/cyberpunk-2077-disponible-playsation-store"/>
-        <updated>2021-06-21T10:50:46.000Z</updated>
-        <summary type="html"><![CDATA[Como se esperaba, desde hoy Cyberpunk 2077 se encuentra de nuevo disponible en la PlayStation Store. Han pasado seis meses desde que el juego fue retirado por su bajo rendimiento y numerosos problemas, un gesto poco habitual que también abrió una insólita campaña de reembolsos. Hoy todo esto queda atrás, pero Sony y la propia CD Projekt Red consideran que aún hay trabajo por hacer, así que el título se despacha por 49,99 euros y la recomendación de no comprar en caso de querer jugar en una PlayStation 4. “AVISO IMPORTANTE: Algunos usuarios siguen teniendo problemas de rendimiento con… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare detalla Sea of Thieves: A Pirate’s Life, una campaña protagonizada por la saga Piratas del Caribe]]></title>
-        <id>46405_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/sea-of-thieves-a-pirate-life-detalles"/>
-        <updated>2021-06-20T20:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Durante el Xbox & Bethesda Games Showcase de la semana pasada Rare presentó Sea of Thieves: A Pirate’s Life, una nueva campaña que tiene como principal atractivo un crossover con Piratas del Caribe, la licencia cinematográfica de Disney. Hoy, el desarrollador británico ha protagonizado un showcase dedicado al mencionado contenido, que llegará de forma gratuita a, Xbox One, Xbox Series, PC y Xbox Game Pass el martes 22 de junio. Ese mismo día también se pondrá en marcha la tercera temporada en todas las plataformas La campaña A Pirate’s Life introduce en el juego cinco nuevos Tall… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Las noticias de la semana - Especial E3 2021]]></title>
-        <id>46403_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/semana-12-19-junio-2021"/>
-        <updated>2021-06-19T12:41:06.000Z</updated>
-        <summary type="html"><![CDATA[No ha sido el E3 que todo el mundo quería, pero como mínimo este año el evento se ha podido celebrar en formato digital. Hace una semana Ubisoft abrió fuego con la presentación del largamente esperado Avatar: Frontiers of Pandora para la nueva generación y Mario + Rabbids Sparks of Hope para Nintendo Switch. Pocas horas después Devolver Digital nos dejo con algunas de sus propuestas como Trek to Yomi, Wizard with a Gun y Shadow Warrior 3. El domingo fue el día más activo y se inició con el Xbox & Bethesda Games Showcase, un evento que sirvió para decirle al mundo que todos los juegos… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Scarlet Nexus, la nueva propiedad intelectual de Bandai Namco]]></title>
-        <id>46404_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/scarlet-nexus-lanzamiento"/>
-        <updated>2021-06-19T11:49:28.000Z</updated>
-        <summary type="html"><![CDATA[Una semana antes de que el juego se ponga a la venta Bandai Namco ha mostrado el tráiler de lanzamiento de Scarlet Nexus, que debutará el 25 de junio con versión para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam). El metraje es una combinación de vídeos cinematográficos y gameplay amenizada con la canción Dream in Drive, un tema compuesto por el grupo de rock The Oral Cigarettes. Respecto al juego, estamos ante la nueva propiedad intelectual del equipo que actualmente se encarga de la saga Tales of. La historia de Scarlet Nexus nos sitúa en un futuro muy lejano… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo afirma que Bayonetta 3 no solo existe, sino que su desarrollo “progresa adecuadamente”]]></title>
-        <id>46402_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/bayonetta-3-existe-progresa"/>
-        <updated>2021-06-18T14:51:53.000Z</updated>
-        <summary type="html"><![CDATA[¿Y Bayonetta 3, qué? Esta es la pregunta que posiblemente aún se están haciendo algunos jugadores de Nintendo Switch después de ver que el juego desarrollado por PlatinumGames no apareció durante el Direct E3 2021. Pues bien, a día de hoy las últimas novedades sobre Bayonetta 3 las han ofrecido dos ejecutivos de Nintendo América, que en una conversación con GameSpot han afirmado que el desarrollo del juego progresa adecuadamente. “¿Dónde está Bayonetta 3?, ¿Aún existe?, ¿Nos lo volveréis a mostrar?, se pregunta Tamoor Hussain de GameSpot al final de la entrevista. “Existe, puedo… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baldur's Gate III no abandonará el acceso anticipado este año]]></title>
-        <id>46401_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/baldurs-gate-iii-acceso-anticipado-paciencia"/>
-        <updated>2021-06-18T13:09:45.000Z</updated>
-        <summary type="html"><![CDATA[Larian Studios liberó Baldur's Gate III en octubre de 2020 sin una fecha de lanzamiento e indicando que su intención era que “siga en acceso anticipado al menos un año, pero ya se verá”. Finalmente ha ganado el “ya se verá”. Así lo ha indicado Swen Vincke, fundador y director ejecutivo del estudio de desarrollo belga, durante una entrevista a GameSpot donde ha confirmado que el juego seguirá en 2021 bajo la protección que le brinda el acceso anticipado. “Estamos intentando terminar el juego para el próximo año”, dice Vincke sobre el desarrollo de Baldur's Gate III. “Puedo asegurar que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sherlock Holmes Chapter One detalla en un tráiler su mundo y la mecánica de disfraces]]></title>
-        <id>46400_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/sherlock-holmes-chapter-one-disfraz-gameplay"/>
-        <updated>2021-06-18T11:43:44.000Z</updated>
-        <summary type="html"><![CDATA[El desarrollador ucraniano Frogwares (The Sinking City) ha mostrado un nuevo tráiler con gameplay de Sherlock Holmes Chapter One, un juego de investigación y acción de mundo abierto que estará disponible este año en PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam, Epic Games Store y GOG). El metraje está centrado en mostrar el mundo del juego y enseñar en profundidad cómo funciona la mecánica de disfraces, una característica indispensable para que el investigador pueda resolver los casos. En Sherlock Holmes Chapter One nuestro protagonista es un joven Sherlock al borde… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rogue Lords 'Disciples' Trailer]]></title>
         <id>tag:blogger.com,1999:blog-6752074960104712501.post-5686916792620964060</id>
         <link href="https://www.allgamesdelta.net/2021/05/rogue-lords-disciples-trailer.html"/>
@@ -529,37 +527,6 @@ Points: 174
  You will love exploring your dark side and playing iconic evil geniuses, such as the White Lady, Dr Frankenstein and his creature, and Dracula.
    Want to participate in the closed beta? Follow closely our social networks to be informed of the opening date of the registration.
   The game will be available in 2021 on PC, PlayStation 4, Xbox One and Nintendo Switch.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back 4 Blood 'Meet the Cleaners' Trailer]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-3554647683472803264</id>
-        <link href="https://www.allgamesdelta.net/2021/05/back-4-blood-meet-cleaners-trailer.html"/>
-        <updated>2021-05-25T12:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Get to Know “The Cleaners” in New Back 4 Blood Trailer
- Warner Bros. Games and Turtle Rock Studios today released a new Back 4 Blood trailer spotlighting the diverse characters and personalities that make up the Ridden slaying crew known as “The Cleaners.” The video introduces each of the eight playable Cleaners – Holly, Walker, Doc, Karlee, Jim, Hoffman, Evangelo, and Mom – and expands on their background, characteristics, and in-game abilities. The trailer also provides a glimpse into the range of Ridden variants players will take on, including beastly Breakers, grotesque Ogres, screeching Snitchers, ravenous Hags, and more.
-   The complete team of Cleaners in Back 4 Blood includes:
-      Holly – After losing her family to the Devil Worm, Holly Forrester learned to channel all her energy…]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aksys Games and RareBreed Makes Games Announce 2D Fighting Game Blazing Strike for PS5, PS4, Switch and PC]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-5472484453590162152</id>
-        <link href="https://www.allgamesdelta.net/2021/05/aksys-games-and-rarebreed-makes-games.html"/>
-        <updated>2021-05-25T12:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Aksys Games Announces Blazing Strike 
- Aksys Games announced today that Blazing Strike, the 2D fighting game from developer RareBreed Makes Games, is coming to consoles and PC in spring 2022. Inspired by classic arcade fighting game series from industry greats such as Capcom and SNK, Blazing Strike evokes the excitement and nostalgia of 2D pixel art genre pioneers while incorporating a unique games system with modern mechanics.
-   
-   “As the interest in fighting games continues to grow, we’re excited to see a title that explores new ideas in fun and creative ways while tipping its hat to grandfathers of the genre,” said Akibo Shieh, founder and CEO of Aksys Games.
- “I was always fond of classic fighting games and I wanted to make a fun fighting game with an emphasis on mobility,” said Mark Chung, founder of RareBreed Makes Games. “Our goal is to create an homage to the classic pixel art-based 2D fighters, but with updated game mechanics that not only will bring nostalgia to 90’s arcade kids but will offer something new and entertaining to all gamers, regardless of whether they have played fighting games before.”
-     
-   Blazing Strike features a 4-button system with six normal attacks: light, medium and heavy punches and kicks, as well as three defense moves: block, guard and parry. A Rush Trigger enables fighters to execute fast-paced attacks and movements, but using it will slowly drain the Rush Meter, sending the character into a temporary groggy state. This allows players to execute exciting combos while having to manage the Rush Meter. The game will include three play modes: Story Mode, Arcade Mode and VS Mode, with training, sparring and online match via Persona AI, and online play powered by GGPO.
-   
- Blazing Strike has not yet been rated by the ESRB. To stay up to date on all the news, follow Aksys Games on Twitter and Instagram at @AksysGames, and join our Thursday livestreams on Twitch at aksysgames, with stream highlights and trailers on our YouTube channel.]]></summary>
         <author>
             <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
