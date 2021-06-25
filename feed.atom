@@ -2,10 +2,380 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:51:24.573Z</updated>
+    <updated>2021-06-25T01:09:14.489Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JWT Tokens are NOT safe]]></title>
+        <id>https://news.ycombinator.com/item?id=27625822</id>
+        <link href="https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/"/>
+        <updated>2021-06-25T00:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
+Comments URL: https://news.ycombinator.com/item?id=27625822
+Points: 24
+# Comments: 6]]></summary>
+        <author>
+            <name>node-bayarea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EvalAI: An Open-Source Alternative to Kaggle]]></title>
+        <id>https://news.ycombinator.com/item?id=27625511</id>
+        <link href="https://eval.ai/"/>
+        <updated>2021-06-25T00:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eval.ai/
+Comments URL: https://news.ycombinator.com/item?id=27625511
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>optimalsolver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Password with Argon2 Algorithm, the Winner of the Password Hashing Competition]]></title>
+        <id>https://news.ycombinator.com/item?id=27625370</id>
+        <link href="https://argon2.online/"/>
+        <updated>2021-06-24T23:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://argon2.online/
+Comments URL: https://news.ycombinator.com/item?id=27625370
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>jmallone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WD My Book users wake up to find their data deleted]]></title>
+        <id>https://news.ycombinator.com/item?id=27624735</id>
+        <link href="https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/"/>
+        <updated>2021-06-24T22:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
+Comments URL: https://news.ycombinator.com/item?id=27624735
+Points: 133
+# Comments: 100]]></summary>
+        <author>
+            <name>bjelkeman-again</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Acquisitions]]></title>
+        <id>https://news.ycombinator.com/item?id=27624411</id>
+        <link href="https://tinyacquisitions.com"/>
+        <updated>2021-06-24T22:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tinyacquisitions.com
+Comments URL: https://news.ycombinator.com/item?id=27624411
+Points: 174
+# Comments: 86]]></summary>
+        <author>
+            <name>mcone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile NixOS]]></title>
+        <id>https://news.ycombinator.com/item?id=27624200</id>
+        <link href="https://mobile.nixos.org/"/>
+        <updated>2021-06-24T21:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mobile.nixos.org/
+Comments URL: https://news.ycombinator.com/item?id=27624200
+Points: 66
+# Comments: 18]]></summary>
+        <author>
+            <name>SkyMarshal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators]]></title>
+        <id>https://news.ycombinator.com/item?id=27623693</id>
+        <link href="https://careers.atob.com/"/>
+        <updated>2021-06-24T21:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://careers.atob.com/
+Comments URL: https://news.ycombinator.com/item?id=27623693
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>harshitaisanerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilio, Asana to List on Long Term Stock Exchange]]></title>
+        <id>https://news.ycombinator.com/item?id=27623605</id>
+        <link href="https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701"/>
+        <updated>2021-06-24T20:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701
+Comments URL: https://news.ycombinator.com/item?id=27623605
+Points: 141
+# Comments: 82]]></summary>
+        <author>
+            <name>rayshan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Borderlands 3 se actualiza con juego cruzado pero sin los usuarios de PlayStation]]></title>
+        <id>46448_v1</id>
+        <link href="https://www.elotrolado.net/hilo_borderlands-3-se-actualiza-con-juego-cruzado-pero-sin-los-usuarios-de-playstation_2427079"/>
+        <updated>2021-06-24T20:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Gearbox Software ha lanzado una nueva actualización para Borderlands 3 que incluye el juego cruzado entre Xbox One, Xbox Series, Stadia y PC (Steam, Epic Games). En la lista de plataformas falta PlayStation y todo parece indicar que esto es debido a que 2K Games, editor de Borderlands 3, no ha aceptado las condiciones de Sony, que exige una compensación en caso de que los usuarios jueguen en PlayStation pero compren contenido en otras plataformas. “El juego cruzado entre las plataformas mencionadas se realizará mediante el matchmaking de SHiFT, y una ventana emergente os dejará… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empiezan las rebajas de verano en Steam con descuentos en miles de juegos como Horizon Zero Dawn, Halo y It Takes Two]]></title>
+        <id>46447_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/steam-rebajas-verano-2021"/>
+        <updated>2021-06-24T20:09:14.000Z</updated>
+        <summary type="html"><![CDATA[Desde hoy y hasta el 8 de julio a las 19:00 horas Steam, la mayor tienda digital de juegos para PC, celebra las rebajas de verano. Algunos jugadores sostienen que estos descuentos son insuficientes y poco atractivos, pero los datos de Valve indican lo contrario y como ejemplo tenemos las rebajas de otoño 2020, que fueron las más grandes en términos de ingresos. En cualquier caso, las rebajas de verano han empezado y seguro que más de uno las aprovecha para engordar su biblioteca con algún que otro título. Este año las rebajas de verano de Steam llegan acompañadas de un minijuego… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop using your work laptop or phone for personal stuff, because I know you are]]></title>
+        <id>https://news.ycombinator.com/item?id=27622988</id>
+        <link href="https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/"/>
+        <updated>2021-06-24T19:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/
+Comments URL: https://news.ycombinator.com/item?id=27622988
+Points: 156
+# Comments: 211]]></summary>
+        <author>
+            <name>manikandarajs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crazy Clock]]></title>
+        <id>https://news.ycombinator.com/item?id=27622789</id>
+        <link href="https://www.tindie.com/products/nsayer/crazy-clock/"/>
+        <updated>2021-06-24T19:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tindie.com/products/nsayer/crazy-clock/
+Comments URL: https://news.ycombinator.com/item?id=27622789
+Points: 184
+# Comments: 44]]></summary>
+        <author>
+            <name>cbsks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google turned me into a serial killer]]></title>
+        <id>https://news.ycombinator.com/item?id=27622100</id>
+        <link href="https://hristo-georgiev.com/google-turned-me-into-a-serial-killer"/>
+        <updated>2021-06-24T18:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hristo-georgiev.com/google-turned-me-into-a-serial-killer
+Comments URL: https://news.ycombinator.com/item?id=27622100
+Points: 601
+# Comments: 238]]></summary>
+        <author>
+            <name>Kaizeras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun and dystopia with AI-based code generation using GPT-J-6B]]></title>
+        <id>https://news.ycombinator.com/item?id=27621114</id>
+        <link href="https://minimaxir.com/2021/06/gpt-j-6b/"/>
+        <updated>2021-06-24T17:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://minimaxir.com/2021/06/gpt-j-6b/
+Comments URL: https://news.ycombinator.com/item?id=27621114
+Points: 87
+# Comments: 13]]></summary>
+        <author>
+            <name>minimaxir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cl-bodge: a cross-platform Common Lisp game and application framework]]></title>
+        <id>https://news.ycombinator.com/item?id=27621014</id>
+        <link href="https://borodust.org/projects/cl-bodge/"/>
+        <updated>2021-06-24T17:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://borodust.org/projects/cl-bodge/
+Comments URL: https://news.ycombinator.com/item?id=27621014
+Points: 72
+# Comments: 21]]></summary>
+        <author>
+            <name>bananaoomarang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 abraza el gaming: DirectStorage, Auto HDR y Xbox Game Pass integrado]]></title>
+        <id>46446_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/windows-11-caracteristicas-gaming"/>
+        <updated>2021-06-24T17:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Finalmente Microsoft ha presentado al mundo y de forma oficial a Windows 11, un sistema operativo con una interfaz rediseñada, aplicaciones de Android, actualización gratuita y un serio compromiso con el gaming. Así queda demostrado con la llegada de tecnologías que ya encontramos en Xbox Series como DirectStorage y Auto HDR, así como una integración mucho más profunda de Xbox Game Pass a través de la aplicación de Xbox. Además, tenemos en camino Xbox Gaming Cloud para Windows. De todas las novedades destinadas a los jugadores que llegarán con Windows 11 la más notable es … Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quad9 and Sony Music: German Injunction Status]]></title>
+        <id>https://news.ycombinator.com/item?id=27620319</id>
+        <link href="https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/"/>
+        <updated>2021-06-24T16:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/
+Comments URL: https://news.ycombinator.com/item?id=27620319
+Points: 397
+# Comments: 195]]></summary>
+        <author>
+            <name>ameshkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Banning of Joyce's Ulysses]]></title>
+        <id>https://news.ycombinator.com/item?id=27620299</id>
+        <link href="https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/"/>
+        <updated>2021-06-24T16:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/
+Comments URL: https://news.ycombinator.com/item?id=27620299
+Points: 70
+# Comments: 45]]></summary>
+        <author>
+            <name>okfine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing Games on Linux: An Interview with Little Red Dog Games]]></title>
+        <id>https://news.ycombinator.com/item?id=27619977</id>
+        <link href="https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with"/>
+        <updated>2021-06-24T16:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with
+Comments URL: https://news.ycombinator.com/item?id=27619977
+Points: 246
+# Comments: 117]]></summary>
+        <author>
+            <name>nixcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft anuncia Windows 11, actualizable gratis, con interfaz rediseñada, compatible con apps para Android y mucho más]]></title>
+        <id>46445_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/microsoft-windows-11-detalles"/>
+        <updated>2021-06-24T16:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Windows 10 es posiblemente uno de los sistemas operativos más longevos en la historia de Microsoft. Durante prácticamente seis años la firma de Redmond ha ido actualizando y perfeccionando una plataforma que no nació perfecta, pero que con el tiempo ha ido ganando prestaciones, estabilidad y rendimiento (ni sin algún que otro tropezón). Pero ha llegado el momento de despedirse de él y decir hola al nuevo Windows 11. Tal y como avanzaban las filtraciones de los últimos días, "el próximo paso para Windows" no era otra cosa que una nueva generación del sistema operativo.… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Backblaze Storage Pod]]></title>
+        <id>https://news.ycombinator.com/item?id=27619672</id>
+        <link href="https://www.backblaze.com/blog/next-backblaze-storage-pod/"/>
+        <updated>2021-06-24T16:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/next-backblaze-storage-pod/
+Comments URL: https://news.ycombinator.com/item?id=27619672
+Points: 202
+# Comments: 89]]></summary>
+        <author>
+            <name>TangerineDream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is bringing Android apps to Windows 11]]></title>
+        <id>https://news.ycombinator.com/item?id=27619191</id>
+        <link href="https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store"/>
+        <updated>2021-06-24T15:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store
+Comments URL: https://news.ycombinator.com/item?id=27619191
+Points: 335
+# Comments: 213]]></summary>
+        <author>
+            <name>ArchUser2255</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micro APIs for Everyday Use]]></title>
+        <id>https://news.ycombinator.com/item?id=27619015</id>
+        <link href="https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html"/>
+        <updated>2021-06-24T15:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html
+Comments URL: https://news.ycombinator.com/item?id=27619015
+Points: 195
+# Comments: 59]]></summary>
+        <author>
+            <name>friendly_chap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Legend of Mana llega a PS4, Switch y PC]]></title>
+        <id>46444_v1</id>
+        <link href="https://www.elotrolado.net/hilo_legend-of-mana-llega-a-ps4-switch-y-pc_2427046"/>
+        <updated>2021-06-24T15:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Desde hoy los jugadores de PlayStation 4, Nintendo Switch y PC (Steam) tienen disponible por 29,99 euros una remasterización en alta definición de Legend of Mana, un juego originalmente lanzado en 1999 para PlayStation. Esta versión del título de rol corre a cargo de M2, un estudio conocido por su trabajo en la serie Sega Ages y por llevar varios juegos a la Consola Virtual de Nintendo. Legend of Mana es la cuarta entrega de la serie Mana, así que es la primera vez que se encuentra disponible de forma oficial en Europa. Además de unos gráficos remasterizados, este capítulo ofrece una… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft announces Windows 11]]></title>
+        <id>https://news.ycombinator.com/item?id=27618805</id>
+        <link href="https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates"/>
+        <updated>2021-06-24T15:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates
+Comments URL: https://news.ycombinator.com/item?id=27618805
+Points: 447
+# Comments: 535]]></summary>
+        <author>
+            <name>neogodless</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Sonic Mania y Horizon Chase Turbo gratis en la Epic Games Store hasta el 1 de julio]]></title>
+        <id>46443_v1</id>
+        <link href="https://www.elotrolado.net/hilo_sonic-mania-y-horizon-chase-turbo-gratis-en-la-epic-games-store-hasta-el-1-de-julio_2427045"/>
+        <updated>2021-06-24T15:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Ayer la primera entrega de Sonic cumplió 30 años y hoy la Epic Games Store lo celebra regalando Sonic Mania, un juego que propone una reimaginación de los primeros títulos protagonizados por el erizo azul de Sega. Hasta el 1 de julio también se puede conseguir de forma gratuita Horizon Chase Turbo, mientras que la próxima semana será el turno de The Spectrum Retreat. Sonic Mania es un juego de plataformas en 2D que conserva la jugabilidad de los años 90 pero aprovechando la alta definición actual y los 60 FPS. El título es responsabilidad de Christian Whitehead, un experto a la hora… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerbal Space Program Enhanced Edition llegará a PlayStation 5 y Xbox Series este otoño]]></title>
+        <id>46442_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/kerbal-space-program-enhanced-edition-anunciado"/>
+        <updated>2021-06-24T14:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Hoy se cumplen 10 años del lanzamiento de Kerbal Space Program, un aniversario que el editor Private Division ha querido celebrar anunciando Kerbal Space Program Enhanced Edition, una versión del juego con mejoras para PlayStation 5 y Xbox Series. El juego se pondrá a la venta en otoño por 39,99 euros y también se ofrecerá una actualización gratuita para los que ya tengan una copia del título en PlayStation 4 y Xbox One. Además, desde hoy está disponible la actualización On Final Approach (1.2) para PC. Kerbal Space Program Enhanced Edition en PlayStation 5 y Xbox Series X podrá… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GreedFall recibirá la expansión The De Vespe Conspiracy y la actualización de nueva generación el 30 de junio]]></title>
+        <id>46441_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/greedfall-gold-edition-actualizacion"/>
+        <updated>2021-06-24T13:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Focus Home Interactive y el desarrollador francés Spiders Studio han anunciado que el juego de rol GreedFall ampliará su propuesta el 30 de junio con la llegada de la expansión The De Vespe Conspiracy. Ese mismo día también estará disponible la actualización gratuita para PlayStation 5 y Xbox Series, así como la GreedFall: Gold Edition, que incluye el juego base para la nueva generación junto al mencionado complemento a cambio de 39,99 euros (en formato físico y digital). “The De Vespe Conspiracy amplía el apreciado mundo y la historia de GreedFall, invitándote a pisar una región de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konami lanza por sorpresa la beta abierta de PES 2022]]></title>
+        <id>46440_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/pes-2022-beta-abierta"/>
+        <updated>2021-06-24T12:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Sorpresa. Los jugadores de PlayStation 4, PlayStation 5, Xbox One y Xbox Series ya tienen disponible en su respectiva tienda digital la descarga de New Football Game Online Performance Test, nombre tras el cual se esconde “la prueba de la versión beta abierta” del próximo juego de fútbol de Konami desarrollado con Unreal Engine. La compañía no ha querido poner un nombre más amigable y reconocible a la prueba, pero a no ser que haya un sobresalto mayúsculo se trata de la beta abierta de PES 2022 que estará disponible hasta el 8 de julio. “¡Konami se complace en anunciar la próxima… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia lanza Canvas, una aplicación que convierte garabatos en paisajes artísticos mediante inteligencia artificial]]></title>
+        <id>46439_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/nvidia-canvas-ai-convierte-garabatos-arte"/>
+        <updated>2021-06-24T10:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Más allá de las tarjetas gráficas y el hardware para centros de datos, Nvidia se ha situado como una de las firmas punteras en las tecnologías de inteligencia artificial relacionadas con el procesamiento de imágenes. Su aplicación más visible en el campo de los videojuegos es sin duda DLSS, que utiliza redes neuronales para escalar fotogramas a baja resolución y escalarlos con una pérdida de calidad mínima, pero sus ingenieros también están muy implicados en otros usos, como los sistemas de conducción autónoma. Y entre unos y otros, van dando muestras de sus avances con aplicaciones… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEO: The World Ends with You anuncia una demo y presenta el “tráiler final”]]></title>
+        <id>46438_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/neo-the-world-ends-with-you-demo-trailer"/>
+        <updated>2021-06-24T09:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Square Enix ha anunciado que mañana 25 de junio ofrecerá una demo jugable de NEO: The World Ends with You para PlayStation 4 y Nintendo Switch que se podrá descargar desde la PlayStation Store y eShop, respectivamente, a partir de las 19:00 hora peninsular española. Además, la compañía japonesa ha liberado el “tráiler final” del juego de rol y acción que ofrece un vistazo en profundidad al distrito de Shibuya, el grupo protagonista y el Juego de los Segadores. La demo de NEO: The World Ends with You permitirá “descubrir los dos primeros días del Juego de los Segadores y conocer a… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Los servidores de Xbox Cloud Gaming empiezan a recibir el hardware de Xbox Series X]]></title>
         <id>46437_v1</id>
@@ -14,110 +384,6 @@
         <summary type="html"><![CDATA[Dos semanas después de que Microsoft comentase que se encontraba en “las últimas etapas” del proceso de actualizar los centros de datos de Xbox Cloud Gaming (xCloud) con el hardware de nueva generación de Xbox Series X, llegan los primeros resultados. Medios como The Verge y Ars Technica han podido comprobar que algunos juegos disponibles en Xbox Game Pass han aumentado su rendimiento cuando se juega en la nube hasta ofrecer las mismas prestaciones que en Xbox Series X. Ahora que algunos servidores Xbox Cloud Gaming equipan el mismo chip que una Xbox Series X, cuando se juega en… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulling GitHub into the Linux kernel process]]></title>
-        <id>https://news.ycombinator.com/item?id=27611704</id>
-        <link href="https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/"/>
-        <updated>2021-06-23T23:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/
-Comments URL: https://news.ycombinator.com/item?id=27611704
-Points: 30
-# Comments: 29]]></summary>
-        <author>
-            <name>chmaynard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lego Island Rebuilder]]></title>
-        <id>https://news.ycombinator.com/item?id=27611433</id>
-        <link href="https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder"/>
-        <updated>2021-06-23T22:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder
-Comments URL: https://news.ycombinator.com/item?id=27611433
-Points: 28
-# Comments: 8]]></summary>
-        <author>
-            <name>app4soft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Older unlisted videos will be made private unless you opt out”]]></title>
-        <id>https://news.ycombinator.com/item?id=27610409</id>
-        <link href="https://support.google.com/youtube/answer/9230970"/>
-        <updated>2021-06-23T21:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://support.google.com/youtube/answer/9230970
-Comments URL: https://news.ycombinator.com/item?id=27610409
-Points: 179
-# Comments: 106]]></summary>
-        <author>
-            <name>tech234a</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis]]></title>
-        <id>https://news.ycombinator.com/item?id=27610289</id>
-        <link href="https://www.workatastartup.com/jobs/44386"/>
-        <updated>2021-06-23T21:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/44386
-Comments URL: https://news.ycombinator.com/item?id=27610289
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>saurabh20n</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unravelling the Enigma of Bird Magnetoreception]]></title>
-        <id>https://news.ycombinator.com/item?id=27610181</id>
-        <link href="https://www.nature.com/articles/d41586-021-01596-6"/>
-        <updated>2021-06-23T20:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01596-6
-Comments URL: https://news.ycombinator.com/item?id=27610181
-Points: 23
-# Comments: 5]]></summary>
-        <author>
-            <name>onychomys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientist finds early virus sequences that had been mysteriously deleted]]></title>
-        <id>https://news.ycombinator.com/item?id=27609919</id>
-        <link href="https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html"/>
-        <updated>2021-06-23T20:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html
-Comments URL: https://news.ycombinator.com/item?id=27609919
-Points: 190
-# Comments: 111]]></summary>
-        <author>
-            <name>gumby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John McAfee found dead in Spanish jail after court approves extradition to US]]></title>
-        <id>https://news.ycombinator.com/item?id=27609027</id>
-        <link href="https://www.bbc.com/news/world-europe-57589822"/>
-        <updated>2021-06-23T19:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57589822
-Comments URL: https://news.ycombinator.com/item?id=27609027
-Points: 1332
-# Comments: 662]]></summary>
-        <author>
-            <name>ews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drug researchers discover potent class of molecules that kills malaria parasite]]></title>
-        <id>https://news.ycombinator.com/item?id=27608387</id>
-        <link href="https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite"/>
-        <updated>2021-06-23T18:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite
-Comments URL: https://news.ycombinator.com/item?id=27608387
-Points: 52
-# Comments: 4]]></summary>
-        <author>
-            <name>elorant</name>
         </author>
     </entry>
     <entry>
@@ -161,31 +427,6 @@ Points: 52
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NEORV32: A customizable RISC-V SoC]]></title>
-        <id>https://news.ycombinator.com/item?id=27607161</id>
-        <link href="https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/"/>
-        <updated>2021-06-23T17:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/
-Comments URL: https://news.ycombinator.com/item?id=27607161
-Points: 54
-# Comments: 7]]></summary>
-        <author>
-            <name>_quarks_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Alpas (YC W21) – Software to find suppliers for industrial parts]]></title>
-        <id>https://news.ycombinator.com/item?id=27606860</id>
-        <link href="https://news.ycombinator.com/item?id=27606860"/>
-        <updated>2021-06-23T17:02:35.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN, we are Nils, Isabel, and Chris - the founders of Alpas (https://alpas.ai/). We make it fast and easy for medium to large size manufacturers to find suppliers for industrial parts.
-Why does this matter? Buyers at manufacturing companies face high pressure to cut costs. Supplier sourcing is still very manual and takes up to 45% of a buyer's time. Due to the lack of research time, buyers rarely close deals at optimal conditions. Recently, Covid-19 and material shortages have further accelerated the need for more transparent supply chains.
-Isabel came across this problem during her work as an investment analyst. She realized that optimizing procurement – the buying of goods and services – is one of the most important ways for industrial firms to save costs: more than 50% of revenue is s…]]></summary>
-        <author>
-            <name>NilsVollmer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[El shooter cooperativo Aliens: Fireteam Elite estará disponible el 24 de agosto]]></title>
         <id>46432_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/aliens-fireteam-elite-fecha"/>
@@ -193,84 +434,6 @@ Isabel came across this problem during her work as an investment analyst. She re
         <summary type="html"><![CDATA[Después de varios años dando tumbos mientras desarrollaba en Aliens: Fireteam Elite (ese Elite ha aparecido por parte de magia desde el anuncio del juego), Cold Iron Studios ha anunciado junto a Focus Home Interactive que su título estará disponible el 24 de agosto en PS4, PS5, Xbox One, Xbox Series y PC (Steam). Además de la fecha de lanzamiento, desarrollador y editor han comunicado que el juego ya se puede reservar en dos ediciones diferentes, estándar (39,99 euros) y Digital Deluxe (69,99 euros). Aliens: Fireteam Elite es un shooter en tercera persona con elementos de… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New GitHub Issues Beta]]></title>
-        <id>https://news.ycombinator.com/item?id=27606657</id>
-        <link href="https://github.com/features/issues"/>
-        <updated>2021-06-23T16:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/features/issues
-Comments URL: https://news.ycombinator.com/item?id=27606657
-Points: 395
-# Comments: 167]]></summary>
-        <author>
-            <name>splitbrain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Fuzzynote – terminal-based, CRDT-backed, collaborative note-taking]]></title>
-        <id>https://news.ycombinator.com/item?id=27606604</id>
-        <link href="https://github.com/Sambigeara/fuzzynote"/>
-        <updated>2021-06-23T16:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/Sambigeara/fuzzynote
-Comments URL: https://news.ycombinator.com/item?id=27606604
-Points: 94
-# Comments: 18]]></summary>
-        <author>
-            <name>sambigeara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alias-Free GAN]]></title>
-        <id>https://news.ycombinator.com/item?id=27606347</id>
-        <link href="https://nvlabs.github.io/alias-free-gan/"/>
-        <updated>2021-06-23T16:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nvlabs.github.io/alias-free-gan/
-Comments URL: https://news.ycombinator.com/item?id=27606347
-Points: 273
-# Comments: 42]]></summary>
-        <author>
-            <name>nurpax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: iPod.js – An online iPod that connects to Spotify and Apple Music]]></title>
-        <id>https://news.ycombinator.com/item?id=27606099</id>
-        <link href="https://tannerv.com/ipod"/>
-        <updated>2021-06-23T16:04:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tannerv.com/ipod
-Comments URL: https://news.ycombinator.com/item?id=27606099
-Points: 604
-# Comments: 112]]></summary>
-        <author>
-            <name>tonyhawkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End of Marae – my attempt to build the AR cloud]]></title>
-        <id>https://news.ycombinator.com/item?id=27606094</id>
-        <link href="http://scriber.tech/Marae.html"/>
-        <updated>2021-06-23T16:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://scriber.tech/Marae.html
-Comments URL: https://news.ycombinator.com/item?id=27606094
-Points: 21
-# Comments: 20]]></summary>
-        <author>
-            <name>realiswhatyoufe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Prosperous Software Consultant (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27605835</id>
-        <link href="https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd"/>
-        <updated>2021-06-23T15:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd
-Comments URL: https://news.ycombinator.com/item?id=27605835
-Points: 117
-# Comments: 56]]></summary>
-        <author>
-            <name>mooreds</name>
         </author>
     </entry>
     <entry>
@@ -284,32 +447,6 @@ Points: 117
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Librem 5 Evergreen vs. PinePhone (Part 2)]]></title>
-        <id>https://news.ycombinator.com/item?id=27605712</id>
-        <link href="https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/"/>
-        <updated>2021-06-23T15:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/
-Comments URL: https://news.ycombinator.com/item?id=27605712
-Points: 121
-# Comments: 81]]></summary>
-        <author>
-            <name>ThatGeoGuy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maplibre: community-driven Mapbox GL fork]]></title>
-        <id>https://news.ycombinator.com/item?id=27605656</id>
-        <link href="https://maplibre.org/"/>
-        <updated>2021-06-23T15:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://maplibre.org/
-Comments URL: https://news.ycombinator.com/item?id=27605656
-Points: 264
-# Comments: 63]]></summary>
-        <author>
-            <name>klokan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EA paga 1.400 millones de dólares por Playdemic y el resto de Warner Bros. Games pasará a formar parte de WarnerMedia]]></title>
         <id>46430_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/electronic-arts-compra-playdemic"/>
@@ -317,32 +454,6 @@ Points: 264
         <summary type="html"><![CDATA[Electronic Arts ha anunciado haber llegado a un acuerdo con AT&T y WarnerMedia para adquirir Playdemic, el desarrollador de juegos para móviles responsable de Golf Clash, por el que pagará 1.400 millones de dólares. La compra llama la atención por el alto precio de la transacción y el párrafo en la nota de prensa en el que AT&T informa que el resto de Warner Bros. Games pasará a formar parte de WarnerMedia, que está pendiente de cerrar su fusión con Discovery. Es decir, Mortal Kombat, Batman Arkham y compañía no buscan comprador. Vayamos por partes. EA compra Playdemic como parte de… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django for Startup Founders: A better software architecture for SaaS startups]]></title>
-        <id>https://news.ycombinator.com/item?id=27605052</id>
-        <link href="https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html"/>
-        <updated>2021-06-23T14:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
-Comments URL: https://news.ycombinator.com/item?id=27605052
-Points: 320
-# Comments: 88]]></summary>
-        <author>
-            <name>Alex3917</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Costa Rica Has Run on 100% Renewable Electricity for 299 Days]]></title>
-        <id>https://news.ycombinator.com/item?id=27604809</id>
-        <link href="https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days"/>
-        <updated>2021-06-23T14:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
-Comments URL: https://news.ycombinator.com/item?id=27604809
-Points: 552
-# Comments: 250]]></summary>
-        <author>
-            <name>Knajjars</name>
         </author>
     </entry>
     <entry>
@@ -403,132 +514,6 @@ Points: 552
         <summary type="html"><![CDATA[AMD ha liberado FidelityFX Super Resolution (FSR), su respuesta de código abierto a la tecnología propietaria DLSS de Nvidia, que desde hoy se encuentra disponible para una pequeña lista de títulos que promete aumentar con el tiempo. FSR tiene el mismo objetivo que su competidor: aumentar la tasa de fotogramas de los juegos minimizando el impacto en la calidad de imagen (y sin tener que cambiar la tarjeta gráfica). AMD ha dejado que algunos medios como PC Gamer, Techspot, Digital Foundry, Hexus y Guru 3D prueben la tecnología FidelityFX Super Resolution, así que ya tenemos la… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Tráiler de lanzamiento del juego oficial de Juegos Olímpicos Tokio 2020]]></title>
-        <id>46423_v1</id>
-        <link href="https://www.elotrolado.net/hilo_trailer-de-lanzamiento-del-juego-oficial-de-juegos-olimpicos-tokio-2020_2426865"/>
-        <updated>2021-06-22T16:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Sega ha mostrado el tráiler de lanzamiento de Juegos Olímpicos Tokio 2020 - El Videojuego Oficial, que desde hoy se encuentra disponible en PlayStation 4, Xbox One, Nintendo Switch, PC (Steam) y Stadia a cambio de 39,99 euros. La Olimpiada oficial y real tendrá lugar si todo va según lo previsto del 23 de julio al 8 de agosto, un año más tarde de lo planeado debido a la pandemia de COVID-19 Juegos Olímpicos Tokio 2020 incluye un completo creador de avatares para personalizar el atleta olímpico, permite a los jugadores jugar online con hasta ocho participantes y competir en las… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tráiler de lanzamiento de Alex Kidd in Miracle World DX, un remake del clásico juego de Master System]]></title>
-        <id>46422_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/trailer-lanzamiento-alex-kid-remake"/>
-        <updated>2021-06-22T16:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Alex Kidd, una saga olvidada por Sega pero no por los jugadores, regresa hoy mismo con un remake del clásico Alex Kidd in Miracle World de Master System que ha celebrado su llegada al mercado con un tráiler de lanzamiento. El juego, desarrollado por el estudio español Jankenteam, se encuentra disponible en formato físico y digital para PS4, PS5, Xbox One, Xbox Series y Nintendo Switch. Los jugadores de PC pueden acudir a Steam y la Epic Games Store. Lo primero que llama la atención de Alex Kidd in Miracle World DX salta a la vista y es su modernizado aspecto gráfico en alta… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony espera que PS5 rompa su récord de ventas anual y despache más de 22,6 millones de unidades el próximo año fiscal]]></title>
-        <id>46421_v1</id>
-        <link href="https://www.elotrolado.net/noticias/consolas/ps5-record-ventas-anual"/>
-        <updated>2021-06-22T15:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Kenichiro Yoshida, director ejecutivo de Sony, ha ratificado durante una reunión con accionistas que la previsión de la compañía es que en el año fiscal 2022 (que terminará el 31 de marzo de 2023) PlayStation 5 rompa su récord de ventas anual y consiga colocar 22,6 millones de unidades. Hace unas semanas Jim Ryan, director ejecutivo de Sony Interactive Entertainment, ya apuntaba en esta dirección, pero ahora ha sido el máximo responsable de la firma japonesa quien ha lanzado el ambicioso pronóstico. Si durante el próximo año fiscal Sony logra fabricar y llevar al mercado más de 22,6… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games lanza de forma gratuita su servicio de chat de voz y antitrampas]]></title>
-        <id>46420_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/epic-online-services-antitrampas-chat"/>
-        <updated>2021-06-22T14:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Epic Games ha ampliado el conjunto de herramientas que ofrece mediante Epic Online Services con dos nuevos servicios gratuitos: Voice y Easy Anti-Cheat. Epic Online Services está disponible para todos los desarrolladores, se puede usar en cualquier motor gráfico y tienda digital, y es multiplataforma con soporte para PC (Windows y MacOS), PlayStation, Xbox, Nintendo Switch, iOS y Android. Voice es un servicio de chat de voz multiplataforma con soporte para chats individuales y de grupo que funciona tanto en salas de espera como durante las partidas. Al usar este servicio, los datos de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Tencent adquiere una participación mayoritaria de Yager (Spec Ops: The Line)]]></title>
-        <id>46419_v1</id>
-        <link href="https://www.elotrolado.net/hilo_tencent-adquiere-una-participacion-mayoritaria-de-yager-spec-ops-the-line_2426839"/>
-        <updated>2021-06-22T13:22:28.000Z</updated>
-        <summary type="html"><![CDATA[En febrero de 2020 Tencent realizó una inversión en Yager y ahora la compañía ha anunciado haber llegado a un acuerdo para hacerse con la mayor parte del desarrollador alemán. Se trata del enésimo estudio que el conglomerado chino suma a su catálogo, donde figuran nombres como Riot Games, SuperCell, Funcom y Sharkmob. Yager es un estudio al que siempre se asocia a Spec Ops: The Line (2012), un juego muy bien valorado y el único del equipo alemán que realmente ha logrado trascender. Después del shooter, Yager desarrolló Dreadnought y actualmente mantiene el juego free-to-play The… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europa abre una investigación antimonopolio a Google por su tecnología de publicidad en línea]]></title>
-        <id>46418_v1</id>
-        <link href="https://www.elotrolado.net/noticias/internet/europa-google-antimonopolio-publicidad"/>
-        <updated>2021-06-22T13:06:01.000Z</updated>
-        <summary type="html"><![CDATA[La Comisión Europea abre una nueva investigación antimonopolio a Google. En esta ocasión Bruselas busca determinar si el gigante estadounidense usa su tecnología de publicidad en línea para distorsionar la competencia, al restringir a otras empresas del sector acceso a los datos de sus usuarios. Esta investigación es importante debido a que la publicidad online es el mayor negocio de Google. Según Reuters, el año pasado la compañía registró 147.000 millones de dólares en ingresos por este concepto. “Los servicios de publicidad online son la base de cómo Google y los editores monetizan… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lego Mario y Lego Luigi se podrán sincronizar y crear un modo para dos jugadores]]></title>
-        <id>46417_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/lego-mario-luigi-cooperativo"/>
-        <updated>2021-06-22T12:15:20.000Z</updated>
-        <summary type="html"><![CDATA[El aterrizaje de Luigi al universo de Lego Super Mario no se limitará al lanzamiento de un pack inicial de aventuras. Nintendo y Lego han anunciado que las figuras de los dos hermanos gemelos se podrán sincronizar para dar vida a una nueva función de juego dual, que introducirá un modo para dos jugadores cooperativo y competitivo. El objetivo de la compañía danesa es que su propuesta sea más social y promueva las actividades en familia. “Una vez conectados a través de Bluetooth, las aventuras para dos jugadores con Lego Mario y Lego Luigi (o cualquier combinación con las dos figuras)… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Phantom Abyss ya disponible en el acceso anticipado de Steam]]></title>
-        <id>46416_v1</id>
-        <link href="https://www.elotrolado.net/hilo_phantom-abyss-ya-disponible-en-el-acceso-anticipado-de-steam_2426823"/>
-        <updated>2021-06-22T11:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Devolver Digital y el desarrollador Team WIBY han recordado que desde hoy Phantom Abyss se encuentra disponible para PC mediante el acceso anticipado de Steam a cambio de 22,99 euros. El juego espera mantenerse en desarrollo durante “al menos un año”, tiempo durante el cual se añadirán nuevas características y contenido. Phantom Abyss es un juego de acción y plataformas en primera persona que reta a los jugadores a superar templos generados de manera procedimental con la misión de recuperar una serie de reliquias sagradas. El título cuenta con un modo multijugador asíncrono que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: NieR Replicant supera el millón de unidades vendidas]]></title>
-        <id>46415_v1</id>
-        <link href="https://www.elotrolado.net/hilo_nier-replicant-supera-el-millon-de-unidades-vendidas_2426822"/>
-        <updated>2021-06-22T10:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Square Enix ha revelado que desde su lanzamiento NieR Replicant ha conseguido colocar un millón de unidades entre las vendidas en formato digital y las distribuidas en formato físico. NieR Replicant, que pasa por ser una “reconstrucción moderna” del juego desarrollado por Cavia para PS3, se puso a la venta en abril para PS4, Xbox One y PC (Steam) y esta es la primera vez que trascienden sus ventas. Además, Square Enix ha actualizado las unidades despachadas de NieR: Automata, que ya suma 7 millones de copias después de cuatro años en el mercado. A día de hoy y que sepamos no hay… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sega espera que el próximo Sonic siente las bases para los siguientes juegos, como hizo Sonic Adventure hace 20 años]]></title>
-        <id>46414_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/nuevo-sonic-influyente"/>
-        <updated>2021-06-22T10:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Los detalles del nuevo Sonic son casi inexistentes, pero en Sega las expectativas son muy altas. Así lo ha reconocido Takashi Iizuka, director del Sonic Team, que en una entrevista concedida a Sonic Stadium ha reconocido que la próxima entrega de Sonic aspira a ser tan influyente como en su día lo fue Sonic Adventure (1998), un título que en opinión del diseñador japonés puso los cimientos para los juegos de la franquicia que han llegado a lo largo de los últimos 20 años. Cuando a Iizuka le preguntan si Sonic Rangers, nombre que según los rumores tendría la próxima entrega de la saga,… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox desarrollará juegos nativos para la nube bajo la dirección de Kim Swift, creadora de Portal]]></title>
-        <id>46413_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/xbox-nativos-nube-xcloud"/>
-        <updated>2021-06-21T22:31:46.000Z</updated>
-        <summary type="html"><![CDATA[El pasado febrero Google cerró los estudios internos de Stadia y junto a ellos se desechó la idea de crear juegos nativos para la nube, un proyecto que lideraba Kim Swift, creadora y diseñadora de Portal (2007). Sin embargo, no todo está perdido. Microsoft ha anunciado la contratación de Swift para que siga con su actividad, pero en lugar de para Google y Stadia trabajará para Xbox Game Studios como líder de un equipo de Xbox Cloud Gaming dedicado a los juegos en la nube. “Kim va a formar un equipo centrado en nuevas experiencias en la nube [...]”, explica Peter Wyse, responsable de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rogue Lords 'Disciples' Trailer]]></title>
-        <id>tag:blogger.com,1999:blog-6752074960104712501.post-5686916792620964060</id>
-        <link href="https://www.allgamesdelta.net/2021/05/rogue-lords-disciples-trailer.html"/>
-        <updated>2021-05-25T13:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Join the Forces of Evil in Rogue Lords!
- Nacon, Cyanide and Leikir Studio are pleased to announce that Rogue Lords will be playable as part of a closed beta on 1 June for those who register. To accompany this news, Rogue Lords is unveiling a new video that introduces the evil Disciples: legendary characters that possess unique skills and a deliciously macabre art style.
-   At the start of each run, you create a team of three Disciples. The characters have unique attacking and defensive skills, and none of them are limited to a single role. Choose your team based on your play style and adapt your Disciples' arsenal of skills to in-game events to defeat the most powerful enemies. Each Disciple has their own special skills. You will need to choose different combinations of spells and curses to create diabolical team synergies.
-    
- You will love exploring your dark side and playing iconic evil geniuses, such as the White Lady, Dr Frankenstein and his creature, and Dracula.
-   Want to participate in the closed beta? Follow closely our social networks to be informed of the opening date of the registration.
-  The game will be available in 2021 on PC, PlayStation 4, Xbox One and Nintendo Switch.]]></summary>
-        <author>
-            <name>noreply@blogger.com (AllGamesDelta)</name>
         </author>
     </entry>
 </feed>
