@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27625822",
-          "author": "node-bayarea",
-          "description": "Article URL: https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/\nComments URL: https://news.ycombinator.com/item?id=27625822\nPoints: 24\n# Comments: 6",
-          "link": "https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/",
-          "publishedOn": "2021-06-25T00:45:57.000Z",
-          "wordCount": 2724,
-          "title": "JWT Tokens are NOT safe"
+          "id": "https://news.ycombinator.com/item?id=27637787",
+          "author": "app4soft",
+          "description": "Article URL: http://www.gloss3d.net/\nComments URL: https://news.ycombinator.com/item?id=27637787\nPoints: 3\n# Comments: 1",
+          "link": "http://www.gloss3d.net/",
+          "publishedOn": "2021-06-26T00:11:18.000Z",
+          "wordCount": 183,
+          "title": "Gloss3D – an open source 3D Modeler for Linux and Windows"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27625511",
+          "id": "https://news.ycombinator.com/item?id=27637779",
+          "author": "zdw",
+          "description": "Article URL: http://www.jerf.org/iri/post/2958\nComments URL: https://news.ycombinator.com/item?id=27637779\nPoints: 10\n# Comments: 2",
+          "link": "http://www.jerf.org/iri/post/2958",
+          "publishedOn": "2021-06-26T00:09:53.000Z",
+          "wordCount": 9760,
+          "title": "Functors and Monads for People Who Have Read Too Many “Tutorials”"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27637287",
+          "author": "symisc_devel",
+          "description": "Article URL: https://rigtorp.se/spinlock/\nComments URL: https://news.ycombinator.com/item?id=27637287\nPoints: 15\n# Comments: 1",
+          "link": "https://rigtorp.se/spinlock/",
+          "publishedOn": "2021-06-25T22:58:49.000Z",
+          "wordCount": 1453,
+          "title": "Correctly implementing a spinlock in Modern C++"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27636773",
+          "author": "dmart",
+          "description": "Article URL: https://twitter.com/RunDaltonRun/status/1408507323031592964\nComments URL: https://news.ycombinator.com/item?id=27636773\nPoints: 186\n# Comments: 95",
+          "link": "https://twitter.com/RunDaltonRun/status/1408507323031592964",
+          "publishedOn": "2021-06-25T21:58:35.000Z",
+          "wordCount": 196,
+          "title": "Sorry, we replaced that old technology, “see-through glass”"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27636215",
+          "author": "gdeglin",
+          "description": "Article URL: https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96\nComments URL: https://news.ycombinator.com/item?id=27636215\nPoints: 1\n# Comments: 0",
+          "link": "https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96",
+          "publishedOn": "2021-06-25T21:00:39.000Z",
+          "wordCount": 158,
+          "title": "OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27636082",
+          "author": "danso",
+          "description": "Article URL: https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art\nComments URL: https://news.ycombinator.com/item?id=27636082\nPoints: 70\n# Comments: 50",
+          "link": "https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art",
+          "publishedOn": "2021-06-25T20:49:40.000Z",
+          "wordCount": 2122,
+          "title": "Final Fantasy remasters reignite controversies over pixel art"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27635934",
+          "author": "tailspin2019",
+          "description": "Article URL: https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena\nComments URL: https://news.ycombinator.com/item?id=27635934\nPoints: 169\n# Comments: 165",
+          "link": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena",
+          "publishedOn": "2021-06-25T20:36:41.000Z",
+          "wordCount": 400,
+          "title": "Preliminary Assessment: Unidentified Aerial Phenomena"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27635310",
+          "author": "andyjih_",
+          "description": "Article URL: https://userinyerface.com/\nComments URL: https://news.ycombinator.com/item?id=27635310\nPoints: 469\n# Comments: 122",
+          "link": "https://userinyerface.com/",
+          "publishedOn": "2021-06-25T19:37:53.000Z",
+          "wordCount": 49,
+          "title": "User Inyerface – A worst-practice UI experiment"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27635101",
+          "author": "jhabdas",
+          "description": "Article URL: https://telegram.org/blog/group-video-calls\nComments URL: https://news.ycombinator.com/item?id=27635101\nPoints: 160\n# Comments: 83",
+          "link": "https://telegram.org/blog/group-video-calls",
+          "publishedOn": "2021-06-25T19:18:42.000Z",
+          "wordCount": 661,
+          "title": "Group Video Calls"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27635039",
+          "author": "fortran77",
+          "description": "Article URL: https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill\nComments URL: https://news.ycombinator.com/item?id=27635039\nPoints: 92\n# Comments: 68",
+          "link": "https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill",
+          "publishedOn": "2021-06-25T19:13:02.000Z",
+          "wordCount": 1594,
+          "title": "The Miami condo collapse is a reminder of America's artificial land problem"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27634840",
+          "author": "mytherin",
+          "description": "Article URL: https://duckdb.org/2021/06/25/querying-parquet.html\nComments URL: https://news.ycombinator.com/item?id=27634840\nPoints: 89\n# Comments: 26",
+          "link": "https://duckdb.org/2021/06/25/querying-parquet.html",
+          "publishedOn": "2021-06-25T18:53:15.000Z",
+          "wordCount": 1919,
+          "title": "Querying Parquet with Precision Using DuckDB"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27634564",
+          "author": "sizzle",
+          "description": "Article URL: https://pubs.acs.org/doi/10.1021/acs.est.1c00976\nComments URL: https://news.ycombinator.com/item?id=27634564\nPoints: 110\n# Comments: 49",
+          "link": "https://pubs.acs.org/doi/10.1021/acs.est.1c00976",
+          "publishedOn": "2021-06-25T18:27:44.000Z",
+          "wordCount": 1017,
+          "title": "Deep dive into plastic monomers, additives, and processing aids"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27634549",
           "author": "optimalsolver",
-          "description": "Article URL: https://eval.ai/\nComments URL: https://news.ycombinator.com/item?id=27625511\nPoints: 10\n# Comments: 1",
-          "link": "https://eval.ai/",
-          "publishedOn": "2021-06-25T00:03:57.000Z",
-          "wordCount": 2,
-          "title": "EvalAI: An Open-Source Alternative to Kaggle"
+          "description": "Article URL: https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article\nComments URL: https://news.ycombinator.com/item?id=27634549\nPoints: 120\n# Comments: 48",
+          "link": "https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article",
+          "publishedOn": "2021-06-25T18:26:03.000Z",
+          "wordCount": 1277,
+          "title": "Chemical space is really big (2014)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27625370",
-          "author": "jmallone",
-          "description": "Article URL: https://argon2.online/\nComments URL: https://news.ycombinator.com/item?id=27625370\nPoints: 6\n# Comments: 1",
-          "link": "https://argon2.online/",
-          "publishedOn": "2021-06-24T23:44:11.000Z",
-          "wordCount": 453,
-          "title": "Password with Argon2 Algorithm, the Winner of the Password Hashing Competition"
+          "id": "https://news.ycombinator.com/item?id=27634456",
+          "author": "tate",
+          "description": "Article URL: https://github.com/MichalStrehovsky/bflat\nComments URL: https://news.ycombinator.com/item?id=27634456\nPoints: 247\n# Comments: 112",
+          "link": "https://github.com/MichalStrehovsky/bflat",
+          "publishedOn": "2021-06-25T18:18:28.000Z",
+          "wordCount": 1409,
+          "title": "Bflat: C# as you know it but with Go-like tooling"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27624735",
-          "author": "bjelkeman-again",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/\nComments URL: https://news.ycombinator.com/item?id=27624735\nPoints: 133\n# Comments: 100",
-          "link": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
-          "publishedOn": "2021-06-24T22:30:52.000Z",
-          "wordCount": 1049,
-          "title": "WD My Book users wake up to find their data deleted"
+          "id": "https://news.ycombinator.com/item?id=27634319",
+          "author": "jger15",
+          "description": "Article URL: https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world\nComments URL: https://news.ycombinator.com/item?id=27634319\nPoints: 78\n# Comments: 21",
+          "link": "https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world",
+          "publishedOn": "2021-06-25T18:08:27.000Z",
+          "wordCount": 8091,
+          "title": "A man whose software ate the world"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27624411",
-          "author": "mcone",
-          "description": "Article URL: https://tinyacquisitions.com\nComments URL: https://news.ycombinator.com/item?id=27624411\nPoints: 174\n# Comments: 86",
-          "link": "https://tinyacquisitions.com",
-          "publishedOn": "2021-06-24T22:01:48.000Z",
-          "wordCount": 6,
-          "title": "Tiny Acquisitions"
+          "id": "https://news.ycombinator.com/item?id=27633811",
+          "author": "pedrodelfino",
+          "description": "Article URL: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf\nComments URL: https://news.ycombinator.com/item?id=27633811\nPoints: 41\n# Comments: 2",
+          "link": "https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
+          "publishedOn": "2021-06-25T17:28:21.000Z",
+          "wordCount": 73374,
+          "title": "Programming Paradigms for Dummies: What Every Programmer Should Know (2009) [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27624200",
-          "author": "SkyMarshal",
-          "description": "Article URL: https://mobile.nixos.org/\nComments URL: https://news.ycombinator.com/item?id=27624200\nPoints: 66\n# Comments: 18",
-          "link": "https://mobile.nixos.org/",
-          "publishedOn": "2021-06-24T21:44:35.000Z",
-          "wordCount": 5105,
-          "title": "Mobile NixOS"
+          "id": "https://news.ycombinator.com/item?id=27631950",
+          "author": "riyakhanna1983",
+          "description": "Article URL: https://dl.acm.org/doi/pdf/10.1145/3460095\nComments URL: https://news.ycombinator.com/item?id=27631950\nPoints: 101\n# Comments: 119",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/3460095",
+          "publishedOn": "2021-06-25T15:24:56.000Z",
+          "wordCount": 148,
+          "title": "Where did my 256 GB go? Mobile storage Analysis [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27623693",
-          "author": "harshitaisanerd",
-          "description": "Article URL: https://careers.atob.com/\nComments URL: https://news.ycombinator.com/item?id=27623693\nPoints: 1\n# Comments: 0",
-          "link": "https://careers.atob.com/",
-          "publishedOn": "2021-06-24T21:00:49.000Z",
-          "wordCount": 172,
-          "title": "AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators"
+          "id": "https://news.ycombinator.com/item?id=27631765",
+          "author": "belter",
+          "description": "Article URL: https://hoverbear.org/blog/postgresql-hierarchical-structures/\nComments URL: https://news.ycombinator.com/item?id=27631765\nPoints: 188\n# Comments: 43",
+          "link": "https://hoverbear.org/blog/postgresql-hierarchical-structures/",
+          "publishedOn": "2021-06-25T15:10:58.000Z",
+          "wordCount": 1130,
+          "title": "Hierarchical Structures in PostgreSQL (2020)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27623605",
-          "author": "rayshan",
-          "description": "Article URL: https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701\nComments URL: https://news.ycombinator.com/item?id=27623605\nPoints: 141\n# Comments: 82",
-          "link": "https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701",
-          "publishedOn": "2021-06-24T20:53:09.000Z",
-          "wordCount": 1215,
-          "title": "Twilio, Asana to List on Long Term Stock Exchange"
+          "id": "https://news.ycombinator.com/item?id=27631324",
+          "author": "ramimac",
+          "description": "Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/\nComments URL: https://news.ycombinator.com/item?id=27631324\nPoints: 128\n# Comments: 115",
+          "link": "https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/",
+          "publishedOn": "2021-06-25T14:38:34.000Z",
+          "wordCount": 794,
+          "title": "AWS acquires Wickr"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27622988",
-          "author": "manikandarajs",
-          "description": "Article URL: https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/\nComments URL: https://news.ycombinator.com/item?id=27622988\nPoints: 156\n# Comments: 211",
-          "link": "https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/",
-          "publishedOn": "2021-06-24T19:54:57.000Z",
-          "wordCount": 2344,
-          "title": "Stop using your work laptop or phone for personal stuff, because I know you are"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27622789",
-          "author": "cbsks",
-          "description": "Article URL: https://www.tindie.com/products/nsayer/crazy-clock/\nComments URL: https://news.ycombinator.com/item?id=27622789\nPoints: 184\n# Comments: 44",
-          "link": "https://www.tindie.com/products/nsayer/crazy-clock/",
-          "publishedOn": "2021-06-24T19:38:17.000Z",
-          "wordCount": 4635,
-          "title": "Crazy Clock"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27622100",
-          "author": "Kaizeras",
-          "description": "Article URL: https://hristo-georgiev.com/google-turned-me-into-a-serial-killer\nComments URL: https://news.ycombinator.com/item?id=27622100\nPoints: 601\n# Comments: 238",
-          "link": "https://hristo-georgiev.com/google-turned-me-into-a-serial-killer",
-          "publishedOn": "2021-06-24T18:44:30.000Z",
-          "wordCount": 508,
-          "title": "Google turned me into a serial killer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27621114",
-          "author": "minimaxir",
-          "description": "Article URL: https://minimaxir.com/2021/06/gpt-j-6b/\nComments URL: https://news.ycombinator.com/item?id=27621114\nPoints: 87\n# Comments: 13",
-          "link": "https://minimaxir.com/2021/06/gpt-j-6b/",
-          "publishedOn": "2021-06-24T17:36:50.000Z",
-          "wordCount": 3425,
-          "title": "Fun and dystopia with AI-based code generation using GPT-J-6B"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27621014",
-          "author": "bananaoomarang",
-          "description": "Article URL: https://borodust.org/projects/cl-bodge/\nComments URL: https://news.ycombinator.com/item?id=27621014\nPoints: 72\n# Comments: 21",
-          "link": "https://borodust.org/projects/cl-bodge/",
-          "publishedOn": "2021-06-24T17:30:35.000Z",
-          "wordCount": 229,
-          "title": "Cl-bodge: a cross-platform Common Lisp game and application framework"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27620319",
-          "author": "ameshkov",
-          "description": "Article URL: https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/\nComments URL: https://news.ycombinator.com/item?id=27620319\nPoints: 397\n# Comments: 195",
-          "link": "https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/",
-          "publishedOn": "2021-06-24T16:52:40.000Z",
-          "wordCount": 749,
-          "title": "Quad9 and Sony Music: German Injunction Status"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27620299",
-          "author": "okfine",
-          "description": "Article URL: https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/\nComments URL: https://news.ycombinator.com/item?id=27620299\nPoints: 70\n# Comments: 45",
-          "link": "https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/",
-          "publishedOn": "2021-06-24T16:51:19.000Z",
-          "wordCount": 2857,
-          "title": "The Banning of Joyce's Ulysses"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27619977",
-          "author": "nixcraft",
-          "description": "Article URL: https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with\nComments URL: https://news.ycombinator.com/item?id=27619977\nPoints: 246\n# Comments: 117",
-          "link": "https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with",
-          "publishedOn": "2021-06-24T16:32:35.000Z",
-          "wordCount": 1621,
-          "title": "Developing Games on Linux: An Interview with Little Red Dog Games"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27619672",
-          "author": "TangerineDream",
-          "description": "Article URL: https://www.backblaze.com/blog/next-backblaze-storage-pod/\nComments URL: https://news.ycombinator.com/item?id=27619672\nPoints: 202\n# Comments: 89",
-          "link": "https://www.backblaze.com/blog/next-backblaze-storage-pod/",
-          "publishedOn": "2021-06-24T16:11:06.000Z",
-          "wordCount": 2066,
-          "title": "The Next Backblaze Storage Pod"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27619191",
-          "author": "ArchUser2255",
-          "description": "Article URL: https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store\nComments URL: https://news.ycombinator.com/item?id=27619191\nPoints: 335\n# Comments: 213",
-          "link": "https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store",
-          "publishedOn": "2021-06-24T15:40:46.000Z",
-          "wordCount": 856,
-          "title": "Microsoft is bringing Android apps to Windows 11"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27619015",
-          "author": "friendly_chap",
-          "description": "Article URL: https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html\nComments URL: https://news.ycombinator.com/item?id=27619015\nPoints: 195\n# Comments: 59",
-          "link": "https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html",
-          "publishedOn": "2021-06-24T15:28:44.000Z",
-          "wordCount": 668,
-          "title": "Micro APIs for Everyday Use"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27618805",
-          "author": "neogodless",
-          "description": "Article URL: https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates\nComments URL: https://news.ycombinator.com/item?id=27618805\nPoints: 447\n# Comments: 535",
-          "link": "https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates",
-          "publishedOn": "2021-06-24T15:14:02.000Z",
-          "wordCount": 1451,
-          "title": "Microsoft announces Windows 11"
+          "id": "https://news.ycombinator.com/item?id=27629770",
+          "author": "pressurewave",
+          "description": "Article URL: https://sirendns.com\nComments URL: https://news.ycombinator.com/item?id=27629770\nPoints: 56\n# Comments: 4",
+          "link": "https://sirendns.com",
+          "publishedOn": "2021-06-25T12:15:23.000Z",
+          "wordCount": null,
+          "title": "Show HN: SirenDNS – A Watchtower for Your Domains (Anti-domain-squatting)"
         }
       ]
     },
@@ -193,12 +193,84 @@
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
         {
+          "id": "46455_v1",
+          "author": null,
+          "description": "Uno de los proyectos más ambiciosos que tiene Ubisoft entre manos es Avatar: Frontiers of Pandora, un juego que además de PC estará disponible en PlayStation 5 y Xbox Series, así que estamos ante un título que no debe preocuparse por una versión para la pasada generación y su hardware de hace ocho años. Por ese motivo Massive Entertainment, el estudio responsable del juego basado en la película de James Cameron, ha trabajado en mejorar Snowdrop y publicado un vídeo donde ofrece detalles sobre la evolución del motor gráfico. “Como el mundo de Avatar es tan distinto de todo lo que hemos… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/avatar-snowdrop-mejoras-video",
+          "publishedOn": "2021-06-25T15:15:37.000Z",
+          "wordCount": 784,
+          "title": "Ubisoft detalla las mejoras aplicadas en Snowdrop para dar vida a Avatar: Frontiers of Pandora"
+        },
+        {
+          "id": "46456_v1",
+          "author": null,
+          "description": "GOG ha iniciado sus rebajas de verano y para atraer la atención de los jugadores ofrece de forma gratuita la trilogía moderna de Shadowrun compuesta por Shadowrun Returns (2013), Shadowrun: Dragonfall - Director's Cut (2014) y Shadowrun: Hong Kong (2015). Una vez reclamados los tres juegos se quedan en la cuenta para siempre, pero la oferta solo estará activa hasta el 28 de junio a las 15:00 horas. Para conseguir Shadowrun Trilogy solo hay que dirigirse a la página de GOG, acceder a la cuenta y reclamar la colección con un solo click. La saga Shadowrun es una adaptación del juego de… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_gog-regala-shadowrun-trilogy-hasta-el-28-de-junio_2427142",
+          "publishedOn": "2021-06-25T15:08:23.000Z",
+          "wordCount": 504,
+          "title": "Breve: GOG regala Shadowrun Trilogy hasta el 28 de junio"
+        },
+        {
+          "id": "46454_v1",
+          "author": null,
+          "description": "Los juegos tipo party parece que están funcionando en Nintendo Switch y como muestra de ello tenemos el anuncio de Mario Party Superstars o el lanzamiento de Mario Golf: Super Rush, que desde hoy se encuentra disponible para la consola híbrida. El título, que ya ha pasado por manos de la prensa, ha cosechado una nota media de 75 en Metacritic y Open Critic, solo un punto menos que Super Mario Party, un título que suma 14,79 millones de unidades vendidas. Mario Golf: Super Rush es un juego de golf arcade en el que los jugadores se pueden unir a los personajes del Reino Champiñón. El… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/mario-golf-super-rush-disponible-switch",
+          "publishedOn": "2021-06-25T13:52:05.000Z",
+          "wordCount": 805,
+          "title": "Mario Golf: Super Rush ya disponible para Nintendo Switch"
+        },
+        {
+          "id": "46453_v1",
+          "author": null,
+          "description": "Windows 11 se presentó haciendo gala de muchas novedades y una de ellas es un enfoque más abierto respecto a la Microsoft Store, tanto es así que permitirá descargar aplicaciones de Android mediante la Amazon Appstore y usar pasarelas de pago de terceros sin ningún tipo de comisión. Pero Panos Panay, máximo responsable de Windows, quiere ir un paso más allá y también desea que otras tiendas como Steam y Epic Games Store formen parte de la nueva Microsoft Store de Windows. “Windows ya alberga estas tiendas de muchas formas, y si podemos alojarlas mediante la Microsoft Store, lo… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/steam-windows-11-store",
+          "publishedOn": "2021-06-25T13:08:34.000Z",
+          "wordCount": 875,
+          "title": "Microsoft quiere que Steam y otras plataformas formen parte de la nueva tienda de Windows 11"
+        },
+        {
+          "id": "46452_v1",
+          "author": null,
+          "description": "El Game Development Kit (GDK) de Xbox One y Xbox Series suma una nueva herramienta del repertorio que ofrece AMD FidelityFX. Se trata de FidelityFX Super Resolution (FSR), una tecnología ya disponible para los jugadores de PC que permite aumentar la tasa de fotogramas de los juegos minimizando el impacto en la calidad de imagen. A día de hoy FSR es una tecnología que aún está muy verde, pero se espera que su rendimiento vaya aumentando a medida que AMD la haga evolucionar. Además, que tenga soporte para Xbox beneficiará a los jugadores de PC y a los propios desarrolladores, que… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_fidelityfx-super-resolution-de-amd-llega-al-gdk-de-xbox-one-y-series_2427119",
+          "publishedOn": "2021-06-25T11:35:03.000Z",
+          "wordCount": 1292,
+          "title": "Breve: FidelityFX Super Resolution de AMD llega al GDK de Xbox One y Series"
+        },
+        {
+          "id": "46451_v1",
+          "author": null,
+          "description": "Los seguidores de la saga The Legend of Heroes están de enhorabuena después de que NIS America haya anunciado que entre 2022 y 2023 llegarán a Occidente tres entregas de la franquicia creada por Falcom que hasta ahora no habían salido de Asia. Se trata de The Legend of Heroes Trails into Reverie (2023), y Trails from Zero (2022) y Trails to Azure (2023), una duología cuya acción transcurre en la ciudad estado Crossbell. También desembarcará en nuestra tierra The Legend of Nayuta: Boundless Trails (2023), un spin-off en forma de ARPG. Los cuatro juegos estarán disponibles en Europa y… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/the-legend-of-heroes-nayuta-occidente",
+          "publishedOn": "2021-06-25T11:10:46.000Z",
+          "wordCount": 1072,
+          "title": "The Legend of Heroes Trails into Reverie, Trails to Azure, Trails from Zero y The Legend of Nayuta llegarán a Occidente"
+        },
+        {
+          "id": "46450_v1",
+          "author": null,
+          "description": "Actualización: The Verge ha podido confirmar que Windows 11 se podrá instalar en máquinas antiguas, aunque mostrará un aviso de que la CPU no está soportada. Microsoft no ha aclarado si habrá cambios a nivel de funcionalidad (que no podrá ser garantizada) o actualizaciones para este hardware. Hemos actualizado el titular de la noticia acordemente. Noticia original: Windows 11 ya es casi una realidad. Tras la conferencia de ayer por la tarde, miles de usuarios del sistema operativo de Microsoft corrieron a descargar la aplicación de testeo de requisitos para ver si sus ordenadores eran… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/windows-11-no-funciona-procesadores-intel-core-amd-ryzen",
+          "publishedOn": "2021-06-25T10:36:37.000Z",
+          "wordCount": 950,
+          "title": "Windows 11 no soportará oficialmente equipos con Ryzen 1000 o Intel Core anteriores a la octava generación [Actualizada]"
+        },
+        {
+          "id": "46449_v1",
+          "author": null,
+          "description": "Los propietarios de un dispositivo de almacenamiento en red (NAS) WD My Book Live deberían desconectarlo lo antes posible de Internet y dejarlo aislado hasta nuevo aviso so riesgo de perder la información almacenada en sus discos duros. Western Digital así lo ha advertido después de que un número indeterminado de usuarios de todo el mundo hayan perdido sus datos por lo que podría ser un ataque con malware. Según relata ArsTechnica, algunas personas detectaron que sus NAS ejecutaban una restauración a los valores originales de fábrica. Tras esta operación no solicitada, la mayoría se… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/nas-wd-my-book-live-datos-borrados-ataque",
+          "publishedOn": "2021-06-25T07:32:46.000Z",
+          "wordCount": 769,
+          "title": "Un ataque con malware estaría borrando los datos de los NAS WD My Book Live"
+        },
+        {
           "id": "46448_v1",
           "author": null,
           "description": "Gearbox Software ha lanzado una nueva actualización para Borderlands 3 que incluye el juego cruzado entre Xbox One, Xbox Series, Stadia y PC (Steam, Epic Games). En la lista de plataformas falta PlayStation y todo parece indicar que esto es debido a que 2K Games, editor de Borderlands 3, no ha aceptado las condiciones de Sony, que exige una compensación en caso de que los usuarios jueguen en PlayStation pero compren contenido en otras plataformas. “El juego cruzado entre las plataformas mencionadas se realizará mediante el matchmaking de SHiFT, y una ventana emergente os dejará… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_borderlands-3-se-actualiza-con-juego-cruzado-pero-sin-los-usuarios-de-playstation_2427079",
           "publishedOn": "2021-06-24T20:49:11.000Z",
-          "wordCount": 413,
+          "wordCount": 939,
           "title": "Breve: Borderlands 3 se actualiza con juego cruzado pero sin los usuarios de PlayStation"
         },
         {
@@ -216,7 +288,7 @@
           "description": "Finalmente Microsoft ha presentado al mundo y de forma oficial a Windows 11, un sistema operativo con una interfaz rediseñada, aplicaciones de Android, actualización gratuita y un serio compromiso con el gaming. Así queda demostrado con la llegada de tecnologías que ya encontramos en Xbox Series como DirectStorage y Auto HDR, así como una integración mucho más profunda de Xbox Game Pass a través de la aplicación de Xbox. Además, tenemos en camino Xbox Gaming Cloud para Windows. De todas las novedades destinadas a los jugadores que llegarán con Windows 11 la más notable es … Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/windows-11-caracteristicas-gaming",
           "publishedOn": "2021-06-24T17:06:42.000Z",
-          "wordCount": 938,
+          "wordCount": 982,
           "title": "Windows 11 abraza el gaming: DirectStorage, Auto HDR y Xbox Game Pass integrado"
         },
         {
@@ -225,7 +297,7 @@
           "description": "Microsoft Windows 10 es posiblemente uno de los sistemas operativos más longevos en la historia de Microsoft. Durante prácticamente seis años la firma de Redmond ha ido actualizando y perfeccionando una plataforma que no nació perfecta, pero que con el tiempo ha ido ganando prestaciones, estabilidad y rendimiento (ni sin algún que otro tropezón). Pero ha llegado el momento de despedirse de él y decir hola al nuevo Windows 11. Tal y como avanzaban las filtraciones de los últimos días, \"el próximo paso para Windows\" no era otra cosa que una nueva generación del sistema operativo.… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/microsoft-windows-11-detalles",
           "publishedOn": "2021-06-24T16:21:12.000Z",
-          "wordCount": 1259,
+          "wordCount": 1303,
           "title": "Microsoft anuncia Windows 11, actualizable gratis, con interfaz rediseñada, compatible con apps para Android y mucho más"
         },
         {
@@ -234,7 +306,7 @@
           "description": "Desde hoy los jugadores de PlayStation 4, Nintendo Switch y PC (Steam) tienen disponible por 29,99 euros una remasterización en alta definición de Legend of Mana, un juego originalmente lanzado en 1999 para PlayStation. Esta versión del título de rol corre a cargo de M2, un estudio conocido por su trabajo en la serie Sega Ages y por llevar varios juegos a la Consola Virtual de Nintendo. Legend of Mana es la cuarta entrega de la serie Mana, así que es la primera vez que se encuentra disponible de forma oficial en Europa. Además de unos gráficos remasterizados, este capítulo ofrece una… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_legend-of-mana-llega-a-ps4-switch-y-pc_2427046",
           "publishedOn": "2021-06-24T15:23:29.000Z",
-          "wordCount": 515,
+          "wordCount": 698,
           "title": "Breve: Legend of Mana llega a PS4, Switch y PC"
         },
         {
@@ -243,7 +315,7 @@
           "description": "Ayer la primera entrega de Sonic cumplió 30 años y hoy la Epic Games Store lo celebra regalando Sonic Mania, un juego que propone una reimaginación de los primeros títulos protagonizados por el erizo azul de Sega. Hasta el 1 de julio también se puede conseguir de forma gratuita Horizon Chase Turbo, mientras que la próxima semana será el turno de The Spectrum Retreat. Sonic Mania es un juego de plataformas en 2D que conserva la jugabilidad de los años 90 pero aprovechando la alta definición actual y los 60 FPS. El título es responsabilidad de Christian Whitehead, un experto a la hora… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_sonic-mania-y-horizon-chase-turbo-gratis-en-la-epic-games-store-hasta-el-1-de-julio_2427045",
           "publishedOn": "2021-06-24T15:12:52.000Z",
-          "wordCount": 496,
+          "wordCount": 678,
           "title": "Breve: Sonic Mania y Horizon Chase Turbo gratis en la Epic Games Store hasta el 1 de julio"
         },
         {
@@ -261,7 +333,7 @@
           "description": "Focus Home Interactive y el desarrollador francés Spiders Studio han anunciado que el juego de rol GreedFall ampliará su propuesta el 30 de junio con la llegada de la expansión The De Vespe Conspiracy. Ese mismo día también estará disponible la actualización gratuita para PlayStation 5 y Xbox Series, así como la GreedFall: Gold Edition, que incluye el juego base para la nueva generación junto al mencionado complemento a cambio de 39,99 euros (en formato físico y digital). “The De Vespe Conspiracy amplía el apreciado mundo y la historia de GreedFall, invitándote a pisar una región de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/greedfall-gold-edition-actualizacion",
           "publishedOn": "2021-06-24T13:29:40.000Z",
-          "wordCount": 760,
+          "wordCount": 762,
           "title": "GreedFall recibirá la expansión The De Vespe Conspiracy y la actualización de nueva generación el 30 de junio"
         },
         {
@@ -279,7 +351,7 @@
           "description": "Más allá de las tarjetas gráficas y el hardware para centros de datos, Nvidia se ha situado como una de las firmas punteras en las tecnologías de inteligencia artificial relacionadas con el procesamiento de imágenes. Su aplicación más visible en el campo de los videojuegos es sin duda DLSS, que utiliza redes neuronales para escalar fotogramas a baja resolución y escalarlos con una pérdida de calidad mínima, pero sus ingenieros también están muy implicados en otros usos, como los sistemas de conducción autónoma. Y entre unos y otros, van dando muestras de sus avances con aplicaciones… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/nvidia-canvas-ai-convierte-garabatos-arte",
           "publishedOn": "2021-06-24T10:06:36.000Z",
-          "wordCount": 732,
+          "wordCount": 734,
           "title": "Nvidia lanza Canvas, una aplicación que convierte garabatos en paisajes artísticos mediante inteligencia artificial"
         },
         {
@@ -297,7 +369,7 @@
           "description": "Dos semanas después de que Microsoft comentase que se encontraba en “las últimas etapas” del proceso de actualizar los centros de datos de Xbox Cloud Gaming (xCloud) con el hardware de nueva generación de Xbox Series X, llegan los primeros resultados. Medios como The Verge y Ars Technica han podido comprobar que algunos juegos disponibles en Xbox Game Pass han aumentado su rendimiento cuando se juega en la nube hasta ofrecer las mismas prestaciones que en Xbox Series X. Ahora que algunos servidores Xbox Cloud Gaming equipan el mismo chip que una Xbox Series X, cuando se juega en… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/xcloud-hardware-xbox-series-x",
           "publishedOn": "2021-06-23T23:27:39.000Z",
-          "wordCount": 806,
+          "wordCount": 808,
           "title": "Los servidores de Xbox Cloud Gaming empiezan a recibir el hardware de Xbox Series X"
         },
         {
@@ -342,80 +414,8 @@
           "description": "Después de varios años dando tumbos mientras desarrollaba en Aliens: Fireteam Elite (ese Elite ha aparecido por parte de magia desde el anuncio del juego), Cold Iron Studios ha anunciado junto a Focus Home Interactive que su título estará disponible el 24 de agosto en PS4, PS5, Xbox One, Xbox Series y PC (Steam). Además de la fecha de lanzamiento, desarrollador y editor han comunicado que el juego ya se puede reservar en dos ediciones diferentes, estándar (39,99 euros) y Digital Deluxe (69,99 euros). Aliens: Fireteam Elite es un shooter en tercera persona con elementos de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/aliens-fireteam-elite-fecha",
           "publishedOn": "2021-06-23T16:50:33.000Z",
-          "wordCount": 679,
+          "wordCount": 681,
           "title": "El shooter cooperativo Aliens: Fireteam Elite estará disponible el 24 de agosto"
-        },
-        {
-          "id": "46431_v1",
-          "author": null,
-          "description": "Xbox Game Pass fue una de las grandes estrellas del Xbox & Bethesda Games Showcase celebrado en el E3 2021, pero aún hay más. Hoy Microsoft ha anunciado una nueva oleada de juegos que durante los próximos días se unirán al servicio y entre ellos tenemos a Need for Speed: Hot Pursuit Remastered (EA Play), Worms Rumble y Iron Harvest. Además, los suscriptores de Xbox Game Pass Ultimate podrán acceder antes que nadie al juego free-to-play basado en la película Space Jam: A New Legacy, que se estrenará en los cines el 16 de julio. Empezamos por el final y la novedad: Space Jam: A New… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/xbox-game-pass-junio-julio-2021",
-          "publishedOn": "2021-06-23T15:41:50.000Z",
-          "wordCount": 882,
-          "title": "Need for Speed: Hot Pursuit Remastered, Worms Rumble, Iron Harvest y más se unen a Xbox Game Pass"
-        },
-        {
-          "id": "46430_v1",
-          "author": null,
-          "description": "Electronic Arts ha anunciado haber llegado a un acuerdo con AT&T y WarnerMedia para adquirir Playdemic, el desarrollador de juegos para móviles responsable de Golf Clash, por el que pagará 1.400 millones de dólares. La compra llama la atención por el alto precio de la transacción y el párrafo en la nota de prensa en el que AT&T informa que el resto de Warner Bros. Games pasará a formar parte de WarnerMedia, que está pendiente de cerrar su fusión con Discovery. Es decir, Mortal Kombat, Batman Arkham y compañía no buscan comprador. Vayamos por partes. EA compra Playdemic como parte de… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/electronic-arts-compra-playdemic",
-          "publishedOn": "2021-06-23T14:45:52.000Z",
-          "wordCount": 848,
-          "title": "EA paga 1.400 millones de dólares por Playdemic y el resto de Warner Bros. Games pasará a formar parte de WarnerMedia"
-        },
-        {
-          "id": "46429_v1",
-          "author": null,
-          "description": "El popular MMOARPG de origen asiático Swords of Legends Online estará disponible en Europa, Norteamérica y Sudamérica el 9 de julio con texto en inglés, francés y alemán y diálogos doblados al inglés, según ha anunciado Gameforge, que se encargará de distribuir el título más allá de China en cooperación con los desarrolladores Wangyuan Shengtang y Aurogon. El juego para PC se podrá adquirir mediante Steam, Epic Games Store y el cliente de Gameforge. Swords of Legends Online es un MMO con un sistema de combate de acción y elementos de rol, que se ambienta un mundo fantástico para… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/swords-of-legends-online-fecha-lanzamiento-europa",
-          "publishedOn": "2021-06-23T13:39:20.000Z",
-          "wordCount": 678,
-          "title": "El MMORPG Swords of Legends Online estará disponible el 9 de julio en Occidente"
-        },
-        {
-          "id": "46428_v1",
-          "author": null,
-          "description": "Actualización: Buscando en el archivo, el modelo de ROG parece ser un simple rebranding del ROG Strix XG43UQ, presentado a finales de 2019 y actualizado hace muy poco con HDMI 2.1. Su precio ronda los 1.500 euros. Noticia original: Hace ya bastante tiempo que los monitores de PC gozan de cierta popularidad entre los jugadores de consola, pero solo recientemente han comenzado a aparecer pantallas específicas para este tipo de máquinas de juego. Algunas son de uso dual, pero otras se presentan como televisores sin sintonizador de TDT y desprovistas de funciones de posprocesamiento que… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/monitores-especiales-xbox-hdmi-21",
-          "publishedOn": "2021-06-23T10:20:08.000Z",
-          "wordCount": 1038,
-          "title": "Microsoft anuncia tres nuevos monitores \"especiales para Xbox Series\", con HDMI 2.1 y de 28 a 55 pulgadas"
-        },
-        {
-          "id": "46427_v1",
-          "author": null,
-          "description": "Nintendo suele ser bastante generosa a la hora de explicar qué se puede esperar de sus juegos y Zelda: Skyward Sword HD no ha sido una excepción. Cuando queda menos de un mes para el lanzamiento del juego, que se pondrá a la venta el 16 de julio para Switch, la compañía japonesa ha liberado un nuevo tráiler donde se ofrecen detalles y hace un repaso general a los aspectos más importantes del título. Uno de ellos es el sistema de control, un tema no menor si tenemos en cuenta que se trata de un juego originalmente desarrollado para Wii. El lanzamiento de The Legend of Zelda: Skyward… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/zelda-skyward-sword-hd-trailer-repaso-general",
-          "publishedOn": "2021-06-23T09:43:38.000Z",
-          "wordCount": 797,
-          "title": "Zelda: Skyward Sword HD hace un repaso a su propuesta y novedades con un tráiler"
-        },
-        {
-          "id": "46426_v1",
-          "author": null,
-          "description": "Team17 ha anunciado que Worms Rumble ya se encuentra a la venta con versión para Xbox One, Xbox Series, Xbox Game Pass y Nintendo Switch. Desde hoy el juego también está disponible para PC mediante la Epic Games Store. El título llega a nuevas plataformas un año después de su debut en PlayStation 4, PlayStation 5 y PC mediante Steam. Worms Rumble es la primera entrega de la saga con acción en tiempo real, que además ofrece tres modos multijugador entre los que se incluye un battle royale para 32 jugadores con las variantes Last Worm Standing y Last Squad Standing. El tercer modo es un… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_worms-rumble-ya-disponible-para-xbox-one-xbox-series-y-nintendo-switch_2426909",
-          "publishedOn": "2021-06-23T08:20:20.000Z",
-          "wordCount": 471,
-          "title": "Breve: Worms Rumble ya disponible para Xbox One, Xbox Series y Nintendo Switch"
-        },
-        {
-          "id": "46425_v1",
-          "author": null,
-          "description": "El 18 de diciembre del año pasado Microsoft amplió de forma excepcional, solo para Cyberpunk 2077 y “hasta nuevo aviso”, su política de reembolsos para que los jugadores decepcionados con el rendimiento del juego y sus errores lo pudieran devolver independientemente de la situación. Seis meses después el título de CD Projekt Red ha mejorado su estado mediante actualizaciones y ante la nueva situación Microsoft ha anunciado que el 6 de julio pondrá fin a su generosa política de reembolsos. “El equipo de CD Projekt Red sigue trabajando duro para mejorar la experiencia de Cyberpunk 2077… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/cyberpunk-2077-reembolsos-xbox-julio",
-          "publishedOn": "2021-06-22T22:47:00.000Z",
-          "wordCount": 760,
-          "title": "Cyberpunk 2077 volverá a la política estándar de reembolsos de Microsoft el 6 de julio"
-        },
-        {
-          "id": "46424_v1",
-          "author": null,
-          "description": "AMD ha liberado FidelityFX Super Resolution (FSR), su respuesta de código abierto a la tecnología propietaria DLSS de Nvidia, que desde hoy se encuentra disponible para una pequeña lista de títulos que promete aumentar con el tiempo. FSR tiene el mismo objetivo que su competidor: aumentar la tasa de fotogramas de los juegos minimizando el impacto en la calidad de imagen (y sin tener que cambiar la tarjeta gráfica). AMD ha dejado que algunos medios como PC Gamer, Techspot, Digital Foundry, Hexus y Guru 3D prueben la tecnología FidelityFX Super Resolution, así que ya tenemos la… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/fidelityfx-super-resolution-disponible",
-          "publishedOn": "2021-06-22T18:22:21.000Z",
-          "wordCount": 751,
-          "title": "Ya disponible FidelityFX Super Resolution, la respuesta de AMD al DLSS de Nvidia"
         }
       ]
     },
