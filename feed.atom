@@ -2,229 +2,288 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T01:01:08.385Z</updated>
+    <updated>2021-06-27T01:11:41.929Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Gloss3D – an open source 3D Modeler for Linux and Windows]]></title>
-        <id>https://news.ycombinator.com/item?id=27637787</id>
-        <link href="http://www.gloss3d.net/"/>
-        <updated>2021-06-26T00:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.gloss3d.net/
-Comments URL: https://news.ycombinator.com/item?id=27637787
-Points: 3
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[I spent 5 years writing my own operating system]]></title>
+        <id>https://news.ycombinator.com/item?id=27647079</id>
+        <link href="https://github.com/halfer53/winix"/>
+        <updated>2021-06-26T23:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/halfer53/winix
+Comments URL: https://news.ycombinator.com/item?id=27647079
+Points: 235
+# Comments: 24]]></summary>
         <author>
-            <name>app4soft</name>
+            <name>halfer53</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Functors and Monads for People Who Have Read Too Many “Tutorials”]]></title>
-        <id>https://news.ycombinator.com/item?id=27637779</id>
-        <link href="http://www.jerf.org/iri/post/2958"/>
-        <updated>2021-06-26T00:09:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.jerf.org/iri/post/2958
-Comments URL: https://news.ycombinator.com/item?id=27637779
-Points: 10
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Why Did We Ever Think the First Programming Language Didn't Matter?]]></title>
+        <id>https://news.ycombinator.com/item?id=27646814</id>
+        <link href="https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext"/>
+        <updated>2021-06-26T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext
+Comments URL: https://news.ycombinator.com/item?id=27646814
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>azhenley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube takes down Xinjiang videos, forcing rights group to seek alternative]]></title>
+        <id>https://news.ycombinator.com/item?id=27646686</id>
+        <link href="https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/"/>
+        <updated>2021-06-26T22:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/
+Comments URL: https://news.ycombinator.com/item?id=27646686
+Points: 255
+# Comments: 74]]></summary>
         <author>
             <name>zdw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Correctly implementing a spinlock in Modern C++]]></title>
-        <id>https://news.ycombinator.com/item?id=27637287</id>
-        <link href="https://rigtorp.se/spinlock/"/>
-        <updated>2021-06-25T22:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rigtorp.se/spinlock/
-Comments URL: https://news.ycombinator.com/item?id=27637287
-Points: 15
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[The School for Sysadmins Who Can’t Timesync Good]]></title>
+        <id>https://news.ycombinator.com/item?id=27646652</id>
+        <link href="https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/"/>
+        <updated>2021-06-26T22:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/
+Comments URL: https://news.ycombinator.com/item?id=27646652
+Points: 24
+# Comments: 3]]></summary>
         <author>
-            <name>symisc_devel</name>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorry, we replaced that old technology, “see-through glass”]]></title>
-        <id>https://news.ycombinator.com/item?id=27636773</id>
-        <link href="https://twitter.com/RunDaltonRun/status/1408507323031592964"/>
-        <updated>2021-06-25T21:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/RunDaltonRun/status/1408507323031592964
-Comments URL: https://news.ycombinator.com/item?id=27636773
-Points: 186
-# Comments: 95]]></summary>
+        <title type="html"><![CDATA[AMD Quietly Launches Recycled Xbox Series X APU as 4700S Desktop Kit]]></title>
+        <id>https://news.ycombinator.com/item?id=27646442</id>
+        <link href="https://www.tomshardware.com/news/amd-launches-recycled-xbox-series-x-apu-4700s-desktop-kit"/>
+        <updated>2021-06-26T22:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/news/amd-launches-recycled-xbox-series-x-apu-4700s-desktop-kit
+Comments URL: https://news.ycombinator.com/item?id=27646442
+Points: 39
+# Comments: 25]]></summary>
         <author>
-            <name>dmart</name>
+            <name>Alupis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27636215</id>
-        <link href="https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96"/>
-        <updated>2021-06-25T21:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96
-Comments URL: https://news.ycombinator.com/item?id=27636215
+        <title type="html"><![CDATA[Detection Script to help identify why your PC isn't Windows 11 ready]]></title>
+        <id>https://news.ycombinator.com/item?id=27646064</id>
+        <link href="https://github.com/rcmaehl/WhyNotWin11"/>
+        <updated>2021-06-26T21:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/rcmaehl/WhyNotWin11
+Comments URL: https://news.ycombinator.com/item?id=27646064
+Points: 31
+# Comments: 29]]></summary>
+        <author>
+            <name>sys_64738</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Product Managers]]></title>
+        <id>https://news.ycombinator.com/item?id=27645801</id>
+        <link href="https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News"/>
+        <updated>2021-06-26T21:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News
+Comments URL: https://news.ycombinator.com/item?id=27645801
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>gdeglin</name>
+            <name>amckenzie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Final Fantasy remasters reignite controversies over pixel art]]></title>
-        <id>https://news.ycombinator.com/item?id=27636082</id>
-        <link href="https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art"/>
-        <updated>2021-06-25T20:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art
-Comments URL: https://news.ycombinator.com/item?id=27636082
-Points: 70
-# Comments: 50]]></summary>
+        <title type="html"><![CDATA[Guerrilla guide to CNC machining, mold making, and resin casting (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27645605</id>
+        <link href="https://lcamtuf.coredump.cx/gcnc/"/>
+        <updated>2021-06-26T20:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lcamtuf.coredump.cx/gcnc/
+Comments URL: https://news.ycombinator.com/item?id=27645605
+Points: 95
+# Comments: 14]]></summary>
         <author>
-            <name>danso</name>
+            <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Preliminary Assessment: Unidentified Aerial Phenomena]]></title>
-        <id>https://news.ycombinator.com/item?id=27635934</id>
-        <link href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena"/>
-        <updated>2021-06-25T20:36:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena
-Comments URL: https://news.ycombinator.com/item?id=27635934
-Points: 169
-# Comments: 165]]></summary>
+        <title type="html"><![CDATA[Men are rapidly losing their close friends, poll finds]]></title>
+        <id>https://news.ycombinator.com/item?id=27645573</id>
+        <link href="https://theweek.com/us/1001987/men-losing-close-friends"/>
+        <updated>2021-06-26T20:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theweek.com/us/1001987/men-losing-close-friends
+Comments URL: https://news.ycombinator.com/item?id=27645573
+Points: 62
+# Comments: 33]]></summary>
         <author>
-            <name>tailspin2019</name>
+            <name>elorant</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[User Inyerface – A worst-practice UI experiment]]></title>
-        <id>https://news.ycombinator.com/item?id=27635310</id>
-        <link href="https://userinyerface.com/"/>
-        <updated>2021-06-25T19:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://userinyerface.com/
-Comments URL: https://news.ycombinator.com/item?id=27635310
-Points: 469
-# Comments: 122]]></summary>
+        <title type="html"><![CDATA[The blackout Palestinians are facing on social media]]></title>
+        <id>https://news.ycombinator.com/item?id=27645282</id>
+        <link href="https://restofworld.org/2021/palestine-social-media-silence/2"/>
+        <updated>2021-06-26T19:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://restofworld.org/2021/palestine-social-media-silence/2
+Comments URL: https://news.ycombinator.com/item?id=27645282
+Points: 226
+# Comments: 121]]></summary>
         <author>
-            <name>andyjih_</name>
+            <name>2939223</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Group Video Calls]]></title>
-        <id>https://news.ycombinator.com/item?id=27635101</id>
-        <link href="https://telegram.org/blog/group-video-calls"/>
-        <updated>2021-06-25T19:18:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://telegram.org/blog/group-video-calls
-Comments URL: https://news.ycombinator.com/item?id=27635101
-Points: 160
-# Comments: 83]]></summary>
+        <title type="html"><![CDATA[So you want to build a house more efficiently]]></title>
+        <id>https://news.ycombinator.com/item?id=27644334</id>
+        <link href="https://austinvernon.eth.link/blog/construction.html"/>
+        <updated>2021-06-26T18:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://austinvernon.eth.link/blog/construction.html
+Comments URL: https://news.ycombinator.com/item?id=27644334
+Points: 258
+# Comments: 263]]></summary>
         <author>
-            <name>jhabdas</name>
+            <name>srl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Miami condo collapse is a reminder of America's artificial land problem]]></title>
-        <id>https://news.ycombinator.com/item?id=27635039</id>
-        <link href="https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill"/>
-        <updated>2021-06-25T19:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill
-Comments URL: https://news.ycombinator.com/item?id=27635039
-Points: 92
-# Comments: 68]]></summary>
+        <title type="html"><![CDATA[CRISPR gene-editing breakthrough opens door to treating broad array of diseases]]></title>
+        <id>https://news.ycombinator.com/item?id=27643517</id>
+        <link href="https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it"/>
+        <updated>2021-06-26T16:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it
+Comments URL: https://news.ycombinator.com/item?id=27643517
+Points: 358
+# Comments: 139]]></summary>
         <author>
-            <name>fortran77</name>
+            <name>hassanahmad</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Querying Parquet with Precision Using DuckDB]]></title>
-        <id>https://news.ycombinator.com/item?id=27634840</id>
-        <link href="https://duckdb.org/2021/06/25/querying-parquet.html"/>
-        <updated>2021-06-25T18:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://duckdb.org/2021/06/25/querying-parquet.html
-Comments URL: https://news.ycombinator.com/item?id=27634840
-Points: 89
-# Comments: 26]]></summary>
+        <title type="html"><![CDATA[Play online chess with a real chess board]]></title>
+        <id>https://news.ycombinator.com/item?id=27643490</id>
+        <link href="https://github.com/karayaman/Play-online-chess-with-real-chess-board"/>
+        <updated>2021-06-26T16:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/karayaman/Play-online-chess-with-real-chess-board
+Comments URL: https://news.ycombinator.com/item?id=27643490
+Points: 95
+# Comments: 11]]></summary>
         <author>
-            <name>mytherin</name>
+            <name>karayaman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep dive into plastic monomers, additives, and processing aids]]></title>
-        <id>https://news.ycombinator.com/item?id=27634564</id>
-        <link href="https://pubs.acs.org/doi/10.1021/acs.est.1c00976"/>
-        <updated>2021-06-25T18:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pubs.acs.org/doi/10.1021/acs.est.1c00976
-Comments URL: https://news.ycombinator.com/item?id=27634564
-Points: 110
-# Comments: 49]]></summary>
+        <title type="html"><![CDATA[Some biologists and ecologists think social media is a risk to humanity]]></title>
+        <id>https://news.ycombinator.com/item?id=27643330</id>
+        <link href="https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics"/>
+        <updated>2021-06-26T16:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics
+Comments URL: https://news.ycombinator.com/item?id=27643330
+Points: 192
+# Comments: 138]]></summary>
         <author>
-            <name>sizzle</name>
+            <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chemical space is really big (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27634549</id>
-        <link href="https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article"/>
-        <updated>2021-06-25T18:26:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article
-Comments URL: https://news.ycombinator.com/item?id=27634549
-Points: 120
-# Comments: 48]]></summary>
+        <title type="html"><![CDATA[Cwtch: Decentralized, privacy-preserving, multi-party messaging protocol]]></title>
+        <id>https://news.ycombinator.com/item?id=27643171</id>
+        <link href="https://cwtch.im/"/>
+        <updated>2021-06-26T16:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cwtch.im/
+Comments URL: https://news.ycombinator.com/item?id=27643171
+Points: 86
+# Comments: 58]]></summary>
         <author>
-            <name>optimalsolver</name>
+            <name>homarp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bflat: C# as you know it but with Go-like tooling]]></title>
-        <id>https://news.ycombinator.com/item?id=27634456</id>
-        <link href="https://github.com/MichalStrehovsky/bflat"/>
-        <updated>2021-06-25T18:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/MichalStrehovsky/bflat
-Comments URL: https://news.ycombinator.com/item?id=27634456
-Points: 247
-# Comments: 112]]></summary>
+        <title type="html"><![CDATA[When it comes to Git history, less is more]]></title>
+        <id>https://news.ycombinator.com/item?id=27643057</id>
+        <link href="https://brennan.io/2021/06/15/git-less-is-more/"/>
+        <updated>2021-06-26T16:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brennan.io/2021/06/15/git-less-is-more/
+Comments URL: https://news.ycombinator.com/item?id=27643057
+Points: 189
+# Comments: 97]]></summary>
         <author>
-            <name>tate</name>
+            <name>maximilianroos</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A man whose software ate the world]]></title>
-        <id>https://news.ycombinator.com/item?id=27634319</id>
-        <link href="https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world"/>
-        <updated>2021-06-25T18:08:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world
-Comments URL: https://news.ycombinator.com/item?id=27634319
-Points: 78
-# Comments: 21]]></summary>
+        <title type="html"><![CDATA[The Book of Secret Knowledge]]></title>
+        <id>https://news.ycombinator.com/item?id=27643054</id>
+        <link href="https://github.com/trimstray/the-book-of-secret-knowledge"/>
+        <updated>2021-06-26T16:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/trimstray/the-book-of-secret-knowledge
+Comments URL: https://news.ycombinator.com/item?id=27643054
+Points: 197
+# Comments: 25]]></summary>
         <author>
-            <name>jger15</name>
+            <name>luke2m</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Programming Paradigms for Dummies: What Every Programmer Should Know (2009) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27633811</id>
-        <link href="https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"/>
-        <updated>2021-06-25T17:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
-Comments URL: https://news.ycombinator.com/item?id=27633811
-Points: 41
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Show HN: I’m an introvert – made an app to help maintain connections with people]]></title>
+        <id>https://news.ycombinator.com/item?id=27642977</id>
+        <link href="http://cq.mtc.dev"/>
+        <updated>2021-06-26T16:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://cq.mtc.dev
+Comments URL: https://news.ycombinator.com/item?id=27642977
+Points: 113
+# Comments: 124]]></summary>
         <author>
-            <name>pedrodelfino</name>
+            <name>binkHN</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where did my 256 GB go? Mobile storage Analysis [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27631950</id>
-        <link href="https://dl.acm.org/doi/pdf/10.1145/3460095"/>
-        <updated>2021-06-25T15:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/pdf/10.1145/3460095
-Comments URL: https://news.ycombinator.com/item?id=27631950
-Points: 101
-# Comments: 119]]></summary>
+        <title type="html"><![CDATA[Information Theory: A Tutorial Introduction]]></title>
+        <id>https://news.ycombinator.com/item?id=27642906</id>
+        <link href="https://arxiv.org/abs/1802.05968"/>
+        <updated>2021-06-26T15:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1802.05968
+Comments URL: https://news.ycombinator.com/item?id=27642906
+Points: 199
+# Comments: 14]]></summary>
         <author>
-            <name>riyakhanna1983</name>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key witness in Assange case admits to lies in indictment]]></title>
+        <id>https://news.ycombinator.com/item?id=27642660</id>
+        <link href="https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/"/>
+        <updated>2021-06-26T15:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/
+Comments URL: https://news.ycombinator.com/item?id=27642660
+Points: 392
+# Comments: 177]]></summary>
+        <author>
+            <name>eplanit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las noticias de la semana (19 - 26 de junio)]]></title>
+        <id>46458_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/semana-19-26-junio-2021"/>
+        <updated>2021-06-26T10:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Esta ha sido la semana de Windows 11, la nueva versión del sistema operativo de Microsoft que estrena diseño, compatibilidad con apps de Android, características gaming como Auto HDR y DirectStorage, así como unos requisitos que dejarán fuera a más de uno a pesar de que la actualización será gratuita. Además, Windows 11 espera integrar otras tiendas como Steam o Epic Games Store. Por otro lado, Microsoft ha ampliado la iniciativa Diseñado para Xbox con monitores y anunciado que trabaja en juegos nativos para la nube. Para los interesados en nuevos juegos, durante los últimos días… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: El director de Assassin's Creed Valhalla ficha por Electronic Arts]]></title>
+        <id>46457_v1</id>
+        <link href="https://www.elotrolado.net/hilo_el-director-de-assassin-s-creed-valhalla-ficha-por-electronic-arts_2427203"/>
+        <updated>2021-06-26T09:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Eric Baptizat, un veterano desarrollador de Ubisoft y director de Assassin's Creed Valhalla, ha dejado la compañía francesa para fichar por Electronic Arts. En concreto, Baptizat es ahora director de juego en Motive Studio, equipo responsable de Star Wars: Squadrons y que según los rumores estaría preparando la vuelta de Dead Space. A lo largo de sus 16 años como empleado de Ubisoft, Eric Baptizat ha participado en múltiples entregas de la saga Assassin’s Creed, incluyendo Black Flag y Origins, así como el mencionado Valhalla del que era director. Actualmente Baptizat se encuentra… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -238,19 +297,6 @@ Points: 101
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hierarchical Structures in PostgreSQL (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27631765</id>
-        <link href="https://hoverbear.org/blog/postgresql-hierarchical-structures/"/>
-        <updated>2021-06-25T15:10:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hoverbear.org/blog/postgresql-hierarchical-structures/
-Comments URL: https://news.ycombinator.com/item?id=27631765
-Points: 188
-# Comments: 43]]></summary>
-        <author>
-            <name>belter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: GOG regala Shadowrun Trilogy hasta el 28 de junio]]></title>
         <id>46456_v1</id>
         <link href="https://www.elotrolado.net/hilo_gog-regala-shadowrun-trilogy-hasta-el-28-de-junio_2427142"/>
@@ -258,19 +304,6 @@ Points: 188
         <summary type="html"><![CDATA[GOG ha iniciado sus rebajas de verano y para atraer la atención de los jugadores ofrece de forma gratuita la trilogía moderna de Shadowrun compuesta por Shadowrun Returns (2013), Shadowrun: Dragonfall - Director's Cut (2014) y Shadowrun: Hong Kong (2015). Una vez reclamados los tres juegos se quedan en la cuenta para siempre, pero la oferta solo estará activa hasta el 28 de junio a las 15:00 horas. Para conseguir Shadowrun Trilogy solo hay que dirigirse a la página de GOG, acceder a la cuenta y reclamar la colección con un solo click. La saga Shadowrun es una adaptación del juego de… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS acquires Wickr]]></title>
-        <id>https://news.ycombinator.com/item?id=27631324</id>
-        <link href="https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/"/>
-        <updated>2021-06-25T14:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/
-Comments URL: https://news.ycombinator.com/item?id=27631324
-Points: 128
-# Comments: 115]]></summary>
-        <author>
-            <name>ramimac</name>
         </author>
     </entry>
     <entry>
@@ -291,19 +324,6 @@ Points: 128
         <summary type="html"><![CDATA[Windows 11 se presentó haciendo gala de muchas novedades y una de ellas es un enfoque más abierto respecto a la Microsoft Store, tanto es así que permitirá descargar aplicaciones de Android mediante la Amazon Appstore y usar pasarelas de pago de terceros sin ningún tipo de comisión. Pero Panos Panay, máximo responsable de Windows, quiere ir un paso más allá y también desea que otras tiendas como Steam y Epic Games Store formen parte de la nueva Microsoft Store de Windows. “Windows ya alberga estas tiendas de muchas formas, y si podemos alojarlas mediante la Microsoft Store, lo… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: SirenDNS – A Watchtower for Your Domains (Anti-domain-squatting)]]></title>
-        <id>https://news.ycombinator.com/item?id=27629770</id>
-        <link href="https://sirendns.com"/>
-        <updated>2021-06-25T12:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sirendns.com
-Comments URL: https://news.ycombinator.com/item?id=27629770
-Points: 56
-# Comments: 4]]></summary>
-        <author>
-            <name>pressurewave</name>
         </author>
     </entry>
     <entry>
@@ -492,26 +512,6 @@ Points: 56
         <link href="https://www.elotrolado.net/hilo_la-aventura-narrativa-lost-at-sea-estara-disponible-el-15-de-julio_2426957"/>
         <updated>2021-06-23T17:40:25.000Z</updated>
         <summary type="html"><![CDATA[Studio Fizbin, un equipo independiente afincado en Alemania, y el editor Headup, han anunciado que la aventura narrativa Lost at Sea debutará el 15 de julio en PlayStation 5, Xbox Series y PC (Steam). Aquellos que quieran probar el título antes de que se ponga a la venta tienen disponible hasta el 27 de junio una demo en Steam. “En Lost at Sea, vivimos momentos de la vida de Anna, unos momentos que todos reconocemos y que nos hacen preguntarnos cómo se ha apoderado la vida de nosotros de repente y no al revés”, dice Studio Fizbin. Para vivir la vida de Anna los jugadores deberán… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: El juego de plataformas en 2D Vesper se pondrá a la venta el 30 de julio]]></title>
-        <id>46433_v1</id>
-        <link href="https://www.elotrolado.net/hilo_el-juego-de-plataformas-en-2d-vesper-se-pondra-a-la-venta-el-30-de-julio_2426956"/>
-        <updated>2021-06-23T17:25:29.000Z</updated>
-        <summary type="html"><![CDATA[El desarrollador italiano Cordens Interactive ha anunciado que Vesper, un juego de plataformas y rompecabezas en 2D, estará disponible el 30 de julio para PC mediante Steam y GOG bajo el sello de Deck13. Junto a la fecha de lanzamiento se ha liberado una nueva demo para que los interesados puedan probar el título. Vesper tiene como protagonista a Seven, un pequeño androide que vaga por un planeta donde todavía quedan rastros de una antigua civilización. Su única arma es un Cañón inyector que le permite absorber luces, crear oscuridad y controlar mentes, tres acciones con las que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El shooter cooperativo Aliens: Fireteam Elite estará disponible el 24 de agosto]]></title>
-        <id>46432_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/aliens-fireteam-elite-fecha"/>
-        <updated>2021-06-23T16:50:33.000Z</updated>
-        <summary type="html"><![CDATA[Después de varios años dando tumbos mientras desarrollaba en Aliens: Fireteam Elite (ese Elite ha aparecido por parte de magia desde el anuncio del juego), Cold Iron Studios ha anunciado junto a Focus Home Interactive que su título estará disponible el 24 de agosto en PS4, PS5, Xbox One, Xbox Series y PC (Steam). Además de la fecha de lanzamiento, desarrollador y editor han comunicado que el juego ya se puede reservar en dos ediciones diferentes, estándar (39,99 euros) y Digital Deluxe (69,99 euros). Aliens: Fireteam Elite es un shooter en tercera persona con elementos de… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
