@@ -2,60 +2,341 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T01:05:04.584Z</updated>
+    <updated>2021-06-29T01:01:09.595Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The parallel universe of FireWire hubs]]></title>
-        <id>https://news.ycombinator.com/item?id=27656462</id>
-        <link href="https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html"/>
-        <updated>2021-06-27T23:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html
-Comments URL: https://news.ycombinator.com/item?id=27656462
-Points: 6
+        <title type="html"><![CDATA[Peloton Axes Free 'Just Run' Feature from Treadmill]]></title>
+        <id>https://news.ycombinator.com/item?id=27669926</id>
+        <link href="https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers"/>
+        <updated>2021-06-29T00:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers
+Comments URL: https://news.ycombinator.com/item?id=27669926
+Points: 12
+# Comments: 9]]></summary>
+        <author>
+            <name>Karsteski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many people don’t want to work unless it’s from home]]></title>
+        <id>https://news.ycombinator.com/item?id=27669461</id>
+        <link href="https://www.vox.com/recode/22543409/remote-work-from-home-jobs-supply-demand-hiring-platforms"/>
+        <updated>2021-06-28T23:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vox.com/recode/22543409/remote-work-from-home-jobs-supply-demand-hiring-platforms
+Comments URL: https://news.ycombinator.com/item?id=27669461
+Points: 29
+# Comments: 12]]></summary>
+        <author>
+            <name>yusuf_giftworks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Your Cluster Swim]]></title>
+        <id>https://news.ycombinator.com/item?id=27669412</id>
+        <link href="https://bartoszsypytkowski.com/make-your-cluster-swim/"/>
+        <updated>2021-06-28T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bartoszsypytkowski.com/make-your-cluster-swim/
+Comments URL: https://news.ycombinator.com/item?id=27669412
+Points: 5
+# Comments: 1]]></summary>
+        <author>
+            <name>yagizdegirmenci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Test Reveals If Your Mental Images Are More Vivid Than Other People's]]></title>
+        <id>https://news.ycombinator.com/item?id=27669211</id>
+        <link href="https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s"/>
+        <updated>2021-06-28T22:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s
+Comments URL: https://news.ycombinator.com/item?id=27669211
+Points: 47
+# Comments: 5]]></summary>
+        <author>
+            <name>smusamashah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube reinstates Right Wing Watch]]></title>
+        <id>https://news.ycombinator.com/item?id=27668935</id>
+        <link href="https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286"/>
+        <updated>2021-06-28T22:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286
+Comments URL: https://news.ycombinator.com/item?id=27668935
+Points: 94
+# Comments: 82]]></summary>
+        <author>
+            <name>ortusdux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIRUM (YC W15) is hiring to make access to medicine more equitable]]></title>
+        <id>https://news.ycombinator.com/item?id=27668040</id>
+        <link href="https://news.ycombinator.com/item?id=27668040"/>
+        <updated>2021-06-28T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[SIRUM is making medications affordable for all.
+We’re a small (~25) but quickly growing team that’s passionate about our mission of reimagining healthcare access for those in need. We like to work hard, solve tough problems, and are determined to improve healthcare access for families who have trouble affording the medications they need to stay healthy.
+We're currently hiring for both our Palo Alto Office and Atlanta Warehouse, as well as some fully remote roles. We have opportunities for senior software developers, software architects, sales, communication, and many other positions and are especially interested in anyone with pharmacy experience.
+If you want to work in healthcare, love mission-driven work, and thrive in a startup environment, then we may be a good fit. Check out our open roles at https://www.sirum.org/about#careers.
+Comments URL: https://news.ycombinator.com/item?id=27668040
+Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>classichasclass</name>
+            <name>akircher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Math Rendering Is Wrong]]></title>
-        <id>https://news.ycombinator.com/item?id=27656446</id>
-        <link href="https://danilafe.com/blog/math_rendering_is_wrong/"/>
-        <updated>2021-06-27T23:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danilafe.com/blog/math_rendering_is_wrong/
-Comments URL: https://news.ycombinator.com/item?id=27656446
-Points: 29
-# Comments: 19]]></summary>
+        <title type="html"><![CDATA[Xbox Cloud Gaming ya corre al completo sobre hardware Xbox Series X y llega oficialmente a dispositivos Apple y PC]]></title>
+        <id>46468_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/xbox-cloud-gaming-series-x-pc-ios-disponible"/>
+        <updated>2021-06-28T20:51:47.000Z</updated>
+        <summary type="html"><![CDATA[Hace unos días Xbox Cloud Gaming (xCloud) dio las primeras señales de estar usando hardware de Xbox Series X y hoy Microsoft ha confirmado que todos los servidores que sostienen su servicio de juego en la nube ya han sido actualizados. La compañía también ha confirmado que Xbox Cloud Gaming ya está disponible de forma oficial y mediante Xbox Game Pass Ultimate en dispositivos Apple, incluyendo iPhones y iPads, así como macOS y PC con Windows 10. En todos los casos el acceso es vía web con Edge, Chrome o Safari. Ahora que Xbox Cloud Gaming funciona sobre el mismo hardware que Xbox… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>uuuuuuuuuuuu</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada to Make Online Hate Speech a Crime Punishable by $16,000 Fine]]></title>
-        <id>https://news.ycombinator.com/item?id=27656344</id>
-        <link href="https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213"/>
-        <updated>2021-06-27T23:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213
-Comments URL: https://news.ycombinator.com/item?id=27656344
-Points: 59
-# Comments: 38]]></summary>
+        <title type="html"><![CDATA[Nvidia Vid2vid-Cameo Demo]]></title>
+        <id>https://news.ycombinator.com/item?id=27666493</id>
+        <link href="http://nvidia-research-mingyuliu.com/vid2vid-cameo/"/>
+        <updated>2021-06-28T19:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://nvidia-research-mingyuliu.com/vid2vid-cameo/
+Comments URL: https://news.ycombinator.com/item?id=27666493
+Points: 74
+# Comments: 20]]></summary>
         <author>
-            <name>elorant</name>
+            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metformin trial reduces seizures and brain tumours in Tuberous Sclerosis]]></title>
-        <id>https://news.ycombinator.com/item?id=27656127</id>
-        <link href="https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/"/>
-        <updated>2021-06-27T22:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/
-Comments URL: https://news.ycombinator.com/item?id=27656127
-Points: 42
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[The 'Fuck You' Pattern]]></title>
+        <id>https://news.ycombinator.com/item?id=27666455</id>
+        <link href="https://cedwards.xyz/the-fuck-you-pattern/"/>
+        <updated>2021-06-28T19:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cedwards.xyz/the-fuck-you-pattern/
+Comments URL: https://news.ycombinator.com/item?id=27666455
+Points: 897
+# Comments: 413]]></summary>
         <author>
-            <name>open-source-ux</name>
+            <name>c7DJTLrn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge dismisses FTC antitrust complaint against Facebook]]></title>
+        <id>https://news.ycombinator.com/item?id=27666439</id>
+        <link href="https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html"/>
+        <updated>2021-06-28T19:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html
+Comments URL: https://news.ycombinator.com/item?id=27666439
+Points: 256
+# Comments: 126]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demon Slayer: The Hinokami Chronicles llegará a Europa el 15 de octubre con subtítulos en español]]></title>
+        <id>46467_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/demon-slayer-fecha-subtitulos"/>
+        <updated>2021-06-28T18:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Demon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles, largo nombre bajo el cual se esconde el juego basado en el manga Demon Slayer escrito e ilustrado por Koyoharu Gotōge, estará disponible en Estados Unidos y Europa el 15 de octubre para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam), según ha anunciado Sega. Además de comunicar la fecha y mostrar un tráiler, el editor ha revelado las diferentes ediciones en las que se ofrecerá el juego y confirmado que llegará por nuestras tierras con subtítulos en español. Guardianes de la Noche: Kimetsu No Yaiba - Las… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Art Generator Neoplasticism]]></title>
+        <id>https://news.ycombinator.com/item?id=27665594</id>
+        <link href="https://github.com/andronov04/mondrian-art"/>
+        <updated>2021-06-28T18:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/andronov04/mondrian-art
+Comments URL: https://news.ycombinator.com/item?id=27665594
+Points: 27
+# Comments: 1]]></summary>
+        <author>
+            <name>andronov004</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An announcement about the comment section]]></title>
+        <id>https://news.ycombinator.com/item?id=27665584</id>
+        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section"/>
+        <updated>2021-06-28T18:22:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section
+Comments URL: https://news.ycombinator.com/item?id=27665584
+Points: 105
+# Comments: 154]]></summary>
+        <author>
+            <name>raphlinus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SafeDollar ‘stablecoin’ drops to $0 following DeFi exploit on Polygon]]></title>
+        <id>https://news.ycombinator.com/item?id=27664911</id>
+        <link href="https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/"/>
+        <updated>2021-06-28T17:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/
+Comments URL: https://news.ycombinator.com/item?id=27664911
+Points: 454
+# Comments: 507]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon is using algorithms with little human intervention to fire Flex workers]]></title>
+        <id>https://news.ycombinator.com/item?id=27664467</id>
+        <link href="https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/"/>
+        <updated>2021-06-28T17:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/
+Comments URL: https://news.ycombinator.com/item?id=27664467
+Points: 179
+# Comments: 175]]></summary>
+        <author>
+            <name>carride</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: La campaña de NEO: The World Ends with You durará unas 50 horas]]></title>
+        <id>46466_v1</id>
+        <link href="https://www.elotrolado.net/hilo_la-campana-de-neo-the-world-ends-with-you-durara-unas-50-horas_2427428"/>
+        <updated>2021-06-28T17:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Hiroyuki Ito, director de NEO: The World Ends with You, ha concedido una entrevista al medio japonés 4Gamer donde ha revelado que la campaña del juego requerirá unas 50 horas de juego para completarse. El desarrollador afirma que en esta secuela hay muchas más cosas por hacer que en la primera entrega y aquellos jugadores que quieran completar el título al 100 % posiblemente deban invertir el doble de horas. NEO: The World Ends with You estará disponible el 27 de julio en PlayStation 4 y Nintendo Switch, mientras que la versión de PC se pondrá a la venta en verano mediante la Epic… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NieR Re[in]carnation para móviles estará disponible el 28 de julio]]></title>
+        <id>46465_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/nier-reincarnation-fecha-lanzamiento"/>
+        <updated>2021-06-28T16:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Los móviles son cada vez más protagonistas dentro de la industria del videojuego habituada a las grandes franquicias y como nueva muestra de ello tenemos a NieR Re[in]carnation, un spin-off de la saga de Square Enix que estará disponible en Occidente para iOS y Android el 28 de julio, según avanza IGN. La fecha de lanzamiento del título free-to-play ha estado acompañada de un tráiler con gameplay y el recuerdo de que la campaña de registro previo tiene como recompensa gemas, la moneda dentro del juego. NieR Re[in]carnation, el primer título para móviles de la serie Nier, es un RPG de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The Sample – newsletters curated for you with machine learning]]></title>
+        <id>https://news.ycombinator.com/item?id=27664020</id>
+        <link href="https://sample.findka.com/?ref=showhn"/>
+        <updated>2021-06-28T16:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sample.findka.com/?ref=showhn
+Comments URL: https://news.ycombinator.com/item?id=27664020
+Points: 54
+# Comments: 25]]></summary>
+        <author>
+            <name>jacobobryant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Chemical Does Not Exist]]></title>
+        <id>https://news.ycombinator.com/item?id=27663200</id>
+        <link href="https://www.thischemicaldoesnotexist.com/"/>
+        <updated>2021-06-28T15:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thischemicaldoesnotexist.com/
+Comments URL: https://news.ycombinator.com/item?id=27663200
+Points: 102
+# Comments: 63]]></summary>
+        <author>
+            <name>optimalsolver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Smash Bros. Ultimate detalla la jugabilidad de Kazuya Mishima, que estará disponible el 30 de junio]]></title>
+        <id>46464_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/super-smash-bros-ultimate-kazuya-switch"/>
+        <updated>2021-06-28T14:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Masahiro Sakurai, director de Super Smash Bros. Ultimate para Nintendo Switch, ha dedicado un generoso vídeo a explicar con todo tipo de detalles el gameplay de Kazuya Mishima como nuevo contendiente del juego de lucha. También se ha puesto fecha a la llegada de Kazuya (con su respectivo escenario y 39 canciones), al que se podrá acceder mediante el Fighters Pass Vol. 2 o adquirir de forma individual por 5,99 euros a partir del 30 de junio. Ese mismo día también estarán disponibles nuevos disfraces para luchadores Mii (Lloyd, Dovahkiin, Shantae y Dante). ¿Por qué Kazuya Mishima y no… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Optery – See the private info data brokers are posting about you online]]></title>
+        <id>https://news.ycombinator.com/item?id=27662114</id>
+        <link href="https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/"/>
+        <updated>2021-06-28T14:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/
+Comments URL: https://news.ycombinator.com/item?id=27662114
+Points: 81
+# Comments: 45]]></summary>
+        <author>
+            <name>beyondd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Pathfinder: Wrath of the Righteous llegará a PlayStation 4 y Xbox One a finales de año]]></title>
+        <id>46463_v1</id>
+        <link href="https://www.elotrolado.net/hilo_pathfinder-wrath-of-the-righteous-llegara-a-playstation-4-y-xbox-one-a-finales-de-ano_2427404"/>
+        <updated>2021-06-28T13:45:35.000Z</updated>
+        <summary type="html"><![CDATA[El editor Koch Media ha llegado a un acuerdo con el desarrollador Owlcat Games para que el recién lanzado sello Prime Matter ponga a al venta a finales de año las versiones físicas del clásico RPG isométrico Pathfinder: Wrath of the Righteous para PlayStation 4 y Xbox One. La versión digital correrá a cargo del propio estudio y la fecha exacta de ambas ediciones se conocerá más adelante. Para los usuarios de PC el camino para hacerse con Pathfinder: Wrath of the Righteous es más claro, pues ya sabemos que el juego estará disponible a partir del 2 de septiembre en Steam, GOG y Epic… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal: Getting started with JavaScript's new date time API]]></title>
+        <id>https://news.ycombinator.com/item?id=27661667</id>
+        <link href="https://2ality.com/2021/06/temporal-api.html"/>
+        <updated>2021-06-28T13:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
+Comments URL: https://news.ycombinator.com/item?id=27661667
+Points: 293
+# Comments: 140]]></summary>
+        <author>
+            <name>Amorymeltzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biohackers take aim at big pharma’s stranglehold on insulin]]></title>
+        <id>https://news.ycombinator.com/item?id=27661637</id>
+        <link href="https://www.freethink.com/shows/just-might-work/how-to-make-insulin"/>
+        <updated>2021-06-28T13:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.freethink.com/shows/just-might-work/how-to-make-insulin
+Comments URL: https://news.ycombinator.com/item?id=27661637
+Points: 342
+# Comments: 289]]></summary>
+        <author>
+            <name>HiroProtagonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Plea for Lean Software (1995) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27661559</id>
+        <link href="https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf"/>
+        <updated>2021-06-28T13:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf
+Comments URL: https://news.ycombinator.com/item?id=27661559
+Points: 132
+# Comments: 130]]></summary>
+        <author>
+            <name>dvfjsdhgfv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm presenta el Snapdragon 888 Plus con mejor procesador y rendimiento de IA]]></title>
+        <id>46462_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/qualcomm-snapdragon-888-plus"/>
+        <updated>2021-06-28T12:18:39.000Z</updated>
+        <summary type="html"><![CDATA[En un desangelado Mobile World Congress 2021 de Barcelona, Qualcomm ha presentado el Snapdragon 888 Plus, una actualización menor del que hasta ahora era su mejor chipset para móviles Android de gama alta. Las principales evoluciones de la nueva plataforma pasan por equipar una CPU Kryo 680 que mejora ligeramente a su predecesor y en subir el rendimiento del motor de inteligencia artificial para un mejor desempeño en todo tipo de tareas de entretenimiento y seguridad. En concreto, el Snapdragon 888 Plus incluye una CPU Kryo 680 de ocho núcleos y uno de ellos, el Prime basado en… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subdomains for IPFS]]></title>
+        <id>https://news.ycombinator.com/item?id=27660253</id>
+        <link href="https://ipds.io/"/>
+        <updated>2021-06-28T10:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ipds.io/
+Comments URL: https://news.ycombinator.com/item?id=27660253
+Points: 109
+# Comments: 35]]></summary>
+        <author>
+            <name>dumitruflorin</name>
         </author>
     </entry>
     <entry>
@@ -69,32 +350,6 @@ Points: 42
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Substack (YC W18) is hiring engineers to build the future of writing]]></title>
-        <id>https://news.ycombinator.com/item?id=27655275</id>
-        <link href="https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"/>
-        <updated>2021-06-27T21:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81
-Comments URL: https://news.ycombinator.com/item?id=27655275
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>jairajs89</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse-engineering the Final Fantasy: Theatrhythm track format]]></title>
-        <id>https://news.ycombinator.com/item?id=27654966</id>
-        <link href="https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md"/>
-        <updated>2021-06-27T20:26:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md
-Comments URL: https://news.ycombinator.com/item?id=27654966
-Points: 37
-# Comments: 0]]></summary>
-        <author>
-            <name>mpiroot</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Square Enix anuncia un nueva entrega de la saga Mana para consolas y Echoes of Mana para móviles]]></title>
         <id>46460_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/mana-nueva-entrega-consolas"/>
@@ -102,190 +357,6 @@ Points: 37
         <summary type="html"><![CDATA[El lunes 28 de junio la saga Mana, la misma que en Japón se conoce bajo el nombre de Seiken Densetsu, cumplirá su 30 aniversario. Para celebrarlo Square Enix tiene planeados varios proyectos y algunos han sido revelados durante una transmisión en directo donde se ha confirmado el desarrollo de una nueva entrega de la saga para consolas, el título para móviles Echoes of Mana, una versión de Trials of Mana para iOS y Android y una serie anime. La presentación de la nueva entrega de la saga Mana para consolas se ha hecho sin ningún tipo de floritura ni aspaviento. “Queríamos anunciarlo… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typed Programs Don't Leak Data]]></title>
-        <id>https://news.ycombinator.com/item?id=27654807</id>
-        <link href="https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html"/>
-        <updated>2021-06-27T20:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
-Comments URL: https://news.ycombinator.com/item?id=27654807
-Points: 62
-# Comments: 19]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenges in the diagnosis of magnesium status]]></title>
-        <id>https://news.ycombinator.com/item?id=27654787</id>
-        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/"/>
-        <updated>2021-06-27T20:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/
-Comments URL: https://news.ycombinator.com/item?id=27654787
-Points: 444
-# Comments: 290]]></summary>
-        <author>
-            <name>johndcook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming]]></title>
-        <id>https://news.ycombinator.com/item?id=27654257</id>
-        <link href="https://github.com/cirosantilli/x86-bare-metal-examples"/>
-        <updated>2021-06-27T19:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/cirosantilli/x86-bare-metal-examples
-Comments URL: https://news.ycombinator.com/item?id=27654257
-Points: 129
-# Comments: 7]]></summary>
-        <author>
-            <name>peter_d_sherman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's code a TCP/IP stack (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=27654182</id>
-        <link href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"/>
-        <updated>2021-06-27T18:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
-Comments URL: https://news.ycombinator.com/item?id=27654182
-Points: 210
-# Comments: 25]]></summary>
-        <author>
-            <name>peter_d_sherman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schools Are Spying on Students – But Students Can Fight Back]]></title>
-        <id>https://news.ycombinator.com/item?id=27654178</id>
-        <link href="https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back"/>
-        <updated>2021-06-27T18:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back
-Comments URL: https://news.ycombinator.com/item?id=27654178
-Points: 132
-# Comments: 30]]></summary>
-        <author>
-            <name>sonograph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuba′s Covid vaccine rivals Pfizer, Moderna]]></title>
-        <id>https://news.ycombinator.com/item?id=27653868</id>
-        <link href="https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365"/>
-        <updated>2021-06-27T18:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365
-Comments URL: https://news.ycombinator.com/item?id=27653868
-Points: 317
-# Comments: 270]]></summary>
-        <author>
-            <name>colinprince</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The genius of William Shawn]]></title>
-        <id>https://news.ycombinator.com/item?id=27653628</id>
-        <link href="https://lithub.com/the-genius-of-william-shawn-and-the-invention-of-the-new-yorker/"/>
-        <updated>2021-06-27T17:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lithub.com/the-genius-of-william-shawn-and-the-invention-of-the-new-yorker/
-Comments URL: https://news.ycombinator.com/item?id=27653628
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>chesterfield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How to learn how to sell?]]></title>
-        <id>https://news.ycombinator.com/item?id=27653357</id>
-        <link href="https://news.ycombinator.com/item?id=27653357"/>
-        <updated>2021-06-27T17:24:03.000Z</updated>
-        <summary type="html"><![CDATA[I've become convinced that "sales" is a pivotal skill that everyone should learn. You constantly have to sell: sell yourself, sell your ideas, sell your product, sell your vision.
-However I see no easy way to learn how to sell. For sure the direct way seems preferable (learning by doing), but having a job already + living abroad makes it a bit hard.
-Any tips would appreciated.
-Comments URL: https://news.ycombinator.com/item?id=27653357
-Points: 115
-# Comments: 51]]></summary>
-        <author>
-            <name>giansegato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unison Programming Language]]></title>
-        <id>https://news.ycombinator.com/item?id=27652677</id>
-        <link href="https://www.unisonweb.org/"/>
-        <updated>2021-06-27T16:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.unisonweb.org/
-Comments URL: https://news.ycombinator.com/item?id=27652677
-Points: 290
-# Comments: 91]]></summary>
-        <author>
-            <name>gautamcgoel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citing a serious flight test incident, FAA slows Boeing 777X certification]]></title>
-        <id>https://news.ycombinator.com/item?id=27652615</id>
-        <link href="https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/"/>
-        <updated>2021-06-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/
-Comments URL: https://news.ycombinator.com/item?id=27652615
-Points: 139
-# Comments: 104]]></summary>
-        <author>
-            <name>donohoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why wood has gotten so dang expensive]]></title>
-        <id>https://news.ycombinator.com/item?id=27652178</id>
-        <link href="https://constructionphysics.substack.com/p/lumber-price-faq"/>
-        <updated>2021-06-27T15:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://constructionphysics.substack.com/p/lumber-price-faq
-Comments URL: https://news.ycombinator.com/item?id=27652178
-Points: 223
-# Comments: 123]]></summary>
-        <author>
-            <name>Whitespace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11, Amazon, and Uncomfortable Questions]]></title>
-        <id>https://news.ycombinator.com/item?id=27651983</id>
-        <link href="https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html"/>
-        <updated>2021-06-27T14:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html
-Comments URL: https://news.ycombinator.com/item?id=27651983
-Points: 400
-# Comments: 210]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turbo Rascal Syntax Error]]></title>
-        <id>https://news.ycombinator.com/item?id=27651963</id>
-        <link href="https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/"/>
-        <updated>2021-06-27T14:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/
-Comments URL: https://news.ycombinator.com/item?id=27651963
-Points: 88
-# Comments: 9]]></summary>
-        <author>
-            <name>ibobev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classified Ministry of Defence documents found at bus stop]]></title>
-        <id>https://news.ycombinator.com/item?id=27651828</id>
-        <link href="https://www.bbc.com/news/uk-57624942"/>
-        <updated>2021-06-27T14:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-57624942
-Comments URL: https://news.ycombinator.com/item?id=27651828
-Points: 103
-# Comments: 38]]></summary>
-        <author>
-            <name>georgecmu</name>
         </author>
     </entry>
     <entry>
@@ -444,76 +515,6 @@ Points: 103
         <link href="https://www.elotrolado.net/hilo_legend-of-mana-llega-a-ps4-switch-y-pc_2427046"/>
         <updated>2021-06-24T15:23:29.000Z</updated>
         <summary type="html"><![CDATA[Desde hoy los jugadores de PlayStation 4, Nintendo Switch y PC (Steam) tienen disponible por 29,99 euros una remasterización en alta definición de Legend of Mana, un juego originalmente lanzado en 1999 para PlayStation. Esta versión del título de rol corre a cargo de M2, un estudio conocido por su trabajo en la serie Sega Ages y por llevar varios juegos a la Consola Virtual de Nintendo. Legend of Mana es la cuarta entrega de la serie Mana, así que es la primera vez que se encuentra disponible de forma oficial en Europa. Además de unos gráficos remasterizados, este capítulo ofrece una… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Sonic Mania y Horizon Chase Turbo gratis en la Epic Games Store hasta el 1 de julio]]></title>
-        <id>46443_v1</id>
-        <link href="https://www.elotrolado.net/hilo_sonic-mania-y-horizon-chase-turbo-gratis-en-la-epic-games-store-hasta-el-1-de-julio_2427045"/>
-        <updated>2021-06-24T15:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Ayer la primera entrega de Sonic cumplió 30 años y hoy la Epic Games Store lo celebra regalando Sonic Mania, un juego que propone una reimaginación de los primeros títulos protagonizados por el erizo azul de Sega. Hasta el 1 de julio también se puede conseguir de forma gratuita Horizon Chase Turbo, mientras que la próxima semana será el turno de The Spectrum Retreat. Sonic Mania es un juego de plataformas en 2D que conserva la jugabilidad de los años 90 pero aprovechando la alta definición actual y los 60 FPS. El título es responsabilidad de Christian Whitehead, un experto a la hora… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerbal Space Program Enhanced Edition llegará a PlayStation 5 y Xbox Series este otoño]]></title>
-        <id>46442_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/kerbal-space-program-enhanced-edition-anunciado"/>
-        <updated>2021-06-24T14:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Hoy se cumplen 10 años del lanzamiento de Kerbal Space Program, un aniversario que el editor Private Division ha querido celebrar anunciando Kerbal Space Program Enhanced Edition, una versión del juego con mejoras para PlayStation 5 y Xbox Series. El juego se pondrá a la venta en otoño por 39,99 euros y también se ofrecerá una actualización gratuita para los que ya tengan una copia del título en PlayStation 4 y Xbox One. Además, desde hoy está disponible la actualización On Final Approach (1.2) para PC. Kerbal Space Program Enhanced Edition en PlayStation 5 y Xbox Series X podrá… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GreedFall recibirá la expansión The De Vespe Conspiracy y la actualización de nueva generación el 30 de junio]]></title>
-        <id>46441_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/greedfall-gold-edition-actualizacion"/>
-        <updated>2021-06-24T13:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Focus Home Interactive y el desarrollador francés Spiders Studio han anunciado que el juego de rol GreedFall ampliará su propuesta el 30 de junio con la llegada de la expansión The De Vespe Conspiracy. Ese mismo día también estará disponible la actualización gratuita para PlayStation 5 y Xbox Series, así como la GreedFall: Gold Edition, que incluye el juego base para la nueva generación junto al mencionado complemento a cambio de 39,99 euros (en formato físico y digital). “The De Vespe Conspiracy amplía el apreciado mundo y la historia de GreedFall, invitándote a pisar una región de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konami lanza por sorpresa la beta abierta de PES 2022]]></title>
-        <id>46440_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/pes-2022-beta-abierta"/>
-        <updated>2021-06-24T12:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Sorpresa. Los jugadores de PlayStation 4, PlayStation 5, Xbox One y Xbox Series ya tienen disponible en su respectiva tienda digital la descarga de New Football Game Online Performance Test, nombre tras el cual se esconde “la prueba de la versión beta abierta” del próximo juego de fútbol de Konami desarrollado con Unreal Engine. La compañía no ha querido poner un nombre más amigable y reconocible a la prueba, pero a no ser que haya un sobresalto mayúsculo se trata de la beta abierta de PES 2022 que estará disponible hasta el 8 de julio. “¡Konami se complace en anunciar la próxima… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia lanza Canvas, una aplicación que convierte garabatos en paisajes artísticos mediante inteligencia artificial]]></title>
-        <id>46439_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/nvidia-canvas-ai-convierte-garabatos-arte"/>
-        <updated>2021-06-24T10:06:36.000Z</updated>
-        <summary type="html"><![CDATA[Más allá de las tarjetas gráficas y el hardware para centros de datos, Nvidia se ha situado como una de las firmas punteras en las tecnologías de inteligencia artificial relacionadas con el procesamiento de imágenes. Su aplicación más visible en el campo de los videojuegos es sin duda DLSS, que utiliza redes neuronales para escalar fotogramas a baja resolución y escalarlos con una pérdida de calidad mínima, pero sus ingenieros también están muy implicados en otros usos, como los sistemas de conducción autónoma. Y entre unos y otros, van dando muestras de sus avances con aplicaciones… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEO: The World Ends with You anuncia una demo y presenta el “tráiler final”]]></title>
-        <id>46438_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/neo-the-world-ends-with-you-demo-trailer"/>
-        <updated>2021-06-24T09:16:20.000Z</updated>
-        <summary type="html"><![CDATA[Square Enix ha anunciado que mañana 25 de junio ofrecerá una demo jugable de NEO: The World Ends with You para PlayStation 4 y Nintendo Switch que se podrá descargar desde la PlayStation Store y eShop, respectivamente, a partir de las 19:00 hora peninsular española. Además, la compañía japonesa ha liberado el “tráiler final” del juego de rol y acción que ofrece un vistazo en profundidad al distrito de Shibuya, el grupo protagonista y el Juego de los Segadores. La demo de NEO: The World Ends with You permitirá “descubrir los dos primeros días del Juego de los Segadores y conocer a… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Los servidores de Xbox Cloud Gaming empiezan a recibir el hardware de Xbox Series X]]></title>
-        <id>46437_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/xcloud-hardware-xbox-series-x"/>
-        <updated>2021-06-23T23:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Dos semanas después de que Microsoft comentase que se encontraba en “las últimas etapas” del proceso de actualizar los centros de datos de Xbox Cloud Gaming (xCloud) con el hardware de nueva generación de Xbox Series X, llegan los primeros resultados. Medios como The Verge y Ars Technica han podido comprobar que algunos juegos disponibles en Xbox Game Pass han aumentado su rendimiento cuando se juega en la nube hasta ofrecer las mismas prestaciones que en Xbox Series X. Ahora que algunos servidores Xbox Cloud Gaming equipan el mismo chip que una Xbox Series X, cuando se juega en… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
