@@ -2,89 +2,388 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T01:01:09.595Z</updated>
+    <updated>2021-06-30T01:07:01.266Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Peloton Axes Free 'Just Run' Feature from Treadmill]]></title>
-        <id>https://news.ycombinator.com/item?id=27669926</id>
-        <link href="https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers"/>
-        <updated>2021-06-29T00:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers
-Comments URL: https://news.ycombinator.com/item?id=27669926
-Points: 12
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Ignoring bulk change commits with Git blame]]></title>
+        <id>https://news.ycombinator.com/item?id=27683059</id>
+        <link href="https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame"/>
+        <updated>2021-06-29T23:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
+Comments URL: https://news.ycombinator.com/item?id=27683059
+Points: 16
+# Comments: 4]]></summary>
         <author>
-            <name>Karsteski</name>
+            <name>noway421</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Many people don’t want to work unless it’s from home]]></title>
-        <id>https://news.ycombinator.com/item?id=27669461</id>
-        <link href="https://www.vox.com/recode/22543409/remote-work-from-home-jobs-supply-demand-hiring-platforms"/>
-        <updated>2021-06-28T23:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vox.com/recode/22543409/remote-work-from-home-jobs-supply-demand-hiring-platforms
-Comments URL: https://news.ycombinator.com/item?id=27669461
-Points: 29
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[World of Warcraft: Shadowlands recibe el contenido Cadenas de Dominación]]></title>
+        <id>46480_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/wow-shadowlands-cadenas-dominacion"/>
+        <updated>2021-06-29T23:21:05.000Z</updated>
+        <summary type="html"><![CDATA[El miércoles por la mañana y después del tradicional mantenimiento, los jugadores de World of Warcraft (WoW) tendrán a su disposición Cadenas de Dominación, la primera gran actualización (parche 9.1) que recibe el MMO desde el lanzamiento de la expansión Shadowlands. El contenido incluye una nueva zona llamada Korthia, la banda Sagrario de la Dominación con Sylvanas de jefa final, la megamazmorra Tazavesh y la segunda temporada de Míticas+ y JcJ entre otras novedades (ajustes en las classes, renovación de Torghast…). Korthia, la Ciudad de los Secretos, es una nueva área que ha sido… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>yusuf_giftworks</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make Your Cluster Swim]]></title>
-        <id>https://news.ycombinator.com/item?id=27669412</id>
-        <link href="https://bartoszsypytkowski.com/make-your-cluster-swim/"/>
-        <updated>2021-06-28T23:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bartoszsypytkowski.com/make-your-cluster-swim/
-Comments URL: https://news.ycombinator.com/item?id=27669412
-Points: 5
+        <title type="html"><![CDATA[Reviving extinct species may soon be possible]]></title>
+        <id>https://news.ycombinator.com/item?id=27682809</id>
+        <link href="https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible"/>
+        <updated>2021-06-29T22:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible
+Comments URL: https://news.ycombinator.com/item?id=27682809
+Points: 18
+# Comments: 23]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conspiracy: In Theory and Practice]]></title>
+        <id>https://news.ycombinator.com/item?id=27682763</id>
+        <link href="https://edwardsnowden.substack.com/p/conspiracy-pt1"/>
+        <updated>2021-06-29T22:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt1
+Comments URL: https://news.ycombinator.com/item?id=27682763
+Points: 48
+# Comments: 6]]></summary>
+        <author>
+            <name>yellow_lead</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NATO Classified Cloud Platform Compromised]]></title>
+        <id>https://news.ycombinator.com/item?id=27682657</id>
+        <link href="https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform"/>
+        <updated>2021-06-29T22:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform
+Comments URL: https://news.ycombinator.com/item?id=27682657
+Points: 19
 # Comments: 1]]></summary>
         <author>
-            <name>yagizdegirmenci</name>
+            <name>afrcnc</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simple Test Reveals If Your Mental Images Are More Vivid Than Other People's]]></title>
-        <id>https://news.ycombinator.com/item?id=27669211</id>
-        <link href="https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s"/>
-        <updated>2021-06-28T22:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s
-Comments URL: https://news.ycombinator.com/item?id=27669211
-Points: 47
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[Command Line Interface for Signal]]></title>
+        <id>https://news.ycombinator.com/item?id=27682490</id>
+        <link href="https://github.com/AsamK/signal-cli"/>
+        <updated>2021-06-29T22:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/AsamK/signal-cli
+Comments URL: https://news.ycombinator.com/item?id=27682490
+Points: 53
+# Comments: 15]]></summary>
         <author>
-            <name>smusamashah</name>
+            <name>janekg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube reinstates Right Wing Watch]]></title>
-        <id>https://news.ycombinator.com/item?id=27668935</id>
-        <link href="https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286"/>
-        <updated>2021-06-28T22:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286
-Comments URL: https://news.ycombinator.com/item?id=27668935
-Points: 94
-# Comments: 82]]></summary>
+        <title type="html"><![CDATA[An Elixir adoption success story]]></title>
+        <id>https://news.ycombinator.com/item?id=27682432</id>
+        <link href="https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/"/>
+        <updated>2021-06-29T22:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
+Comments URL: https://news.ycombinator.com/item?id=27682432
+Points: 86
+# Comments: 30]]></summary>
         <author>
-            <name>ortusdux</name>
+            <name>lucis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SIRUM (YC W15) is hiring to make access to medicine more equitable]]></title>
-        <id>https://news.ycombinator.com/item?id=27668040</id>
-        <link href="https://news.ycombinator.com/item?id=27668040"/>
-        <updated>2021-06-28T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[SIRUM is making medications affordable for all.
-We’re a small (~25) but quickly growing team that’s passionate about our mission of reimagining healthcare access for those in need. We like to work hard, solve tough problems, and are determined to improve healthcare access for families who have trouble affording the medications they need to stay healthy.
-We're currently hiring for both our Palo Alto Office and Atlanta Warehouse, as well as some fully remote roles. We have opportunities for senior software developers, software architects, sales, communication, and many other positions and are especially interested in anyone with pharmacy experience.
-If you want to work in healthcare, love mission-driven work, and thrive in a startup environment, then we may be a good fit. Check out our open roles at https://www.sirum.org/about#careers.
-Comments URL: https://news.ycombinator.com/item?id=27668040
+        <title type="html"><![CDATA[Breve: Synth Riders estará disponible el 27 de julio para PS VR]]></title>
+        <id>46479_v1</id>
+        <link href="https://www.elotrolado.net/hilo_synth-riders-estara-disponible-el-27-de-julio-para-ps-vr_2427569"/>
+        <updated>2021-06-29T22:09:28.000Z</updated>
+        <summary type="html"><![CDATA[El juego de ritmo y baile estilo libre Synth Riders estará disponible para PlayStation VR el 27 de julio, según ha anunciado el desarrollador Kluge Interactive. Originalmente el juego de realidad virtual se lanzó en julio de 2018 mediante Steam con soporte para HTC Vive, Oculus, Valve Index y Windows Mixed Reality. “A los fans de Synth Riders les encanta que el juego les active todo el cuerpo y les haga bailar”, explica Kluge Interactive. “Nuestro equipo ha creado a mano un mapa para cada canción con un objetivo muy claro en mente: que los jugadores sientan una conexión con la música,… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: Casey Hudson, responsable de Mass Effect, abre un nuevo estudio]]></title>
+        <id>46478_v1</id>
+        <link href="https://www.elotrolado.net/hilo_casey-hudson-responsable-de-mass-effect-abre-un-nuevo-estudio_2427567"/>
+        <updated>2021-06-29T21:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Casey Hudson ha anunciado vía Twitter la apertura de Humanoid Studios, un nuevo equipo de desarrollo independiente que ya se encuentra trabajando en una nueva propiedad intelectual. El estudio se encuentra instalado en Canadá, que es para los desarrolladores de videojuegos algo similar a Androra para los YouTubers. El currículum de Casey Hudson nos obligará a tener un ojo puesto en Humanoid Studios. Hudson fue durante muchos años el máximo responsable de BioWare y se encargó de dirigir tanto la trilogía de Mass Effect como el desarrollo de Star Wars: Knights of the Old Republic.… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storytelling – Mamet’s Conflict Airing Theory]]></title>
+        <id>https://news.ycombinator.com/item?id=27682249</id>
+        <link href="https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/"/>
+        <updated>2021-06-29T21:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/
+Comments URL: https://news.ycombinator.com/item?id=27682249
+Points: 17
+# Comments: 1]]></summary>
+        <author>
+            <name>jger15</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers translate a bird's brain activity into song]]></title>
+        <id>https://news.ycombinator.com/item?id=27682103</id>
+        <link href="https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php"/>
+        <updated>2021-06-29T21:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php
+Comments URL: https://news.ycombinator.com/item?id=27682103
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>wormold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic: Legends no superará la beta abierta y cerrará sus servidores el 31 de octubre]]></title>
+        <id>46477_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/magic-legends-cerrara-servidores"/>
+        <updated>2021-06-29T21:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Magic: Legends, un juego de rol y acción en línea ambientado en el Multiverso de Magic: the Gathering que permitía a los jugadores convertirse en un Planeswalker, cerrará sus servidores el 31 de octubre, según ha anunciado el productor ejecutivo Steve Ricossa. El desastre es mayúsculo, ya que el título free-to-play desarrollado por Cryptic Studios dejará de estar disponible sin haber superado la beta abierta en la que aún se encuentra. Los jugadores que hayan gastado dinero en el título recibirán un reembolso completo de todas las compras. “Con gran pesar anunciamos que Magic: Legends… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A 13.3“ battery-powered e-paper picture frame to display digital art]]></title>
+        <id>https://news.ycombinator.com/item?id=27682018</id>
+        <link href="https://blog.framelabs.eu/evolution/"/>
+        <updated>2021-06-29T21:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.framelabs.eu/evolution/
+Comments URL: https://news.ycombinator.com/item?id=27682018
+Points: 25
+# Comments: 29]]></summary>
+        <author>
+            <name>clash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Build a Chip with Math]]></title>
+        <id>https://news.ycombinator.com/item?id=27682015</id>
+        <link href="https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math"/>
+        <updated>2021-06-29T21:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math
+Comments URL: https://news.ycombinator.com/item?id=27682015
+Points: 12
+# Comments: 2]]></summary>
+        <author>
+            <name>deletionist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) is hiring a Principal Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27681674</id>
+        <link href="https://jobs.lever.co/buildzoom"/>
+        <updated>2021-06-29T21:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
+Comments URL: https://news.ycombinator.com/item?id=27681674
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>akircher</name>
+            <name>the_economist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remedy trabaja en dos nuevos juegos de la saga Control y uno de ellos un spin-off multijugador]]></title>
+        <id>46476_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/remedy-control-multijugador"/>
+        <updated>2021-06-29T20:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Remedy Entertainment ha anunciado haber llegado a un acuerdo con el editor 505 Games para expandir el universo Control con dos nuevos juegos. De momento conocemos a uno de ellos, un spin-off multijugador conocido bajo el nombre en clave Condor que aún le queda mucho camino por delante. Sobre el segundo título no hay información, pero editor y desarrollador aseguran que se trata de un proyecto cuyo presupuesto será mayor que el de Control. De Condor sabemos que es un juego cooperativo JcE (jugador contra entorno) para cuatro participantes, que está siendo desarrollado haciendo uso de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What mRNA is good for, and what it maybe isn’t]]></title>
+        <id>https://news.ycombinator.com/item?id=27681418</id>
+        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt"/>
+        <updated>2021-06-29T20:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt
+Comments URL: https://news.ycombinator.com/item?id=27681418
+Points: 135
+# Comments: 44]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ohio GOP ends attempt to ban municipal broadband after protest from residents]]></title>
+        <id>https://news.ycombinator.com/item?id=27680569</id>
+        <link href="https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/"/>
+        <updated>2021-06-29T19:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/
+Comments URL: https://news.ycombinator.com/item?id=27680569
+Points: 267
+# Comments: 162]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom Eternal recibe la actualización para PS5 y Xbox Series con modos 4K, 120 FPS y trazado de rayos]]></title>
+        <id>46475_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/doom-eternal-disponible-ps5-xbox-series"/>
+        <updated>2021-06-29T18:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Bethesda Softworks sigue trabajando en actualizar sus juegos para la nueva generación de consolas y después de The Elder Scrolls Online es el turno de prestar atención a Doom Eternal, que desde hoy tiene disponible una versión para PlayStation 5 y Xbox Series X/S que se ofrece de forma gratuita a los propietarios del título. La actualización, también añade un modo trazado de rayos en PC, llega acompañada de una nueva arena para el Battlemode. Las versiones de nueva generación de Doom Eternal traen las siguientes mejoras para sus respectivas plataformas, “con las que se alcanzarán unos… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic lottery tickets as micropayments (1997)]]></title>
+        <id>https://news.ycombinator.com/item?id=27680047</id>
+        <link href="https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments"/>
+        <updated>2021-06-29T18:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments
+Comments URL: https://news.ycombinator.com/item?id=27680047
+Points: 62
+# Comments: 21]]></summary>
+        <author>
+            <name>mrleinad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Elder Scrolls VI sigue en fase de diseño tres años después de su anuncio]]></title>
+        <id>46474_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/elder-scrolls-vi-fase-desarrollo"/>
+        <updated>2021-06-29T17:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Bethesda Softworks anunció en 2018 que se encontraba trabajando en The Elder Scrolls VI para que la gente dejara de preguntar si el juego estaba en desarrollo, pero lo único que ha conseguido la compañía es que cambie la pregunta. Ahora la duda es cuándo estará disponible el título, así que de vez en cuando Todd Howard, responsable de Bethesda Game Studios y la saga The Elder Scrolls, debe salir a recordar que aún queda mucho tiempo debido a que los recursos siguen centrados en Starfield. “La tecnología [de Starfield], Creation Engine 2, se está creando para ambos [juegos]”, comenta… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An EPYC escape: Case-study of a KVM breakout]]></title>
+        <id>https://news.ycombinator.com/item?id=27678535</id>
+        <link href="https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html"/>
+        <updated>2021-06-29T16:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html
+Comments URL: https://news.ycombinator.com/item?id=27678535
+Points: 176
+# Comments: 28]]></summary>
+        <author>
+            <name>headalgorithm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planet Alpha, Rock of Ages 3, Conker: Live & Reloaded y Midway Arcade Origins son los Juegos con Gold de julio]]></title>
+        <id>46473_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/games-with-gold-xbox-julio-2021"/>
+        <updated>2021-06-29T15:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft ha revelado los cuatro juegos de Xbox One y Xbox 360 que a lo largo de julio podrán conseguir los suscriptores de Xbox Live Gold y finalmente podemos decir que el nivel ha subido un poco, algo que no era muy difícil. Los elegidos son: Planet Alpha, Rock of Ages 3: Make & Break, Conker: Live & Reloaded y Midway Arcade Origins. Planet Alpha es un colorido juego de acción, plataformas y rompecabezas en 2.5D en el que los jugadores se ponen en la piel de un personaje que despierta herido y solo en un extraño mundo alienígena. Este misterioso planeta está influido por el ciclo… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stepping Back from Speaking]]></title>
+        <id>https://news.ycombinator.com/item?id=27677001</id>
+        <link href="https://martinfowler.com/articles/202106-reducing-speaking.html"/>
+        <updated>2021-06-29T15:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://martinfowler.com/articles/202106-reducing-speaking.html
+Comments URL: https://news.ycombinator.com/item?id=27677001
+Points: 361
+# Comments: 94]]></summary>
+        <author>
+            <name>alfredbez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Studios niega que la compra de Housemarque responda a una carrera armamentista con Microsoft]]></title>
+        <id>46472_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/sony-carrera-microsoft-compras"/>
+        <updated>2021-06-29T15:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Durante los últimos años Microsoft ha pisado el acelerador y abierto la cartera de forma generosa con el objetivo de adquirir numerosos equipos para Xbox Game Studios. Sony In­te­rac­ti­ve En­ter­tain­ment ha hecho lo mismo para nutrir a PlayStation Studios, pero de forma mucho más relajada. ¿Estamos ante una carrera armamentista entre ambas compañías?, le pregunta GQ a Hermen Hulst, jefe de PlayStation Studios, a raíz de la compra de Housemarque. “No, en absoluto”, responde Hulst. “Somos muy selectivos con los desarrolladores que incorporamos. Nuestra última adquisición fue la de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot: your AI pair programmer]]></title>
+        <id>https://news.ycombinator.com/item?id=27676266</id>
+        <link href="https://copilot.github.com/"/>
+        <updated>2021-06-29T14:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://copilot.github.com/
+Comments URL: https://news.ycombinator.com/item?id=27676266
+Points: 1979
+# Comments: 920]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicists confirm two cases of “elusive” black hole/neutron star mergers]]></title>
+        <id>https://news.ycombinator.com/item?id=27676066</id>
+        <link href="https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/"/>
+        <updated>2021-06-29T14:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/
+Comments URL: https://news.ycombinator.com/item?id=27676066
+Points: 81
+# Comments: 44]]></summary>
+        <author>
+            <name>wglb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work Hard]]></title>
+        <id>https://news.ycombinator.com/item?id=27675603</id>
+        <link href="http://paulgraham.com/hwh.html"/>
+        <updated>2021-06-29T13:39:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://paulgraham.com/hwh.html
+Comments URL: https://news.ycombinator.com/item?id=27675603
+Points: 828
+# Comments: 854]]></summary>
+        <author>
+            <name>razin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Connection Machines CM-1 and CM-2 (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27675086</id>
+        <link href="https://tamikothiel.com/cm/"/>
+        <updated>2021-06-29T12:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tamikothiel.com/cm/
+Comments URL: https://news.ycombinator.com/item?id=27675086
+Points: 79
+# Comments: 48]]></summary>
+        <author>
+            <name>voxadam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La justicia rechaza el intento del gobierno de Estados Unidos para separar a Facebook de WhatsApp e Instagram]]></title>
+        <id>46471_v1</id>
+        <link href="https://www.elotrolado.net/noticias/internet/juez-evita-division-facebook-instagram-whatsapp"/>
+        <updated>2021-06-29T12:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Facebook no se rompe. A pesar de los deseos de las autoridades, un tribunal federal ha desestimado la acusación de prácticas anticompetitivas presentada por la Comisión Federal de Comercio (FTC, por sus siglas en inglés) contra la red social dirigida por Mark Zuckerberg, frenando así sus intenciones para disgregarla en empresas más pequeñas. Casi en el mismo plumazo también ha desestimado una demanda paralela interpuesta por 48 fiscales generales del país que aducían prácticas monopolísticas. La FTC y los fiscales en cuestión (prácticamente todos y cada uno de los correspondientes a… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Housemarque, responsable de Returnal y Resogun, pasa a formar parte de PlayStation Studios]]></title>
+        <id>46470_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/sony-compra-housemarque"/>
+        <updated>2021-06-29T10:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Sony Interactive Entertainment amplía la familia de equipos que componen PlayStation Studios con Housemarque, el estudio finlandés responsable de Returnal, Resogun, Nex Machina y Super Stardust. Esta compra parece un paso natural para Housemarque y Sony. La primera lleva muchos años ligada a las consolas PlayStation, mientras que la segunda hace tiempo que busca oportunidades para ampliar sus estudios first-party. Parece que esta no será la última adquisición y todo apunta a que Bluepoint (Demon’s Souls de PS5) caerá más pronto que tarde. La adquisición de Housemarque por parte de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft lanza Windows 11 para los Insiders mientras se plantea revisar los requisitos técnicos]]></title>
+        <id>46469_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/windows-11-insiders-requisitos-tecnicos"/>
+        <updated>2021-06-29T09:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 no llegará a la mayoría de los ordenadores hasta bien entrada la segunda mitad de este año, pero los miembros del programa Insider ya pueden descargar la preview build y empezar a probar sus mieles (y sus hieles, puesto que aún es una versión en desarrollo). Según ha informado Microsoft, el sistema operativo actualmente disponible está a grandes rasgos completo, con su nuevo menú de inicio, el sistema de organización de ventanas para multiplataforma y hasta la nueva tienda de tienda oficial, pero todavía faltan algunos detalles menores. La build 22000.51 de Windows 11… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -92,48 +391,9 @@ Points: 1
         <id>46468_v1</id>
         <link href="https://www.elotrolado.net/noticias/tecnologia/xbox-cloud-gaming-series-x-pc-ios-disponible"/>
         <updated>2021-06-28T20:51:47.000Z</updated>
-        <summary type="html"><![CDATA[Hace unos días Xbox Cloud Gaming (xCloud) dio las primeras señales de estar usando hardware de Xbox Series X y hoy Microsoft ha confirmado que todos los servidores que sostienen su servicio de juego en la nube ya han sido actualizados. La compañía también ha confirmado que Xbox Cloud Gaming ya está disponible de forma oficial y mediante Xbox Game Pass Ultimate en dispositivos Apple, incluyendo iPhones y iPads, así como macOS y PC con Windows 10. En todos los casos el acceso es vía web con Edge, Chrome o Safari. Ahora que Xbox Cloud Gaming funciona sobre el mismo hardware que Xbox… Leer noticia completa y comentarios »]]></summary>
+        <summary type="html"><![CDATA[Hace unos días Xbox Cloud Gaming (xCloud) dio las primeras señales de estar usando hardware de Xbox Series X y hoy Microsoft ha confirmado que todos los servidores que sostienen su servicio de juego en la nube han sido actualizados. La compañía también ha confirmado que Xbox Cloud Gaming ya está disponible de forma oficial y mediante Xbox Game Pass Ultimate en dispositivos Apple, incluyendo iPhones y iPads, así como macOS y PC con Windows 10. En todos los casos el acceso es vía web con Edge, Chrome o Safari. Ahora que Xbox Cloud Gaming funciona sobre el mismo hardware que Xbox Series… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Vid2vid-Cameo Demo]]></title>
-        <id>https://news.ycombinator.com/item?id=27666493</id>
-        <link href="http://nvidia-research-mingyuliu.com/vid2vid-cameo/"/>
-        <updated>2021-06-28T19:20:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://nvidia-research-mingyuliu.com/vid2vid-cameo/
-Comments URL: https://news.ycombinator.com/item?id=27666493
-Points: 74
-# Comments: 20]]></summary>
-        <author>
-            <name>jonbaer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'Fuck You' Pattern]]></title>
-        <id>https://news.ycombinator.com/item?id=27666455</id>
-        <link href="https://cedwards.xyz/the-fuck-you-pattern/"/>
-        <updated>2021-06-28T19:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cedwards.xyz/the-fuck-you-pattern/
-Comments URL: https://news.ycombinator.com/item?id=27666455
-Points: 897
-# Comments: 413]]></summary>
-        <author>
-            <name>c7DJTLrn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge dismisses FTC antitrust complaint against Facebook]]></title>
-        <id>https://news.ycombinator.com/item?id=27666439</id>
-        <link href="https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html"/>
-        <updated>2021-06-28T19:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html
-Comments URL: https://news.ycombinator.com/item?id=27666439
-Points: 256
-# Comments: 126]]></summary>
-        <author>
-            <name>ChrisArchitect</name>
         </author>
     </entry>
     <entry>
@@ -144,58 +404,6 @@ Points: 256
         <summary type="html"><![CDATA[Demon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles, largo nombre bajo el cual se esconde el juego basado en el manga Demon Slayer escrito e ilustrado por Koyoharu Gotōge, estará disponible en Estados Unidos y Europa el 15 de octubre para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam), según ha anunciado Sega. Además de comunicar la fecha y mostrar un tráiler, el editor ha revelado las diferentes ediciones en las que se ofrecerá el juego y confirmado que llegará por nuestras tierras con subtítulos en español. Guardianes de la Noche: Kimetsu No Yaiba - Las… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Art Generator Neoplasticism]]></title>
-        <id>https://news.ycombinator.com/item?id=27665594</id>
-        <link href="https://github.com/andronov04/mondrian-art"/>
-        <updated>2021-06-28T18:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/andronov04/mondrian-art
-Comments URL: https://news.ycombinator.com/item?id=27665594
-Points: 27
-# Comments: 1]]></summary>
-        <author>
-            <name>andronov004</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An announcement about the comment section]]></title>
-        <id>https://news.ycombinator.com/item?id=27665584</id>
-        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section"/>
-        <updated>2021-06-28T18:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section
-Comments URL: https://news.ycombinator.com/item?id=27665584
-Points: 105
-# Comments: 154]]></summary>
-        <author>
-            <name>raphlinus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafeDollar ‘stablecoin’ drops to $0 following DeFi exploit on Polygon]]></title>
-        <id>https://news.ycombinator.com/item?id=27664911</id>
-        <link href="https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/"/>
-        <updated>2021-06-28T17:41:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/
-Comments URL: https://news.ycombinator.com/item?id=27664911
-Points: 454
-# Comments: 507]]></summary>
-        <author>
-            <name>awb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon is using algorithms with little human intervention to fire Flex workers]]></title>
-        <id>https://news.ycombinator.com/item?id=27664467</id>
-        <link href="https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/"/>
-        <updated>2021-06-28T17:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/
-Comments URL: https://news.ycombinator.com/item?id=27664467
-Points: 179
-# Comments: 175]]></summary>
-        <author>
-            <name>carride</name>
         </author>
     </entry>
     <entry>
@@ -219,32 +427,6 @@ Points: 179
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: The Sample – newsletters curated for you with machine learning]]></title>
-        <id>https://news.ycombinator.com/item?id=27664020</id>
-        <link href="https://sample.findka.com/?ref=showhn"/>
-        <updated>2021-06-28T16:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sample.findka.com/?ref=showhn
-Comments URL: https://news.ycombinator.com/item?id=27664020
-Points: 54
-# Comments: 25]]></summary>
-        <author>
-            <name>jacobobryant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Chemical Does Not Exist]]></title>
-        <id>https://news.ycombinator.com/item?id=27663200</id>
-        <link href="https://www.thischemicaldoesnotexist.com/"/>
-        <updated>2021-06-28T15:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thischemicaldoesnotexist.com/
-Comments URL: https://news.ycombinator.com/item?id=27663200
-Points: 102
-# Comments: 63]]></summary>
-        <author>
-            <name>optimalsolver</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Super Smash Bros. Ultimate detalla la jugabilidad de Kazuya Mishima, que estará disponible el 30 de junio]]></title>
         <id>46464_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/super-smash-bros-ultimate-kazuya-switch"/>
@@ -252,19 +434,6 @@ Points: 102
         <summary type="html"><![CDATA[Masahiro Sakurai, director de Super Smash Bros. Ultimate para Nintendo Switch, ha dedicado un generoso vídeo a explicar con todo tipo de detalles el gameplay de Kazuya Mishima como nuevo contendiente del juego de lucha. También se ha puesto fecha a la llegada de Kazuya (con su respectivo escenario y 39 canciones), al que se podrá acceder mediante el Fighters Pass Vol. 2 o adquirir de forma individual por 5,99 euros a partir del 30 de junio. Ese mismo día también estarán disponibles nuevos disfraces para luchadores Mii (Lloyd, Dovahkiin, Shantae y Dante). ¿Por qué Kazuya Mishima y no… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Optery – See the private info data brokers are posting about you online]]></title>
-        <id>https://news.ycombinator.com/item?id=27662114</id>
-        <link href="https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/"/>
-        <updated>2021-06-28T14:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/
-Comments URL: https://news.ycombinator.com/item?id=27662114
-Points: 81
-# Comments: 45]]></summary>
-        <author>
-            <name>beyondd</name>
         </author>
     </entry>
     <entry>
@@ -278,45 +447,6 @@ Points: 81
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temporal: Getting started with JavaScript's new date time API]]></title>
-        <id>https://news.ycombinator.com/item?id=27661667</id>
-        <link href="https://2ality.com/2021/06/temporal-api.html"/>
-        <updated>2021-06-28T13:26:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
-Comments URL: https://news.ycombinator.com/item?id=27661667
-Points: 293
-# Comments: 140]]></summary>
-        <author>
-            <name>Amorymeltzer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biohackers take aim at big pharma’s stranglehold on insulin]]></title>
-        <id>https://news.ycombinator.com/item?id=27661637</id>
-        <link href="https://www.freethink.com/shows/just-might-work/how-to-make-insulin"/>
-        <updated>2021-06-28T13:25:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.freethink.com/shows/just-might-work/how-to-make-insulin
-Comments URL: https://news.ycombinator.com/item?id=27661637
-Points: 342
-# Comments: 289]]></summary>
-        <author>
-            <name>HiroProtagonist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Plea for Lean Software (1995) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27661559</id>
-        <link href="https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf"/>
-        <updated>2021-06-28T13:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf
-Comments URL: https://news.ycombinator.com/item?id=27661559
-Points: 132
-# Comments: 130]]></summary>
-        <author>
-            <name>dvfjsdhgfv</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Qualcomm presenta el Snapdragon 888 Plus con mejor procesador y rendimiento de IA]]></title>
         <id>46462_v1</id>
         <link href="https://www.elotrolado.net/noticias/tecnologia/qualcomm-snapdragon-888-plus"/>
@@ -324,19 +454,6 @@ Points: 132
         <summary type="html"><![CDATA[En un desangelado Mobile World Congress 2021 de Barcelona, Qualcomm ha presentado el Snapdragon 888 Plus, una actualización menor del que hasta ahora era su mejor chipset para móviles Android de gama alta. Las principales evoluciones de la nueva plataforma pasan por equipar una CPU Kryo 680 que mejora ligeramente a su predecesor y en subir el rendimiento del motor de inteligencia artificial para un mejor desempeño en todo tipo de tareas de entretenimiento y seguridad. En concreto, el Snapdragon 888 Plus incluye una CPU Kryo 680 de ocho núcleos y uno de ellos, el Prime basado en… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subdomains for IPFS]]></title>
-        <id>https://news.ycombinator.com/item?id=27660253</id>
-        <link href="https://ipds.io/"/>
-        <updated>2021-06-28T10:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ipds.io/
-Comments URL: https://news.ycombinator.com/item?id=27660253
-Points: 109
-# Comments: 35]]></summary>
-        <author>
-            <name>dumitruflorin</name>
         </author>
     </entry>
     <entry>
@@ -395,126 +512,6 @@ Points: 109
         <link href="https://www.elotrolado.net/noticias/juegos/avatar-snowdrop-mejoras-video"/>
         <updated>2021-06-25T15:15:37.000Z</updated>
         <summary type="html"><![CDATA[Uno de los proyectos más ambiciosos que tiene Ubisoft entre manos es Avatar: Frontiers of Pandora, un juego que además de PC estará disponible en PlayStation 5 y Xbox Series, así que estamos ante un título que no debe preocuparse por una versión para la pasada generación y su hardware de hace ocho años. Por ese motivo Massive Entertainment, el estudio responsable del juego basado en la película de James Cameron, ha trabajado en mejorar Snowdrop y publicado un vídeo donde ofrece detalles sobre la evolución del motor gráfico. “Como el mundo de Avatar es tan distinto de todo lo que hemos… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: GOG regala Shadowrun Trilogy hasta el 28 de junio]]></title>
-        <id>46456_v1</id>
-        <link href="https://www.elotrolado.net/hilo_gog-regala-shadowrun-trilogy-hasta-el-28-de-junio_2427142"/>
-        <updated>2021-06-25T15:08:23.000Z</updated>
-        <summary type="html"><![CDATA[GOG está cerca de poner fin a sus rebajas de verano, pero antes de despedirlas ofrece de forma gratuita la trilogía moderna de Shadowrun compuesta por Shadowrun Returns (2013), Shadowrun: Dragonfall - Director's Cut (2014) y Shadowrun: Hong Kong (2015). Una vez reclamados los tres juegos se quedan en la cuenta para siempre, pero la oferta solo estará activa hasta el 28 de junio a las 15:00 horas. Para conseguir Shadowrun Trilogy solo hay que dirigirse a la página de GOG, acceder a la cuenta y reclamar la colección con un solo click. La saga Shadowrun es una adaptación del juego de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Golf: Super Rush ya disponible para Nintendo Switch]]></title>
-        <id>46454_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/mario-golf-super-rush-disponible-switch"/>
-        <updated>2021-06-25T13:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Los juegos tipo party parece que están funcionando en Nintendo Switch y como muestra de ello tenemos el anuncio de Mario Party Superstars o el lanzamiento de Mario Golf: Super Rush, que desde hoy se encuentra disponible para la consola híbrida. El título, que ya ha pasado por manos de la prensa, ha cosechado una nota media de 75 en Metacritic y Open Critic, solo un punto menos que Super Mario Party, un título que suma 14,79 millones de unidades vendidas. Mario Golf: Super Rush es un juego de golf arcade en el que los jugadores se pueden unir a los personajes del Reino Champiñón. El… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft quiere que Steam y otras plataformas formen parte de la nueva tienda de Windows 11]]></title>
-        <id>46453_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/steam-windows-11-store"/>
-        <updated>2021-06-25T13:08:34.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 se presentó haciendo gala de muchas novedades y una de ellas es un enfoque más abierto respecto a la Microsoft Store, tanto es así que permitirá descargar aplicaciones de Android mediante la Amazon Appstore y usar pasarelas de pago de terceros sin ningún tipo de comisión. Pero Panos Panay, máximo responsable de Windows, quiere ir un paso más allá y también desea que otras tiendas como Steam y Epic Games Store formen parte de la nueva Microsoft Store de Windows. “Windows ya alberga estas tiendas de muchas formas, y si podemos alojarlas mediante la Microsoft Store, lo… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: FidelityFX Super Resolution de AMD llega al GDK de Xbox One y Series]]></title>
-        <id>46452_v1</id>
-        <link href="https://www.elotrolado.net/hilo_fidelityfx-super-resolution-de-amd-llega-al-gdk-de-xbox-one-y-series_2427119"/>
-        <updated>2021-06-25T11:35:03.000Z</updated>
-        <summary type="html"><![CDATA[El Game Development Kit (GDK) de Xbox One y Xbox Series suma una nueva herramienta del repertorio que ofrece AMD FidelityFX. Se trata de FidelityFX Super Resolution (FSR), una tecnología ya disponible para los jugadores de PC que permite aumentar la tasa de fotogramas de los juegos minimizando el impacto en la calidad de imagen. A día de hoy FSR es una tecnología que aún está muy verde, pero se espera que su rendimiento vaya aumentando a medida que AMD la haga evolucionar. Además, que tenga soporte para Xbox beneficiará a los jugadores de PC y a los propios desarrolladores, que… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Legend of Heroes Trails into Reverie, Trails to Azure, Trails from Zero y The Legend of Nayuta llegarán a Occidente]]></title>
-        <id>46451_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/the-legend-of-heroes-nayuta-occidente"/>
-        <updated>2021-06-25T11:10:46.000Z</updated>
-        <summary type="html"><![CDATA[Los seguidores de la saga The Legend of Heroes están de enhorabuena después de que NIS America haya anunciado que entre 2022 y 2023 llegarán a Occidente tres entregas de la franquicia creada por Falcom que hasta ahora no habían salido de Asia. Se trata de The Legend of Heroes Trails into Reverie (2023), y Trails from Zero (2022) y Trails to Azure (2023), una duología cuya acción transcurre en la ciudad estado Crossbell. También desembarcará en nuestra tierra The Legend of Nayuta: Boundless Trails (2023), un spin-off en forma de ARPG. Los cuatro juegos estarán disponibles en Europa y… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 no soportará oficialmente equipos con Ryzen 1000 o Intel Core anteriores a la octava generación [Actualizada]]]></title>
-        <id>46450_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/windows-11-no-funciona-procesadores-intel-core-amd-ryzen"/>
-        <updated>2021-06-25T10:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Actualización: The Verge ha podido confirmar que Windows 11 se podrá instalar en máquinas antiguas, aunque mostrará un aviso de que la CPU no está soportada. Microsoft no ha aclarado si habrá cambios a nivel de funcionalidad (que no podrá ser garantizada) o actualizaciones para este hardware. Hemos actualizado el titular de la noticia acordemente. Noticia original: Windows 11 ya es casi una realidad. Tras la conferencia de ayer por la tarde, miles de usuarios del sistema operativo de Microsoft corrieron a descargar la aplicación de testeo de requisitos para ver si sus ordenadores eran… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un ataque con malware estaría borrando los datos de los NAS WD My Book Live]]></title>
-        <id>46449_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/nas-wd-my-book-live-datos-borrados-ataque"/>
-        <updated>2021-06-25T07:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Los propietarios de un dispositivo de almacenamiento en red (NAS) WD My Book Live deberían desconectarlo lo antes posible de Internet y dejarlo aislado hasta nuevo aviso so riesgo de perder la información almacenada en sus discos duros. Western Digital así lo ha advertido después de que un número indeterminado de usuarios de todo el mundo hayan perdido sus datos por lo que podría ser un ataque con malware. Según relata ArsTechnica, algunas personas detectaron que sus NAS ejecutaban una restauración a los valores originales de fábrica. Tras esta operación no solicitada, la mayoría se… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Borderlands 3 se actualiza con juego cruzado pero sin los usuarios de PlayStation]]></title>
-        <id>46448_v1</id>
-        <link href="https://www.elotrolado.net/hilo_borderlands-3-se-actualiza-con-juego-cruzado-pero-sin-los-usuarios-de-playstation_2427079"/>
-        <updated>2021-06-24T20:49:11.000Z</updated>
-        <summary type="html"><![CDATA[Gearbox Software ha lanzado una nueva actualización para Borderlands 3 que incluye el juego cruzado entre Xbox One, Xbox Series, Stadia y PC (Steam, Epic Games). En la lista de plataformas falta PlayStation y todo parece indicar que esto es debido a que 2K Games, editor de Borderlands 3, no ha aceptado las condiciones de Sony, que exige una compensación en caso de que los usuarios jueguen en PlayStation pero compren contenido en otras plataformas. “El juego cruzado entre las plataformas mencionadas se realizará mediante el matchmaking de SHiFT, y una ventana emergente os dejará… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empiezan las rebajas de verano en Steam con descuentos en miles de juegos como Horizon Zero Dawn, Halo y It Takes Two]]></title>
-        <id>46447_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/steam-rebajas-verano-2021"/>
-        <updated>2021-06-24T20:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Desde hoy y hasta el 8 de julio a las 19:00 horas Steam, la mayor tienda digital de juegos para PC, celebra las rebajas de verano. Algunos jugadores sostienen que estos descuentos son insuficientes y poco atractivos, pero los datos de Valve indican lo contrario y como ejemplo tenemos las rebajas de otoño 2020, que fueron las más grandes en términos de ingresos. En cualquier caso, las rebajas de verano han empezado y seguro que más de uno las aprovecha para engordar su biblioteca con algún que otro título. Este año las rebajas de verano de Steam llegan acompañadas de un minijuego… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 abraza el gaming: DirectStorage, Auto HDR y Xbox Game Pass integrado]]></title>
-        <id>46446_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/windows-11-caracteristicas-gaming"/>
-        <updated>2021-06-24T17:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Finalmente Microsoft ha presentado al mundo y de forma oficial a Windows 11, un sistema operativo con una interfaz rediseñada, aplicaciones de Android, actualización gratuita y un serio compromiso con el gaming. Así queda demostrado con la llegada de tecnologías que ya encontramos en Xbox Series como DirectStorage y Auto HDR, así como una integración mucho más profunda de Xbox Game Pass a través de la aplicación de Xbox. Además, tenemos en camino Xbox Gaming Cloud para Windows. De todas las novedades destinadas a los jugadores que llegarán con Windows 11 la más notable es … Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft anuncia Windows 11, actualizable gratis, con interfaz rediseñada, compatible con apps para Android y mucho más]]></title>
-        <id>46445_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/microsoft-windows-11-detalles"/>
-        <updated>2021-06-24T16:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Windows 10 es posiblemente uno de los sistemas operativos más longevos en la historia de Microsoft. Durante prácticamente seis años la firma de Redmond ha ido actualizando y perfeccionando una plataforma que no nació perfecta, pero que con el tiempo ha ido ganando prestaciones, estabilidad y rendimiento (ni sin algún que otro tropezón). Pero ha llegado el momento de despedirse de él y decir hola al nuevo Windows 11. Tal y como avanzaban las filtraciones de los últimos días, "el próximo paso para Windows" no era otra cosa que una nueva generación del sistema operativo.… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Legend of Mana llega a PS4, Switch y PC]]></title>
-        <id>46444_v1</id>
-        <link href="https://www.elotrolado.net/hilo_legend-of-mana-llega-a-ps4-switch-y-pc_2427046"/>
-        <updated>2021-06-24T15:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Desde hoy los jugadores de PlayStation 4, Nintendo Switch y PC (Steam) tienen disponible por 29,99 euros una remasterización en alta definición de Legend of Mana, un juego originalmente lanzado en 1999 para PlayStation. Esta versión del título de rol corre a cargo de M2, un estudio conocido por su trabajo en la serie Sega Ages y por llevar varios juegos a la Consola Virtual de Nintendo. Legend of Mana es la cuarta entrega de la serie Mana, así que es la primera vez que se encuentra disponible de forma oficial en Europa. Además de unos gráficos remasterizados, este capítulo ofrece una… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
