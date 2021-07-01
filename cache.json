@@ -6,184 +6,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27683059",
-          "author": "noway421",
-          "description": "Article URL: https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame\nComments URL: https://news.ycombinator.com/item?id=27683059\nPoints: 16\n# Comments: 4",
-          "link": "https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame",
-          "publishedOn": "2021-06-29T23:25:11.000Z",
-          "wordCount": 1777,
-          "title": "Ignoring bulk change commits with Git blame"
+          "id": "https://news.ycombinator.com/item?id=27694537",
+          "author": "mkeeter",
+          "description": "Article URL: https://www.sparkfun.com/news/3917\nComments URL: https://news.ycombinator.com/item?id=27694537\nPoints: 208\n# Comments: 50",
+          "link": "https://www.sparkfun.com/news/3917",
+          "publishedOn": "2021-06-30T23:00:58.000Z",
+          "wordCount": null,
+          "title": "SparkFun Hooks a Patent Troll"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682809",
-          "author": "edward",
-          "description": "Article URL: https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible\nComments URL: https://news.ycombinator.com/item?id=27682809\nPoints: 18\n# Comments: 23",
-          "link": "https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible",
-          "publishedOn": "2021-06-29T22:53:31.000Z",
-          "wordCount": 2076,
-          "title": "Reviving extinct species may soon be possible"
+          "id": "https://news.ycombinator.com/item?id=27694222",
+          "author": "gmays",
+          "description": "Article URL: https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html\nComments URL: https://news.ycombinator.com/item?id=27694222\nPoints: 13\n# Comments: 1",
+          "link": "https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html",
+          "publishedOn": "2021-06-30T22:28:37.000Z",
+          "wordCount": 998,
+          "title": "Success in Reversing Dementia in Mice Sets the Stage for Human Clinical Trials"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682763",
-          "author": "yellow_lead",
-          "description": "Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt1\nComments URL: https://news.ycombinator.com/item?id=27682763\nPoints: 48\n# Comments: 6",
-          "link": "https://edwardsnowden.substack.com/p/conspiracy-pt1",
-          "publishedOn": "2021-06-29T22:48:15.000Z",
-          "wordCount": 2086,
-          "title": "Conspiracy: In Theory and Practice"
+          "id": "https://news.ycombinator.com/item?id=27693929",
+          "author": "Doubleguitars",
+          "description": "Article URL: https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/\nComments URL: https://news.ycombinator.com/item?id=27693929\nPoints: 80\n# Comments: 15",
+          "link": "https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/",
+          "publishedOn": "2021-06-30T22:02:47.000Z",
+          "wordCount": 1160,
+          "title": "Microsoft exec: Targeting of Americans’ records ‘routine’"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682657",
-          "author": "afrcnc",
-          "description": "Article URL: https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform\nComments URL: https://news.ycombinator.com/item?id=27682657\nPoints: 19\n# Comments: 1",
-          "link": "https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform",
-          "publishedOn": "2021-06-29T22:37:19.000Z",
-          "wordCount": 1512,
-          "title": "NATO Classified Cloud Platform Compromised"
+          "id": "https://news.ycombinator.com/item?id=27693808",
+          "author": "FabioFleitas",
+          "description": "Article URL: https://www.tesorio.com/careers#job-openings\nComments URL: https://news.ycombinator.com/item?id=27693808\nPoints: 1\n# Comments: 0",
+          "link": "https://www.tesorio.com/careers#job-openings",
+          "publishedOn": "2021-06-30T21:52:24.000Z",
+          "wordCount": 386,
+          "title": "Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682490",
-          "author": "janekg",
-          "description": "Article URL: https://github.com/AsamK/signal-cli\nComments URL: https://news.ycombinator.com/item?id=27682490\nPoints: 53\n# Comments: 15",
-          "link": "https://github.com/AsamK/signal-cli",
-          "publishedOn": "2021-06-29T22:18:29.000Z",
-          "wordCount": 1218,
-          "title": "Command Line Interface for Signal"
+          "id": "https://news.ycombinator.com/item?id=27693744",
+          "author": "ukd1",
+          "description": "Article URL: https://www.rainforestqa.com/blog/accessible-quality\nComments URL: https://news.ycombinator.com/item?id=27693744\nPoints: 71\n# Comments: 70",
+          "link": "https://www.rainforestqa.com/blog/accessible-quality",
+          "publishedOn": "2021-06-30T21:45:33.000Z",
+          "wordCount": 3798,
+          "title": "Asking developers to do QA is broken – why anyone should own QA"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682432",
-          "author": "lucis",
-          "description": "Article URL: https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/\nComments URL: https://news.ycombinator.com/item?id=27682432\nPoints: 86\n# Comments: 30",
-          "link": "https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/",
-          "publishedOn": "2021-06-29T22:10:33.000Z",
-          "wordCount": 3523,
-          "title": "An Elixir adoption success story"
+          "id": "https://news.ycombinator.com/item?id=27693065",
+          "author": "tosh",
+          "description": "Article URL: https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/\nComments URL: https://news.ycombinator.com/item?id=27693065\nPoints: 107\n# Comments: 46",
+          "link": "https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/",
+          "publishedOn": "2021-06-30T20:26:46.000Z",
+          "wordCount": 2093,
+          "title": "Apple Makes Mac OS X Lion and Mountain Lion Free to Download"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682249",
-          "author": "jger15",
-          "description": "Article URL: https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/\nComments URL: https://news.ycombinator.com/item?id=27682249\nPoints: 17\n# Comments: 1",
-          "link": "https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/",
-          "publishedOn": "2021-06-29T21:55:18.000Z",
-          "wordCount": 3116,
-          "title": "Storytelling – Mamet’s Conflict Airing Theory"
+          "id": "https://news.ycombinator.com/item?id=27692965",
+          "author": "Dotnaught",
+          "description": "Article URL: https://www.theregister.com/2021/06/30/ibm_email_outage/\nComments URL: https://news.ycombinator.com/item?id=27692965\nPoints: 104\n# Comments: 92",
+          "link": "https://www.theregister.com/2021/06/30/ibm_email_outage/",
+          "publishedOn": "2021-06-30T20:15:50.000Z",
+          "wordCount": 2595,
+          "title": "IBM's 18-month company-wide email system migration has been a disaster: sources"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682103",
-          "author": "wormold",
-          "description": "Article URL: https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php\nComments URL: https://news.ycombinator.com/item?id=27682103\nPoints: 14\n# Comments: 1",
-          "link": "https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php",
-          "publishedOn": "2021-06-29T21:44:28.000Z",
-          "wordCount": 1472,
-          "title": "Researchers translate a bird's brain activity into song"
+          "id": "https://news.ycombinator.com/item?id=27691586",
+          "author": "d4rkp4ttern",
+          "description": "Article URL: https://jacobobryant.com/blog/understand/\nComments URL: https://news.ycombinator.com/item?id=27691586\nPoints: 205\n# Comments: 43",
+          "link": "https://jacobobryant.com/blog/understand/",
+          "publishedOn": "2021-06-30T17:59:09.000Z",
+          "wordCount": 497,
+          "title": "Move fast, but understand the problem first"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682018",
-          "author": "clash",
-          "description": "Article URL: https://blog.framelabs.eu/evolution/\nComments URL: https://news.ycombinator.com/item?id=27682018\nPoints: 25\n# Comments: 29",
-          "link": "https://blog.framelabs.eu/evolution/",
-          "publishedOn": "2021-06-29T21:37:17.000Z",
-          "wordCount": 183,
-          "title": "Show HN: A 13.3“ battery-powered e-paper picture frame to display digital art"
+          "id": "https://news.ycombinator.com/item?id=27690950",
+          "author": "woodrow",
+          "description": "Article URL: https://fly.io/blog/globally-distributed-postgres/\nComments URL: https://news.ycombinator.com/item?id=27690950\nPoints: 207\n# Comments: 86",
+          "link": "https://fly.io/blog/globally-distributed-postgres/",
+          "publishedOn": "2021-06-30T17:08:33.000Z",
+          "wordCount": 2350,
+          "title": "Globally Distributed Postgres"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27682015",
-          "author": "deletionist",
-          "description": "Article URL: https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math\nComments URL: https://news.ycombinator.com/item?id=27682015\nPoints: 12\n# Comments: 2",
-          "link": "https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math",
-          "publishedOn": "2021-06-29T21:37:03.000Z",
-          "wordCount": 2231,
-          "title": "Let's Build a Chip with Math"
+          "id": "https://news.ycombinator.com/item?id=27690587",
+          "author": "samizdis",
+          "description": "Article URL: https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc\nComments URL: https://news.ycombinator.com/item?id=27690587\nPoints: 602\n# Comments: 259",
+          "link": "https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc",
+          "publishedOn": "2021-06-30T16:36:33.000Z",
+          "wordCount": 2323,
+          "title": "Intuit sabotages the Child Tax Credit"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27681674",
-          "author": "the_economist",
-          "description": "Article URL: https://jobs.lever.co/buildzoom\nComments URL: https://news.ycombinator.com/item?id=27681674\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/buildzoom",
-          "publishedOn": "2021-06-29T21:00:43.000Z",
-          "wordCount": 103,
-          "title": "BuildZoom (better way to build custom homes) is hiring a Principal Engineer"
+          "id": "https://news.ycombinator.com/item?id=27690543",
+          "author": "MikeDelta",
+          "description": "Article URL: https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/\nComments URL: https://news.ycombinator.com/item?id=27690543\nPoints: 238\n# Comments: 201",
+          "link": "https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/",
+          "publishedOn": "2021-06-30T16:33:01.000Z",
+          "wordCount": 1051,
+          "title": "Robinhood to pay $70M for 'systemic supervisory failures'"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27681418",
-          "author": "jseliger",
-          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt\nComments URL: https://news.ycombinator.com/item?id=27681418\nPoints: 135\n# Comments: 44",
-          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt",
-          "publishedOn": "2021-06-29T20:38:56.000Z",
-          "wordCount": 4266,
-          "title": "What mRNA is good for, and what it maybe isn’t"
+          "id": "https://news.ycombinator.com/item?id=27690504",
+          "author": "Tomte",
+          "description": "Article URL: http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html\nComments URL: https://news.ycombinator.com/item?id=27690504\nPoints: 215\n# Comments: 65",
+          "link": "http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html",
+          "publishedOn": "2021-06-30T16:30:04.000Z",
+          "wordCount": 6117,
+          "title": "1970s mainframe RPGs we can no longer play"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27680569",
-          "author": "pseudolus",
-          "description": "Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/\nComments URL: https://news.ycombinator.com/item?id=27680569\nPoints: 267\n# Comments: 162",
-          "link": "https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/",
-          "publishedOn": "2021-06-29T19:24:41.000Z",
-          "wordCount": 1098,
-          "title": "Ohio GOP ends attempt to ban municipal broadband after protest from residents"
+          "id": "https://news.ycombinator.com/item?id=27689664",
+          "author": "jwpalmer6",
+          "description": "Article URL: https://git-history.jpalmer.dev/\nComments URL: https://news.ycombinator.com/item?id=27689664\nPoints: 102\n# Comments: 18",
+          "link": "https://git-history.jpalmer.dev/",
+          "publishedOn": "2021-06-30T15:24:12.000Z",
+          "wordCount": 6,
+          "title": "Show HN: An interactive visual history of Git development"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27680047",
-          "author": "mrleinad",
-          "description": "Article URL: https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments\nComments URL: https://news.ycombinator.com/item?id=27680047\nPoints: 62\n# Comments: 21",
-          "link": "https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments",
-          "publishedOn": "2021-06-29T18:45:54.000Z",
-          "wordCount": 4783,
-          "title": "Electronic lottery tickets as micropayments (1997)"
+          "id": "https://news.ycombinator.com/item?id=27688612",
+          "author": "_wp_",
+          "description": "Article URL: https://principles.dev/\nComments URL: https://news.ycombinator.com/item?id=27688612\nPoints: 289\n# Comments: 80",
+          "link": "https://principles.dev/",
+          "publishedOn": "2021-06-30T13:59:47.000Z",
+          "wordCount": 272,
+          "title": "Software Engineering principles to make teams better"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27678535",
-          "author": "headalgorithm",
-          "description": "Article URL: https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html\nComments URL: https://news.ycombinator.com/item?id=27678535\nPoints: 176\n# Comments: 28",
-          "link": "https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html",
-          "publishedOn": "2021-06-29T16:53:36.000Z",
-          "wordCount": 6734,
-          "title": "An EPYC escape: Case-study of a KVM breakout"
+          "id": "https://news.ycombinator.com/item?id=27688203",
+          "author": "mffap",
+          "description": "Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/\nComments URL: https://news.ycombinator.com/item?id=27688203\nPoints: 115\n# Comments: 102",
+          "link": "https://zitadel.ch/blog/treat-clusters-as-cattle/",
+          "publishedOn": "2021-06-30T13:24:36.000Z",
+          "wordCount": 2006,
+          "title": "Treat Kubernetes clusters as cattle, not pets"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27677001",
-          "author": "alfredbez",
-          "description": "Article URL: https://martinfowler.com/articles/202106-reducing-speaking.html\nComments URL: https://news.ycombinator.com/item?id=27677001\nPoints: 361\n# Comments: 94",
-          "link": "https://martinfowler.com/articles/202106-reducing-speaking.html",
-          "publishedOn": "2021-06-29T15:14:21.000Z",
-          "wordCount": 1164,
-          "title": "Stepping Back from Speaking"
+          "id": "https://news.ycombinator.com/item?id=27688090",
+          "author": "timmytokyo",
+          "description": "Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/\nComments URL: https://news.ycombinator.com/item?id=27688090\nPoints: 216\n# Comments: 161",
+          "link": "https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/",
+          "publishedOn": "2021-06-30T13:15:35.000Z",
+          "wordCount": 6347,
+          "title": "Link rot and content drift are endemic to the web"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27676266",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://copilot.github.com/\nComments URL: https://news.ycombinator.com/item?id=27676266\nPoints: 1979\n# Comments: 920",
-          "link": "https://copilot.github.com/",
-          "publishedOn": "2021-06-29T14:29:39.000Z",
-          "wordCount": 2285,
-          "title": "GitHub Copilot: your AI pair programmer"
+          "id": "https://news.ycombinator.com/item?id=27687775",
+          "author": "mad_ned",
+          "description": "Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid\nComments URL: https://news.ycombinator.com/item?id=27687775\nPoints: 161\n# Comments: 73",
+          "link": "https://madned.substack.com/p/black-hat-exploits-of-the-stupid",
+          "publishedOn": "2021-06-30T12:44:24.000Z",
+          "wordCount": 3684,
+          "title": "Black Hat Exploits of the Stupid-Easy 80s"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27676066",
-          "author": "wglb",
-          "description": "Article URL: https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/\nComments URL: https://news.ycombinator.com/item?id=27676066\nPoints: 81\n# Comments: 44",
-          "link": "https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/",
-          "publishedOn": "2021-06-29T14:16:56.000Z",
-          "wordCount": 1713,
-          "title": "Physicists confirm two cases of “elusive” black hole/neutron star mergers"
+          "id": "https://news.ycombinator.com/item?id=27687617",
+          "author": "remt",
+          "description": "Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html\nComments URL: https://news.ycombinator.com/item?id=27687617\nPoints: 347\n# Comments: 460",
+          "link": "https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html",
+          "publishedOn": "2021-06-30T12:25:40.000Z",
+          "wordCount": 891,
+          "title": "‘Great Resignation’ gains steam as return-to-work plans take effect"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27675603",
-          "author": "razin",
-          "description": "Article URL: http://paulgraham.com/hwh.html\nComments URL: https://news.ycombinator.com/item?id=27675603\nPoints: 828\n# Comments: 854",
-          "link": "http://paulgraham.com/hwh.html",
-          "publishedOn": "2021-06-29T13:39:09.000Z",
-          "wordCount": 3271,
-          "title": "How to Work Hard"
+          "id": "https://news.ycombinator.com/item?id=27687450",
+          "author": "agomez314",
+          "description": "Article URL: https://twitter.com/eevee/status/1410037309848752128\nComments URL: https://news.ycombinator.com/item?id=27687450\nPoints: 906\n# Comments: 400",
+          "link": "https://twitter.com/eevee/status/1410037309848752128",
+          "publishedOn": "2021-06-30T12:00:41.000Z",
+          "wordCount": 196,
+          "title": "GitHub co-pilot as open source code laundering?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27675086",
-          "author": "voxadam",
-          "description": "Article URL: https://tamikothiel.com/cm/\nComments URL: https://news.ycombinator.com/item?id=27675086\nPoints: 79\n# Comments: 48",
-          "link": "https://tamikothiel.com/cm/",
-          "publishedOn": "2021-06-29T12:51:01.000Z",
-          "wordCount": 1154,
-          "title": "The Connection Machines CM-1 and CM-2 (2015)"
+          "id": "https://news.ycombinator.com/item?id=27687265",
+          "author": "vortex_ape",
+          "description": "Article URL: https://jacobian.org/2021/may/20/estimation/\nComments URL: https://news.ycombinator.com/item?id=27687265\nPoints: 336\n# Comments: 206",
+          "link": "https://jacobian.org/2021/may/20/estimation/",
+          "publishedOn": "2021-06-30T11:29:57.000Z",
+          "wordCount": 768,
+          "title": "Software estimation is hard – do it anyway"
         }
       ]
     },
@@ -192,6 +192,96 @@
       "feedUrl": "http://www.elotrolado.net/feed/",
       "siteUrl": "https://www.elotrolado.net",
       "articles": [
+        {
+          "id": "46490_v1",
+          "author": null,
+          "description": "Square Enix ha revelado que las tres primeras entregas de la saga Final Fantasy volverán (otra vez) el 28 de julio con el debut de la serie Final Fantasy Pixel Remaster, cuyo objetivo es ofrecer una versión remodelada en 2D de los seis juegos clásicos. Además de descubrir la fecha de lanzamiento, el editor japonés ha ofrecido detalles sobre el tratamiento que recibirán los títulos y anunciado que cada uno de ellos se despachará en PC (Steam), iOS y Android por un precio diferente que va desde los 11,99 a los 17,99 euros. Final Fantasy, Final Fantasy II y Final Fantasy III, los tres… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/final-fantasy-pixel-remaster-fecha",
+          "publishedOn": "2021-06-30T18:04:41.000Z",
+          "wordCount": 735,
+          "title": "La serie Final Fantasy Pixel Remaster debutará el 28 de julio con los tres primeros juegos"
+        },
+        {
+          "id": "46489_v1",
+          "author": null,
+          "description": "El imperio Tencent crece una vez más y en esta ocasión no es gracias a una compra, sino a la fundación de un nuevo estudio. Se trata de Uncapped Games, un estudio de desarrollo afincado en Playa Vista, California, que dependerá de Lightspeed and Quantum Studios, una filial de Tencent. Los líderes de Uncapped Games son David Kim y Jason Hughes, dos veteranos desarrolladores de Blizzard Entertainment que tienen como objetivo trabajar en un juego de estrategia en tiempo real (RTS) para PC. El RTS es un género que no está pasando por su mejor época y una muestra de ello es que Blizzard… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/uncapped-tencent-rts-blizzard",
+          "publishedOn": "2021-06-30T17:12:08.000Z",
+          "wordCount": 824,
+          "title": "Veteranos de Blizzard fundan Uncapped Games y firman con Tencent para trabajar en un RTS"
+        },
+        {
+          "id": "46488_v1",
+          "author": null,
+          "description": "Sony Interactive Entertainment ha comunicado que a partir del martes 6 de julio los suscriptores de PlayStation Plus podrán conseguir sin coste adicional los juegos A Plague Tale: Innocence (PS5), Call of Duty: Black Ops 4 y WWE 2K Battlegrounds. Los tres títulos, así como Virtua Fighter 5: Ultimate Showdown que se ofrecerá durante un mes más, se podrán reclamar hasta el lunes 2 de agosto. A Plague Tale: Innocence sitúa su acción en el Reino de Francia en 1349, cuando la peste negra asolaba el país, y pone a los jugadores en la piel de la joven de 15 años Amicia de Rune y su hermano… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/ps-plus-julio-ps4-ps5-2021",
+          "publishedOn": "2021-06-30T16:17:37.000Z",
+          "wordCount": 878,
+          "title": "A Plague Tale: Innocence (PS5), Black Ops 4 y WWE 2K Battlegrounds son los juegos Plus de julio"
+        },
+        {
+          "id": "46487_v1",
+          "author": null,
+          "description": "Phil Spencer, jefe de Xbox, ha hablado durante una entrevista concedida a IGN de un tema candente en la industria del videojuego: la compra de estudios. El directivo considera que adquirir equipos de desarrollo es “una parte natural y saludable” dentro del negocio, pero dice entender a aquellos jugadores preocupados por si esto es bueno o malo. Spencer se muestra menos comprensivo con los usuarios que critican sin conocimiento a un estudio pequeño por aceptar una oferta de compra, un comportamiento que considera miope. “En ocasiones existe un diálogo en la industria sobre si las… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/phil-spencer-adquisiciones-estudios-miope",
+          "publishedOn": "2021-06-30T15:44:22.000Z",
+          "wordCount": 841,
+          "title": "Phil Spencer: la compra de estudios es natural y decirle a un equipo pequeño que no venda es “ser corto de miras”"
+        },
+        {
+          "id": "46486_v1",
+          "author": null,
+          "description": "La presentación de los últimos resultados financieros de Atlus nos ha permitido saber que la franquicia Persona ha logrado superar la simbólica cifra de los 15 millones de unidades vendidas entre todas sus entregas. Después de 25 años de existencia esta cifra podría parecer menor, pero hay que tener en cuenta que Persona es un spin-off de Shin Megami Tensei y una saga de nicho que no siempre lo ha tenido fácil para llegar a Occidente. Atlus no ha detallado cuántas unidades ha vendido cada uno de los más de 20 juegos que componen la saga Persona entre entregas principales, remakes,… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/persona-millones-copias-vendidas",
+          "publishedOn": "2021-06-30T14:07:25.000Z",
+          "wordCount": 803,
+          "title": "La saga Persona supera los 15 millones de unidades vendidas"
+        },
+        {
+          "id": "46485_v1",
+          "author": null,
+          "description": "thatgamecompany, el estudio responsable de Journey y Flower, ha anunciado que Sky: Children of the Light ya está disponible para Nintendo Switch en Europa. El juego se ofrece de forma gratuita con un arco argumental y un modo multijugador con juego cruzado en el que ocho jugadores pueden explorar y jugar juntos. Los jugadores de Nintendo Switch también pueden adquirir un nuevo Starter Pack que incluye dos nuevas capas, una flauta ocarina, cabello de elfo, 75 velas y “una sorpresa extra” por 32,99 euros. Los jugadores de Sky: Children of the Light en iOS y Android pueden utilizar su… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_sky-children-of-the-light-ya-disponible-para-nintendo-switch_2427614",
+          "publishedOn": "2021-06-30T10:33:38.000Z",
+          "wordCount": 291,
+          "title": "Breve: Sky: Children of the Light ya disponible para Nintendo Switch"
+        },
+        {
+          "id": "46484_v1",
+          "author": null,
+          "description": "Funcom, responsable de Conan Exiles, ha anunciado haber llegado a un acuerdo para hacerse con el estudio sueco The Outsiders por una cantidad no revelada. Actualmente ambos equipos se encuentran trabajando en el desarrollo de Metal: Hellsinger, un shooter rítmico en primera persona y música metal que debería estar disponible este año. Además, Funcom ha anunciado la apertura de un nuevo estudio en Bucarest (Rumanía) dedicado al control de calidad. Esta es la cuarta oficina del estudio noruego, que ya tiene presencia en Oslo (Noruega), Lisboa (Portugal) y Raleigh (Estados Unidos). Desde… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_funcom-adquiere-una-participacion-mayoritaria-de-the-outsiders_2427613",
+          "publishedOn": "2021-06-30T10:24:23.000Z",
+          "wordCount": 271,
+          "title": "Breve: Funcom adquiere una participación mayoritaria de The Outsiders"
+        },
+        {
+          "id": "46483_v1",
+          "author": null,
+          "description": "Los rumores sobre una nueva entrega de la saga Silent Hill hace tiempo que corren, pero hasta ahora Konami no se ha pronunciado al respecto. Hoy tampoco lo ha hecho, pero todo parece indicar que de forma pública la primera piedra de un nuevo Silent Hill se ha colocado después de que el editor japonés haya anunciado un acuerdo de cooperación con Bloober Team, el estudio polaco responsable de juegos de terror como The Medium y Layers of Fear. La alianza incluye el desarrollo de contenidos e intercambio de conocimientos. “Es un día histórico para mi y el resultado de varios años de… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/juegos/konami-bloober-acuerdo",
+          "publishedOn": "2021-06-30T09:54:24.000Z",
+          "wordCount": 838,
+          "title": "Konami (Silent Hill) y Bloober Team (The Medium) firman un acuerdo de colaboración"
+        },
+        {
+          "id": "46482_v1",
+          "author": null,
+          "description": "La misteriosa eliminación de datos que han experimentado algunos usuarios de un NAS WD My Book Live sigue sin tener responsables, pero ya hay una posible solución en camino. Según ha comunicado el fabricante de dispositivos de almacenamiento a través de una actualización en su blog oficial, \"para ayudar a los clientes que han perdido datos como resultado de estos ataques, Western Digital proporcionara servicios de recuperación de datos, que estarán disponibles a partir de julio\". Western Digital no ha dado más información acerca de cómo piensa recuperar los datos eliminados, pero la… Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/noticias/tecnologia/wd-recuperacion-datos-nas-my-book-live-descuentos",
+          "publishedOn": "2021-06-30T09:46:35.000Z",
+          "wordCount": 793,
+          "title": "WD recuperará los datos borrados durante el ataque a sus NAS My Book Live y ofrecerá descuentos"
+        },
+        {
+          "id": "46481_v1",
+          "author": null,
+          "description": "Hablamos de la obsolescencia de las licencias digitales, el significado del E3 en un presente cada vez más digital, los peores juegos retro que hemos jugado, la colección Marvel Must-Have y el 20 aniversario de El Viaje de Chihiro. Con Sabio, Ferdopa y [erick], grabado el 10 de junio de 2021. Hilo oficial del podcast de EOL Puedes escucharlo en los los enlaces este post o en las siguientes plataformas: Spotify Google Podcasts Apple Podcasts iVoox PodLink RSS ¿Falta alguna? Dinos cuál Leer noticia completa y comentarios »",
+          "link": "https://www.elotrolado.net/hilo_el-podcast-de-eol-episodio-21_2427585",
+          "publishedOn": "2021-06-30T06:39:50.000Z",
+          "wordCount": 309,
+          "title": "Breve: El podcast de EOL episodio #21"
+        },
         {
           "id": "46480_v1",
           "author": null,
@@ -207,7 +297,7 @@
           "description": "El juego de ritmo y baile estilo libre Synth Riders estará disponible para PlayStation VR el 27 de julio, según ha anunciado el desarrollador Kluge Interactive. Originalmente el juego de realidad virtual se lanzó en julio de 2018 mediante Steam con soporte para HTC Vive, Oculus, Valve Index y Windows Mixed Reality. “A los fans de Synth Riders les encanta que el juego les active todo el cuerpo y les haga bailar”, explica Kluge Interactive. “Nuestro equipo ha creado a mano un mapa para cada canción con un objetivo muy claro en mente: que los jugadores sientan una conexión con la música,… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_synth-riders-estara-disponible-el-27-de-julio-para-ps-vr_2427569",
           "publishedOn": "2021-06-29T22:09:28.000Z",
-          "wordCount": 305,
+          "wordCount": 404,
           "title": "Breve: Synth Riders estará disponible el 27 de julio para PS VR"
         },
         {
@@ -216,7 +306,7 @@
           "description": "Casey Hudson ha anunciado vía Twitter la apertura de Humanoid Studios, un nuevo equipo de desarrollo independiente que ya se encuentra trabajando en una nueva propiedad intelectual. El estudio se encuentra instalado en Canadá, que es para los desarrolladores de videojuegos algo similar a Androra para los YouTubers. El currículum de Casey Hudson nos obligará a tener un ojo puesto en Humanoid Studios. Hudson fue durante muchos años el máximo responsable de BioWare y se encargó de dirigir tanto la trilogía de Mass Effect como el desarrollo de Star Wars: Knights of the Old Republic.… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_casey-hudson-responsable-de-mass-effect-abre-un-nuevo-estudio_2427567",
           "publishedOn": "2021-06-29T21:57:13.000Z",
-          "wordCount": 290,
+          "wordCount": 334,
           "title": "Breve: Casey Hudson, responsable de Mass Effect, abre un nuevo estudio"
         },
         {
@@ -225,7 +315,7 @@
           "description": "Magic: Legends, un juego de rol y acción en línea ambientado en el Multiverso de Magic: the Gathering que permitía a los jugadores convertirse en un Planeswalker, cerrará sus servidores el 31 de octubre, según ha anunciado el productor ejecutivo Steve Ricossa. El desastre es mayúsculo, ya que el título free-to-play desarrollado por Cryptic Studios dejará de estar disponible sin haber superado la beta abierta en la que aún se encuentra. Los jugadores que hayan gastado dinero en el título recibirán un reembolso completo de todas las compras. “Con gran pesar anunciamos que Magic: Legends… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/magic-legends-cerrara-servidores",
           "publishedOn": "2021-06-29T21:43:35.000Z",
-          "wordCount": 806,
+          "wordCount": 805,
           "title": "Magic: Legends no superará la beta abierta y cerrará sus servidores el 31 de octubre"
         },
         {
@@ -234,8 +324,8 @@
           "description": "Remedy Entertainment ha anunciado haber llegado a un acuerdo con el editor 505 Games para expandir el universo Control con dos nuevos juegos. De momento conocemos a uno de ellos, un spin-off multijugador conocido bajo el nombre en clave Condor que aún le queda mucho camino por delante. Sobre el segundo título no hay información, pero editor y desarrollador aseguran que se trata de un proyecto cuyo presupuesto será mayor que el de Control. De Condor sabemos que es un juego cooperativo JcE (jugador contra entorno) para cuatro participantes, que está siendo desarrollado haciendo uso de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/remedy-control-multijugador",
           "publishedOn": "2021-06-29T20:42:47.000Z",
-          "wordCount": 844,
-          "title": "Remedy trabaja en dos nuevos juegos de la saga Control y uno de ellos un spin-off multijugador"
+          "wordCount": 842,
+          "title": "Remedy trabaja en dos nuevos juegos de la saga Control, uno de ellos un spin-off multijugador"
         },
         {
           "id": "46475_v1",
@@ -243,7 +333,7 @@
           "description": "Bethesda Softworks sigue trabajando en actualizar sus juegos para la nueva generación de consolas y después de The Elder Scrolls Online es el turno de prestar atención a Doom Eternal, que desde hoy tiene disponible una versión para PlayStation 5 y Xbox Series X/S que se ofrece de forma gratuita a los propietarios del título. La actualización, también añade un modo trazado de rayos en PC, llega acompañada de una nueva arena para el Battlemode. Las versiones de nueva generación de Doom Eternal traen las siguientes mejoras para sus respectivas plataformas, “con las que se alcanzarán unos… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/doom-eternal-disponible-ps5-xbox-series",
           "publishedOn": "2021-06-29T18:55:05.000Z",
-          "wordCount": 785,
+          "wordCount": 784,
           "title": "Doom Eternal recibe la actualización para PS5 y Xbox Series con modos 4K, 120 FPS y trazado de rayos"
         },
         {
@@ -252,7 +342,7 @@
           "description": "Bethesda Softworks anunció en 2018 que se encontraba trabajando en The Elder Scrolls VI para que la gente dejara de preguntar si el juego estaba en desarrollo, pero lo único que ha conseguido la compañía es que cambie la pregunta. Ahora la duda es cuándo estará disponible el título, así que de vez en cuando Todd Howard, responsable de Bethesda Game Studios y la saga The Elder Scrolls, debe salir a recordar que aún queda mucho tiempo debido a que los recursos siguen centrados en Starfield. “La tecnología [de Starfield], Creation Engine 2, se está creando para ambos [juegos]”, comenta… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/elder-scrolls-vi-fase-desarrollo",
           "publishedOn": "2021-06-29T17:20:58.000Z",
-          "wordCount": 898,
+          "wordCount": 897,
           "title": "The Elder Scrolls VI sigue en fase de diseño tres años después de su anuncio"
         },
         {
@@ -261,7 +351,7 @@
           "description": "Microsoft ha revelado los cuatro juegos de Xbox One y Xbox 360 que a lo largo de julio podrán conseguir los suscriptores de Xbox Live Gold y finalmente podemos decir que el nivel ha subido un poco, algo que no era muy difícil. Los elegidos son: Planet Alpha, Rock of Ages 3: Make & Break, Conker: Live & Reloaded y Midway Arcade Origins. Planet Alpha es un colorido juego de acción, plataformas y rompecabezas en 2.5D en el que los jugadores se ponen en la piel de un personaje que despierta herido y solo en un extraño mundo alienígena. Este misterioso planeta está influido por el ciclo… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/games-with-gold-xbox-julio-2021",
           "publishedOn": "2021-06-29T15:58:14.000Z",
-          "wordCount": 830,
+          "wordCount": 827,
           "title": "Planet Alpha, Rock of Ages 3, Conker: Live & Reloaded y Midway Arcade Origins son los Juegos con Gold de julio"
         },
         {
@@ -270,7 +360,7 @@
           "description": "Durante los últimos años Microsoft ha pisado el acelerador y abierto la cartera de forma generosa con el objetivo de adquirir numerosos equipos para Xbox Game Studios. Sony In­te­rac­ti­ve En­ter­tain­ment ha hecho lo mismo para nutrir a PlayStation Studios, pero de forma mucho más relajada. ¿Estamos ante una carrera armamentista entre ambas compañías?, le pregunta GQ a Hermen Hulst, jefe de PlayStation Studios, a raíz de la compra de Housemarque. “No, en absoluto”, responde Hulst. “Somos muy selectivos con los desarrolladores que incorporamos. Nuestra última adquisición fue la de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/sony-carrera-microsoft-compras",
           "publishedOn": "2021-06-29T15:11:40.000Z",
-          "wordCount": 758,
+          "wordCount": 783,
           "title": "PlayStation Studios niega que la compra de Housemarque responda a una carrera armamentista con Microsoft"
         },
         {
@@ -279,7 +369,7 @@
           "description": "Facebook no se rompe. A pesar de los deseos de las autoridades, un tribunal federal ha desestimado la acusación de prácticas anticompetitivas presentada por la Comisión Federal de Comercio (FTC, por sus siglas en inglés) contra la red social dirigida por Mark Zuckerberg, frenando así sus intenciones para disgregarla en empresas más pequeñas. Casi en el mismo plumazo también ha desestimado una demanda paralela interpuesta por 48 fiscales generales del país que aducían prácticas monopolísticas. La FTC y los fiscales en cuestión (prácticamente todos y cada uno de los correspondientes a… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/internet/juez-evita-division-facebook-instagram-whatsapp",
           "publishedOn": "2021-06-29T12:11:26.000Z",
-          "wordCount": 808,
+          "wordCount": 807,
           "title": "La justicia rechaza el intento del gobierno de Estados Unidos para separar a Facebook de WhatsApp e Instagram"
         },
         {
@@ -288,7 +378,7 @@
           "description": "Sony Interactive Entertainment amplía la familia de equipos que componen PlayStation Studios con Housemarque, el estudio finlandés responsable de Returnal, Resogun, Nex Machina y Super Stardust. Esta compra parece un paso natural para Housemarque y Sony. La primera lleva muchos años ligada a las consolas PlayStation, mientras que la segunda hace tiempo que busca oportunidades para ampliar sus estudios first-party. Parece que esta no será la última adquisición y todo apunta a que Bluepoint (Demon’s Souls de PS5) caerá más pronto que tarde. La adquisición de Housemarque por parte de… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/sony-compra-housemarque",
           "publishedOn": "2021-06-29T10:30:01.000Z",
-          "wordCount": 846,
+          "wordCount": 871,
           "title": "Housemarque, responsable de Returnal y Resogun, pasa a formar parte de PlayStation Studios"
         },
         {
@@ -297,7 +387,7 @@
           "description": "Windows 11 no llegará a la mayoría de los ordenadores hasta bien entrada la segunda mitad de este año, pero los miembros del programa Insider ya pueden descargar la preview build y empezar a probar sus mieles (y sus hieles, puesto que aún es una versión en desarrollo). Según ha informado Microsoft, el sistema operativo actualmente disponible está a grandes rasgos completo, con su nuevo menú de inicio, el sistema de organización de ventanas para multiplataforma y hasta la nueva tienda de tienda oficial, pero todavía faltan algunos detalles menores. La build 22000.51 de Windows 11… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/windows-11-insiders-requisitos-tecnicos",
           "publishedOn": "2021-06-29T09:35:54.000Z",
-          "wordCount": 853,
+          "wordCount": 852,
           "title": "Microsoft lanza Windows 11 para los Insiders mientras se plantea revisar los requisitos técnicos"
         },
         {
@@ -306,7 +396,7 @@
           "description": "Hace unos días Xbox Cloud Gaming (xCloud) dio las primeras señales de estar usando hardware de Xbox Series X y hoy Microsoft ha confirmado que todos los servidores que sostienen su servicio de juego en la nube han sido actualizados. La compañía también ha confirmado que Xbox Cloud Gaming ya está disponible de forma oficial y mediante Xbox Game Pass Ultimate en dispositivos Apple, incluyendo iPhones y iPads, así como macOS y PC con Windows 10. En todos los casos el acceso es vía web con Edge, Chrome o Safari. Ahora que Xbox Cloud Gaming funciona sobre el mismo hardware que Xbox Series… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/tecnologia/xbox-cloud-gaming-series-x-pc-ios-disponible",
           "publishedOn": "2021-06-28T20:51:47.000Z",
-          "wordCount": 832,
+          "wordCount": 831,
           "title": "Xbox Cloud Gaming ya corre al completo sobre hardware Xbox Series X y llega oficialmente a dispositivos Apple y PC"
         },
         {
@@ -315,7 +405,7 @@
           "description": "Demon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles, largo nombre bajo el cual se esconde el juego basado en el manga Demon Slayer escrito e ilustrado por Koyoharu Gotōge, estará disponible en Estados Unidos y Europa el 15 de octubre para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC (Steam), según ha anunciado Sega. Además de comunicar la fecha y mostrar un tráiler, el editor ha revelado las diferentes ediciones en las que se ofrecerá el juego y confirmado que llegará por nuestras tierras con subtítulos en español. Guardianes de la Noche: Kimetsu No Yaiba - Las… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/noticias/juegos/demon-slayer-fecha-subtitulos",
           "publishedOn": "2021-06-28T18:36:04.000Z",
-          "wordCount": 688,
+          "wordCount": 687,
           "title": "Demon Slayer: The Hinokami Chronicles llegará a Europa el 15 de octubre con subtítulos en español"
         },
         {
@@ -324,98 +414,8 @@
           "description": "Hiroyuki Ito, director de NEO: The World Ends with You, ha concedido una entrevista al medio japonés 4Gamer donde ha revelado que la campaña del juego requerirá unas 50 horas de juego para completarse. El desarrollador afirma que en esta secuela hay muchas más cosas por hacer que en la primera entrega y aquellos jugadores que quieran completar el título al 100 % posiblemente deban invertir el doble de horas. NEO: The World Ends with You estará disponible el 27 de julio en PlayStation 4 y Nintendo Switch, mientras que la versión de PC se pondrá a la venta en verano mediante la Epic… Leer noticia completa y comentarios »",
           "link": "https://www.elotrolado.net/hilo_la-campana-de-neo-the-world-ends-with-you-durara-unas-50-horas_2427428",
           "publishedOn": "2021-06-28T17:04:39.000Z",
-          "wordCount": 1017,
+          "wordCount": 1053,
           "title": "Breve: La campaña de NEO: The World Ends with You durará unas 50 horas"
-        },
-        {
-          "id": "46465_v1",
-          "author": null,
-          "description": "Los móviles son cada vez más protagonistas dentro de la industria del videojuego habituada a las grandes franquicias y como nueva muestra de ello tenemos a NieR Re[in]carnation, un spin-off de la saga de Square Enix que estará disponible en Occidente para iOS y Android el 28 de julio, según avanza IGN. La fecha de lanzamiento del título free-to-play ha estado acompañada de un tráiler con gameplay y el recuerdo de que la campaña de registro previo tiene como recompensa gemas, la moneda dentro del juego. NieR Re[in]carnation, el primer título para móviles de la serie Nier, es un RPG de… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/nier-reincarnation-fecha-lanzamiento",
-          "publishedOn": "2021-06-28T16:42:45.000Z",
-          "wordCount": 733,
-          "title": "NieR Re[in]carnation para móviles estará disponible el 28 de julio"
-        },
-        {
-          "id": "46464_v1",
-          "author": null,
-          "description": "Masahiro Sakurai, director de Super Smash Bros. Ultimate para Nintendo Switch, ha dedicado un generoso vídeo a explicar con todo tipo de detalles el gameplay de Kazuya Mishima como nuevo contendiente del juego de lucha. También se ha puesto fecha a la llegada de Kazuya (con su respectivo escenario y 39 canciones), al que se podrá acceder mediante el Fighters Pass Vol. 2 o adquirir de forma individual por 5,99 euros a partir del 30 de junio. Ese mismo día también estarán disponibles nuevos disfraces para luchadores Mii (Lloyd, Dovahkiin, Shantae y Dante). ¿Por qué Kazuya Mishima y no… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/super-smash-bros-ultimate-kazuya-switch",
-          "publishedOn": "2021-06-28T14:51:11.000Z",
-          "wordCount": 930,
-          "title": "Super Smash Bros. Ultimate detalla la jugabilidad de Kazuya Mishima, que estará disponible el 30 de junio"
-        },
-        {
-          "id": "46463_v1",
-          "author": null,
-          "description": "El editor Koch Media ha llegado a un acuerdo con el desarrollador Owlcat Games para que el recién lanzado sello Prime Matter ponga a al venta a finales de año las versiones físicas del clásico RPG isométrico Pathfinder: Wrath of the Righteous para PlayStation 4 y Xbox One. La versión digital correrá a cargo del propio estudio y la fecha exacta de ambas ediciones se conocerá más adelante. Para los usuarios de PC el camino para hacerse con Pathfinder: Wrath of the Righteous es más claro, pues ya sabemos que el juego estará disponible a partir del 2 de septiembre en Steam, GOG y Epic… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_pathfinder-wrath-of-the-righteous-llegara-a-playstation-4-y-xbox-one-a-finales-de-ano_2427404",
-          "publishedOn": "2021-06-28T13:45:35.000Z",
-          "wordCount": 751,
-          "title": "Breve: Pathfinder: Wrath of the Righteous llegará a PlayStation 4 y Xbox One a finales de año"
-        },
-        {
-          "id": "46462_v1",
-          "author": null,
-          "description": "En un desangelado Mobile World Congress 2021 de Barcelona, Qualcomm ha presentado el Snapdragon 888 Plus, una actualización menor del que hasta ahora era su mejor chipset para móviles Android de gama alta. Las principales evoluciones de la nueva plataforma pasan por equipar una CPU Kryo 680 que mejora ligeramente a su predecesor y en subir el rendimiento del motor de inteligencia artificial para un mejor desempeño en todo tipo de tareas de entretenimiento y seguridad. En concreto, el Snapdragon 888 Plus incluye una CPU Kryo 680 de ocho núcleos y uno de ellos, el Prime basado en… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/tecnologia/qualcomm-snapdragon-888-plus",
-          "publishedOn": "2021-06-28T12:18:39.000Z",
-          "wordCount": 818,
-          "title": "Qualcomm presenta el Snapdragon 888 Plus con mejor procesador y rendimiento de IA"
-        },
-        {
-          "id": "46461_v1",
-          "author": null,
-          "description": "TiMi Studios, una filial de Tencent cuyo nombre nos es cada vez más familiar, ha anunciado que Contra Returns, una entrega de la saga de Konami para móviles que desde el 2017 se encuentra disponible en China, se podrá descargar de forma oficial mediante Google Play y App Store a partir del 26 de julio. Esto significa que los interesados no deberán recurrir a la .apk ni al cliente de Garena, y que ya es posible hacer el registro previo en iOS y Android para tener los detalles y estar alerta el día de la fecha de lanzamiento. Al igual que el resto de entregas de la saga Contra, que en… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/contra-returns-moviles-fecha",
-          "publishedOn": "2021-06-27T21:52:38.000Z",
-          "wordCount": 811,
-          "title": "Contra Returns para iOS y Android estará disponible el 26 de julio"
-        },
-        {
-          "id": "46460_v1",
-          "author": null,
-          "description": "El lunes 28 de junio la saga Mana, la misma que en Japón se conoce bajo el nombre de Seiken Densetsu, cumplirá su 30 aniversario. Para celebrarlo Square Enix tiene planeados varios proyectos y algunos han sido revelados durante una transmisión en directo donde se ha confirmado el desarrollo de una nueva entrega de la saga para consolas, el título para móviles Echoes of Mana, una versión de Trials of Mana para iOS y Android y una serie anime. La presentación de la nueva entrega de la saga Mana para consolas se ha hecho sin ningún tipo de floritura ni aspaviento. “Queríamos anunciarlo… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/mana-nueva-entrega-consolas",
-          "publishedOn": "2021-06-27T20:09:09.000Z",
-          "wordCount": 799,
-          "title": "Square Enix anuncia un nueva entrega de la saga Mana para consolas y Echoes of Mana para móviles"
-        },
-        {
-          "id": "46459_v1",
-          "author": null,
-          "description": "Durante una de las conferencias del WSE Innovation Day que se celebra en Varsovia, Adam Kiciński, director ejecutivo de CD Projekt Red, ha comentado que a día de hoy y después de seis meses de trabajo, el estudio polaco considera que el rendimiento del Cyberpunk 2077 es “satisfactorio”. Estas declaraciones se producen poco después de que Sony readmitiera el título en la PlayStation Store tras medio año de ausencia y Microsoft haya anunciado que el juego regresará a su política de reembolsos estándar el 6 de julio. “En este sentido, hemos alcanzado un nivel satisfactorio”, comenta… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/cyberpunk-2077-rendimiento-satisfactorio",
-          "publishedOn": "2021-06-27T14:13:51.000Z",
-          "wordCount": 876,
-          "title": "CD Projekt Red dice que el rendimiento de Cyberpunk 2077 ha alcanzado “un nivel satisfactorio”"
-        },
-        {
-          "id": "46458_v1",
-          "author": null,
-          "description": "Esta ha sido la semana de Windows 11, la nueva versión del sistema operativo de Microsoft que estrena diseño, compatibilidad con apps de Android, características gaming como Auto HDR y DirectStorage, así como unos requisitos que dejarán fuera a más de uno a pesar de que la actualización será gratuita. Además, Windows 11 espera integrar otras tiendas como Steam o Epic Games Store. Por otro lado, Microsoft ha ampliado la iniciativa Diseñado para Xbox con monitores y anunciado que trabaja en juegos nativos para la nube. Para los interesados en nuevos juegos, durante los últimos días… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/semana-19-26-junio-2021",
-          "publishedOn": "2021-06-26T10:12:34.000Z",
-          "wordCount": 1238,
-          "title": "Las noticias de la semana (19 - 26 de junio)"
-        },
-        {
-          "id": "46457_v1",
-          "author": null,
-          "description": "Eric Baptizat, un veterano desarrollador de Ubisoft y director de Assassin's Creed Valhalla, ha dejado la compañía francesa para fichar por Electronic Arts. En concreto, Baptizat es ahora director de juego en Motive Studio, equipo responsable de Star Wars: Squadrons y que según los rumores estaría preparando la vuelta de Dead Space. A lo largo de sus 16 años como empleado de Ubisoft, Eric Baptizat ha participado en múltiples entregas de la saga Assassin’s Creed, incluyendo Black Flag y Origins, así como el mencionado Valhalla del que era director. Actualmente Baptizat se encuentra… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/hilo_el-director-de-assassin-s-creed-valhalla-ficha-por-electronic-arts_2427203",
-          "publishedOn": "2021-06-26T09:52:50.000Z",
-          "wordCount": 1161,
-          "title": "Breve: El director de Assassin's Creed Valhalla ficha por Electronic Arts"
-        },
-        {
-          "id": "46455_v1",
-          "author": null,
-          "description": "Uno de los proyectos más ambiciosos que tiene Ubisoft entre manos es Avatar: Frontiers of Pandora, un juego que además de PC estará disponible en PlayStation 5 y Xbox Series, así que estamos ante un título que no debe preocuparse por una versión para la pasada generación y su hardware de hace ocho años. Por ese motivo Massive Entertainment, el estudio responsable del juego basado en la película de James Cameron, ha trabajado en mejorar Snowdrop y publicado un vídeo donde ofrece detalles sobre la evolución del motor gráfico. “Como el mundo de Avatar es tan distinto de todo lo que hemos… Leer noticia completa y comentarios »",
-          "link": "https://www.elotrolado.net/noticias/juegos/avatar-snowdrop-mejoras-video",
-          "publishedOn": "2021-06-25T15:15:37.000Z",
-          "wordCount": 784,
-          "title": "Ubisoft detalla las mejoras aplicadas en Snowdrop para dar vida a Avatar: Frontiers of Pandora"
         }
       ]
     },
