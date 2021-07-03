@@ -2,21 +2,338 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T01:04:24.097Z</updated>
+    <updated>2021-07-03T01:01:50.780Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[A Group Is Its Own Worst Enemy (2003)]]></title>
-        <id>https://news.ycombinator.com/item?id=27706413</id>
-        <link href="https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html"/>
-        <updated>2021-07-02T00:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html
-Comments URL: https://news.ycombinator.com/item?id=27706413
-Points: 9
+        <title type="html"><![CDATA[Soldiers watch the US withdrawal from Bagram through the lens of Pokemon Go]]></title>
+        <id>https://news.ycombinator.com/item?id=27718087</id>
+        <link href="https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html"/>
+        <updated>2021-07-02T23:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html
+Comments URL: https://news.ycombinator.com/item?id=27718087
+Points: 36
+# Comments: 6]]></summary>
+        <author>
+            <name>lalaland1125</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Oral History of the L0pht (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27717923</id>
+        <link href="https://duo.com/decipher/an-oral-history-of-the-l0pht"/>
+        <updated>2021-07-02T23:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://duo.com/decipher/an-oral-history-of-the-l0pht
+Comments URL: https://news.ycombinator.com/item?id=27717923
+Points: 61
+# Comments: 3]]></summary>
+        <author>
+            <name>whiteyford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miami orders evacuation of 156-unit as structurally and electrically unsafe]]></title>
+        <id>https://news.ycombinator.com/item?id=27717913</id>
+        <link href="https://apnews.com/article/fl-state-wire-florida-evacuations-c2f6b6efe50d3c5a87c4a97363fa8772"/>
+        <updated>2021-07-02T23:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/fl-state-wire-florida-evacuations-c2f6b6efe50d3c5a87c4a97363fa8772
+Comments URL: https://news.ycombinator.com/item?id=27717913
+Points: 23
+# Comments: 1]]></summary>
+        <author>
+            <name>canada_dry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kolyma highway in Yakutia, also known as the Road of Bones, is on fire]]></title>
+        <id>https://news.ycombinator.com/item?id=27717787</id>
+        <link href="https://siberiantimes.com/other/others/news/kolyma-highway-in-yakutia-also-known-as-the-road-of-bones-is-on-fire-and-temporarily-shut/"/>
+        <updated>2021-07-02T22:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://siberiantimes.com/other/others/news/kolyma-highway-in-yakutia-also-known-as-the-road-of-bones-is-on-fire-and-temporarily-shut/
+Comments URL: https://news.ycombinator.com/item?id=27717787
+Points: 47
+# Comments: 17]]></summary>
+        <author>
+            <name>dredmorbius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cortex (YC W20) Is Hiring Founding Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27716805</id>
+        <link href="https://www.workatastartup.com/jobs/29595"/>
+        <updated>2021-07-02T21:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/29595
+Comments URL: https://news.ycombinator.com/item?id=27716805
+Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>NetOpWibby</name>
+            <name>anishdhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Dragon Man’ may be an elusive Denisovan]]></title>
+        <id>https://news.ycombinator.com/item?id=27716123</id>
+        <link href="https://science.sciencemag.org/content/373/6550/11"/>
+        <updated>2021-07-02T20:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/373/6550/11
+Comments URL: https://news.ycombinator.com/item?id=27716123
+Points: 49
+# Comments: 15]]></summary>
+        <author>
+            <name>etiam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The risky bat-virus engineering that links America to Wuhan]]></title>
+        <id>https://news.ycombinator.com/item?id=27716083</id>
+        <link href="https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/"/>
+        <updated>2021-07-02T19:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/
+Comments URL: https://news.ycombinator.com/item?id=27716083
+Points: 134
+# Comments: 92]]></summary>
+        <author>
+            <name>apsec112</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RateOurCops – Like Yelp, but for Cops]]></title>
+        <id>https://news.ycombinator.com/item?id=27716012</id>
+        <link href="https://rateourcops.org/"/>
+        <updated>2021-07-02T19:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rateourcops.org/
+Comments URL: https://news.ycombinator.com/item?id=27716012
+Points: 185
+# Comments: 178]]></summary>
+        <author>
+            <name>Roco_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could miniature forests help air-condition cities?]]></title>
+        <id>https://news.ycombinator.com/item?id=27715987</id>
+        <link href="https://www.economist.com/science-and-technology/2021/07/01/could-miniature-forests-help-air-condition-cities"/>
+        <updated>2021-07-02T19:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/07/01/could-miniature-forests-help-air-condition-cities
+Comments URL: https://news.ycombinator.com/item?id=27715987
+Points: 32
+# Comments: 12]]></summary>
+        <author>
+            <name>a_w</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Space age electronics”: Inside a GE thin-film paperweight from the 1960s]]></title>
+        <id>https://news.ycombinator.com/item?id=27715872</id>
+        <link href="https://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html"/>
+        <updated>2021-07-02T19:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html
+Comments URL: https://news.ycombinator.com/item?id=27715872
+Points: 80
+# Comments: 27]]></summary>
+        <author>
+            <name>parsecs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centuries of Sound: 1936]]></title>
+        <id>https://news.ycombinator.com/item?id=27715323</id>
+        <link href="https://centuriesofsound.com/2021/06/14/1936/"/>
+        <updated>2021-07-02T18:53:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://centuriesofsound.com/2021/06/14/1936/
+Comments URL: https://news.ycombinator.com/item?id=27715323
+Points: 25
+# Comments: 0]]></summary>
+        <author>
+            <name>ignored</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breve: NetherRealm Studios deja de dar soporte a Mortal Kombat 11 y se centra en su próximo proyecto]]></title>
+        <id>46509_v1</id>
+        <link href="https://www.elotrolado.net/hilo_netherrealm-studios-deja-de-dar-soporte-a-mortal-kombat-11-y-se-centra-en-su-proximo-proyecto_2427898"/>
+        <updated>2021-07-02T18:50:53.000Z</updated>
+        <summary type="html"><![CDATA[NetherRealm Studios ha comunicado vía Twitter que después de dos años ha decidido dejar de dar soporte a Mortal Kombat 11, que ya no recibirá más contenido adicional. Con este mensaje el estudio de Warner Bros. Games también ha querido revelar públicamente que se encuentra totalmente centrado en su nuevo proyecto. ¿En qué trabaja NetherRealm Studios? Oficialmente en el “próximo proyecto”. Los rumores sostienen que este nuevo título desarrollado por el estudio liderado por Ed Boon se trata ni más ni menos que un juego de lucha con personajes de Marvel. De ser así NetherRealm Studios… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecture of Lisp Machines (2008) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27715043</id>
+        <link href="http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf"/>
+        <updated>2021-07-02T18:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf
+Comments URL: https://news.ycombinator.com/item?id=27715043
+Points: 94
+# Comments: 29]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting to know logical clocks by implementing them]]></title>
+        <id>https://news.ycombinator.com/item?id=27714251</id>
+        <link href="https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/"/>
+        <updated>2021-07-02T17:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
+Comments URL: https://news.ycombinator.com/item?id=27714251
+Points: 24
+# Comments: 1]]></summary>
+        <author>
+            <name>brunoac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monster Hunter Stories 2: Wings of Ruin muestra su tráiler de lanzamiento, un plan de contenido y el modo cooperativo]]></title>
+        <id>46508_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/monster-hunter-stories-2-trailer-poslanzamiento"/>
+        <updated>2021-07-02T16:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Capcom ha emitido un programa especial para celebrar que el 9 de julio Monster Hunter Stories 2: Wings of Ruin estará disponible en Nintendo Switch y PC (Steam). Durante la transmisión se han mostrado dos tráileres, el de lanzamiento y uno dedicado al modo cooperativo, y revelado el plan de contenido poslanzamiento que entregará cinco actualizaciones gratuitas entre julio y octubre. Monster Hunter Stories 2: Wings of Ruin es un RPG con combates por turnos que pone a los jugadores en la piel de un Raider que puede crear vínculos con monstruos amistosos llamados Monsties para luchar… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image unshredding using a TSP solver]]></title>
+        <id>https://news.ycombinator.com/item?id=27713441</id>
+        <link href="https://github.com/robinhouston/image-unshredding"/>
+        <updated>2021-07-02T16:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/robinhouston/image-unshredding
+Comments URL: https://news.ycombinator.com/item?id=27713441
+Points: 159
+# Comments: 62]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another 0-day looms for many Western Digital users]]></title>
+        <id>https://news.ycombinator.com/item?id=27713415</id>
+        <link href="https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/"/>
+        <updated>2021-07-02T16:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/
+Comments URL: https://news.ycombinator.com/item?id=27713415
+Points: 299
+# Comments: 160]]></summary>
+        <author>
+            <name>danso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim v0.5]]></title>
+        <id>https://news.ycombinator.com/item?id=27713358</id>
+        <link href="https://github.com/neovim/neovim/releases/tag/v0.5.0"/>
+        <updated>2021-07-02T16:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/neovim/neovim/releases/tag/v0.5.0
+Comments URL: https://news.ycombinator.com/item?id=27713358
+Points: 334
+# Comments: 154]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting reserved roles with PostgreSQL Hooks]]></title>
+        <id>https://news.ycombinator.com/item?id=27712800</id>
+        <link href="https://supabase.io/blog/2021/07/01/roles-postgres-hooks"/>
+        <updated>2021-07-02T15:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://supabase.io/blog/2021/07/01/roles-postgres-hooks
+Comments URL: https://news.ycombinator.com/item?id=27712800
+Points: 80
+# Comments: 12]]></summary>
+        <author>
+            <name>steve-chavez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom Eternal descarta el modo Invasión y añadirá un modo de Horda para un jugador]]></title>
+        <id>46507_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/doom-eternal-modo-horda"/>
+        <updated>2021-07-02T15:26:46.000Z</updated>
+        <summary type="html"><![CDATA[El plan de contenido poslanzamiento de Doom Eternal incluía desde el primer día la entrega gratuita de un modo Invasión que iba a permitir ingresar en la partida de otro jugador y jugar como un demonio, pero finalmente id Software ha dejado en pausa esta idea. En su lugar, el estudio de Bethesda Softworks ha trabajado en un modo Horda para un jugador y dedicado recursos a impulsar, renovar y ampliar el modo multijugador BATTLEMODE, donde un Slayer con todas las armas a su alcance lucha contra dos demonios. “Como muchos sabéis, planeábamos publicar una actualización gratuita para el… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Legend of Zelda: Skyward Sword HD muestra sus mejoras en un nuevo tráiler]]></title>
+        <id>46506_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/zelda-skyward-sword-hd-switch-mejoras"/>
+        <updated>2021-07-02T14:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo sigue preparando el lanzamiento de The Legend of Zelda: Skyward Sword HD y después de mostrar un generoso tráiler donde se hace un repaso general al juego, es el turno de enseñar todas las mejoras que añadirá el título respecto a la versión original de Wii lanzada en 2011. La más evidente (y necesaria) son las nuevas opciones de control para poder usar botones, pero hay alguna que otra novedad más. Al igual que en el juego original, en Zelda: Skyward Sword HD será posible jugar con los controles de movimiento usando el Joy Con hacia arriba, a los lados y en diagonal. Una… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El juego de realidad aumentada The Witcher: Monster Slayer estará disponible el 21 de julio]]></title>
+        <id>46505_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/witcher-monster-slayer-fecha-moviles"/>
+        <updated>2021-07-02T13:32:52.000Z</updated>
+        <summary type="html"><![CDATA[Casi un año después de anunciarlo, finalmente CD Projekt Red ha revelado cuándo estará disponible The Witcher: Monster Slayer, un juego de rol de realidad aumentada y basado en la localización para dispositivos móviles. La fecha elegida ha sido el 21 de julio y como se había comunicado anteriormente el título se lanzará bajo el modelo free-to-play en iOS y Android (donde el registro previo ya está disponible y se recompensa con la Kaer Morhen Steel Sword). Desarrollado y publicado por Spokko, una filial de CD Projekt Red, Monster Slayer es un juego ambientado en el universo The… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot regurgitating Quake code, including sweary comments]]></title>
+        <id>https://news.ycombinator.com/item?id=27710287</id>
+        <link href="https://twitter.com/mitsuhiko/status/1410886329924194309"/>
+        <updated>2021-07-02T11:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/mitsuhiko/status/1410886329924194309
+Comments URL: https://news.ycombinator.com/item?id=27710287
+Points: 1105
+# Comments: 568]]></summary>
+        <author>
+            <name>bencollier49</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Media blackout after key witness against Assange admits lying]]></title>
+        <id>https://news.ycombinator.com/item?id=27710075</id>
+        <link href="https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/"/>
+        <updated>2021-07-02T11:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/
+Comments URL: https://news.ycombinator.com/item?id=27710075
+Points: 884
+# Comments: 478]]></summary>
+        <author>
+            <name>k1m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dying Light 2 muestra un nuevo gameplay centrado en el sigilo y los infectados]]></title>
+        <id>46504_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/dying-light-2-gameplay-infectados"/>
+        <updated>2021-07-02T10:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Techland ha emitido el segundo episodio de Dying 2 Know, un programa destinado a revelar información sobre Dying Light 2, donde se ha mostrado un nuevo tráiler con gameplay que se centra en el sigilo y ofrece un vistazo a alguno de los infectados que los jugadores se encontrarán. Durante la transmisión, que podéis ver al completo al final de la noticia, también se habla sobre el diseño de sonido y las escenas de mocap (captura de movimiento). El gameplay de cinco minutos sigue a Aiden Caldwell, el protagonista del juego, que junto a Hakon, un miembro de la facción Nightrunners que… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La CNMC abre expediente a Amazon y Apple por pactar el bloqueo de ventas de productos electrónicos por terceros]]></title>
+        <id>46503_v1</id>
+        <link href="https://www.elotrolado.net/noticias/tecnologia/cnmc-expediente-apple-amazon-pacto-bloquear-ventas-rivales"/>
+        <updated>2021-07-02T10:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Amazon y Apple tienen un nuevo brete al que atender al margen de los abiertos en Bruselas. Más pequeño, sí, pero no por ello agradable. La Comisión Nacional de los Mercados y la Competencia (CNMC) ha comunicado la apertura de un expediente sancionador contra ambas empresas al apreciar que podrían haber establecido un pacto con el propósito de bloquear la venta en Amazon de dispositivos Apple por parte de terceros y evitar la aparición de rivales. Dado que ambas empresas realizan sus operaciones a través de distintas filiales, el expediente se dirige contra Amazon Services Europe… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pen, a GPL Copilot for Emacs]]></title>
+        <id>https://news.ycombinator.com/item?id=27709659</id>
+        <link href="https://github.com/semiosis/pen.el/"/>
+        <updated>2021-07-02T09:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/semiosis/pen.el/
+Comments URL: https://news.ycombinator.com/item?id=27709659
+Points: 149
+# Comments: 41]]></summary>
+        <author>
+            <name>mullikine</name>
         </author>
     </entry>
     <entry>
@@ -30,84 +347,6 @@ Points: 9
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBM email fiasco complicates sales deals, is worse than biz is letting on]]></title>
-        <id>https://news.ycombinator.com/item?id=27706128</id>
-        <link href="https://www.theregister.com/2021/07/01/ibm_email_disruption_sales"/>
-        <updated>2021-07-01T23:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/07/01/ibm_email_disruption_sales
-Comments URL: https://news.ycombinator.com/item?id=27706128
-Points: 33
-# Comments: 10]]></summary>
-        <author>
-            <name>busymom0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radian: A 21 century R console]]></title>
-        <id>https://news.ycombinator.com/item?id=27706038</id>
-        <link href="https://github.com/randy3k/radian"/>
-        <updated>2021-07-01T23:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/randy3k/radian
-Comments URL: https://news.ycombinator.com/item?id=27706038
-Points: 11
-# Comments: 1]]></summary>
-        <author>
-            <name>sieste</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check If Email Exists]]></title>
-        <id>https://news.ycombinator.com/item?id=27705742</id>
-        <link href="https://github.com/reacherhq/check-if-email-exists"/>
-        <updated>2021-07-01T22:37:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/reacherhq/check-if-email-exists
-Comments URL: https://news.ycombinator.com/item?id=27705742
-Points: 62
-# Comments: 35]]></summary>
-        <author>
-            <name>kilodeca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Folk wisdom on visual programming]]></title>
-        <id>https://news.ycombinator.com/item?id=27705631</id>
-        <link href="https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/"/>
-        <updated>2021-07-01T22:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/
-Comments URL: https://news.ycombinator.com/item?id=27705631
-Points: 66
-# Comments: 49]]></summary>
-        <author>
-            <name>telotortium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing Linux into a 286 laptop from the year 1989]]></title>
-        <id>https://news.ycombinator.com/item?id=27705340</id>
-        <link href="https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/"/>
-        <updated>2021-07-01T21:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/
-Comments URL: https://news.ycombinator.com/item?id=27705340
-Points: 32
-# Comments: 27]]></summary>
-        <author>
-            <name>sam345</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flipper Zero: How it’s made and tested]]></title>
-        <id>https://news.ycombinator.com/item?id=27704883</id>
-        <link href="https://blog.flipperzero.one/electronics-testing/"/>
-        <updated>2021-07-01T21:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.flipperzero.one/electronics-testing/
-Comments URL: https://news.ycombinator.com/item?id=27704883
-Points: 37
-# Comments: 14]]></summary>
-        <author>
-            <name>vermilingua</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breve: Blightbound estará disponible en consolas y abandonará el acceso anticipado el 27 de julio]]></title>
         <id>46501_v1</id>
         <link href="https://www.elotrolado.net/hilo_blightbound-estara-disponible-en-consolas-y-abandonara-el-acceso-anticipado-el-27-de-julio_2427799"/>
@@ -118,39 +357,13 @@ Points: 37
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zendar (YC S17) is hiring a R&D electronics technician (part time)]]></title>
-        <id>https://news.ycombinator.com/item?id=27704806</id>
-        <link href="https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c"/>
-        <updated>2021-07-01T21:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c
-Comments URL: https://news.ycombinator.com/item?id=27704806
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>cmwang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Los nuevos Mass Effect y Dragon Age no estarán en el EA Play]]></title>
+        <title type="html"><![CDATA[Breve: Los nuevos Mass Effect y Dragon Age no estarán en el EA Play Live]]></title>
         <id>46500_v1</id>
-        <link href="https://www.elotrolado.net/hilo_los-nuevos-mass-effect-y-dragon-age-no-estaran-en-el-ea-play_2427798"/>
+        <link href="https://www.elotrolado.net/hilo_los-nuevos-mass-effect-y-dragon-age-no-estaran-en-el-ea-play-live_2427798"/>
         <updated>2021-07-01T20:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Aún quedan tres semanas para que se celebre el EA Play, pero Electronic Arts quiere avanzarse a cualquier rumor y tren del hype anunciando que durante el evento no veremos las nuevas entregas de Mass Effect y Dragon Age. Estio significa que BioWare no aparecerá durante los 40 minutos que durará la transmisión. Por otro lado, Electronic Arts ha confirmado que Battlefield 2042 y Apex Legends serán dos de los protagonistas del EA Play, por donde también deberían desfilar las diferentes sagas de entrega anual de EA Sports. Y si los rumores tienen razón, este será el escenario elegido para… Leer noticia completa y comentarios »]]></summary>
+        <summary type="html"><![CDATA[Aún quedan tres semanas para que se celebre el EA Play Live, pero Electronic Arts quiere avanzarse a cualquier rumor y tren del hype anunciando que durante el evento no veremos las nuevas entregas de Mass Effect y Dragon Age. Esto significa que BioWare no aparecerá durante los 40 minutos que durará la transmisión. Por otro lado, Electronic Arts ha confirmado que Battlefield 2042 y Apex Legends serán dos de los protagonistas del EA Play, por donde también deberían desfilar las diferentes sagas de entrega anual de EA Sports. Y si los rumores tienen razón, este será el escenario elegido… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC reaffirms $3M fine for marketing unauthorized drone transmitters]]></title>
-        <id>https://news.ycombinator.com/item?id=27704611</id>
-        <link href="http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters"/>
-        <updated>2021-07-01T20:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters
-Comments URL: https://news.ycombinator.com/item?id=27704611
-Points: 93
-# Comments: 40]]></summary>
-        <author>
-            <name>7402</name>
         </author>
     </entry>
     <entry>
@@ -174,19 +387,6 @@ Points: 93
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why does my installer get flagged by Windows?]]></title>
-        <id>https://news.ycombinator.com/item?id=27704378</id>
-        <link href="https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/"/>
-        <updated>2021-07-01T20:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/
-Comments URL: https://news.ycombinator.com/item?id=27704378
-Points: 54
-# Comments: 36]]></summary>
-        <author>
-            <name>grwtr</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dead Space volvería con un remake completo]]></title>
         <id>46497_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/dead-space-remake-completo"/>
@@ -194,45 +394,6 @@ Points: 54
         <summary type="html"><![CDATA[VentureBeat se suma a los rumores sobre la vuelta de Dead Space afirmando que Motive Studio y Electronic Arts trabajan en un remake de la primera entrega pero con novedades, de la misma forma que Capcom ha hecho con Resident Evil 2 y 3. El mismo medio publica otro rumor que posiblemente necesita un poco más de maduración y que versa sobre un acuerdo entre Hideo Kojima y Microsoft para trabajar en un juego para la nube. El objetivo de Motive Studio, el equipo responsable de Star Wars: Squadrons, es reiniciar la franquicia de terror y supervivencia Dead Space con un remake completo del… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A simple way to feel happier, according to the new science of emotion]]></title>
-        <id>https://news.ycombinator.com/item?id=27703577</id>
-        <link href="https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice"/>
-        <updated>2021-07-01T19:38:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice
-Comments URL: https://news.ycombinator.com/item?id=27703577
-Points: 65
-# Comments: 70]]></summary>
-        <author>
-            <name>ca98am79</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intuit to share payroll data from 1.4M small businesses with Equifax]]></title>
-        <id>https://news.ycombinator.com/item?id=27703091</id>
-        <link href="https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/"/>
-        <updated>2021-07-01T19:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/
-Comments URL: https://news.ycombinator.com/item?id=27703091
-Points: 392
-# Comments: 163]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortran adds conditional expressions]]></title>
-        <id>https://news.ycombinator.com/item?id=27702168</id>
-        <link href="https://j3-fortran.org/doc/year/21/21-157r2.txt"/>
-        <updated>2021-07-01T17:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://j3-fortran.org/doc/year/21/21-157r2.txt
-Comments URL: https://news.ycombinator.com/item?id=27702168
-Points: 110
-# Comments: 68]]></summary>
-        <author>
-            <name>Bostonian</name>
         </author>
     </entry>
     <entry>
@@ -246,58 +407,6 @@ Points: 110
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monitoring Elixir Apps on Fly.io with Prometheus and PromEx]]></title>
-        <id>https://news.ycombinator.com/item?id=27701727</id>
-        <link href="https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/"/>
-        <updated>2021-07-01T17:25:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/
-Comments URL: https://news.ycombinator.com/item?id=27701727
-Points: 77
-# Comments: 23]]></summary>
-        <author>
-            <name>clessg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood S-1 IPO]]></title>
-        <id>https://news.ycombinator.com/item?id=27701617</id>
-        <link href="https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm"/>
-        <updated>2021-07-01T17:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm
-Comments URL: https://news.ycombinator.com/item?id=27701617
-Points: 210
-# Comments: 242]]></summary>
-        <author>
-            <name>marc__1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT Without Software]]></title>
-        <id>https://news.ycombinator.com/item?id=27701009</id>
-        <link href="http://ndt.instedd.org/2010/05/it-without-software.html?m=1"/>
-        <updated>2021-07-01T16:36:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://ndt.instedd.org/2010/05/it-without-software.html?m=1
-Comments URL: https://news.ycombinator.com/item?id=27701009
-Points: 135
-# Comments: 50]]></summary>
-        <author>
-            <name>hwayne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Atlas: the first five years and 20k startups]]></title>
-        <id>https://news.ycombinator.com/item?id=27700804</id>
-        <link href="https://stripe.com/blog/atlas-first-five-years"/>
-        <updated>2021-07-01T16:20:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stripe.com/blog/atlas-first-five-years
-Comments URL: https://news.ycombinator.com/item?id=27700804
-Points: 175
-# Comments: 52]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anunciado Ghost of Tsushima Director’s Cut, con mejoras para PS5, actualización de pago en PS4 y una nueva historia]]></title>
         <id>46495_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/ghost-of-tsushima-director-cut-anunciado"/>
@@ -305,30 +414,6 @@ Points: 175
         <summary type="html"><![CDATA[Los rumores que circulaban durante los últimos días se cumplen con el anuncio de Ghost of Tsushima Director’s Cut, una nueva y más completa versión del juego para PS4 y PS5 que estará disponible el 20 de agosto a precio completo. Para ambas consolas la mayor novedad es la Isla Iki, una nueva zona que servirá para expandir la historia de Jin, mientras que los usuarios de PS5 disfrutarán de un título con opciones 4K a 60 FPS. Los jugadores que compren la Director’s Cut en PS4 y quieran actualizar a la versión de PS5 deberán pagar 9,99 euros. La campaña de Ghost of Tsushima se ambienta… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: VentScape – Minimalistic site to vent, chat and see others do the same]]></title>
-        <id>https://news.ycombinator.com/item?id=27700695</id>
-        <link href="https://www.ventscape.life/chat"/>
-        <updated>2021-07-01T16:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ventscape.life/chat
-Comments URL: https://news.ycombinator.com/item?id=27700695
-Points: 37
-# Comments: 12]]></summary>
-        <author>
-            <name>GabeK0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Flowly (YC S21) – Manage pain using VR and biofeedback]]></title>
-        <id>https://news.ycombinator.com/item?id=27700688</id>
-        <link href="https://news.ycombinator.com/item?id=27700688"/>
-        <updated>2021-07-01T16:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN! This is Celine, Julien, and Narae of Flowly (https://www.flowly.world/). Flowly is an app that combines VR and biofeedback training to help people manage pain, reduce anxiety, and increase relaxation (we send every member a VR headset and Realtime HR Sensor to use). We started this company to serve the 1 in 3 Americans who suffer from chronic pain and we’re now backed by the NIH and National Institute of Drug Abuse.
-The opioid crisis has exposed how prevalent chronic pain is and how inaccessible and limited pain management solutions are today. Many pain management tools don't address all aspects of pain because pain encompasses more than physical pain: the top symptoms of chronic pain actually include anxiety, depression, and feelings of social isolation. In other words, chronic pa…]]></summary>
-        <author>
-            <name>tamadevr</name>
         </author>
     </entry>
     <entry>
@@ -349,32 +434,6 @@ The opioid crisis has exposed how prevalent chronic pain is and how inaccessible
         <summary type="html"><![CDATA[Microsoft Flight Simulator es un juego que puede ser muy exigente con el hardware de PC, así que el 27 julio, el mismo día que el título estará disponible en Xbox Series, Asobo Studio liberará una actualización cuyo objetivo es mejorar el rendimiento en Windows. Así lo ha explicado Sebastian Wloch, director ejecutivo y cofundador del estudio francés, durante una transmisión en directo vía Twitch donde él y otros miembros del equipo también han hablado sobre la versión de Xbox Series, que irá más allá de los 30 FPS en televisores con VRR. En el vídeo que tenéis a continuación se… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Who is hiring? (July 2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=27699704</id>
-        <link href="https://news.ycombinator.com/item?id=27699704"/>
-        <updated>2021-07-01T15:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Please state the location and include REMOTE, INTERNS and/or VISA
-when that sort of candidate is welcome. When remote work is not an option,
-include ONSITE.
-Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. Only one post per company. If it isn't a household name,
-please explain what your company does.
-Commenters: please don't reply to job posts to complain about
-something. It's off topic here.
-Readers: please only email if you are personally interested in the job.
-Searchers: try https://findwork.dev/?source=hn, https://kennytilton.github.io/whoishiring/,
-https://hnhired.com/, https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.
-Don't miss these other fine threads:
-Who wants to be hired? https://news.ycombinator.com/item?id=27699702
-Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27699703
-Comments URL: https://news.ycombinator.com/item?id=27699704
-Points: 295
-# Comments: 634]]></summary>
-        <author>
-            <name>whoishiring</name>
         </author>
     </entry>
     <entry>
@@ -453,76 +512,6 @@ Points: 295
         <link href="https://www.elotrolado.net/hilo_sky-children-of-the-light-ya-disponible-para-nintendo-switch_2427614"/>
         <updated>2021-06-30T10:33:38.000Z</updated>
         <summary type="html"><![CDATA[thatgamecompany, el estudio responsable de Journey y Flower, ha anunciado que Sky: Children of the Light ya está disponible para Nintendo Switch en Europa. El juego se ofrece de forma gratuita con un arco argumental y un modo multijugador con juego cruzado en el que ocho jugadores pueden explorar y jugar juntos. Los jugadores de Nintendo Switch también pueden adquirir un nuevo Starter Pack que incluye dos nuevas capas, una flauta ocarina, cabello de elfo, 75 velas y “una sorpresa extra” por 32,99 euros. Los jugadores de Sky: Children of the Light en iOS y Android pueden utilizar su… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Funcom adquiere una participación mayoritaria de The Outsiders]]></title>
-        <id>46484_v1</id>
-        <link href="https://www.elotrolado.net/hilo_funcom-adquiere-una-participacion-mayoritaria-de-the-outsiders_2427613"/>
-        <updated>2021-06-30T10:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Funcom, responsable de Conan Exiles, ha anunciado haber llegado a un acuerdo para hacerse con el estudio sueco The Outsiders por una cantidad no revelada. Actualmente ambos equipos se encuentran trabajando en el desarrollo de Metal: Hellsinger, un shooter rítmico en primera persona y música metal que debería estar disponible este año. Además, Funcom ha anunciado la apertura de un nuevo estudio en Bucarest (Rumanía) dedicado al control de calidad. Esta es la cuarta oficina del estudio noruego, que ya tiene presencia en Oslo (Noruega), Lisboa (Portugal) y Raleigh (Estados Unidos). Desde… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konami (Silent Hill) y Bloober Team (The Medium) firman un acuerdo de colaboración]]></title>
-        <id>46483_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/konami-bloober-acuerdo"/>
-        <updated>2021-06-30T09:54:24.000Z</updated>
-        <summary type="html"><![CDATA[Los rumores sobre una nueva entrega de la saga Silent Hill hace tiempo que corren, pero hasta ahora Konami no se ha pronunciado al respecto. Hoy tampoco lo ha hecho, pero todo parece indicar que de forma pública la primera piedra de un nuevo Silent Hill se ha colocado después de que el editor japonés haya anunciado un acuerdo de cooperación con Bloober Team, el estudio polaco responsable de juegos de terror como The Medium y Layers of Fear. La alianza incluye el desarrollo de contenidos e intercambio de conocimientos. “Es un día histórico para mi y el resultado de varios años de… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WD recuperará los datos borrados durante el ataque a sus NAS My Book Live y ofrecerá descuentos]]></title>
-        <id>46482_v1</id>
-        <link href="https://www.elotrolado.net/noticias/tecnologia/wd-recuperacion-datos-nas-my-book-live-descuentos"/>
-        <updated>2021-06-30T09:46:35.000Z</updated>
-        <summary type="html"><![CDATA[La misteriosa eliminación de datos que han experimentado algunos usuarios de un NAS WD My Book Live sigue sin tener responsables, pero ya hay una posible solución en camino. Según ha comunicado el fabricante de dispositivos de almacenamiento a través de una actualización en su blog oficial, "para ayudar a los clientes que han perdido datos como resultado de estos ataques, Western Digital proporcionara servicios de recuperación de datos, que estarán disponibles a partir de julio". Western Digital no ha dado más información acerca de cómo piensa recuperar los datos eliminados, pero la… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: El podcast de EOL episodio #21]]></title>
-        <id>46481_v1</id>
-        <link href="https://www.elotrolado.net/hilo_el-podcast-de-eol-episodio-21_2427585"/>
-        <updated>2021-06-30T06:39:50.000Z</updated>
-        <summary type="html"><![CDATA[Hablamos de la obsolescencia de las licencias digitales, el significado del E3 en un presente cada vez más digital, los peores juegos retro que hemos jugado, la colección Marvel Must-Have y el 20 aniversario de El Viaje de Chihiro. Con Sabio, Ferdopa y [erick], grabado el 10 de junio de 2021. Hilo oficial del podcast de EOL Puedes escucharlo en los los enlaces este post o en las siguientes plataformas: Spotify Google Podcasts Apple Podcasts iVoox PodLink RSS ¿Falta alguna? Dinos cuál Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World of Warcraft: Shadowlands recibe el contenido Cadenas de Dominación]]></title>
-        <id>46480_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/wow-shadowlands-cadenas-dominacion"/>
-        <updated>2021-06-29T23:21:05.000Z</updated>
-        <summary type="html"><![CDATA[El miércoles por la mañana y después del tradicional mantenimiento, los jugadores de World of Warcraft (WoW) tendrán a su disposición Cadenas de Dominación, la primera gran actualización (parche 9.1) que recibe el MMO desde el lanzamiento de la expansión Shadowlands. El contenido incluye una nueva zona llamada Korthia, la banda Sagrario de la Dominación con Sylvanas de jefa final, la megamazmorra Tazavesh y la segunda temporada de Míticas+ y JcJ entre otras novedades (ajustes en las classes, renovación de Torghast…). Korthia, la Ciudad de los Secretos, es una nueva área que ha sido… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Synth Riders estará disponible el 27 de julio para PS VR]]></title>
-        <id>46479_v1</id>
-        <link href="https://www.elotrolado.net/hilo_synth-riders-estara-disponible-el-27-de-julio-para-ps-vr_2427569"/>
-        <updated>2021-06-29T22:09:28.000Z</updated>
-        <summary type="html"><![CDATA[El juego de ritmo y baile estilo libre Synth Riders estará disponible para PlayStation VR el 27 de julio, según ha anunciado el desarrollador Kluge Interactive. Originalmente el juego de realidad virtual se lanzó en julio de 2018 mediante Steam con soporte para HTC Vive, Oculus, Valve Index y Windows Mixed Reality. “A los fans de Synth Riders les encanta que el juego les active todo el cuerpo y les haga bailar”, explica Kluge Interactive. “Nuestro equipo ha creado a mano un mapa para cada canción con un objetivo muy claro en mente: que los jugadores sientan una conexión con la música,… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Casey Hudson, responsable de Mass Effect, abre un nuevo estudio]]></title>
-        <id>46478_v1</id>
-        <link href="https://www.elotrolado.net/hilo_casey-hudson-responsable-de-mass-effect-abre-un-nuevo-estudio_2427567"/>
-        <updated>2021-06-29T21:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Casey Hudson ha anunciado vía Twitter la apertura de Humanoid Studios, un nuevo equipo de desarrollo independiente que ya se encuentra trabajando en una nueva propiedad intelectual. El estudio se encuentra instalado en Canadá, que es para los desarrolladores de videojuegos algo similar a Androra para los YouTubers. El currículum de Casey Hudson nos obligará a tener un ojo puesto en Humanoid Studios. Hudson fue durante muchos años el máximo responsable de BioWare y se encargó de dirigir tanto la trilogía de Mass Effect como el desarrollo de Star Wars: Knights of the Old Republic.… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
