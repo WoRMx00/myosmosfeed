@@ -2,151 +2,298 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WoRMx00.github.io/WoRMx00/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T01:01:50.780Z</updated>
+    <updated>2021-07-04T01:05:12.286Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://WoRMx00.github.io/WoRMx00/index.html"/>
     <link rel="self" href="https://WoRMx00.github.io/WoRMx00/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Soldiers watch the US withdrawal from Bagram through the lens of Pokemon Go]]></title>
-        <id>https://news.ycombinator.com/item?id=27718087</id>
-        <link href="https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html"/>
-        <updated>2021-07-02T23:28:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html
-Comments URL: https://news.ycombinator.com/item?id=27718087
-Points: 36
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Israeli camouflage tech makes soldiers ‘invisible’]]></title>
+        <id>https://news.ycombinator.com/item?id=27725783</id>
+        <link href="https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096"/>
+        <updated>2021-07-03T23:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096
+Comments URL: https://news.ycombinator.com/item?id=27725783
+Points: 20
+# Comments: 15]]></summary>
         <author>
-            <name>lalaland1125</name>
+            <name>curmudgeon22</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Oral History of the L0pht (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27717923</id>
-        <link href="https://duo.com/decipher/an-oral-history-of-the-l0pht"/>
-        <updated>2021-07-02T23:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://duo.com/decipher/an-oral-history-of-the-l0pht
-Comments URL: https://news.ycombinator.com/item?id=27717923
-Points: 61
-# Comments: 3]]></summary>
-        <author>
-            <name>whiteyford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miami orders evacuation of 156-unit as structurally and electrically unsafe]]></title>
-        <id>https://news.ycombinator.com/item?id=27717913</id>
-        <link href="https://apnews.com/article/fl-state-wire-florida-evacuations-c2f6b6efe50d3c5a87c4a97363fa8772"/>
-        <updated>2021-07-02T23:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/fl-state-wire-florida-evacuations-c2f6b6efe50d3c5a87c4a97363fa8772
-Comments URL: https://news.ycombinator.com/item?id=27717913
-Points: 23
-# Comments: 1]]></summary>
-        <author>
-            <name>canada_dry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kolyma highway in Yakutia, also known as the Road of Bones, is on fire]]></title>
-        <id>https://news.ycombinator.com/item?id=27717787</id>
-        <link href="https://siberiantimes.com/other/others/news/kolyma-highway-in-yakutia-also-known-as-the-road-of-bones-is-on-fire-and-temporarily-shut/"/>
-        <updated>2021-07-02T22:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://siberiantimes.com/other/others/news/kolyma-highway-in-yakutia-also-known-as-the-road-of-bones-is-on-fire-and-temporarily-shut/
-Comments URL: https://news.ycombinator.com/item?id=27717787
-Points: 47
-# Comments: 17]]></summary>
-        <author>
-            <name>dredmorbius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cortex (YC W20) Is Hiring Founding Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27716805</id>
-        <link href="https://www.workatastartup.com/jobs/29595"/>
-        <updated>2021-07-02T21:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/29595
-Comments URL: https://news.ycombinator.com/item?id=27716805
+        <title type="html"><![CDATA[EasyPost is building the logistics platform for ecommerce]]></title>
+        <id>https://news.ycombinator.com/item?id=27724875</id>
+        <link href="https://www.easypost.com/careers"/>
+        <updated>2021-07-03T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
+Comments URL: https://news.ycombinator.com/item?id=27724875
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>anishdhar</name>
+            <name>jstreebin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Dragon Man’ may be an elusive Denisovan]]></title>
-        <id>https://news.ycombinator.com/item?id=27716123</id>
-        <link href="https://science.sciencemag.org/content/373/6550/11"/>
-        <updated>2021-07-02T20:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/373/6550/11
-Comments URL: https://news.ycombinator.com/item?id=27716123
-Points: 49
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[Microbes in cow stomachs can break down plastic]]></title>
+        <id>https://news.ycombinator.com/item?id=27724653</id>
+        <link href="https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full"/>
+        <updated>2021-07-03T20:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full
+Comments URL: https://news.ycombinator.com/item?id=27724653
+Points: 11
+# Comments: 3]]></summary>
         <author>
-            <name>etiam</name>
+            <name>WaitWaitWha</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The risky bat-virus engineering that links America to Wuhan]]></title>
-        <id>https://news.ycombinator.com/item?id=27716083</id>
-        <link href="https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/"/>
-        <updated>2021-07-02T19:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/
-Comments URL: https://news.ycombinator.com/item?id=27716083
-Points: 134
-# Comments: 92]]></summary>
+        <title type="html"><![CDATA[Breve: Guild Wars 2 retrasa a principios de 2022 la expansión End of Dragons]]></title>
+        <id>46512_v1</id>
+        <link href="https://www.elotrolado.net/hilo_guild-wars-2-retrasa-a-principios-de-2022-la-expansion-end-of-dragons_2427984"/>
+        <updated>2021-07-03T20:17:23.000Z</updated>
+        <summary type="html"><![CDATA[ArenaNet ha anunciado que la expansión End of Dragons para Guild Wars 2 estará disponible a principios de 2022 y no a finales de 2021 como se había anunciado anteriormente. Según explica J.T., líder de la franquicia Guild Wars y de ArenaNet, el coronavirus y el trabajo desde casa han sido los principales causantes de este retraso. “Tras ver el progreso del desarrollo de la expansión y cómo los desafíos del mundo real del último año y medio han cambiado nuestra forma de vivir y trabajar, nos ha quedado claro que necesitamos un poco más de tiempo para realizar nuestra visión creativa… Leer noticia completa y comentarios »]]></summary>
         <author>
-            <name>apsec112</name>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RateOurCops – Like Yelp, but for Cops]]></title>
-        <id>https://news.ycombinator.com/item?id=27716012</id>
-        <link href="https://rateourcops.org/"/>
-        <updated>2021-07-02T19:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rateourcops.org/
-Comments URL: https://news.ycombinator.com/item?id=27716012
-Points: 185
-# Comments: 178]]></summary>
+        <title type="html"><![CDATA[How Databases handle 10M devices in high-cardinality benchmarks]]></title>
+        <id>https://news.ycombinator.com/item?id=27724460</id>
+        <link href="https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/"/>
+        <updated>2021-07-03T20:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
+Comments URL: https://news.ycombinator.com/item?id=27724460
+Points: 29
+# Comments: 5]]></summary>
         <author>
-            <name>Roco_</name>
+            <name>elorant</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Could miniature forests help air-condition cities?]]></title>
-        <id>https://news.ycombinator.com/item?id=27715987</id>
-        <link href="https://www.economist.com/science-and-technology/2021/07/01/could-miniature-forests-help-air-condition-cities"/>
-        <updated>2021-07-02T19:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/07/01/could-miniature-forests-help-air-condition-cities
-Comments URL: https://news.ycombinator.com/item?id=27715987
-Points: 32
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[Where are we going from here? Software engineering needs formal methods]]></title>
+        <id>https://news.ycombinator.com/item?id=27724331</id>
+        <link href="https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/"/>
+        <updated>2021-07-03T19:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/
+Comments URL: https://news.ycombinator.com/item?id=27724331
+Points: 64
+# Comments: 76]]></summary>
         <author>
-            <name>a_w</name>
+            <name>ntietz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Space age electronics”: Inside a GE thin-film paperweight from the 1960s]]></title>
-        <id>https://news.ycombinator.com/item?id=27715872</id>
-        <link href="https://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html"/>
-        <updated>2021-07-02T19:37:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html
-Comments URL: https://news.ycombinator.com/item?id=27715872
-Points: 80
-# Comments: 27]]></summary>
+        <title type="html"><![CDATA[Show HN: Atto – BASIC computer that runs in the browser]]></title>
+        <id>https://news.ycombinator.com/item?id=27724236</id>
+        <link href="https://jamesl.me/atto/"/>
+        <updated>2021-07-03T19:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jamesl.me/atto/
+Comments URL: https://news.ycombinator.com/item?id=27724236
+Points: 57
+# Comments: 39]]></summary>
         <author>
-            <name>parsecs</name>
+            <name>James-Livesey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Centuries of Sound: 1936]]></title>
-        <id>https://news.ycombinator.com/item?id=27715323</id>
-        <link href="https://centuriesofsound.com/2021/06/14/1936/"/>
-        <updated>2021-07-02T18:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://centuriesofsound.com/2021/06/14/1936/
-Comments URL: https://news.ycombinator.com/item?id=27715323
-Points: 25
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[How not to break a search engine]]></title>
+        <id>https://news.ycombinator.com/item?id=27724224</id>
+        <link href="https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/"/>
+        <updated>2021-07-03T19:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/
+Comments URL: https://news.ycombinator.com/item?id=27724224
+Points: 20
+# Comments: 6]]></summary>
         <author>
-            <name>ignored</name>
+            <name>akpa1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dawn of Formalized Mathematics]]></title>
+        <id>https://news.ycombinator.com/item?id=27724067</id>
+        <link href="http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/"/>
+        <updated>2021-07-03T19:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
+Comments URL: https://news.ycombinator.com/item?id=27724067
+Points: 50
+# Comments: 7]]></summary>
+        <author>
+            <name>matt_d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I do not agree with Github's use of copyrighted code as training for Copilot]]></title>
+        <id>https://news.ycombinator.com/item?id=27724042</id>
+        <link href="https://thelig.ht/abandoning-github/"/>
+        <updated>2021-07-03T19:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thelig.ht/abandoning-github/
+Comments URL: https://news.ycombinator.com/item?id=27724042
+Points: 620
+# Comments: 389]]></summary>
+        <author>
+            <name>janvdberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitor Lizards in Australia Dig Corkscrew Nests]]></title>
+        <id>https://news.ycombinator.com/item?id=27724016</id>
+        <link href="https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/"/>
+        <updated>2021-07-03T19:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/
+Comments URL: https://news.ycombinator.com/item?id=27724016
+Points: 21
+# Comments: 4]]></summary>
+        <author>
+            <name>JonathanBuchh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One man’s plan to resurrect the animal species we can’t save]]></title>
+        <id>https://news.ycombinator.com/item?id=27723993</id>
+        <link href="https://www.wired.co.uk/article/natures-safe"/>
+        <updated>2021-07-03T19:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/natures-safe
+Comments URL: https://news.ycombinator.com/item?id=27723993
+Points: 9
+# Comments: 2]]></summary>
+        <author>
+            <name>minding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will we ever fly supersonically over land?]]></title>
+        <id>https://news.ycombinator.com/item?id=27723988</id>
+        <link href="https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land"/>
+        <updated>2021-07-03T19:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land
+Comments URL: https://news.ycombinator.com/item?id=27723988
+Points: 30
+# Comments: 108]]></summary>
+        <author>
+            <name>agronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research recitation: A first look at rote learning in GitHub Copilot suggestions]]></title>
+        <id>https://news.ycombinator.com/item?id=27723710</id>
+        <link href="https://docs.github.com/en/github/copilot/research-recitation"/>
+        <updated>2021-07-03T18:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://docs.github.com/en/github/copilot/research-recitation
+Comments URL: https://news.ycombinator.com/item?id=27723710
+Points: 97
+# Comments: 54]]></summary>
+        <author>
+            <name>azhenley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metaverse: A brave, new virtual world]]></title>
+        <id>https://news.ycombinator.com/item?id=27723460</id>
+        <link href="https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4"/>
+        <updated>2021-07-03T17:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4
+Comments URL: https://news.ycombinator.com/item?id=27723460
+Points: 41
+# Comments: 20]]></summary>
+        <author>
+            <name>laurex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using government guidelines to police content: state censorship?]]></title>
+        <id>https://news.ycombinator.com/item?id=27723333</id>
+        <link href="https://taibbi.substack.com/p/a-case-of-intellectual-capture-on"/>
+        <updated>2021-07-03T17:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on
+Comments URL: https://news.ycombinator.com/item?id=27723333
+Points: 130
+# Comments: 93]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We don’t have unprofitable customers, just unhappy accidents (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27722963</id>
+        <link href="https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/"/>
+        <updated>2021-07-03T16:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/
+Comments URL: https://news.ycombinator.com/item?id=27722963
+Points: 38
+# Comments: 9]]></summary>
+        <author>
+            <name>mostlyghostly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add eBPF observability to your product]]></title>
+        <id>https://news.ycombinator.com/item?id=27722947</id>
+        <link href="https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html"/>
+        <updated>2021-07-03T16:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
+Comments URL: https://news.ycombinator.com/item?id=27722947
+Points: 125
+# Comments: 23]]></summary>
+        <author>
+            <name>mrry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny FORTH from scratch in 1 week (bootloader-based Arduino UNO, 2K of RAM)]]></title>
+        <id>https://news.ycombinator.com/item?id=27722807</id>
+        <link href="https://www.thanassis.space/miniforth.html"/>
+        <updated>2021-07-03T16:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thanassis.space/miniforth.html
+Comments URL: https://news.ycombinator.com/item?id=27722807
+Points: 73
+# Comments: 9]]></summary>
+        <author>
+            <name>ttsiodras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wav2vec Overview: Semi and Unsupervised Speech Recognition]]></title>
+        <id>https://news.ycombinator.com/item?id=27722333</id>
+        <link href="https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition"/>
+        <updated>2021-07-03T15:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
+Comments URL: https://news.ycombinator.com/item?id=27722333
+Points: 122
+# Comments: 16]]></summary>
+        <author>
+            <name>vackosar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I wish Git had: Commit groups]]></title>
+        <id>https://news.ycombinator.com/item?id=27722221</id>
+        <link href="http://blog.danieljanus.pl/2021/07/01/commit-groups/"/>
+        <updated>2021-07-03T15:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/
+Comments URL: https://news.ycombinator.com/item?id=27722221
+Points: 163
+# Comments: 122]]></summary>
+        <author>
+            <name>nathell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix estrena Resident Evil: Oscuridad Infinita y la secuela de Masters del Universo, y The White Lotus llega a HBO]]></title>
+        <id>46511_v1</id>
+        <link href="https://www.elotrolado.net/noticias/internet/series-netflix-hbo-movistar-julio-2021"/>
+        <updated>2021-07-03T10:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Julio se presenta como un mes intermedio, con pocos estrenos y sin demasiados regresos. En Netflix hay una apuesta por la animación japonesa y occidental con Resident Evil: Oscuridad Infinita, una serie basada en la conocida franquicia de Capcom, y Masters del Universo: Revelación, una secuela de la serie de los años 80 que fue todo un fenómeno cultural. En HBO debuta The White Lotus, una comedia con crítica y sátira social, y Movistar estrena The End, una comedia de humor negro con la eutanasia de protagonista, y la serie original Supernormal. Respecto a los regresos, tenemos el de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las noticias de la semana (26 de junio - 3 julio)]]></title>
+        <id>46510_v1</id>
+        <link href="https://www.elotrolado.net/noticias/juegos/semana-26-junio-3-julio-2021"/>
+        <updated>2021-07-03T10:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Esta semana Sony ha sacado la cartera para sumar dos equipos a PlayStation Studios, Housemarque, responsable de Returnal, y Nixxes Software, un estudio especializado en llevar juegos al PC. También va de dinero la historia de Volodymyr Kvashuk, un ingeniero de Microsoft que en dos años consiguió 10 millones de dólares vendiendo tarjetas regalo de Xbox por bitcoins. Siguiendo con Microsoft, ha actualizado Xbox Cloud Gaming con hardware de Xbox Series X y el servicio ya está oficialmente disponible en iOS y Android. Verano es una buena época para los juegos móviles y como muestra de… Leer noticia completa y comentarios »]]></summary>
+        <author>
+            <name>ElOtroLado.net</name>
         </author>
     </entry>
     <entry>
@@ -160,32 +307,6 @@ Points: 25
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecture of Lisp Machines (2008) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27715043</id>
-        <link href="http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf"/>
-        <updated>2021-07-02T18:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf
-Comments URL: https://news.ycombinator.com/item?id=27715043
-Points: 94
-# Comments: 29]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting to know logical clocks by implementing them]]></title>
-        <id>https://news.ycombinator.com/item?id=27714251</id>
-        <link href="https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/"/>
-        <updated>2021-07-02T17:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
-Comments URL: https://news.ycombinator.com/item?id=27714251
-Points: 24
-# Comments: 1]]></summary>
-        <author>
-            <name>brunoac</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monster Hunter Stories 2: Wings of Ruin muestra su tráiler de lanzamiento, un plan de contenido y el modo cooperativo]]></title>
         <id>46508_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/monster-hunter-stories-2-trailer-poslanzamiento"/>
@@ -193,58 +314,6 @@ Points: 24
         <summary type="html"><![CDATA[Capcom ha emitido un programa especial para celebrar que el 9 de julio Monster Hunter Stories 2: Wings of Ruin estará disponible en Nintendo Switch y PC (Steam). Durante la transmisión se han mostrado dos tráileres, el de lanzamiento y uno dedicado al modo cooperativo, y revelado el plan de contenido poslanzamiento que entregará cinco actualizaciones gratuitas entre julio y octubre. Monster Hunter Stories 2: Wings of Ruin es un RPG con combates por turnos que pone a los jugadores en la piel de un Raider que puede crear vínculos con monstruos amistosos llamados Monsties para luchar… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image unshredding using a TSP solver]]></title>
-        <id>https://news.ycombinator.com/item?id=27713441</id>
-        <link href="https://github.com/robinhouston/image-unshredding"/>
-        <updated>2021-07-02T16:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/robinhouston/image-unshredding
-Comments URL: https://news.ycombinator.com/item?id=27713441
-Points: 159
-# Comments: 62]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another 0-day looms for many Western Digital users]]></title>
-        <id>https://news.ycombinator.com/item?id=27713415</id>
-        <link href="https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/"/>
-        <updated>2021-07-02T16:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/
-Comments URL: https://news.ycombinator.com/item?id=27713415
-Points: 299
-# Comments: 160]]></summary>
-        <author>
-            <name>danso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim v0.5]]></title>
-        <id>https://news.ycombinator.com/item?id=27713358</id>
-        <link href="https://github.com/neovim/neovim/releases/tag/v0.5.0"/>
-        <updated>2021-07-02T16:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/neovim/neovim/releases/tag/v0.5.0
-Comments URL: https://news.ycombinator.com/item?id=27713358
-Points: 334
-# Comments: 154]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting reserved roles with PostgreSQL Hooks]]></title>
-        <id>https://news.ycombinator.com/item?id=27712800</id>
-        <link href="https://supabase.io/blog/2021/07/01/roles-postgres-hooks"/>
-        <updated>2021-07-02T15:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://supabase.io/blog/2021/07/01/roles-postgres-hooks
-Comments URL: https://news.ycombinator.com/item?id=27712800
-Points: 80
-# Comments: 12]]></summary>
-        <author>
-            <name>steve-chavez</name>
         </author>
     </entry>
     <entry>
@@ -278,32 +347,6 @@ Points: 80
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Copilot regurgitating Quake code, including sweary comments]]></title>
-        <id>https://news.ycombinator.com/item?id=27710287</id>
-        <link href="https://twitter.com/mitsuhiko/status/1410886329924194309"/>
-        <updated>2021-07-02T11:52:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/mitsuhiko/status/1410886329924194309
-Comments URL: https://news.ycombinator.com/item?id=27710287
-Points: 1105
-# Comments: 568]]></summary>
-        <author>
-            <name>bencollier49</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media blackout after key witness against Assange admits lying]]></title>
-        <id>https://news.ycombinator.com/item?id=27710075</id>
-        <link href="https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/"/>
-        <updated>2021-07-02T11:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/
-Comments URL: https://news.ycombinator.com/item?id=27710075
-Points: 884
-# Comments: 478]]></summary>
-        <author>
-            <name>k1m</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dying Light 2 muestra un nuevo gameplay centrado en el sigilo y los infectados]]></title>
         <id>46504_v1</id>
         <link href="https://www.elotrolado.net/noticias/juegos/dying-light-2-gameplay-infectados"/>
@@ -321,19 +364,6 @@ Points: 884
         <summary type="html"><![CDATA[Amazon y Apple tienen un nuevo brete al que atender al margen de los abiertos en Bruselas. Más pequeño, sí, pero no por ello agradable. La Comisión Nacional de los Mercados y la Competencia (CNMC) ha comunicado la apertura de un expediente sancionador contra ambas empresas al apreciar que podrían haber establecido un pacto con el propósito de bloquear la venta en Amazon de dispositivos Apple por parte de terceros y evitar la aparición de rivales. Dado que ambas empresas realizan sus operaciones a través de distintas filiales, el expediente se dirige contra Amazon Services Europe… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pen, a GPL Copilot for Emacs]]></title>
-        <id>https://news.ycombinator.com/item?id=27709659</id>
-        <link href="https://github.com/semiosis/pen.el/"/>
-        <updated>2021-07-02T09:55:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/semiosis/pen.el/
-Comments URL: https://news.ycombinator.com/item?id=27709659
-Points: 149
-# Comments: 41]]></summary>
-        <author>
-            <name>mullikine</name>
         </author>
     </entry>
     <entry>
@@ -482,36 +512,6 @@ Points: 149
         <link href="https://www.elotrolado.net/noticias/juegos/ps-plus-julio-ps4-ps5-2021"/>
         <updated>2021-06-30T16:17:37.000Z</updated>
         <summary type="html"><![CDATA[Sony Interactive Entertainment ha comunicado que a partir del martes 6 de julio los suscriptores de PlayStation Plus podrán conseguir sin coste adicional los juegos A Plague Tale: Innocence (PS5), Call of Duty: Black Ops 4 y WWE 2K Battlegrounds. Los tres títulos, así como Virtua Fighter 5: Ultimate Showdown que se ofrecerá durante un mes más, se podrán reclamar hasta el lunes 2 de agosto. A Plague Tale: Innocence sitúa su acción en el Reino de Francia en 1349, cuando la peste negra asolaba el país, y pone a los jugadores en la piel de la joven de 15 años Amicia de Rune y su hermano… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phil Spencer: la compra de estudios es natural y decirle a un equipo pequeño que no venda es “ser corto de miras”]]></title>
-        <id>46487_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/phil-spencer-adquisiciones-estudios-miope"/>
-        <updated>2021-06-30T15:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Phil Spencer, jefe de Xbox, ha hablado durante una entrevista concedida a IGN de un tema candente en la industria del videojuego: la compra de estudios. El directivo considera que adquirir equipos de desarrollo es “una parte natural y saludable” dentro del negocio, pero dice entender a aquellos jugadores preocupados por si esto es bueno o malo. Spencer se muestra menos comprensivo con los usuarios que critican sin conocimiento a un estudio pequeño por aceptar una oferta de compra, un comportamiento que considera miope. “En ocasiones existe un diálogo en la industria sobre si las… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La saga Persona supera los 15 millones de unidades vendidas]]></title>
-        <id>46486_v1</id>
-        <link href="https://www.elotrolado.net/noticias/juegos/persona-millones-copias-vendidas"/>
-        <updated>2021-06-30T14:07:25.000Z</updated>
-        <summary type="html"><![CDATA[La presentación de los últimos resultados financieros de Atlus nos ha permitido saber que la franquicia Persona ha logrado superar la simbólica cifra de los 15 millones de unidades vendidas entre todas sus entregas. Después de 25 años de existencia esta cifra podría parecer menor, pero hay que tener en cuenta que Persona es un spin-off de Shin Megami Tensei y una saga de nicho que no siempre lo ha tenido fácil para llegar a Occidente. Atlus no ha detallado cuántas unidades ha vendido cada uno de los más de 20 juegos que componen la saga Persona entre entregas principales, remakes,… Leer noticia completa y comentarios »]]></summary>
-        <author>
-            <name>ElOtroLado.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breve: Sky: Children of the Light ya disponible para Nintendo Switch]]></title>
-        <id>46485_v1</id>
-        <link href="https://www.elotrolado.net/hilo_sky-children-of-the-light-ya-disponible-para-nintendo-switch_2427614"/>
-        <updated>2021-06-30T10:33:38.000Z</updated>
-        <summary type="html"><![CDATA[thatgamecompany, el estudio responsable de Journey y Flower, ha anunciado que Sky: Children of the Light ya está disponible para Nintendo Switch en Europa. El juego se ofrece de forma gratuita con un arco argumental y un modo multijugador con juego cruzado en el que ocho jugadores pueden explorar y jugar juntos. Los jugadores de Nintendo Switch también pueden adquirir un nuevo Starter Pack que incluye dos nuevas capas, una flauta ocarina, cabello de elfo, 75 velas y “una sorpresa extra” por 32,99 euros. Los jugadores de Sky: Children of the Light en iOS y Android pueden utilizar su… Leer noticia completa y comentarios »]]></summary>
         <author>
             <name>ElOtroLado.net</name>
         </author>
